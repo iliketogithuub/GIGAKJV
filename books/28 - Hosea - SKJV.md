@@ -386,9 +386,9 @@
 
 8 I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast will tear them.
 
-9 O Israel, you have destroyed thyself; but in me is your help.
+9 O Israel, you have destroyed yourself; but in me is your help.
 
-10 I will be your king: where is any other that may save you in all your cities? and your judges of whom you saidst, Give me a king and princes?
+10 I will be your king: where is any other that may save you in all your cities? and your judges of whom you said, Give me a king and princes?
 
 11 I gave you a king in mine anger, and took him away in my wrath.
 

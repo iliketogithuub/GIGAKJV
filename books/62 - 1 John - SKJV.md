@@ -4,7 +4,7 @@
 
 1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 
-2 (For the life was revealed, and we have seen it, and bear witness, and show to you that eternal life, which was with the Father, and was revealed to us;)
+2 (For the life was manifested, and we have seen it, and bear witness, and show to you that eternal life, which was with the Father, and was manifested to us;)
 
 3 That which we have seen and heard declare we to you, that you also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 
@@ -60,7 +60,7 @@
 
 18 Little children, it is the last time: and as you have heard that antichrist will come, even now are there many antichrists; whereby we know that it is the last time.
 
-19 They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made revealed that they were not all of us.
+19 They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
 20 But you have an unction from the Holy One, and you know all things.
 
@@ -92,17 +92,17 @@
 
 4 Whosoever commits sin transgresses also the law: for sin is the sin of the law.
 
-5 And you know that he was revealed to take away our sins; and in him is no sin.
+5 And you know that he was manifested to take away our sins; and in him is no sin.
 
 6 Whosoever abides in him sins not: whosoever sins has not seen him, neither known him.
 
 7 Little children, let no man deceive you: he that does righteousness is righteous, even as he is righteous.
 
-8 He that commits sin is of the devil; for the devil sins from the beginning. For this purpose the Son of God was revealed, that he might destroy the works of the devil.
+8 He that commits sin is of the devil; for the devil sins from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
 
 9 Whosoever is born of God does not commit sin; for his seed remains in him: and he cannot sin, because he is born of God.
 
-10 In this the children of God are revealed, and the children of the devil: whosoever does not righteousness is not of God, neither he that loves not his brother.
+10 In this the children of God are manifest, and the children of the devil: whosoever does not righteousness is not of God, neither he that loves not his brother.
 
 11 For this is the message that you heard from the beginning, that we should love one another.
 
@@ -150,7 +150,7 @@
 
 8 He that loves not knows not God; for God is love.
 
-9 In this was revealed the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
+9 In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
 
 10 In this is love, not that we loved God, but that he loved us, and sent his Son to be the atoning sacrifice for our sins.
 

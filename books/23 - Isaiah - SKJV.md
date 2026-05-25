@@ -516,7 +516,7 @@
 
 ## Isaiah Chapter 12
 
-1 And in that day you will say, O Lord, I will praise you: though you wast angry with me, your anger is turned away, and you comfortedst me.
+1 And in that day you will say, O Lord, I will praise you: though you were angry with me, your anger is turned away, and you comforted me.
 
 2 Look, God is my salvation; I will trust, and not be afraid: for the Lord Jehovah is my strength and my song; he also is become my salvation.
 
@@ -580,7 +580,7 @@
 
 2 And the people will take them, and bring them to their place: and the house of Israel will possess them in the land of the Lord for servants and female servants: and they will take them captives, whose captives they were; and they will rule over their oppressors.
 
-3 And it will come to pass in the day that the Lord will give you rest from your sorrow, and from your fear, and from the hard bondage in which you wast made to serve,
+3 And it will come to pass in the day that the Lord will give you rest from your sorrow, and from your fear, and from the hard bondage in which you were made to serve,
 
 4 That you will take up this proverb against the king of Babylon, and say, How has the oppressor ceased! the golden city ceased!
 
@@ -1042,7 +1042,7 @@
 
 19 your dead men will live, together with my dead body will they arise. Awake and sing, you that dwell in dust: for your dew is as the dew of herbs, and the earth will cast out the dead.
 
-20 Come, my people, enter you into your chambers, and shut your doors about you: hide thyself as it were for a little moment, until the indignation be overpast.
+20 Come, my people, enter you into your chambers, and shut your doors about you: hide yourself as it were for a little moment, until the indignation be overpast.
 
 21 For, look, the Lord comes out of his place to punish the inhabitants of the earth for their wickedness: the earth also will disclose her blood, and will no more cover her slain.
 
@@ -1316,11 +1316,11 @@
 
 ## Isaiah Chapter 33
 
-1 Woe to you that spoil, and you wast not spoiled; and deal treacherously, and they dealt not treacherously with you! when you will cease to spoil, you will be spoiled; and when you will make an end to deal treacherously, they will deal treacherously with you.
+1 Woe to you that spoil, and you were not spoiled; and deal treacherously, and they dealt not treacherously with you! when you will cease to spoil, you will be spoiled; and when you will make an end to deal treacherously, they will deal treacherously with you.
 
 2 O Lord, be gracious to us; we have waited for you: be you their arm every morning, our salvation also in the time of trouble.
 
-3 At the noise of the uproar the people fled; at the lifting up of thyself the nations were scattered.
+3 At the noise of the uproar the people fled; at the lifting up of yourself the nations were scattered.
 
 4 And your spoil will be gathered like the gathering of the caterpiller: as the running to and fro of locusts will he run upon them.
 
@@ -1794,7 +1794,7 @@
 
 3 For I am the Lord your God, the Holy One of Israel, your Saviour: I gave Egypt for your ransom, Ethiopia and Seba for you.
 
-4 Since you wast precious in my sight, you have been honourable, and I have loved you: therefore will I give men for you, and people for your life.
+4 Since you were precious in my sight, you have been honourable, and I have loved you: therefore will I give men for you, and people for your life.
 
 5 Fear not: for I am with you: I will bring your seed from the east, and gather you from the west;
 
@@ -1932,7 +1932,7 @@
 
 14 Thus says the Lord, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, will come over to you, and they will be your: they will come after you; in chains they will come over, and they will fall down to you, they will make prayer to you, saying, Surely God is in you; and there is none else, there is no God.
 
-15 Truly you are a God that hid thyself, O God of Israel, the Saviour.
+15 Truly you are a God that hid yourself, O God of Israel, the Saviour.
 
 16 They will be ashamed, and also confounded, all of them: they will go to confusion together that are makers of idols.
 
@@ -1996,7 +1996,7 @@
 
 6 I was furious with my people, I have polluted mine inheritance, and given them into your hand: you did show them no mercy; upon the ancient have you very heavily laid your yoke.
 
-7 And you saidst, I will be a lady for ever: so that you did not lay these things to your heart, neither did remember the latter end of it.
+7 And you said, I will be a lady for ever: so that you did not lay these things to your heart, neither did remember the latter end of it.
 
 8 Therefore hear now this, you that are given to pleasures, that dwell carelessly, that say in your heart, I am, and none else beside me; I will not sit as a widow, neither will I know the looses of children:
 
@@ -2030,7 +2030,7 @@
 
 7 They are created now, and not from the beginning; even before the day when you heard them not; otherwise you should say, Look, I knew them.
 
-8 Yea, you heard not; yea, you knew not; yea, from that time that your ear was not opened: for I knew that you would deal very treacherously, and wast called a transgressor from the womb.
+8 Yea, you heard not; yea, you knew not; yea, from that time that your ear was not opened: for I knew that you would deal very treacherously, and were called a transgressor from the womb.
 
 9 For my name's sake will I defer mine anger, and for my praise will I refrain for you, that I cut you not off.
 
@@ -2190,7 +2190,7 @@
 
 1 Awake, awake; put on your strength, O Zion; put on your beautiful garments, O Jerusalem, the holy city: for from now on there will no more come into you the uncircumcised and the unclean.
 
-2 Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of your neck, O captive daughter of Zion.
+2 Shake yourself from the dust; arise, and sit down, O Jerusalem: loose yourself from the bands of your neck, O captive daughter of Zion.
 
 3 For thus says the Lord, you have sold yourselves for nothing; and you will be redeemed without money.
 
@@ -2258,7 +2258,7 @@
 
 5 For your Maker is your husband; the Lord of hosts is his name; and your Redeemer the Holy One of Israel; The God of the whole earth will he be called.
 
-6 For the Lord has called you as a woman forsaken and grieved in spirit, and a wife of youth, when you wast refused, says your God.
+6 For the Lord has called you as a woman forsaken and grieved in spirit, and a wife of youth, when you were refused, says your God.
 
 7 For a small moment have I forsaken you; but with great mercies will I gather you.
 
@@ -2352,11 +2352,11 @@
 
 7 Upon a lofty and high mountain have you set your bed: even there went you up to offer sacrifice.
 
-8 Behind the doors also and the posts have you set up your remembrance: for you have discovered thyself to another than me, and are gone up; you have enlarged your bed, and made you a covenant with them; you lovedst their bed where you saw it.
+8 Behind the doors also and the posts have you set up your remembrance: for you have discovered yourself to another than me, and are gone up; you have enlarged your bed, and made you a covenant with them; you loved their bed where you saw it.
 
-9 And you went to the king with ointment, and did increase your perfumes, and did send your messengers far off, and did debase thyself even to hell.
+9 And you went to the king with ointment, and did increase your perfumes, and did send your messengers far off, and did debase yourself even to hell.
 
-10 you are wearied in the greatness of your way; yet saidst you not, There is no hope: you have found the life of your hand; therefore you wast not grieved.
+10 you are wearied in the greatness of your way; yet said you not, There is no hope: you have found the life of your hand; therefore you were not grieved.
 
 11 And of whom have you been afraid or feared, that you have lied, and have not remembered me, nor laid it to your heart? have not I held my peace even of old, and you fear me not?
 
@@ -2394,7 +2394,7 @@
 
 6 Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that you break every yoke?
 
-7 Is it not to deal your bread to the hungry, and that you bring the poor that are cast out to your house? when you se the naked, that you cover him; and that you hide not thyself from your own flesh?
+7 Is it not to deal your bread to the hungry, and that you bring the poor that are cast out to your house? when you se the naked, that you cover him; and that you hide not yourself from your own flesh?
 
 8 Then will your light break forth as the morning, and your health will spring forth speedily: and your righteousness will go before you; the glory of the Lord will be your reward.
 
@@ -2408,7 +2408,7 @@
 
 13 If you turn away your foot from the sabbath, from doing your pleasure on my holy day; and call the sabbath a delight, the holy of the Lord, honourable; and will honour him, not doing your own ways, nor finding your own pleasure, nor speaking your own words:
 
-14 Then will you delight thyself in the Lord; and I will cause you to ride upon the high places of the earth, and feed you with the heritage of Jacob your father: for the mouth of the Lord has spoken it.
+14 Then will you delight yourself in the Lord; and I will cause you to ride upon the high places of the earth, and feed you with the heritage of Jacob your father: for the mouth of the Lord has spoken it.
 
 ## Isaiah Chapter 59
 
@@ -2578,7 +2578,7 @@
 
 13 That led them through the deep, as an horse in the wilderness, that they should not stumble?
 
-14 As a beast goes down into the valley, the Holy Spirit of the Lord caused him to rest: so did you lead your people, to make thyself a glorious name.
+14 As a beast goes down into the valley, the Holy Spirit of the Lord caused him to rest: so did you lead your people, to make yourself a glorious name.
 
 15 Look down from heaven, and look from the habitation of your holiness and of your glory: where is your zeal and your strength, the sounding of your deep affection and of your mercies toward me? are they restrained?
 
@@ -2614,7 +2614,7 @@
 
 11 Our holy and our beautiful house, where our fathers praised you, is burned up with fire: and all our pleasant things are laid waste.
 
-12 will you refrain thyself for these things, O Lord? will you hold your peace, and afflict us very sore?
+12 will you refrain yourself for these things, O Lord? will you hold your peace, and afflict us very sore?
 
 ## Isaiah Chapter 65
 
@@ -2626,7 +2626,7 @@
 
 4 Which remain among the graves, and lodge in the monuments, which eat swine's flesh, and broth of abominable things is in their vessels;
 
-5 Which say, Stand by thyself, come not near to me; for I am holier than you. These are a smoke in my nose, a fire that burns all the day.
+5 Which say, Stand by yourself, come not near to me; for I am holier than you. These are a smoke in my nose, a fire that burns all the day.
 
 6 Look, it is written before me: I will not keep silence, but will repay, even repay into their bosom,
 

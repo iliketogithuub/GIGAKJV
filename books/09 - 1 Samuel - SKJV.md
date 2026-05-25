@@ -142,7 +142,7 @@
 
 4 That the Lord called Samuel: and he answered, Here am I.
 
-5 And he ran to Eli, and said, Here am I; for you calledst me. And he said, I called not; lie down again. And he went and lay down.
+5 And he ran to Eli, and said, Here am I; for you called me. And he said, I called not; lie down again. And he went and lay down.
 
 6 And the Lord called yet again, Samuel. And Samuel arose and went to Eli, and said, Here am I; for you did call me. And he answered, I called not, my son; lie down again.
 
@@ -758,7 +758,7 @@
 
 16 Then Samuel said to Saul, Stay, and I will tell you what the Lord has said to me this night. And he said to him, Say on.
 
-17 And Samuel said, When you wast little in your own sight, wast you not made the head of the tribes of Israel, and the Lord anointed you king over Israel?
+17 And Samuel said, When you were little in your own sight, were you not made the head of the tribes of Israel, and the Lord anointed you king over Israel?
 
 18 And the Lord sent you on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.
 
@@ -1028,7 +1028,7 @@
 
 1 And Saul spoke to Jonathan his son, and to all his servants, that they should kill David.
 
-2 But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeks to kill you: now therefore, I pray you, take heed to thyself until the morning, and abide in a secret place, and hide thyself:
+2 But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeks to kill you: now therefore, I pray you, take heed to yourself until the morning, and abide in a secret place, and hide yourself:
 
 3 And I will go out and stand beside my father in the field where you are, and I will commune with my father of you; and what I see, that I will tell you.
 
@@ -1090,7 +1090,7 @@
 
 7 If he say thus, It is well; your servant will have peace: but if he be very furious, then be sure that evil is determined by him.
 
-8 Therefore you will deal kindly with your servant; for you have brought your servant into a covenant of the Lord with you: nevertheless, if there be in me wickedness, slay me thyself; for why should you bring me to your father?
+8 Therefore you will deal kindly with your servant; for you have brought your servant into a covenant of the Lord with you: nevertheless, if there be in me wickedness, slay me yourself; for why should you bring me to your father?
 
 9 And Jonathan said, Far be it from you: for if I knew certainly that evil were determined by my father to come upon you, then would not I tell it you?
 
@@ -1112,7 +1112,7 @@
 
 18 Then Jonathan said to David, To morrow is the new moon: and you will be missed, because your seat will be empty.
 
-19 And when you have stayed three days, then you will go down quickly, and come to the place where you did hide thyself when the business was in hand, and will remain by the stone Ezel.
+19 And when you have stayed three days, then you will go down quickly, and come to the place where you did hide yourself when the business was in hand, and will remain by the stone Ezel.
 
 20 And I will shoot three arrows on the side of it, as though I shot at a mark.
 
@@ -1336,7 +1336,7 @@
 
 17 And he said to David, you are more righteous than I: for you have rewarded me good, whereas I have rewarded you evil.
 
-18 And you have showed this day how that you have dealt well with me: since as when the Lord had delivered me into your hand, you killedst me not.
+18 And you have showed this day how that you have dealt well with me: since as when the Lord had delivered me into your hand, you killed me not.
 
 19 For if a man find his enemy, will he let him go well away? therefore the Lord reward you good for that you have done to me this day.
 
@@ -1398,7 +1398,7 @@
 
 25 Let not my lord, I pray you, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I your female servant saw not the young men of my lord, whom you did send.
 
-26 Now therefore, my lord, as the Lord lives, and as your soul lives, seeing the Lord has withholden you from coming to shed blood, and from avenging thyself with your own hand, now let your enemies, and they that seek evil to my lord, be as Nabal.
+26 Now therefore, my lord, as the Lord lives, and as your soul lives, seeing the Lord has withholden you from coming to shed blood, and from avenging yourself with your own hand, now let your enemies, and they that seek evil to my lord, be as Nabal.
 
 27 And now this blessing which your female servant has brought to my lord, let it even be given to the young men that follow my lord.
 
@@ -1550,7 +1550,7 @@
 
 17 And the Lord has done to him, as he spoke by me: for the Lord has rent the kingdom out of your hand, and given it to your neighbour, even to David:
 
-18 Because you obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek, therefore has the Lord done this thing to you this day.
+18 Because you obeyed not the voice of the Lord, nor executed his fierce wrath upon Amalek, therefore has the Lord done this thing to you this day.
 
 19 Moreover the Lord will also deliver Israel with you into the hand of the Philistines: and to morrow will you and your sons be with me: the Lord also will deliver the host of Israel into the hand of the Philistines.
 

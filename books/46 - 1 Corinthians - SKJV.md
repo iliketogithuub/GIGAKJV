@@ -124,7 +124,7 @@
 
 12 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
 
-13 Every man's work will be made revealed: for the day will declare it, because it will be revealed by fire; and the fire will try every man's work of what sort it is.
+13 Every man's work will be made manifest: for the day will declare it, because it will be revealed by fire; and the fire will try every man's work of what sort it is.
 
 14 If any man's work abide which he has built thereupon, he will receive a reward.
 
@@ -156,7 +156,7 @@
 
 4 For I know nothing by myself; yet am I not hereby justified: but he that judges me is the Lord.
 
-5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make revealed the counsels of the hearts: and then will every man have praise of God.
+5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then will every man have praise of God.
 
 6 And these things, brothers, I have in a figure transferred to myself and to Apollos for your sakes; that you might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
 
@@ -532,7 +532,7 @@
 
 18 For first of all, when you come together in the church, I hear that there be divisions among you; and I partly believe it.
 
-19 For there must be also heresies among you, that they which are approved may be made revealed among you.
+19 For there must be also heresies among you, that they which are approved may be made manifest among you.
 
 20 When you come together therefore into one place, this is not to eat the Lord's supper.
 
@@ -578,7 +578,7 @@
 
 6 And there are diversities of operations, but it is the same God which works all in all.
 
-7 But the revelation of the Holy Spirit is given to every man to profit also.
+7 But the manifestation of the Holy Spirit is given to every man to profit also.
 
 8 For to one is given by the Holy Spirit the word of wisdom; to another the word of knowledge by the same Holy Spirit;
 
@@ -706,7 +706,7 @@
 
 24 But if all prophesy, and there come in one that believes not, or one unlearned, he is convinced of all, he is judged of all:
 
-25 And thus are the secrets of his heart made revealed; and so falling down on his face he will worship God, and report that God is in you of a truth.
+25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
 
 26 How is it then, brothers? when you come together, every one of you has a psalm, has a doctrine, has a tongue, has a revelation, has an interpretation. Let all things be done to building up.
 
@@ -792,7 +792,7 @@
 
 26 The last enemy that will be destroyed is death.
 
-27 For he has put all things under his feet. But when he says all things are put under him, it is revealed that he is excepted, which did put all things under him.
+27 For he has put all things under his feet. But when he says all things are put under him, it is manifest that he is excepted, which did put all things under him.
 
 28 And when all things will be subdued to him, then will the Son also himself be subject to him that put all things under him, that God may be all in all.
 

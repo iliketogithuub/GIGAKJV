@@ -248,7 +248,7 @@
 
 8 And what nation is there so great, that has statutes and judgments so righteous as all this law, which I set before you this day?
 
-9 Only take heed to thyself, and keep your soul diligently, otherwise you forget the things which your eyes have seen, and otherwise they depart from your heart all the days of your life: but teach them your sons, and your sons' sons;
+9 Only take heed to yourself, and keep your soul diligently, otherwise you forget the things which your eyes have seen, and otherwise they depart from your heart all the days of your life: but teach them your sons, and your sons' sons;
 
 10 Specially the day that you stood before the Lord your God in Horeb, when the Lord said to me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they will live upon the earth, and that they may teach their children.
 
@@ -348,7 +348,7 @@
 
 8 you will not make you any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:
 
-9 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the wickedness of the fathers upon the children to the third and fourth generation of them that hate me,
+9 you will not bow down yourself to them, nor serve them: for I the Lord your God am a jealous God, visiting the wickedness of the fathers upon the children to the third and fourth generation of them that hate me,
 
 10 And showing mercy to thousands of them that love me and keep my commandments.
 
@@ -360,7 +360,7 @@
 
 14 But the seventh day is the sabbath of the Lord your God: in it you will not do any work, you, nor your son, nor your daughter, nor your manservant, nor your maidservant, nor your ox, nor your ass, nor any of your cattle, nor your stranger that is within your gates; that your manservant and your maidservant may rest as well as you.
 
-15 And remember that you wast a servant in the land of Egypt, and that the Lord your God brought you out from there through a mighty hand and by a stretched out arm: therefore the Lord your God commanded you to keep the sabbath day.
+15 And remember that you were a servant in the land of Egypt, and that the Lord your God brought you out from there through a mighty hand and by a stretched out arm: therefore the Lord your God commanded you to keep the sabbath day.
 
 16 Honour your father and your mother, as the Lord your God has commanded you; that your days may be prolonged, and that it may go well with you, in the land which the Lord your God gives you.
 
@@ -418,9 +418,9 @@
 
 9 And you will write them upon the posts of your house, and on your gates.
 
-10 And it will be, when the Lord your God will have brought you into the land which he sware to your fathers, to Abraham, to Isaac, and to Jacob, to give you great and goodly cities, which you buildedst not,
+10 And it will be, when the Lord your God will have brought you into the land which he sware to your fathers, to Abraham, to Isaac, and to Jacob, to give you great and goodly cities, which you builded not,
 
-11 And houses full of all good things, which you filledst not, and wells digged, which you diggedst not, vineyards and olive trees, which you plantedst not; when you will have eaten and be full;
+11 And houses full of all good things, which you filled not, and wells digged, which you digged not, vineyards and olive trees, which you planted not; when you will have eaten and be full;
 
 12 Then beware otherwise you forget the Lord, which brought you forth out of the land of Egypt, from the house of bondage.
 
@@ -548,7 +548,7 @@
 
 ## Deuteronomy Chapter 9
 
-1 Hear, O Israel: you are to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
+1 Hear, O Israel: you are to pass over Jordan this day, to go in to possess nations greater and mightier than yourself, cities great and fenced up to heaven,
 
 2 A people great and tall, the children of the Anakims, whom you know, and of whom you have heard say, Who can stand before the children of Anak!
 
@@ -560,7 +560,7 @@
 
 6 Understand therefore, that the Lord your God gives you not this good land to possess it for your righteousness; for you are a stiffnecked people.
 
-7 Remember, and forget not, how you provokedst the Lord your God to wrath in the wilderness: from the day that you did depart out of the land of Egypt, until you came to this place, you have been rebellious against the Lord.
+7 Remember, and forget not, how you provoked the Lord your God to wrath in the wilderness: from the day that you did depart out of the land of Egypt, until you came to this place, you have been rebellious against the Lord.
 
 8 Also in Horeb you angered the Lord to wrath, so that the Lord was angry with you to have destroyed you.
 
@@ -672,7 +672,7 @@
 
 9 And that you may prolong your days in the land, which the Lord sware to your fathers to give to them and to their seed, a land that flows with milk and honey.
 
-10 For the land, where you go in to possess it, is not as the land of Egypt, from from where you came out, where you sowedst your seed, and wateredst it with your foot, as a garden of herbs:
+10 For the land, where you go in to possess it, is not as the land of Egypt, from from where you came out, where you sowed your seed, and watered it with your foot, as a garden of herbs:
 
 11 But the land, where you go to possess it, is a land of hills and valleys, and drinks water of the rain of heaven:
 
@@ -744,7 +744,7 @@
 
 12 And you will rejoice before the Lord your God, you, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; since as he has no part nor inheritance with you.
 
-13 Take heed to thyself that you offer not your burnt offerings in every place that you se:
+13 Take heed to yourself that you offer not your burnt offerings in every place that you se:
 
 14 But in the place which the Lord will choose in one of your tribes, there you will offer your burnt offerings, and there you will do all that I command you.
 
@@ -756,7 +756,7 @@
 
 18 But you must eat them before the Lord your God in the place which the Lord your God will choose, you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite that is within your gates: and you will rejoice before the Lord your God in all that you putt your hands to.
 
-19 Take heed to thyself that you forsake not the Levite as long as you liv upon the earth.
+19 Take heed to yourself that you forsake not the Levite as long as you liv upon the earth.
 
 20 When the Lord your God will enlarge your border, as he has promised you, and you will say, I will eat flesh, because your soul longs to eat flesh; you may eat flesh, whatsoever your soul lusts after.
 
@@ -778,7 +778,7 @@
 
 29 When the Lord your God will cut off the nations from before you, where you go to possess them, and you succeed them, and dwell in their land;
 
-30 Take heed to thyself that you be not snared by following them, after that they be destroyed from before you; and that you enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.
+30 Take heed to yourself that you be not snared by following them, after that they be destroyed from before you; and that you enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.
 
 31 you will not do so to the Lord your God: for every abomination to the Lord, which he hates, have they done to their gods; for even their sons and their daughters they have burnt in the fire to their gods.
 
@@ -912,7 +912,7 @@
 
 14 you will furnish him liberally out of your flock, and out of your floor, and out of your winepress: of that with what the Lord your God has blessed you you will give to him.
 
-15 And you will remember that you wast a slave in the land of Egypt, and the Lord your God redeemed you: therefore I command you this thing to day.
+15 And you will remember that you were a slave in the land of Egypt, and the Lord your God redeemed you: therefore I command you this thing to day.
 
 16 And it will be, if he say to you, I will not go away from you; because he loves you and your house, because he is well with you;
 
@@ -938,7 +938,7 @@
 
 3 you will eat no leavened bread with it; seven days will you eat unleavened bread with it, even the bread of affliction; for you cam forth out of the land of Egypt in haste: that you may remember the day when you cam forth out of the land of Egypt all the days of your life.
 
-4 And there will be no leavened bread seen with you in all your coast seven days; neither will there any thing of the flesh, which you sacrificedst the first day at even, remain all night until the morning.
+4 And there will be no leavened bread seen with you in all your coast seven days; neither will there any thing of the flesh, which you sacrificed the first day at even, remain all night until the morning.
 
 5 you may not sacrifice the passover within any of your gates, which the Lord your God gives you:
 
@@ -954,7 +954,7 @@
 
 11 And you will rejoice before the Lord your God, you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite that is within your gates, and the stranger, and the fatherless, and the widow, that are among you, in the place which the Lord your God has chosen to place his name there.
 
-12 And you will remember that you wast a slave in Egypt: and you will observe and do these statutes.
+12 And you will remember that you were a slave in Egypt: and you will observe and do these statutes.
 
 13 you will observe the feast of tabernacles seven days, after that you have gathered in your corn and your wine:
 
@@ -1050,7 +1050,7 @@
 
 15 The Lord your God will raise up to you a Prophet from the midst of you, of your brothers, like to me; to him you will listen;
 
-16 According to all that you desiredst of the Lord your God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the Lord my God, neither let me see this great fire any more, that I die not.
+16 According to all that you desired of the Lord your God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the Lord my God, neither let me see this great fire any more, that I die not.
 
 17 And the Lord said to me, They have well spoken that which they have spoken.
 
@@ -1136,7 +1136,7 @@
 
 13 And when the Lord your God has delivered it into your hands, you will smite every male of it with the edge of the sword:
 
-14 But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil of it, will you take to thyself; and you will eat the spoil of your enemies, which the Lord your God has given you.
+14 But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil of it, will you take to yourself; and you will eat the spoil of your enemies, which the Lord your God has given you.
 
 15 Thus will you do to all the cities which are very far off from you, which are not of the cities of these nations.
 
@@ -1200,13 +1200,13 @@
 
 ## Deuteronomy Chapter 22
 
-1 you will not see your brother's ox or his sheep go astray, and hide thyself from them: you will in any case bring them again to your brother.
+1 you will not see your brother's ox or his sheep go astray, and hide yourself from them: you will in any case bring them again to your brother.
 
 2 And if your brother be not near to you, or if you know him not, then you will bring it to your own house, and it will be with you until your brother seek after it, and you will restore it to him again.
 
-3 In like manner will you do with his ass; and so will you do with his clothing; and with all lost thing of your brother's, which he has lost, and you have found, will you do likewise: you may not hide thyself.
+3 In like manner will you do with his ass; and so will you do with his clothing; and with all lost thing of your brother's, which he has lost, and you have found, will you do likewise: you may not hide yourself.
 
-4 you will not see your brother's ass or his ox fall down by the way, and hide thyself from them: you will surely help him to lift them up again.
+4 you will not see your brother's ass or his ox fall down by the way, and hide yourself from them: you will surely help him to lift them up again.
 
 5 The woman will not wear that which pertains to a man, neither will a man put on a woman's garment: for all that do so are abomination to the Lord your God.
 
@@ -1222,7 +1222,7 @@
 
 11 you will not wear a garment of various sorts, as of woollen and linen together.
 
-12 you will make you fringes upon the four quarters of your robe, with what you cover thyself.
+12 you will make you fringes upon the four quarters of your robe, with what you cover yourself.
 
 13 If any man take a wife, and go in to her, and hate her,
 
@@ -1274,7 +1274,7 @@
 
 6 you will not seek their peace nor their prosperity all your days for ever.
 
-7 you will not despise an Edomite; for he is your brother: you will not despise an Egyptian; because you wast a stranger in his land.
+7 you will not despise an Edomite; for he is your brother: you will not despise an Egyptian; because you were a stranger in his land.
 
 8 The children that are begotten of them will enter into the congregation of the Lord in their third generation.
 
@@ -1286,7 +1286,7 @@
 
 12 you will have a place also without the camp, where you will go forth abroad:
 
-13 And you will have a paddle upon your weapon; and it will be, when you will ease thyself abroad, you will dig with it, and will turn back and cover that which comes from you:
+13 And you will have a paddle upon your weapon; and it will be, when you will ease yourself abroad, you will dig with it, and will turn back and cover that which comes from you:
 
 14 For the Lord your God walks in the midst of your camp, to deliver you, and to give up your enemies before you; therefore will your camp be holy: that he see no unclean thing in you, and turn away from you.
 
@@ -1348,7 +1348,7 @@
 
 17 you will not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's clothing to pledge:
 
-18 But you will remember that you wast a slave in Egypt, and the Lord your God redeemed you from there: therefore I command you to do this thing.
+18 But you will remember that you were a slave in Egypt, and the Lord your God redeemed you from there: therefore I command you to do this thing.
 
 19 When you cutt down your harvest in your field, and have forgot a sheaf in the field, you will not go again to fetch it: it will be for the stranger, for the fatherless, and for the widow: that the Lord your God may bless you in all the work of your hands.
 
@@ -1356,7 +1356,7 @@
 
 21 When you gather the grapes of your vineyard, you will not glean it afterward: it will be for the stranger, for the fatherless, and for the widow.
 
-22 And you will remember that you wast a slave in the land of Egypt: therefore I command you to do this thing.
+22 And you will remember that you were a slave in the land of Egypt: therefore I command you to do this thing.
 
 ## Deuteronomy Chapter 25
 
@@ -1394,7 +1394,7 @@
 
 17 Remember what Amalek did to you by the way, when you were come forth out of Egypt;
 
-18 How he met you by the way, and struck the hindmost of you, even all that were feeble behind you, when you wast faint and weary; and he feared not God.
+18 How he met you by the way, and struck the hindmost of you, even all that were feeble behind you, when you were faint and weary; and he feared not God.
 
 19 Therefore it will be, when the Lord your God has given you rest from all your enemies round about, in the land which the Lord your God gives you for an inheritance to possess it, that you will blot out the remembrance of Amalek from under heaven; you will not forget it.
 
@@ -1572,7 +1572,7 @@
 
 39 you will plant vineyards, and dress them, but will neither drink of the wine, nor gather the grapes; for the worms will eat them.
 
-40 you will have olive trees throughout all your coasts, but you will not anoint thyself with the oil; for your olive will cast his fruit.
+40 you will have olive trees throughout all your coasts, but you will not anoint yourself with the oil; for your olive will cast his fruit.
 
 41 you will beget sons and daughters, but you will not enjoy them; for they will go into captivity.
 
@@ -1582,11 +1582,11 @@
 
 44 He will lend to you, and you will not lend to him: he will be the head, and you will be the tail.
 
-45 Moreover all these curses will come upon you, and will pursue you, and overtake you, till you be destroyed; because you hearkenedst not to the voice of the Lord your God, to keep his commandments and his statutes which he commanded you:
+45 Moreover all these curses will come upon you, and will pursue you, and overtake you, till you be destroyed; because you hearkened not to the voice of the Lord your God, to keep his commandments and his statutes which he commanded you:
 
 46 And they will be upon you for a sign and for a wonder, and upon your seed for ever.
 
-47 Because you servedst not the Lord your God with joyfulness, and with gladness of heart, for the abundance of all things;
+47 Because you served not the Lord your God with joyfulness, and with gladness of heart, for the abundance of all things;
 
 48 Therefore will you serve your enemies which the Lord will send against you, in hunger, and in thirst, and in nakedness, and in want of all things: and he will put a yoke of iron upon your neck, until he have destroyed you.
 
@@ -1596,7 +1596,7 @@
 
 51 And he will eat the fruit of your cattle, and the fruit of your land, until you be destroyed: which also will not leave you either corn, wine, or oil, or the increase of your kine, or flocks of your sheep, until he have destroyed you.
 
-52 And he will besiege you in all your gates, until your high and fenced walls come down, in which you trustedst, throughout all your land: and he will besiege you in all your gates throughout all your land, which the Lord your God has given you.
+52 And he will besiege you in all your gates, until your high and fenced walls come down, in which you trusted, throughout all your land: and he will besiege you in all your gates throughout all your land, which the Lord your God has given you.
 
 53 And you will eat the fruit of your own body, the flesh of your sons and of your daughters, which the Lord your God has given you, in the siege, and in the straitness, with what your enemies will distress you:
 
@@ -1612,7 +1612,7 @@
 
 59 Then the Lord will make your plagues wonderful, and the plagues of your seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance.
 
-60 Moreover he will bring upon you all the diseases of Egypt, which you wast afraid of; and they will cleave to you.
+60 Moreover he will bring upon you all the diseases of Egypt, which you were afraid of; and they will cleave to you.
 
 61 Also every sickness, and every plague, which is not written in the book of this law, them will the Lord bring upon you, until you be destroyed.
 

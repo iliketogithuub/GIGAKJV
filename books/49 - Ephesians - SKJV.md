@@ -230,7 +230,7 @@
 
 12 For it is a shame even to speak of those things which are done of them in secret.
 
-13 But all things that are corrected are made revealed by the light: for whatsoever does make revealed is light.
+13 But all things that are corrected are made manifest by the light: for whatsoever does make manifest is light.
 
 14 therefore he says, Awake you that sleep, and arise from the dead, and Christ will give you light.
 

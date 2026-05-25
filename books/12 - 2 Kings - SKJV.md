@@ -1304,7 +1304,7 @@
 
 18 But to the king of Judah which sent you to enquire of the Lord, thus will you say to him, Thus says the Lord God of Israel, As touching the words which you have heard;
 
-19 Because your heart was tender, and you have humbled thyself before the Lord, when you heard what I spoke against this place, and against the inhabitants of it, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, says the Lord.
+19 Because your heart was tender, and you have humbled yourself before the Lord, when you heard what I spoke against this place, and against the inhabitants of it, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, says the Lord.
 
 20 Look therefore, I will gather you to your fathers, and you will be gathered into your grave in peace; and your eyes will not see all the evil which I will bring upon this place. And they brought the king word again.
 

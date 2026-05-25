@@ -446,7 +446,7 @@
 
 6 And Moses said, This is the thing which the Lord commanded that you should do: and the glory of the Lord will appear to you.
 
-7 And Moses said to Aaron, Go to the altar, and offer your sin offering, and your burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the Lord commanded.
+7 And Moses said to Aaron, Go to the altar, and offer your sin offering, and your burnt offering, and make an atonement for yourself, and for the people: and offer the offering of the people, and make an atonement for them; as the Lord commanded.
 
 8 Aaron therefore went to the altar, and killed the calf of the sin offering, which was for himself.
 
@@ -1086,13 +1086,13 @@
 
 19 Also you will not approach to a woman to uncover her nakedness, as long as she is put apart for her uncleanness.
 
-20 Moreover you will not lie carnally with your neighbour's wife, to defile thyself with her.
+20 Moreover you will not lie carnally with your neighbour's wife, to defile yourself with her.
 
 21 And you will not let any of your seed pass through the fire to Molech, neither will you defile the name of your God: I am the Lord.
 
 22 you will not lie with mankind, as with womankind: it is abomination.
 
-23 Neither will you lie with any beast to defile thyself with it: neither will any woman stand before a beast to lie down to it: it is confusion.
+23 Neither will you lie with any beast to defile yourself with it: neither will any woman stand before a beast to lie down to it: it is confusion.
 
 24 Defile not you yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
 
@@ -1144,7 +1144,7 @@
 
 17 you will not hate your brother in your heart: you will in any wise rebuke your neighbour, and not suffer sin upon him.
 
-18 you will not bring justice, nor bear any grudge against the children of your people, but you will love your neighbour as thyself: I am the Lord.
+18 you will not bring justice, nor bear any grudge against the children of your people, but you will love your neighbour as yourself: I am the Lord.
 
 19 you will keep my statutes. you will not let your cattle gender with a diverse kind: you will not sow your field with mingled seed: neither will a garment mingled of linen and woollen come upon you.
 
@@ -1176,7 +1176,7 @@
 
 33 And if a stranger live temporarily with you in your land, you will not vex him.
 
-34 But the stranger that dwells with you will be to you as one born among you, and you will love him as thyself; for you were strangers in the land of Egypt: I am the Lord your God.
+34 But the stranger that dwells with you will be to you as one born among you, and you will love him as yourself; for you were strangers in the land of Egypt: I am the Lord your God.
 
 35 you will do no unrighteousness in judgment, in meteyard, in weight, or in measure.
 

@@ -90,7 +90,7 @@
 
 14 Draw you waters for the siege, fortify your strong holds: go into clay, and tread the morter, make strong the brickkiln.
 
-15 There will the fire devour you; the sword will cut you off, it will eat you up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.
+15 There will the fire devour you; the sword will cut you off, it will eat you up like the cankerworm: make yourself many as the cankerworm, make yourself many as the locusts.
 
 16 you have multiplied your merchants above the stars of heaven: the cankerworm spoils, and fles away.
 

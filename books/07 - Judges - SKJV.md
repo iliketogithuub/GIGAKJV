@@ -244,7 +244,7 @@
 
 3 Hear, O you kings; give ear, O you princes; I, even I, will sing to the Lord; I will sing praise to the Lord God of Israel.
 
-4 Lord, when you went out of Seir, when you marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.
+4 Lord, when you went out of Seir, when you marched out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.
 
 5 The mountains melted from before the Lord, even that Sinai from before the Lord God of Israel.
 
@@ -436,7 +436,7 @@
 
 ## Judges Chapter 8
 
-1 And the men of Ephraim said to him, Why have you served us thus, that you calledst us not, when you went to fight with the Midianites? And they did chide with him sharply.
+1 And the men of Ephraim said to him, Why have you served us thus, that you called us not, when you went to fight with the Midianites? And they did chide with him sharply.
 
 2 And he said to them, What have I done now in comparison of you? Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?
 
@@ -582,7 +582,7 @@
 
 37 And Gaal spoke again, and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim.
 
-38 Then said Zebul to him, Where is now your mouth, with what you saidst, Who is Abimelech, that we should serve him? is not this the people that you have despised? go out, I pray now, and fight with them.
+38 Then said Zebul to him, Where is now your mouth, with what you said, Who is Abimelech, that we should serve him? is not this the people that you have despised? go out, I pray now, and fight with them.
 
 39 And Gaal went out before the men of Shechem, and fought with Abimelech.
 
@@ -744,7 +744,7 @@
 
 ## Judges Chapter 12
 
-1 And the men of Ephraim gathered themselves together, and went northward, and said to Jephthah, therefore passedst you over to fight against the children of Ammon, and did not call us to go with you? we will burn your house upon you with fire.
+1 And the men of Ephraim gathered themselves together, and went northward, and said to Jephthah, therefore passed you over to fight against the children of Ammon, and did not call us to go with you? we will burn your house upon you with fire.
 
 2 And Jephthah said to them, I and my people were at great strife with the children of Ammon; and when I called you, you delivered me not out of their hands.
 
@@ -978,7 +978,7 @@
 
 1 And there was a man of mount Ephraim, whose name was Micah.
 
-2 And he said to his mother, The eleven hundred shekels of silver that were taken from you, about which you cursedst, and spak of also in mine ears, look, the silver is with me; I took it. And his mother said, Blessed be you of the Lord, my son.
+2 And he said to his mother, The eleven hundred shekels of silver that were taken from you, about which you cursed, and spak of also in mine ears, look, the silver is with me; I took it. And his mother said, Blessed be you of the Lord, my son.
 
 3 And when he had restored the eleven hundred shekels of silver to his mother, his mother said, I had wholly dedicated the silver to the Lord from my hand for my son, to make a graven image and a melted image: now therefore I will restore it to you.
 

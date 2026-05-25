@@ -10,6 +10,9 @@ FORBIDDEN_WORDS = [
     (r'\bye\b', "ye"),
     (r'\bthy\b', "thy"),
     (r'\bthine\b', "thine"),
+    (r'\bthyself\b', "thyself"),
+    (r'\bwast\b', "wast"),
+    (r'\bsaidst\b', "saidst"),
     (r'\bunto\b', "unto"),
     (r'\bhath\b', "hath"),
     (r'\bhast\b', "hast"),
@@ -67,7 +70,8 @@ FORBIDDEN_WORDS = [
     (r'\bwilt\b', "wilt"),
     # Archaic verb endings -eth / -est (excluding common modern words)
     (r'\b(?!(?:teeth|seth|japheth|seventh|twentieth|thirtieth|fortieth|fiftieth|sixtieth|seventieth|eightieth|ninetieth)\b)\w+eth\b', "-eth ending (e.g., saith, walketh)"),
-    (r'\b(?!(?:greatest|highest|lowest|deepest|strongest|longest|oldest|youngest|sweetest|latest|chiefest|least|best|west|rest|priest|forest|tempest|request|honest|earnest|manifest|harvest|guest|nest|test|chest|crest|jest|protest|contest|digest|suggest|invest|arrest|holiest|straitest|mightiest|eldest|goodliest|valiantest|meetest|basest|choicest|faintest|fewest|modest|wrest|smallest|closest|dishonest|fairest|finest|hottest|poorest|lightest|detest|interest)\b)\w+est\b', "-est ending (e.g., walkest)")
+    (r'\b(?!(?:greatest|highest|lowest|deepest|strongest|longest|oldest|youngest|sweetest|latest|chiefest|least|best|west|rest|priest|forest|tempest|request|honest|earnest|manifest|harvest|guest|nest|test|chest|crest|jest|protest|contest|digest|suggest|invest|arrest|holiest|straitest|mightiest|eldest|goodliest|valiantest|meetest|basest|choicest|faintest|fewest|modest|wrest|smallest|closest|dishonest|fairest|finest|hottest|poorest|lightest|detest|interest)\b)\w+est\b', "-est ending (e.g., walkest)"),
+    (r'\b\w+edst\b', "-edst ending (e.g., cursedst)")
 ]
 
 def verify_file(file_path):

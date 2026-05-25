@@ -82,7 +82,7 @@
 
 17 The Lord has done that which he had devised; he has fulfilled his word that he had commanded in the days of old: he has thrown down, and has not pitied: and he has caused your enemy to rejoice over you, he has set up the horn of your adversaries.
 
-18 Their heart cried to the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of your eye cease.
+18 Their heart cried to the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give yourself no rest; let not the apple of your eye cease.
 
 19 Arise, cry out in the night: in the beginning of the watches pour out your heart like water before the face of the Lord: lift up your hands toward him for the life of your young children, that faint for hunger in the top of every street.
 
@@ -180,7 +180,7 @@
 
 43 you have covered with anger, and persecuted us: you have slain, you have not pitied.
 
-44 you have covered thyself with a cloud, that our prayer should not pass through.
+44 you have covered yourself with a cloud, that our prayer should not pass through.
 
 45 you have made us as the offscouring and refuse in the midst of the people.
 
@@ -206,7 +206,7 @@
 
 56 you have heard my voice: hide not your ear at my breathing, at my cry.
 
-57 you drew near in the day that I called upon you: you saidst, Fear not.
+57 you drew near in the day that I called upon you: you said, Fear not.
 
 58 O Lord, you have pleaded the causes of my soul; you have redeemed my life.
 
@@ -268,7 +268,7 @@
 
 20 The breath of our nostrils, the anointed of the Lord, was taken in their pits, of whom we said, Under his shadow we will live among the heathen.
 
-21 Rejoice and be glad, O daughter of Edom, that dwell in the land of Uz; the cup also will pass through to you: you will be drunken, and will make thyself naked.
+21 Rejoice and be glad, O daughter of Edom, that dwell in the land of Uz; the cup also will pass through to you: you will be drunken, and will make yourself naked.
 
 22 The punishment of your wickedness is accomplished, O daughter of Zion; he will no more carry you away into captivity: he will visit your wickedness, O daughter of Edom; he will discover your sins.
 

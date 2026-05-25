@@ -20,7 +20,7 @@
 
 9 Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
 
-10 But is now made revealed by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
+10 But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
 
 11 Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
 
@@ -68,7 +68,7 @@
 
 14 Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.
 
-15 Study to show thyself approved to God, a workman that needs not to be ashamed, rightly dividing the word of truth.
+15 Study to show yourself approved to God, a workman that needs not to be ashamed, rightly dividing the word of truth.
 
 16 But shun defile and empty babblings: for they will increase to more ungodliness.
 
@@ -110,7 +110,7 @@
 
 8 Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 
-9 But they will proceed no further: for their folly will be revealed to all men, as their's also was.
+9 But they will proceed no further: for their folly will be manifest to all men, as their's also was.
 
 10 But you have fully known my doctrine, manner of life, purpose, faith, patience, love, patience,
 

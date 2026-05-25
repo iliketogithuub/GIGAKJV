@@ -866,7 +866,7 @@
 
 1 Then all Israel gathered themselves to David to Hebron, saying, Look, we are your bone and your flesh.
 
-2 And moreover in time past, even when Saul was king, you wast he that ledd out and brought in Israel: and the Lord your God said to you, you will feed my people Israel, and you will be ruler over my people Israel.
+2 And moreover in time past, even when Saul was king, you were he that ledd out and brought in Israel: and the Lord your God said to you, you will feed my people Israel, and you will be ruler over my people Israel.
 
 3 Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the Lord; and they anointed David king over Israel, according to the word of the Lord by Samuel.
 
@@ -1428,7 +1428,7 @@
 
 11 So Gad came to David, and said to him, Thus says the Lord, Choose you
 
-12 Either three years' famine; or three months to be destroyed before your foes, while that the sword of your enemies overtaks you; or else three days the sword of the Lord, even the plague, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise thyself what word I will bring again to him that sent me.
+12 Either three years' famine; or three months to be destroyed before your foes, while that the sword of your enemies overtaks you; or else three days the sword of the Lord, even the plague, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise yourself what word I will bring again to him that sent me.
 
 13 And David said to Gad, I am in a great strait: let me fall now into the hand of the Lord; for very great are his mercies: but let me not fall into the hand of man.
 

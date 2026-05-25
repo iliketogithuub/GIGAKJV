@@ -104,9 +104,9 @@
 
 14 These things write I to you, hoping to come to you shortly:
 
-15 But if I tarry long, that you may know how you ought to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+15 But if I tarry long, that you may know how you ought to behave yourself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 
-16 And without controversy great is the mystery of godliness: God was revealed in the flesh, justified in the Holy Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
+16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Holy Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
 
 ## 1 Timothy Chapter 4
 
@@ -122,7 +122,7 @@
 
 6 If you put the brothers in remembrance of these things, you will be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto you have attained.
 
-7 But refuse defile and old wives' fables, and exercise thyself rather to godliness.
+7 But refuse defile and old wives' fables, and exercise yourself rather to godliness.
 
 8 For bodily exercise profits little: but godliness is profitable to all things, having promise of the life that now is, and of that which is to come.
 
@@ -138,9 +138,9 @@
 
 14 Neglect not the gift that is in you, which was given you by prophecy, with the laying on of the hands of the presbytery.
 
-15 Meditate upon these things; give thyself wholly to them; that your profiting may appear to all.
+15 Meditate upon these things; give yourself wholly to them; that your profiting may appear to all.
 
-16 Take heed to thyself, and to the doctrine; continue in them: for in doing this you will both save thyself, and them that hear you.
+16 Take heed to yourself, and to the doctrine; continue in them: for in doing this you will both save yourself, and them that hear you.
 
 ## 1 Timothy Chapter 5
 
@@ -186,13 +186,13 @@
 
 21 I charge you before God, and the Lord Jesus Christ, and the elect angels, that you observe these things without preferring one before another, doing nothing by partiality.
 
-22 Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure.
+22 Lay hands suddenly on no man, neither be partaker of other men's sins: keep yourself pure.
 
 23 Drink no longer water, but use a little wine for your stomach's sake and your often infirmities.
 
 24 Some men's sins are open beforehand, going before to judgment; and some men they follow after.
 
-25 Likewise also the good works of some are revealed beforehand; and they that are otherwise cannot be hid.
+25 Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.
 
 ## 1 Timothy Chapter 6
 
@@ -204,7 +204,7 @@
 
 4 He is proud, knowing nothing, but doting about questions and strifes of words, whereof comes envy, strife, railings, evil surmisings,
 
-5 Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
+5 Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw yourself.
 
 6 But godliness with contentment is great gain.
 

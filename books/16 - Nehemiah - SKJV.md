@@ -14,9 +14,9 @@
 
 6 Let your ear now be attentive, and your eyes open, that you may hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned.
 
-7 We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commandedst your servant Moses.
+7 We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commanded your servant Moses.
 
-8 Remember, I urge you, the word that you commandedst your servant Moses, saying, If you transgress, I will scatter you abroad among the nations:
+8 Remember, I urge you, the word that you commanded your servant Moses, saying, If you transgress, I will scatter you abroad among the nations:
 
 9 But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from from there, and will bring them to the place that I have chosen to set my name there.
 
@@ -466,7 +466,7 @@
 
 9 And did see the affliction of our fathers in Egypt, and heard their cry by the Red sea;
 
-10 And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for you knew that they dealt proudly against them. So did you get you a name, as it is this day.
+10 And showed signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for you knew that they dealt proudly against them. So did you get you a name, as it is this day.
 
 11 And you did divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors you threw into the deeps, as a stone into the mighty waters.
 
@@ -474,9 +474,9 @@
 
 13 you cam down also upon mount Sinai, and spak with them from heaven, and gav them right judgments, and true laws, good statutes and commandments:
 
-14 And mad known to them your holy sabbath, and commandedst them commands, statutes, and laws, by the hand of Moses your servant:
+14 And mad known to them your holy sabbath, and commanded them commands, statutes, and laws, by the hand of Moses your servant:
 
-15 And gav them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which you had sworn to give them.
+15 And gav them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promised them that they should go in to possess the land which you had sworn to give them.
 
 16 But they and our fathers dealt proudly, and hardened their necks, and listened not to your commandments,
 
@@ -492,21 +492,21 @@
 
 22 Moreover you gav them kingdoms and nations, and did divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
 
-23 Their children also multipliedst you as the stars of heaven, and brought them into the land, concerning which you had promised to their fathers, that they should go in to possess it.
+23 Their children also multiplied you as the stars of heaven, and brought them into the land, concerning which you had promised to their fathers, that they should go in to possess it.
 
-24 So the children went in and possessed the land, and you subduedst before them the inhabitants of the land, the Canaanites, and gav them into their hands, with their kings, and the people of the land, that they might do with them as they would.
+24 So the children went in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gav them into their hands, with their kings, and the people of the land, that they might do with them as they would.
 
 25 And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in your great goodness.
 
 26 Nevertheless they were disobedient, and rebelled against you, and cast your law behind their backs, and killed your prophets which testified against them to turn them to you, and they worked great provocations.
 
-27 Therefore you deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried to you, you heard them from heaven; and according to your manifold mercies you gav them saviours, who saved them out of the hand of their enemies.
+27 Therefore you delivered them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried to you, you heard them from heaven; and according to your manifold mercies you gav them saviours, who saved them out of the hand of their enemies.
 
 28 But after they had rest, they did evil again before you: therefore left you them in the land of their enemies, so that they had the dominion over them: yet when they returned, and cried to you, you heard them from heaven; and many times did you deliver them according to your mercies;
 
-29 And testifiedst against them, that you might bring them again to your law: yet they dealt proudly, and listened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
+29 And testified against them, that you might bring them again to your law: yet they dealt proudly, and listened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 
-30 Yet many years did you hold back them, and testifiedst against them by your Holy Spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
+30 Yet many years did you hold back them, and testified against them by your Holy Spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
 
 31 Nevertheless for your great mercies' sake you did not utterly consume them, nor forsake them; for you are a gracious and merciful God.
 

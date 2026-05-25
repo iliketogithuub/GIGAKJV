@@ -138,7 +138,7 @@
 
 10 And he said, I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.
 
-11 And he said, Who told you that you wast naked? have you eaten of the tree, whereof I commanded you that you should not eat?
+11 And he said, Who told you that you were naked? have you eaten of the tree, whereof I commanded you that you should not eat?
 
 12 And the man said, The woman whom you gav to be with me, she gave me of the tree, and I did eat.
 
@@ -154,7 +154,7 @@
 
 18 Thorns also and thistles will it bring forth to you; and you will eat the herb of the field;
 
-19 In the sweat of your face will you eat bread, till you return to the ground; for out of it wast you taken: for dust you are, and to dust will you return.
+19 In the sweat of your face will you eat bread, till you return to the ground; for out of it were you taken: for dust you are, and to dust will you return.
 
 20 And Adam called his wife's name Eve; because she was the mother of all living.
 
@@ -658,7 +658,7 @@
 
 18 And Pharaoh called Abram and said, What is this that you have done to me? why did you not tell me that she was your wife?
 
-19 Why saidst you, She is my sister? so I might have taken her to me to wife: now therefore look at your wife, take her, and go your way.
+19 Why said you, She is my sister? so I might have taken her to me to wife: now therefore look at your wife, take her, and go your way.
 
 20 And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
 
@@ -680,7 +680,7 @@
 
 8 And Abram said to Lot, Let there be no strife, I pray you, between me and you, and between my herdmen and your herdmen; for we be brothers.
 
-9 Is not the whole land before you? separate thyself, I pray you, from me: if you will take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
+9 Is not the whole land before you? separate yourself, I pray you, from me: if you will take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
 
 10 And Lot lifted up his eyes, and saw all the plain of Jordan, that it was well watered every where, before the Lord destroyed Sodom and Gomorrah, even as the garden of the Lord, like the land of Egypt, as you com to Zoar.
 
@@ -742,7 +742,7 @@
 
 20 And blessed be the most high God, which has delivered your enemies into your hand. And he gave him tithes of all.
 
-21 And the king of Sodom said to Abram, Give me the persons, and take the goods to thyself.
+21 And the king of Sodom said to Abram, Give me the persons, and take the goods to yourself.
 
 22 And Abram said to the king of Sodom, I have lift up mine hand to the Lord, the most high God, the possessor of heaven and earth,
 
@@ -812,7 +812,7 @@
 
 8 And he said, Hagar, Sarai's maid, from where cam you? and where will you go? And she said, I flee from the face of my mistress Sarai.
 
-9 And the angel of the Lord said to her, Return to your mistress, and submit thyself under her hands.
+9 And the angel of the Lord said to her, Return to your mistress, and submit yourself under her hands.
 
 10 And the angel of the Lord said to her, I will multiply your seed exceedingly, that it will not be numbered for multitude.
 
@@ -1454,7 +1454,7 @@
 
 8 And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, look, Isaac was sporting with Rebekah his wife.
 
-9 And Abimelech called Isaac, and said, Look, of a guarantee she is your wife; and how saidst you, She is my sister? And Isaac said to him, Because I said, otherwise I die for her.
+9 And Abimelech called Isaac, and said, Look, of a guarantee she is your wife; and how said you, She is my sister? And Isaac said to him, Because I said, otherwise I die for her.
 
 10 And Abimelech said, What is this you have done to us? one of the people might lightly have lien with your wife, and you should have brought guiltiness upon us.
 
@@ -1834,7 +1834,7 @@
 
 12 And he said, Lift up now your eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban does to you.
 
-13 I am the God of Bethel, where you anointedst the pillar, and where you vowedst a vow to me: now arise, get you out from this land, and return to the land of your relatives.
+13 I am the God of Bethel, where you anointed the pillar, and where you vowed a vow to me: now arise, get you out from this land, and return to the land of your relatives.
 
 14 And Rachel and Leah answered and said to him, Is there yet any portion or inheritance for us in our father's house?
 
@@ -1868,7 +1868,7 @@
 
 29 It is in the power of my hand to do you hurt: but the God of your father spoke to me yesternight, saying, Take you heed that you speak not to Jacob either good or bad.
 
-30 And now, though you would needs be gone, because you sore longedst after your father's house, yet therefore have you stolen my gods?
+30 And now, though you would needs be gone, because you sore longed after your father's house, yet therefore have you stolen my gods?
 
 31 And Jacob answered and said to Laban, Because I was afraid: for I said, Perhaps you would take by force your daughters from me.
 
@@ -1938,13 +1938,13 @@
 
 8 And said, If Esau come to the one company, and smite it, then the other company which is left will escape.
 
-9 And Jacob said, O God of my father Abraham, and God of my father Isaac, the Lord which saidst to me, Return to your country, and to your relatives, and I will deal well with you:
+9 And Jacob said, O God of my father Abraham, and God of my father Isaac, the Lord which said to me, Return to your country, and to your relatives, and I will deal well with you:
 
 10 I am not worthy of the least of all the mercies, and of all the truth, which you have showed to your servant; for with my staff I passed over this Jordan; and now I am become two bands.
 
 11 Deliver me, I pray you, from the hand of my brother, from the hand of Esau: for I fear him, otherwise he will come and smite me, and the mother with the children.
 
-12 And you saidst, I will surely do you good, and make your seed as the sand of the sea, which cannot be numbered for multitude.
+12 And you said, I will surely do you good, and make your seed as the sand of the sea, which cannot be numbered for multitude.
 
 13 And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
 
@@ -2004,9 +2004,9 @@
 
 8 And he said, What mean you by all this drove which I met? And he said, These are to find grace in the sight of my lord.
 
-9 And Esau said, I have enough, my brother; keep that you have to thyself.
+9 And Esau said, I have enough, my brother; keep that you have to yourself.
 
-10 And Jacob said, Nay, I pray you, if now I have found grace in your sight, then receive my present at my hand: for therefore I have seen your face, as though I had seen the face of God, and you wast pleased with me.
+10 And Jacob said, Nay, I pray you, if now I have found grace in your sight, then receive my present at my hand: for therefore I have seen your face, as though I had seen the face of God, and you were pleased with me.
 
 11 Take, I pray you, my blessing that is brought to you; because God has dealt graciously with me, and because I have enough. And he urged him, and he took it.
 
@@ -2450,7 +2450,7 @@
 
 12 And Joseph said to him, This is the interpretation of it: The three branches are three days:
 
-13 Yet within three days will Pharaoh lift up your head, and restore you to your place: and you will deliver Pharaoh's cup into his hand, after the former manner when you wast his butler.
+13 Yet within three days will Pharaoh lift up your head, and restore you to your place: and you will deliver Pharaoh's cup into his hand, after the former manner when you were his butler.
 
 14 But think on me when it will be well with you, and show kindness, I pray you, to me, and make mention of me to Pharaoh, and bring me out of this house:
 
@@ -2778,11 +2778,11 @@
 
 20 And we said to my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loves him.
 
-21 And you saidst to your servants, Bring him down to me, that I may set mine eyes upon him.
+21 And you said to your servants, Bring him down to me, that I may set mine eyes upon him.
 
 22 And we said to my lord, The lad cannot leave his father: for if he should leave his father, his father would die.
 
-23 And you saidst to your servants, Except your youngest brother come down with you, you will see my face no more.
+23 And you said to your servants, Except your youngest brother come down with you, you will see my face no more.
 
 24 And it came to pass when we came up to your servant my father, we told him the words of my lord.
 
@@ -3052,7 +3052,7 @@
 
 3 Reuben, you are my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
 
-4 Unstable as water, you will not excel; because you went up to your father's bed; then defiledst you it: he went up to my couch.
+4 Unstable as water, you will not excel; because you went up to your father's bed; then defiled you it: he went up to my couch.
 
 5 Simeon and Levi are brothers; instruments of cruelty are in their habitations.
 

@@ -52,7 +52,7 @@
 
 2 And the Lord said to Satan, From from where com you? And Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
 
-3 And the Lord said to Satan, have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that fears God, and eschews evil? and still he holds fast his integrity, although you movedst me against him, to destroy him without cause.
+3 And the Lord said to Satan, have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that fears God, and eschews evil? and still he holds fast his integrity, although you moved me against him, to destroy him without cause.
 
 4 And Satan answered the Lord, and said, Skin for skin, yea, all that a man has will he give for his life.
 
@@ -350,7 +350,7 @@
 
 7 Though your beginning was small, yet your latter end should greatly increase.
 
-8 For enquire, I pray you, of the former age, and prepare thyself to the search of their fathers:
+8 For enquire, I pray you, of the former age, and prepare yourself to the search of their fathers:
 
 9 (For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)
 
@@ -484,7 +484,7 @@
 
 15 If I be wicked, woe to me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see you mine affliction;
 
-16 For it increass. you hunt me as a fierce lion: and again you show thyself marvellous upon me.
+16 For it increass. you hunt me as a fierce lion: and again you show yourself marvellous upon me.
 
 17 you renew your witnesses against me, and increas your indignation upon me; changes and war are against me.
 
@@ -710,9 +710,9 @@
 
 6 your own mouth condemns you, and not I: yea, your own lips testify against you.
 
-7 are you the first man that was born? or wast you made before the hills?
+7 are you the first man that was born? or were you made before the hills?
 
-8 have you heard the secret of God? and do you restrain wisdom to thyself?
+8 have you heard the secret of God? and do you restrain wisdom to yourself?
 
 9 What know you, that we know not? what understand you, which is not in us?
 
@@ -1124,7 +1124,7 @@
 
 20 Whereas our substance is not cut down, but the remnant of them the fire consums.
 
-21 Acquaint now thyself with him, and be at peace: by that good will come to you.
+21 Acquaint now yourself with him, and be at peace: by that good will come to you.
 
 22 Receive, I pray you, the law from his mouth, and lay up his words in your heart.
 
@@ -1476,7 +1476,7 @@
 
 20 I cry to you, and you do not hear me: I stand up, and you regard me not.
 
-21 you are become cruel to me: with your strong hand you oppos thyself against me.
+21 you are become cruel to me: with your strong hand you oppos yourself against me.
 
 22 you lift me up to the wind; you caus me to ride upon it, and dissolv my substance.
 
@@ -1774,9 +1774,9 @@
 
 1 Elihu spoke moreover, and said,
 
-2 Think you this to be right, that you saidst, My righteousness is more than God's?
+2 Think you this to be right, that you said, My righteousness is more than God's?
 
-3 For you saidst, What advantage will it be to you? and, What profit will I have, if I be cleansed from my sin?
+3 For you said, What advantage will it be to you? and, What profit will I have, if I be cleansed from my sin?
 
 4 I will answer you, and your companions with you.
 
@@ -1930,7 +1930,7 @@
 
 3 Gird up now your loins like a man; for I will demand of you, and answer you me.
 
-4 Where wast you when I laid the foundations of the earth? declare, if you have understanding.
+4 Where were you when I laid the foundations of the earth? declare, if you have understanding.
 
 5 Who has laid the measures of it, if you know? or who has stretched the line upon it?
 
@@ -1964,7 +1964,7 @@
 
 20 That you should take it to the bound of it, and that you should know the paths to the house of it?
 
-21 Know you it, because you wast then born? or because the number of your days is great?
+21 Know you it, because you were then born? or because the number of your days is great?
 
 22 have you entered into the treasures of the snow? or have you seen the treasures of the hail,
 
@@ -2088,7 +2088,7 @@
 
 9 have you an arm like God? or can you thunder with a voice like him?
 
-10 Deck thyself now with majesty and excellency; and array thyself with glory and beauty.
+10 Deck yourself now with majesty and excellency; and array yourself with glory and beauty.
 
 11 Cast abroad the rage of your wrath: and look every one that is proud, and abase him.
 

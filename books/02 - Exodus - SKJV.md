@@ -74,7 +74,7 @@
 
 13 And when he went out the second day, look, two men of the Hebrews strove together: and he said to him that did the wrong, therefore smit you your fellow?
 
-14 And he said, Who made you a prince and a judge over us? intend you to kill me, as you killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
+14 And he said, Who made you a prince and a judge over us? intend you to kill me, as you killed the Egyptian? And Moses feared, and said, Surely this thing is known.
 
 15 Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well.
 
@@ -470,7 +470,7 @@
 
 16 And in very deed for this cause have I raised you up, for to show in you my power; and that my name may be declared throughout all the earth.
 
-17 As yet exalt you thyself against my people, that you will not let them go?
+17 As yet exalt you yourself against my people, that you will not let them go?
 
 18 Look, to morrow about this time I will cause it to rain a very grievous hail, such as has not been in Egypt since the foundation of it even until now.
 
@@ -514,7 +514,7 @@
 
 2 And that you may tell in the ears of your son, and of your son's son, what things I have done in Egypt, and my signs which I have done among them; that you may know how that I am the Lord.
 
-3 And Moses and Aaron came in to Pharaoh, and said to him, Thus says the Lord God of the Hebrews, How long will you refuse to humble thyself before me? let my people go, that they may serve me.
+3 And Moses and Aaron came in to Pharaoh, and said to him, Thus says the Lord God of the Hebrews, How long will you refuse to humble yourself before me? let my people go, that they may serve me.
 
 4 Else, if you refuse to let my people go, look, to morrow will I bring the locusts into your coast:
 
@@ -564,7 +564,7 @@
 
 27 But the Lord hardened Pharaoh's heart, and he would not let them go.
 
-28 And Pharaoh said to him, Get you from me, take heed to thyself, see my face no more; for in that day you se my face you will die.
+28 And Pharaoh said to him, Get you from me, take heed to yourself, see my face no more; for in that day you se my face you will die.
 
 29 And Moses said, you have spoken well, I will see your face again no more.
 
@@ -828,7 +828,7 @@
 
 11 Who is like to you, O Lord, among the gods? who is like you, glorious in holiness, fearful in praises, doing wonders?
 
-12 you stretchedst out your right hand, the earth swallowed them.
+12 you stretched out your right hand, the earth swallowed them.
 
 13 you in your mercy have led forth the people which you have redeemed: you have guided them in your strength to your holy habitation.
 
@@ -996,7 +996,7 @@
 
 13 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning to the evening.
 
-14 And when Moses' father in law saw all that he did to the people, he said, What is this thing that you do to the people? why sitt you thyself alone, and all the people stand by you from morning to even?
+14 And when Moses' father in law saw all that he did to the people, he said, What is this thing that you do to the people? why sitt you yourself alone, and all the people stand by you from morning to even?
 
 15 And Moses said to his father in law, Because the people come to me to enquire of God:
 
@@ -1004,7 +1004,7 @@
 
 17 And Moses' father in law said to him, The thing that you do is not good.
 
-18 you will surely wear away, both you, and this people that is with you: for this thing is too heavy for you; you are not able to perform it thyself alone.
+18 you will surely wear away, both you, and this people that is with you: for this thing is too heavy for you; you are not able to perform it yourself alone.
 
 19 Listen now to my voice, I will give you counsel, and God will be with you: Be you for the people to God-ward, that you may bring the causes to God:
 
@@ -1012,7 +1012,7 @@
 
 21 Moreover you will provide out of all the people able men, such as fear God, men of truth, hating greed; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
 
-22 And let them judge the people at all seasons: and it will be, that every great matter they will bring to you, but every small matter they will judge: so will it be easier for thyself, and they will bear the burden with you.
+22 And let them judge the people at all seasons: and it will be, that every great matter they will bring to you, but every small matter they will judge: so will it be easier for yourself, and they will bear the burden with you.
 
 23 If you will do this thing, and God command you so, then you will be able to endure, and all this people will also go to their place in peace.
 
@@ -1070,7 +1070,7 @@
 
 22 And let the priests also, which come near to the Lord, sanctify themselves, otherwise the Lord break forth upon them.
 
-23 And Moses said to the Lord, The people cannot come up to mount Sinai: for you chargedst us, saying, Set bounds about the mount, and sanctify it.
+23 And Moses said to the Lord, The people cannot come up to mount Sinai: for you charged us, saying, Set bounds about the mount, and sanctify it.
 
 24 And the Lord said to him, Away, get you down, and you will come up, you, and Aaron with you: but let not the priests and the people break through to come up to the Lord, otherwise he break forth upon them.
 
@@ -1086,7 +1086,7 @@
 
 4 you will not make to you any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
 
-5 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the wickedness of the fathers upon the children to the third and fourth generation of them that hate me;
+5 you will not bow down yourself to them, nor serve them: for I the Lord your God am a jealous God, visiting the wickedness of the fathers upon the children to the third and fourth generation of them that hate me;
 
 6 And showing mercy to thousands of them that love me, and keep my commandments.
 
@@ -1900,7 +1900,7 @@
 
 12 therefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from your fierce wrath, and repent of this evil against your people.
 
-13 Remember Abraham, Isaac, and Israel, your servants, to whom you swar by your own self, and saidst to them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give to your seed, and they will inherit it for ever.
+13 Remember Abraham, Isaac, and Israel, your servants, to whom you swar by your own self, and said to them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give to your seed, and they will inherit it for ever.
 
 14 And the Lord repented of the evil which he thought to do to his people.
 
@@ -1998,7 +1998,7 @@
 
 1 And the Lord said to Moses, Hew you two tables of stone like to the first: and I will write upon these tables the words that were in the first tables, which you brak.
 
-2 And be ready in the morning, and come up in the morning to mount Sinai, and present thyself there to me in the top of the mount.
+2 And be ready in the morning, and come up in the morning to mount Sinai, and present yourself there to me in the top of the mount.
 
 3 And no man will come up with you, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.
 
@@ -2018,7 +2018,7 @@
 
 11 Observe you that which I command you this day: look, I drive out before you the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.
 
-12 Take heed to thyself, otherwise you make a covenant with the inhabitants of the land where you go, otherwise it be for a snare in the midst of you:
+12 Take heed to yourself, otherwise you make a covenant with the inhabitants of the land where you go, otherwise it be for a snare in the midst of you:
 
 13 But you will destroy their altars, break their images, and cut down their groves:
 

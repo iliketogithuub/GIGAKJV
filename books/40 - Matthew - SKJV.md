@@ -148,7 +148,7 @@
 
 5 Then the devil takes him up into the holy city, and sets him on a pinnacle of the temple,
 
-6 And says to him, If you be the Son of God, cast thyself down: for it is written, He will give his angels charge concerning you: and in their hands they will bear you up, otherwise at any time you dash your foot against a stone.
+6 And says to him, If you be the Son of God, cast yourself down: for it is written, He will give his angels charge concerning you: and in their hands they will bear you up, otherwise at any time you dash your foot against a stone.
 
 7 Jesus said to him, It is written again, you will not tempt the Lord your God.
 
@@ -254,7 +254,7 @@
 
 32 But I say to you, That whosoever will put away his wife, saving for the cause of sexual sin, causes her to commit adultery: and whosoever will marry her that is divorced commits adultery.
 
-33 Again, you have heard that it has been said by them of old time, you will not forswear thyself, but will perform to the Lord your oaths:
+33 Again, you have heard that it has been said by them of old time, you will not forswear yourself, but will perform to the Lord your oaths:
 
 34 But I say to you, Swear not at all; neither by heaven; for it is God's throne:
 
@@ -424,7 +424,7 @@
 
 3 And Jesus put forth his hand, and touched him, saying, I will; be you clean. And immediately his leprosy was cleansed.
 
-4 And Jesus says to him, See you tell no man; but go your way, show thyself to the priest, and offer the gift that Moses commanded, for a testimony to them.
+4 And Jesus says to him, See you tell no man; but go your way, show yourself to the priest, and offer the gift that Moses commanded, for a testimony to them.
 
 5 And when Jesus was entered into Capernaum, there came to him a centurion, beseeching him,
 
@@ -1266,7 +1266,7 @@
 
 31 So when his fellowservants saw what was done, they were very sorry, and came and told to their lord all that was done.
 
-32 Then his lord, after that he had called him, said to him, O you wicked servant, I forgave you all that debt, because you desiredst me:
+32 Then his lord, after that he had called him, said to him, O you wicked servant, I forgave you all that debt, because you desired me:
 
 33 Should not you also have had compassion on your fellowservant, even as I had pity on you?
 
@@ -1312,7 +1312,7 @@
 
 18 He says to him, Which? Jesus said, you will do no murder, you will not commit adultery, you will not steal, you will not bear false witness,
 
-19 Honour your father and your mother: and, you will love your neighbour as thyself.
+19 Honour your father and your mother: and, you will love your neighbour as yourself.
 
 20 The young man says to him, All these things have I kept from my youth up: what lack I yet?
 
@@ -1578,7 +1578,7 @@
 
 38 This is the first and great commandment.
 
-39 And the second is like to it, you will love your neighbour as thyself.
+39 And the second is like to it, you will love your neighbour as yourself.
 
 40 On these two commandments hang all the law and the prophets.
 
@@ -1818,11 +1818,11 @@
 
 19 After a long time the lord of those servants comes, and reckons with them.
 
-20 And so he that had received five talents came and brought other five talents, saying, Lord, you deliveredst to me five talents: look, I have gained beside them five talents more.
+20 And so he that had received five talents came and brought other five talents, saying, Lord, you delivered to me five talents: look, I have gained beside them five talents more.
 
 21 His lord said to him, Well done, you good and faithful servant: you have been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
 
-22 He also that had received two talents came and said, Lord, you deliveredst to me two talents: look, I have gained two other talents beside them.
+22 He also that had received two talents came and said, Lord, you delivered to me two talents: look, I have gained two other talents beside them.
 
 23 His lord said to him, Well done, good and faithful servant; you have been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
 
@@ -2010,7 +2010,7 @@
 
 68 Saying, Prophesy to us, you Christ, Who is he that struck you?
 
-69 Now Peter sat without in the palace: and a young woman came to him, saying, you also wast with Jesus of Galilee.
+69 Now Peter sat without in the palace: and a young woman came to him, saying, you also were with Jesus of Galilee.
 
 70 But he denied before them all, saying, I know not what you say.
 
@@ -2104,7 +2104,7 @@
 
 39 And they that passed by insulted him, wagging their heads,
 
-40 And saying, you that destroy the temple, and build it in three days, save thyself. If you be the Son of God, come down from the cross.
+40 And saying, you that destroy the temple, and build it in three days, save yourself. If you be the Son of God, come down from the cross.
 
 41 Likewise also the chief priests mocking him, with the scribes and elders, said,
 

@@ -894,7 +894,7 @@
 
 16 And the Lord said to Moses, Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people, and officers over them; and bring them to the tabernacle of the congregation, that they may stand there with you.
 
-17 And I will come down and talk with you there: and I will take of the spirit which is upon you, and will put it upon them; and they will bear the burden of the people with you, that you bear it not thyself alone.
+17 And I will come down and talk with you there: and I will take of the spirit which is upon you, and will put it upon them; and they will bear the burden of the people with you, that you bear it not yourself alone.
 
 18 And say you to the people, Sanctify yourselves against to morrow, and you will eat flesh: for you have wept in the ears of the Lord, saying, Who will give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give you flesh, and you will eat.
 
@@ -1236,7 +1236,7 @@
 
 12 And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
 
-13 Is it a small thing that you have brought us up out of a land that flows with milk and honey, to kill us in the wilderness, except you make thyself altogether a prince over us?
+13 Is it a small thing that you have brought us up out of a land that flows with milk and honey, to kill us in the wilderness, except you make yourself altogether a prince over us?
 
 14 Moreover you have not brought us into a land that flows with milk and honey, or given us inheritance of fields and vineyards: will you put out the eyes of these men? we will not come up.
 

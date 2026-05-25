@@ -190,7 +190,7 @@
 
 8 And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
 
-9 And they sung a new song, saying, you are worthy to take the book, and to open the seals of it: for you wast slain, and have redeemed us to God by your blood out of every relatives, and tongue, and people, and nation;
+9 And they sung a new song, saying, you are worthy to take the book, and to open the seals of it: for you were slain, and have redeemed us to God by your blood out of every relatives, and tongue, and people, and nation;
 
 10 And have made us to our God kings and priests: and we will reign on the earth.
 
@@ -404,7 +404,7 @@
 
 16 And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,
 
-17 Saying, We give you thanks, O Lord God Almighty, which are, and wast, and are to come; because you have taken to you your great power, and have reigned.
+17 Saying, We give you thanks, O Lord God Almighty, which are, and were, and are to come; because you have taken to you your great power, and have reigned.
 
 18 And the nations were angry, and your wrath is come, and the time of the dead, that they should be judged, and that you should give reward to your servants the prophets, and to the saints, and them that fear your name, small and great; and should destroy them which destroy the earth.
 
@@ -534,7 +534,7 @@
 
 3 And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are your works, Lord God Almighty; just and true are your ways, you King of saints.
 
-4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made revealed.
+4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made manifest.
 
 5 And after that I looked, and, look, the temple of the tabernacle of the testimony in heaven was opened:
 
@@ -554,7 +554,7 @@
 
 4 And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.
 
-5 And I heard the angel of the waters say, you are righteous, O Lord, which are, and wast, and will be, because you have judged thus.
+5 And I heard the angel of the waters say, you are righteous, O Lord, which are, and were, and will be, because you have judged thus.
 
 6 For they have shed the blood of saints and prophets, and you have given them blood to drink; for they are worthy.
 

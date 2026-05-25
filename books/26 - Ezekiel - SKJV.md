@@ -128,7 +128,7 @@
 
 23 Then I arose, and went forth into the plain: and, look, the glory of the Lord stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
 
-24 Then the spirit entered into me, and set me upon my feet, and spoke with me, and said to me, Go, shut thyself within your house.
+24 Then the spirit entered into me, and set me upon my feet, and spoke with me, and said to me, Go, shut yourself within your house.
 
 25 But you, O son of man, look, they will put bands upon you, and will bind you with them, and you will not go out among them:
 
@@ -634,13 +634,13 @@
 
 3 And say, Thus says the Lord God to Jerusalem; your birth and your nativity is of the land of Canaan; your father was an Amorite, and your mother an Hittite.
 
-4 And as for your nativity, in the day you wast born your navel was not cut, neither wast you washed in water to supple you; you wast not salted at all, nor swaddled at all.
+4 And as for your nativity, in the day you were born your navel was not cut, neither were you washed in water to supple you; you were not salted at all, nor swaddled at all.
 
-5 None eye pitied you, to do any of these to you, to have compassion upon you; but you wast cast out in the open field, to the lothing of your person, in the day that you wast born.
+5 None eye pitied you, to do any of these to you, to have compassion upon you; but you were cast out in the open field, to the lothing of your person, in the day that you were born.
 
-6 And when I passed by you, and saw you polluted in your own blood, I said to you when you wast in your blood, Live; yea, I said to you when you wast in your blood, Live.
+6 And when I passed by you, and saw you polluted in your own blood, I said to you when you were in your blood, Live; yea, I said to you when you were in your blood, Live.
 
-7 I have caused you to multiply as the bud of the field, and you have increased and waxen great, and you are come to excellent ornaments: your breasts are fashioned, and your hair is grown, whereas you wast naked and bare.
+7 I have caused you to multiply as the bud of the field, and you have increased and waxen great, and you are come to excellent ornaments: your breasts are fashioned, and your hair is grown, whereas you were naked and bare.
 
 8 Now when I passed by you, and looked upon you, look, your time was the time of love; and I spread my skirt over you, and covered your nakedness: yea, I sware to you, and entered into a covenant with you, says the Lord God, and you becam mine.
 
@@ -652,17 +652,17 @@
 
 12 And I put a jewel on your forehead, and earrings in your ears, and a beautiful crown upon your head.
 
-13 Thus wast you decked with gold and silver; and your clothing was of fine linen, and silk, and broidered work; you did eat fine flour, and honey, and oil: and you wast exceeding beautiful, and you did prosper into a kingdom.
+13 Thus were you decked with gold and silver; and your clothing was of fine linen, and silk, and broidered work; you did eat fine flour, and honey, and oil: and you were exceeding beautiful, and you did prosper into a kingdom.
 
 14 And your renown went forth among the heathen for your beauty: for it was perfect through my beauty, which I had put upon you, says the Lord God.
 
-15 But you did trust in your own beauty, and playedst the prostitute because of your renown, and pouredst out your sexual sins on every one that passed by; his it was.
+15 But you did trust in your own beauty, and played the prostitute because of your renown, and poured out your sexual sins on every one that passed by; his it was.
 
-16 And of your garments you did take, and deckedst your high places with various colours, and playedst the prostitute thereupon: the like things will not come, neither will it be so.
+16 And of your garments you did take, and decked your high places with various colours, and played the prostitute thereupon: the like things will not come, neither will it be so.
 
-17 you have also taken your fair jewels of my gold and of my silver, which I had given you, and mad to thyself images of men, and did commit whoredom with them,
+17 you have also taken your fair jewels of my gold and of my silver, which I had given you, and mad to yourself images of men, and did commit whoredom with them,
 
-18 And took your broidered garments, and coveredst them: and you have set mine oil and mine incense before them.
+18 And took your broidered garments, and covered them: and you have set mine oil and mine incense before them.
 
 19 My meat also which I gave you, fine flour, and oil, and honey, with what I fed you, you have even set it before them for a sweet savour: and thus it was, says the Lord God.
 
@@ -670,7 +670,7 @@
 
 21 That you have slain my children, and delivered them to cause them to pass through the fire for them?
 
-22 And in all your abominations and your whoredoms you have not remembered the days of your youth, when you wast naked and bare, and wast polluted in your blood.
+22 And in all your abominations and your whoredoms you have not remembered the days of your youth, when you were naked and bare, and were polluted in your blood.
 
 23 And it came to pass after all your wickedness, (woe, woe to you! says the Lord God;)
 
@@ -682,9 +682,9 @@
 
 27 Look, therefore I have stretched out my hand over you, and have diminished your ordinary food, and delivered you to the will of them that hate you, the daughters of the Philistines, which are ashamed of your lewd way.
 
-28 you have played the whore also with the Assyrians, because you wast unsatiable; yea, you have played the prostitute with them, and yet could not be satisfied.
+28 you have played the whore also with the Assyrians, because you were unsatiable; yea, you have played the prostitute with them, and yet could not be satisfied.
 
-29 you have moreover multiplied your sexual sin in the land of Canaan to Chaldea; and yet you wast not satisfied with it.
+29 you have moreover multiplied your sexual sin in the land of Canaan to Chaldea; and yet you were not satisfied with it.
 
 30 How weak is your heart, says the Lord God, seeing you do all these things, the work of an imperious whorish woman;
 
@@ -720,7 +720,7 @@
 
 46 And your elder sister is Samaria, she and her daughters that dwell at your left hand: and your younger sister, that dwells at your right hand, is Sodom and her daughters.
 
-47 Yet have you not walked after their ways, nor done after their abominations: but, as if that were a very little thing, you wast corrupted more than they in all your ways.
+47 Yet have you not walked after their ways, nor done after their abominations: but, as if that were a very little thing, you were corrupted more than they in all your ways.
 
 48 As I live, says the Lord God, Sodom your sister has not done, she nor her daughters, as you have done, you and your daughters.
 
@@ -1060,7 +1060,7 @@
 
 29 Whiles they see emptiness to you, whiles they divine a lie to you, to bring you upon the necks of them that are slain, of the wicked, whose day is come, when their wickedness will have an end.
 
-30 will I cause it to return into his sheath? I will judge you in the place where you wast created, in the land of your nativity.
+30 will I cause it to return into his sheath? I will judge you in the place where you were created, in the land of your nativity.
 
 31 And I will pour out mine indignation upon you, I will blow against you in the fire of my wrath, and deliver you into the hand of brutish men, and skilful to destroy.
 
@@ -1074,7 +1074,7 @@
 
 3 Then say you, Thus says the Lord God, The city sheds blood in the midst of it, that her time may come, and makes idols against herself to defile herself.
 
-4 you are become guilty in your blood that you have shed; and have defiled thyself in your idols which you have made; and you have caused your days to draw near, and are come even to your years: therefore have I made you a disgrace to the heathen, and a mocking to all countries.
+4 you are become guilty in your blood that you have shed; and have defiled yourself in your idols which you have made; and you have caused your days to draw near, and are come even to your years: therefore have I made you a disgrace to the heathen, and a mocking to all countries.
 
 5 Those that be near, and those that be far from you, will mock you, which are infamous and much vexed.
 
@@ -1098,7 +1098,7 @@
 
 15 And I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you.
 
-16 And you will take your inheritance in thyself in the sight of the heathen, and you will know that I am the Lord.
+16 And you will take your inheritance in yourself in the sight of the heathen, and you will know that I am the Lord.
 
 17 And the word of the Lord came to me, saying,
 
@@ -1172,7 +1172,7 @@
 
 20 For she doted upon their paramours, whose flesh is as the flesh of asses, and whose issue is like the issue of horses.
 
-21 Thus you calledst to remembrance the lewdness of your youth, in bruising your teats by the Egyptians for the paps of your youth.
+21 Thus you called to remembrance the lewdness of your youth, in bruising your teats by the Egyptians for the paps of your youth.
 
 22 Therefore, O Aholibah, thus says the Lord God; Look, I will raise up your lovers against you, from whom your mind is alienated, and I will bring them against you on every side;
 
@@ -1210,7 +1210,7 @@
 
 39 For when they had slain their children to their idols, then they came the same day into my sanctuary to defile it; and, look, thus have they done in the midst of mine house.
 
-40 And furthermore, that you have sent for men to come from far, to whom a messenger was sent; and, look, they came: for whom you did wash thyself, paintedst your eyes, and deckedst thyself with ornaments,
+40 And furthermore, that you have sent for men to come from far, to whom a messenger was sent; and, look, they came: for whom you did wash yourself, painted your eyes, and decked yourself with ornaments,
 
 41 And sat upon a stately bed, and a table prepared before it, whereupon you have set mine incense and mine oil.
 
@@ -1256,7 +1256,7 @@
 
 12 She has wearied herself with lies, and her great scum went not forth out of her: her scum will be in the fire.
 
-13 In your filthiness is lewdness: because I have purged you, and you wast not purged, you will not be purged from your filthiness any more, till I have caused my fury to rest upon you.
+13 In your filthiness is lewdness: because I have purged you, and you were not purged, you will not be purged from your filthiness any more, till I have caused my fury to rest upon you.
 
 14 I the Lord have spoken it: it will come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to your ways, and according to your doings, will they judge you, says the Lord God.
 
@@ -1292,7 +1292,7 @@
 
 2 Son of man, set your face against the Ammonites, and prophesy against them;
 
-3 And say to the Ammonites, Hear the word of the Lord God; Thus says the Lord God; Because you saidst, Aha, against my sanctuary, when it was defiled; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;
+3 And say to the Ammonites, Hear the word of the Lord God; Thus says the Lord God; Because you said, Aha, against my sanctuary, when it was defiled; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;
 
 4 Look, therefore I will deliver you to the men of the east for a possession, and they will set their palaces in you, and make their dwellings in you: they will eat your fruit, and they will drink your milk.
 
@@ -1356,7 +1356,7 @@
 
 16 Then all the princes of the sea will come down from their thrones, and lay away their robes, and put off their broidered garments: they will clothe themselves with trembling; they will sit upon the ground, and will tremble at every moment, and be amazed at you.
 
-17 And they will take up a mourning for you, and say to you, How are you destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!
+17 And they will take up a mourning for you, and say to you, How are you destroyed, that were inhabited of seafaring men, the renowned city, which were strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!
 
 18 Now will the isles tremble in the day of your fall; yea, the isles that are in the sea will be troubled at your departure.
 
@@ -1416,7 +1416,7 @@
 
 24 These were your merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich clothing, bound with cords, and made of cedar, among your merchandise.
 
-25 The ships of Tarshish did sing of you in your market: and you wast replenished, and made very glorious in the midst of the seas.
+25 The ships of Tarshish did sing of you in your market: and you were replenished, and made very glorious in the midst of the seas.
 
 26 your rowers have brought you into great waters: the east wind has broken you in the midst of the seas.
 
@@ -1432,7 +1432,7 @@
 
 32 And in their wailing they will take up a mourning for you, and mourn over you, saying, What city is like Tyrus, like the destroyed in the midst of the sea?
 
-33 When your wares went forth out of the seas, you filledst many people; you did enrich the kings of the earth with the multitude of your riches and of your merchandise.
+33 When your wares went forth out of the seas, you filled many people; you did enrich the kings of the earth with the multitude of your riches and of your merchandise.
 
 34 In the time when you will be broken by the seas in the depths of the waters your merchandise and all your company in the midst of you will fall.
 
@@ -1466,11 +1466,11 @@
 
 12 Son of man, take up a mourning upon the king of Tyrus, and say to him, Thus says the Lord God; you seal up the sum, full of wisdom, and perfect in beauty.
 
-13 you have been in Eden the garden of God; every precious stone was your covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of your tabrets and of your pipes was prepared in you in the day that you wast created.
+13 you have been in Eden the garden of God; every precious stone was your covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of your tabrets and of your pipes was prepared in you in the day that you were created.
 
-14 you are the anointed cherub that covers; and I have set you so: you wast upon the holy mountain of God; you have walked up and down in the midst of the stones of fire.
+14 you are the anointed cherub that covers; and I have set you so: you were upon the holy mountain of God; you have walked up and down in the midst of the stones of fire.
 
-15 you wast perfect in your ways from the day that you wast created, till wickedness was found in you.
+15 you were perfect in your ways from the day that you were created, till wickedness was found in you.
 
 16 By the multitude of your merchandise they have filled the midst of you with violence, and you have sinned: therefore I will cast you as defile out of the mountain of God: and I will destroy you, O covering cherub, from the midst of the stones of fire.
 
@@ -1612,7 +1612,7 @@
 
 9 I have made him fair by the multitude of his branches: so that all the trees of Eden, that were in the garden of God, envied him.
 
-10 Therefore thus says the Lord God; Because you have lifted up thyself in height, and he has shot up his top among the thick boughs, and his heart is lifted up in his height;
+10 Therefore thus says the Lord God; Because you have lifted up yourself in height, and he has shot up his top among the thick boughs, and his heart is lifted up in his height;
 
 11 I have therefore delivered him into the hand of the mighty one of the heathen; he will surely deal with him: I have driven him out for his wickedness.
 
@@ -1634,7 +1634,7 @@
 
 1 And it came to pass in the twelfth year, in the twelfth month, in the first day of the month, that the word of the Lord came to me, saying,
 
-2 Son of man, take up a mourning for Pharaoh king of Egypt, and say to him, you are like a young lion of the nations, and you are as a whale in the seas: and you cam forth with your rivers, and troubledst the waters with your feet, and fouledst their rivers.
+2 Son of man, take up a mourning for Pharaoh king of Egypt, and say to him, you are like a young lion of the nations, and you are as a whale in the seas: and you cam forth with your rivers, and troubled the waters with your feet, and fouled their rivers.
 
 3 Thus says the Lord God; I will therefore spread out my net over you with a company of many people; and they will bring you up in my net.
 
@@ -2010,7 +2010,7 @@
 
 6 Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with you.
 
-7 Be you prepared, and prepare for thyself, you, and all your company that are assembled to you, and be you a guard to them.
+7 Be you prepared, and prepare for yourself, you, and all your company that are assembled to you, and be you a guard to them.
 
 8 After many days you will be visited: in the latter years you will come into the land that is brought back from the sword, and is gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they will dwell safely all of them.
 

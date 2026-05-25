@@ -316,7 +316,7 @@
 
 16 And I have heard of you, that you can make interpretations, and dissolve doubts: now if you can read the writing, and make known to me the interpretation of it, you will be clothed with scarlet, and have a chain of gold about your neck, and will be the third ruler in the kingdom.
 
-17 Then Daniel answered and said before the king, Let your gifts be to thyself, and give your rewards to another; yet I will read the writing to the king, and make known to him the interpretation.
+17 Then Daniel answered and said before the king, Let your gifts be to yourself, and give your rewards to another; yet I will read the writing to the king, and make known to him the interpretation.
 
 18 O you king, the most high God gave Nebuchadnezzar your father a kingdom, and majesty, and glory, and honour:
 
@@ -328,7 +328,7 @@
 
 22 And you his son, O Belshazzar, have not humbled your heart, though you knew all this;
 
-23 But have lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before you, and you, and your lords, your wives, and your secondary wives, have drunk wine in them; and you have praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand your breath is, and whose are all your ways, have you not glorified:
+23 But have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you, and your lords, your wives, and your secondary wives, have drunk wine in them; and you have praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand your breath is, and whose are all your ways, have you not glorified:
 
 24 Then was the part of the hand sent from him; and this writing was written.
 
@@ -598,7 +598,7 @@
 
 11 And he said to me, O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright: for to you am I now sent. And when he had spoken this word to me, I stood trembling.
 
-12 Then said he to me, Fear not, Daniel: for from the first day that you did set your heart to understand, and to discipline thyself before your God, your words were heard, and I am come for your words.
+12 Then said he to me, Fear not, Daniel: for from the first day that you did set your heart to understand, and to discipline yourself before your God, your words were heard, and I am come for your words.
 
 13 But the prince of the kingdom of Persia withstood me one and twenty days: but, look, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 

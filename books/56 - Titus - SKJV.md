@@ -6,7 +6,7 @@
 
 2 In hope of eternal life, which God, that cannot lie, promised before the world began;
 
-3 But has in due times revealed his word through preaching, which is committed to me according to the commandment of God our Saviour;
+3 But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Saviour;
 
 4 To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
 
@@ -48,7 +48,7 @@
 
 6 Young men likewise encourage to be sober minded.
 
-7 In all things showing thyself a pattern of good works: in doctrine showing uncorruptness, gravity, sincerity,
+7 In all things showing yourself a pattern of good works: in doctrine showing uncorruptness, gravity, sincerity,
 
 8 Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 

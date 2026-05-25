@@ -40,7 +40,7 @@
 
 19 But with the precious blood of Christ, as of a lamb without blemish and without spot:
 
-20 Who truly was foreordained before the foundation of the world, but was revealed in these last times for you,
+20 Who truly was foreordained before the foundation of the world, but was manifest in these last times for you,
 
 21 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 

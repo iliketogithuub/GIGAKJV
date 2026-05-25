@@ -20,7 +20,7 @@
 
 9 For her wound is incurable; for it is come to Judah; he is come to the gate of my people, even to Jerusalem.
 
-10 Declare you it not at Gath, weep you not at all: in the house of Aphrah roll thyself in the dust.
+10 Declare you it not at Gath, weep you not at all: in the house of Aphrah roll yourself in the dust.
 
 11 Pass you away, you inhabitant of Saphir, having your shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he will receive of you his standing.
 
@@ -118,7 +118,7 @@
 
 ## Micah Chapter 5
 
-1 Now gather thyself in troops, O daughter of troops: he has laid siege against us: they will smite the judge of Israel with a rod upon the cheek.
+1 Now gather yourself in troops, O daughter of troops: he has laid siege against us: they will smite the judge of Israel with a rod upon the cheek.
 
 2 But you, Bethlehem Ephratah, though you be little among the thousands of Judah, yet out of you will he come forth to me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
 

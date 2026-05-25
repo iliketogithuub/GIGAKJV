@@ -296,11 +296,11 @@
 
 2 you are snared with the words of your mouth, you are taken with the words of your mouth.
 
-3 Do this now, my son, and deliver thyself, when you are come into the hand of your friend; go, humble thyself, and make sure your friend.
+3 Do this now, my son, and deliver yourself, when you are come into the hand of your friend; go, humble yourself, and make sure your friend.
 
 4 Give not sleep to your eyes, nor slumber to your eyelids.
 
-5 Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.
+5 Deliver yourself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.
 
 6 Go to the ant, you sluggard; consider her ways, and be wise:
 
@@ -516,7 +516,7 @@
 
 11 For by me your days will be multiplied, and the years of your life will be increased.
 
-12 If you be wise, you will be wise for thyself: but if you scorn, you alone will bear it.
+12 If you be wise, you will be wise for yourself: but if you scorn, you alone will bear it.
 
 13 A foolish woman is clamorous: she is simple, and knows nothing.
 
@@ -1442,7 +1442,7 @@
 
 18 otherwise the Lord see it, and it displease him, and he turn away his wrath from him.
 
-19 Fret not thyself because of evil men, neither be you envious at the wicked:
+19 Fret not yourself because of evil men, neither be you envious at the wicked:
 
 20 For there will be no reward to the evil man; the candle of the wicked will be put out.
 
@@ -1458,7 +1458,7 @@
 
 26 Every man will kiss his lips that gives a right answer.
 
-27 Prepare your work without, and make it fit for thyself in the field; and afterwards build your house.
+27 Prepare your work without, and make it fit for yourself in the field; and afterwards build your house.
 
 28 Be not a witness against your neighbour without cause; and deceive not with your lips.
 
@@ -1486,7 +1486,7 @@
 
 5 Take away the wicked from before the king, and his throne will be established in righteousness.
 
-6 Put not forth thyself in the presence of the king, and stand not in the place of great men:
+6 Put not forth yourself in the presence of the king, and stand not in the place of great men:
 
 7 For better it is that it be said to you, Come up here; than that you should be put lower in the presence of the prince whom your eyes have seen.
 
@@ -1592,7 +1592,7 @@
 
 ## Proverbs Chapter 27
 
-1 Boast not thyself of to morrow; for you know not what a day may bring forth.
+1 Boast not yourself of to morrow; for you know not what a day may bring forth.
 
 2 Let another man praise you, and not your own mouth; a stranger, and not your own lips.
 
@@ -1824,7 +1824,7 @@
 
 31 A greyhound; an he goat also; and a king, against whom there is no rising up.
 
-32 If you have done foolishly in lifting up thyself, or if you have thought evil, lay your hand upon your mouth.
+32 If you have done foolishly in lifting up yourself, or if you have thought evil, lay your hand upon your mouth.
 
 33 Surely the churning of milk brings forth butter, and the wringing of the nose brings forth blood: so the forcing of wrath brings forth strife.
 

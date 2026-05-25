@@ -128,7 +128,7 @@
 
 17 I said in mine heart, God will judge the righteous and the wicked: for there is a time there for every purpose and for every work.
 
-18 I said in mine heart concerning the estate of the sons of men, that God might revealed them, and that they might see that they themselves are beasts.
+18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 
 19 For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is emptiness.
 
@@ -272,7 +272,7 @@
 
 15 All things have I seen in the days of my emptiness: there is a just man that perishs in his righteousness, and there is a wicked man that prolongs his life in his wickedness.
 
-16 Be not righteous over much; neither make thyself over wise: why should you destroy thyself ?
+16 Be not righteous over much; neither make yourself over wise: why should you destroy yourself ?
 
 17 Be not over much wicked, neither be you foolish: why should you die before your time?
 
@@ -284,7 +284,7 @@
 
 21 Also take no heed to all words that are spoken; otherwise you hear your servant curse you:
 
-22 For oftentimes also your own heart knows that you thyself likewise have cursed others.
+22 For oftentimes also your own heart knows that you yourself likewise have cursed others.
 
 23 All this have I proved by wisdom: I said, I will be wise; but it was far from me.
 

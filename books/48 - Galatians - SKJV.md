@@ -246,7 +246,7 @@
 
 13 For, brothers, you have been called to liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
 
-14 For all the law is fulfilled in one word, even in this; you will love your neighbour as thyself.
+14 For all the law is fulfilled in one word, even in this; you will love your neighbour as yourself.
 
 15 But if you bite and devour one another, take heed that you be not consumed one of another.
 
@@ -256,7 +256,7 @@
 
 18 But if you be led of the Holy Spirit, you are not under the law.
 
-19 Now the works of the flesh are revealed, which are these; Adultery, sexual sin, uncleanness, sensuality,
+19 Now the works of the flesh are manifest, which are these; Adultery, sexual sin, uncleanness, sensuality,
 
 20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, rebellions, heresies,
 
@@ -274,7 +274,7 @@
 
 ## Galatians Chapter 6
 
-1 Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the Holy Spirit of meekness; considering thyself, otherwise you also be tempted.
+1 Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the Holy Spirit of meekness; considering yourself, otherwise you also be tempted.
 
 2 Bear you one another's burdens, and so fulfil the law of Christ.
 

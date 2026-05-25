@@ -74,13 +74,13 @@
 
 16 Also the children of Noph and Tahapanes have broken the crown of your head.
 
-17 have you not procured this to thyself, in that you have forsaken the Lord your God, when he led you by the way?
+17 have you not procured this to yourself, in that you have forsaken the Lord your God, when he led you by the way?
 
 18 And now what have you to do in the way of Egypt, to drink the waters of Sihor? or what have you to do in the way of Assyria, to drink the waters of the river?
 
 19 your own wickedness will correct you, and your backslidings will correct you: know therefore and see that it is an evil thing and bitter, that you have forsaken the Lord your God, and that my fear is not in you, says the Lord God of hosts.
 
-20 For of old time I have broken your yoke, and burst your bands; and you saidst, I will not transgress; when upon every high hill and under every green tree you wander, playing the prostitute.
+20 For of old time I have broken your yoke, and burst your bands; and you said, I will not transgress; when upon every high hill and under every green tree you wander, playing the prostitute.
 
 21 Yet I had planted you a noble vine, wholly a right seed: how then are you turned into the degenerate plant of a strange vine to me?
 
@@ -90,7 +90,7 @@
 
 24 A wild ass used to the wilderness, that snuffs up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they will find her.
 
-25 Withhold your foot from being unshod, and your throat from thirst: but you saidst, There is no hope: no; for I have loved strangers, and after them will I go.
+25 Withhold your foot from being unshod, and your throat from thirst: but you said, There is no hope: no; for I have loved strangers, and after them will I go.
 
 26 As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets.
 
@@ -112,7 +112,7 @@
 
 35 Yet you say, Because I am innocent, surely his anger will turn from me. Look, I will plead with you, because you say, I have not sinned.
 
-36 Why gadd you about so much to change your way? you also will be ashamed of Egypt, as you wast ashamed of Assyria.
+36 Why gadd you about so much to change your way? you also will be ashamed of Egypt, as you were ashamed of Assyria.
 
 37 Yea, you will go forth from him, and your hands upon your head: for the Lord has rejected your confidences, and you will not prosper in them.
 
@@ -122,7 +122,7 @@
 
 2 Lift up your eyes to the high places, and see where you have not been lien with. In the ways have you sat for them, as the Arabian in the wilderness; and you have polluted the land with your whoredoms and with your wickedness.
 
-3 Therefore the showers have been withholden, and there has been no latter rain; and you had a whore's forehead, you refusedst to be ashamed.
+3 Therefore the showers have been withholden, and there has been no latter rain; and you had a whore's forehead, you refused to be ashamed.
 
 4 will you not from this time cry to me, My father, you are the guide of my youth?
 
@@ -228,7 +228,7 @@
 
 29 The whole city will flee for the noise of the horsemen and bowmen; they will go into thickets, and climb up upon the rocks: every city will be forsaken, and not a man dwell in it.
 
-30 And when you are spoiled, what will you do? Though you cloth thyself with crimson, though you deck you with ornaments of gold, though you rent your face with painting, for nothing will you make thyself fair; your lovers will despise you, they will seek your life.
+30 And when you are spoiled, what will you do? Though you cloth yourself with crimson, though you deck you with ornaments of gold, though you rent your face with painting, for nothing will you make yourself fair; your lovers will despise you, they will seek your life.
 
 31 For I have heard a voice as of a woman in labor, and the anguish as of her that brings forth her first child, the voice of the daughter of Zion, that bewails herself, that spreads her hands, saying, Woe is me now! for my soul is wearied because of murderers.
 
@@ -266,7 +266,7 @@
 
 16 Their quiver is as an open tomb, they are all mighty men.
 
-17 And they will eat up your harvest, and your bread, which your sons and your daughters should eat: they will eat up your flocks and your herds: they will eat up your vines and your fig trees: they will impoverish your fenced cities, in which you trustedst, with the sword.
+17 And they will eat up your harvest, and your bread, which your sons and your daughters should eat: they will eat up your flocks and your herds: they will eat up your vines and your fig trees: they will impoverish your fenced cities, in which you trusted, with the sword.
 
 18 Nevertheless in those days, says the Lord, I will not make a full end with you.
 
@@ -348,7 +348,7 @@
 
 25 Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side.
 
-26 O daughter of my people, gird you with sackcloth, and wallow thyself in ashes: make you mourning, as for an only son, most bitter mourning: for the spoiler will suddenly come upon us.
+26 O daughter of my people, gird you with sackcloth, and wallow yourself in ashes: make you mourning, as for an only son, most bitter mourning: for the spoiler will suddenly come upon us.
 
 27 I have set you for a tower and a fortress among my people, that you may know and try their way.
 
@@ -616,7 +616,7 @@
 
 17 For the Lord of hosts, that planted you, has pronounced evil against you, for the evil of the house of Israel and of the house of Judah, which they have done against themselves to provoke me to anger in offering incense to Baal.
 
-18 And the Lord has given me knowledge of it, and I know it: then you shewedst me their doings.
+18 And the Lord has given me knowledge of it, and I know it: then you showed me their doings.
 
 19 But I was like a lamb or an ox that is brought to the slaughter; and I knew not that they had devised devices against me, saying, Let us destroy the tree with the fruit of it, and let us cut him off from the land of the living, that his name may be no more remembered.
 
@@ -638,7 +638,7 @@
 
 4 How long will the land mourn, and the herbs of every field wither, for the wickedness of them that dwell in it? the beasts are consumed, and the birds; because they said, He will not see our last end.
 
-5 If you have run with the footmen, and they have wearied you, then how can you contend with horses? and if in the land of peace, in which you trustedst, they wearied you, then how will you do in the swelling of Jordan?
+5 If you have run with the footmen, and they have wearied you, then how can you contend with horses? and if in the land of peace, in which you trusted, they wearied you, then how will you do in the swelling of Jordan?
 
 6 For even your brothers, and the house of your father, even they have dealt treacherously with you; yea, they have called a multitude after you: believe them not, though they speak fair words to you.
 
@@ -862,7 +862,7 @@
 
 3 O my mountain in the field, I will give your substance and all your treasures to the spoil, and your high places for sin, throughout all your borders.
 
-4 And you, even thyself, will discontinue from your heritage that I gave you; and I will cause you to serve your enemies in the land which you know not: for you have burned a fire in mine anger, which will burn for ever.
+4 And you, even yourself, will discontinue from your heritage that I gave you; and I will cause you to serve your enemies in the land which you know not: for you have burned a fire in mine anger, which will burn for ever.
 
 5 Thus says the Lord; Cursed be the man that trusts in man, and makes flesh his arm, and whose heart departs from the Lord.
 
@@ -998,7 +998,7 @@
 
 3 And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah to him, The Lord has not called your name Pashur, but Magormissabib.
 
-4 For thus says the Lord, Look, I will make you a terror to thyself, and to all your friends: and they will fall by the sword of their enemies, and your eyes will see it: and I will give all Judah into the hand of the king of Babylon, and he will carry them captive into Babylon, and will slay them with the sword.
+4 For thus says the Lord, Look, I will make you a terror to yourself, and to all your friends: and they will fall by the sword of their enemies, and your eyes will see it: and I will give all Judah into the hand of the king of Babylon, and he will carry them captive into Babylon, and will slay them with the sword.
 
 5 Moreover I will deliver all the strength of this city, and all the labours of it, and all the precious things of it, and all the treasures of the kings of Judah will I give into the hand of their enemies, which will spoil them, and take them, and carry them to Babylon.
 
@@ -1088,7 +1088,7 @@
 
 14 That says, I will build me a wide house and large chambers, and cuts him out windows; and it is cieled with cedar, and painted with vermilion.
 
-15 will you reign, because you clos thyself in cedar? did not your father eat and drink, and do judgment and justice, and then it was well with him?
+15 will you reign, because you clos yourself in cedar? did not your father eat and drink, and do judgment and justice, and then it was well with him?
 
 16 He judged the cause of the poor and needy; then it was well with him: was not this to know me? says the Lord.
 
@@ -1100,7 +1100,7 @@
 
 20 Go up to Lebanon, and cry; and lift up your voice in Bashan, and cry from the passages: for all your lovers are destroyed.
 
-21 I spoke to you in your prosperity; but you saidst, I will not hear. This has been your manner from your youth, that you obeyedst not my voice.
+21 I spoke to you in your prosperity; but you said, I will not hear. This has been your manner from your youth, that you obeyed not my voice.
 
 22 The wind will eat up all your pastors, and your lovers will go into captivity: surely then will you be ashamed and confounded for all your wickedness.
 
@@ -1648,7 +1648,7 @@
 
 7 Look, Hanameel the son of Shallum your uncle will come to you saying, Buy you my field that is in Anathoth: for the right of redemption is your to buy it.
 
-8 So Hanameel mine uncle's son came to me in the court of the prison according to the word of the Lord, and said to me, Buy my field, I pray you, that is in Anathoth, which is in the country of Benjamin: for the right of inheritance is your, and the redemption is your; buy it for thyself. Then I knew that this was the word of the Lord.
+8 So Hanameel mine uncle's son came to me in the court of the prison according to the word of the Lord, and said to me, Buy my field, I pray you, that is in Anathoth, which is in the country of Benjamin: for the right of inheritance is your, and the redemption is your; buy it for yourself. Then I knew that this was the word of the Lord.
 
 9 And I bought the field of Hanameel my uncle's son, that was in Anathoth, and weighed him the money, even seventeen shekels of silver.
 
@@ -1678,7 +1678,7 @@
 
 22 And have given them this land, which you did swear to their fathers to give them, a land flowing with milk and honey;
 
-23 And they came in, and possessed it; but they obeyed not your voice, neither walked in your law; they have done nothing of all that you commandedst them to do: therefore you have caused all this evil to come upon them:
+23 And they came in, and possessed it; but they obeyed not your voice, neither walked in your law; they have done nothing of all that you commanded them to do: therefore you have caused all this evil to come upon them:
 
 24 Look at the mounts, they are come to the city to take it; and the city is given into the hand of the Chaldeans, that fight against it, because of the sword, and of the famine, and of the plague: and what you have spoken is come to pass; and, look, you se it.
 
@@ -2286,7 +2286,7 @@
 
 4 Thus will you say to him, The Lord says thus; Look, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land.
 
-5 And seek you great things for thyself? seek them not: for, look, I will bring evil upon all flesh, says the Lord: but your life will I give to you for a prey in all places where you go.
+5 And seek you great things for yourself? seek them not: for, look, I will bring evil upon all flesh, says the Lord: but your life will I give to you for a prey in all places where you go.
 
 ## Jeremiah Chapter 46
 
@@ -2326,7 +2326,7 @@
 
 18 As I live, says the King, whose name is the Lord of hosts, Surely as Tabor is among the mountains, and as Carmel by the sea, so will he come.
 
-19 O you daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph will be waste and desolate without an inhabitant.
+19 O you daughter dwelling in Egypt, furnish yourself to go into captivity: for Noph will be waste and desolate without an inhabitant.
 
 20 Egypt is like a very fair heifer, but destruction comes; it comes out of the north.
 
@@ -2356,9 +2356,9 @@
 
 4 Because of the day that comes to spoil all the Philistines, and to cut off from Tyrus and Zidon every helper that remains: for the Lord will spoil the Philistines, the remnant of the country of Caphtor.
 
-5 Baldness is come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long will you cut thyself?
+5 Baldness is come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long will you cut yourself?
 
-6 O you sword of the Lord, how long will it be ere you be quiet? put up thyself into your scabbard, rest, and be still.
+6 O you sword of the Lord, how long will it be ere you be quiet? put up yourself into your scabbard, rest, and be still.
 
 7 How can it be quiet, seeing the Lord has given it a charge against Ashkelon, and against the sea shore? there has he appointed it.
 
@@ -2416,7 +2416,7 @@
 
 26 Make you him drunken: for he magnified himself against the Lord: Moab also will wallow in his vomit, and he also will be in derision.
 
-27 For was not Israel a derision to you? was he found among thieves? for since you spak of him, you skippedst for joy.
+27 For was not Israel a derision to you? was he found among thieves? for since you spak of him, you skipped for joy.
 
 28 O you that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that makes her nest in the sides of the hole's mouth.
 
@@ -2586,7 +2586,7 @@
 
 23 How is the hammer of the whole earth cut apart and broken! how is Babylon become a desolation among the nations!
 
-24 I have laid a snare for you, and you are also taken, O Babylon, and you wast not aware: you are found, and also caught, because you have striven against the Lord.
+24 I have laid a snare for you, and you are also taken, O Babylon, and you were not aware: you are found, and also caught, because you have striven against the Lord.
 
 25 The Lord has opened his armoury, and has brought forth the weapons of his indignation: for this is the work of the Lord God of hosts in the land of the Chaldeans.
 

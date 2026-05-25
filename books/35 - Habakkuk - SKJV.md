@@ -104,7 +104,7 @@
 
 12 you did march through the land in indignation, you did thresh the heathen in anger.
 
-13 you went forth for the salvation of your people, even for salvation with your anointed; you woundedst the head out of the house of the wicked, by discovering the foundation to the neck. [Pause and reflect].
+13 you went forth for the salvation of your people, even for salvation with your anointed; you wounded the head out of the house of the wicked, by discovering the foundation to the neck. [Pause and reflect].
 
 14 you did strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 

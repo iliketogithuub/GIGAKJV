@@ -88,7 +88,7 @@
 
 43 And he straitly charged him, and forthwith sent him away;
 
-44 And says to him, See you say nothing to any man: but go your way, show thyself to the priest, and offer for your cleansing those things which Moses commanded, for a testimony to them.
+44 And says to him, See you say nothing to any man: but go your way, show yourself to the priest, and offer for your cleansing those things which Moses commanded, for a testimony to them.
 
 45 But he went out, and began to publish it much, and to blaze abroad the matter, so much so that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 
@@ -266,7 +266,7 @@
 
 21 And he said to them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?
 
-22 For there is nothing hid, which will not be revealed; neither was any thing kept secret, but that it should come abroad.
+22 For there is nothing hid, which will not be manifested; neither was any thing kept secret, but that it should come abroad.
 
 23 If any man have ears to hear, let him hear.
 
@@ -912,13 +912,13 @@
 
 20 And in the morning, as they passed by, they saw the fig tree dried up from the roots.
 
-21 And Peter calling to remembrance says to him, Master, look, the fig tree which you cursedst is withered away.
+21 And Peter calling to remembrance says to him, Master, look, the fig tree which you cursed is withered away.
 
 22 Jesus answered and said, "Have faith in God.
 
 23 For truly I tell you, whoever **says to this mountain**, 'Be lifted up and thrown into the sea,' and **does not doubt within their heart**, but fully **believes that the words spoken with their mouth will happen**—they will have exactly what they have spoken come to pass.
 
-24 Therefore I tell you, whatever things you desire when you pray, **believe that those things have been received**, and those things will revealed.
+24 Therefore I tell you, whatever things you desire when you pray, **believe that those things have been received**, and those things will manifest.
 
 25 And whenever you **stand to pray**, if you **hold a grudge** against anyone, **forgive them**, so that your Father in heaven may also forgive your sins.
 
@@ -1002,7 +1002,7 @@
 
 30 And you will love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength: this is the first commandment.
 
-31 And the second is like, namely this, you will love your neighbour as thyself. There is none other commandment greater than these.
+31 And the second is like, namely this, you will love your neighbour as yourself. There is none other commandment greater than these.
 
 32 And the scribe said to him, Well, Master, you have said the truth: for there is one God; and there is none other but he:
 
@@ -1240,7 +1240,7 @@
 
 66 And as Peter was beneath in the palace, there comes one of the maids of the high priest:
 
-67 And when she saw Peter warming himself, she looked upon him, and said, And you also wast with Jesus of Nazars.
+67 And when she saw Peter warming himself, she looked upon him, and said, And you also were with Jesus of Nazars.
 
 68 But he denied, saying, I know not, neither understand I what you say. And he went out into the porch; and the cock crew.
 
@@ -1312,7 +1312,7 @@
 
 29 And they that passed by railed on him, wagging their heads, and saying, Ah, you that destroy the temple, and build it in three days,
 
-30 Save thyself, and come down from the cross.
+30 Save yourself, and come down from the cross.
 
 31 Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.
 

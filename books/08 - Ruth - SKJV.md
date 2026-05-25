@@ -98,9 +98,9 @@
 
 1 Then Naomi her mother in law said to her, My daughter, will I not seek rest for you, that it may be well with you?
 
-2 And now is not Boaz of our relatives, with whose maidens you wast? Look, he winnows barley to night in the threshingfloor.
+2 And now is not Boaz of our relatives, with whose maidens you were? Look, he winnows barley to night in the threshingfloor.
 
-3 Wash thyself therefore, and anoint you, and put your clothing upon you, and get you down to the floor: but make not thyself known to the man, until he will have done eating and drinking.
+3 Wash yourself therefore, and anoint you, and put your clothing upon you, and get you down to the floor: but make not yourself known to the man, until he will have done eating and drinking.
 
 4 And it will be, when he lies down, that you will mark the place where he will lie, and you will go in, and uncover his feet, and lay you down; and he will tell you what you will do.
 
@@ -114,7 +114,7 @@
 
 9 And he said, Who are you? And she answered, I am Ruth your female servant: spread therefore your skirt over your female servant; for you are a near kinsman.
 
-10 And he said, Blessed be you of the Lord, my daughter: for you have showed more kindness in the latter end than at the beginning, since as you followedst not young men, whether poor or rich.
+10 And he said, Blessed be you of the Lord, my daughter: for you have showed more kindness in the latter end than at the beginning, since as you followed not young men, whether poor or rich.
 
 11 And now, my daughter, fear not; I will do to you all that you requir: for all the city of my people does know that you are a virtuous woman.
 
@@ -144,7 +144,7 @@
 
 5 Then said Boaz, What day you buy the field of the hand of Naomi, you must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.
 
-6 And the kinsman said, I cannot redeem it for myself, otherwise I mar mine own inheritance: redeem you my right to thyself; for I cannot redeem it.
+6 And the kinsman said, I cannot redeem it for myself, otherwise I mar mine own inheritance: redeem you my right to yourself; for I cannot redeem it.
 
 7 Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel.
 

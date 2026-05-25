@@ -364,7 +364,7 @@
 
 8 And Jesus answered and said to him, Get you behind me, Satan: for it is written, you will worship the Lord your God, and him only will you serve.
 
-9 And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said to him, If you be the Son of God, cast thyself down from here:
+9 And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said to him, If you be the Son of God, cast yourself down from here:
 
 10 For it is written, He will give his angels charge over you, to keep you:
 
@@ -392,7 +392,7 @@
 
 22 And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph's son?
 
-23 And he said to them, you will surely say to me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in your country.
+23 And he said to them, you will surely say to me this proverb, Physician, heal yourself: whatsoever we have heard done in Capernaum, do also here in your country.
 
 24 And he said, Truly I say to you, No prophet is accepted in his own country.
 
@@ -464,7 +464,7 @@
 
 13 And he put forth his hand, and touched him, saying, I will: be you clean. And immediately the leprosy departed from him.
 
-14 And he charged him to tell no man: but go, and show thyself to the priest, and offer for your cleansing, according as Moses commanded, for a testimony to them.
+14 And he charged him to tell no man: but go, and show yourself to the priest, and offer for your cleansing, according as Moses commanded, for a testimony to them.
 
 15 But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
 
@@ -600,7 +600,7 @@
 
 41 And why look at you the mote that is in your brother's eye, but perceiv not the beam that is in your own eye?
 
-42 Either how can you say to your brother, Brother, let me pull out the mote that is in your eye, when you thyself look not the beam that is in your own eye? you hypocrite, cast out first the beam out of your own eye, and then will you see clearly to pull out the mote that is in your brother's eye.
+42 Either how can you say to your brother, Brother, let me pull out the mote that is in your eye, when you yourself look not the beam that is in your own eye? you hypocrite, cast out first the beam out of your own eye, and then will you see clearly to pull out the mote that is in your brother's eye.
 
 43 For a good tree brings not forth corrupt fruit; neither does a corrupt tree bring forth good fruit.
 
@@ -628,7 +628,7 @@
 
 5 For he loves our nation, and he has built us a synagogue.
 
-6 Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying to him, Lord, trouble not thyself: for I am not worthy that you should enter under my roof:
+6 Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying to him, Lord, trouble not yourself: for I am not worthy that you should enter under my roof:
 
 7 therefore neither thought I myself worthy to come to you: but say in a word, and my servant will be healed.
 
@@ -752,7 +752,7 @@
 
 16 No man, when he has lighted a candle, covers it with a vessel, or puts it under a bed; but sets it on a candlestick, that they which enter in may see the light.
 
-17 For nothing is secret, that will not be made revealed; neither any thing hid, that will not be known and come abroad.
+17 For nothing is secret, that will not be made manifest; neither any thing hid, that will not be known and come abroad.
 
 18 Take heed therefore how you hear: for whosoever has, to him will be given; and whosoever has not, from him will be taken even that which he seems to have.
 
@@ -1012,7 +1012,7 @@
 
 26 He said to him, What is written in the law? how read you?
 
-27 And he answering said, you will love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbour as thyself.
+27 And he answering said, you will love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbour as yourself.
 
 28 And he said to him, you have answered right: this do, and you will live.
 
@@ -1536,7 +1536,7 @@
 
 24 And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
 
-25 But Abraham said, Son, remember that you in your lifetime receivedst your good things, and likewise Lazarus evil things: but now he is comforted, and you are tormented.
+25 But Abraham said, Son, remember that you in your lifetime received your good things, and likewise Lazarus evil things: but now he is comforted, and you are tormented.
 
 26 And beside all this, between us and you there is a great gulf fixed: so that they which would pass from here to you cannot; neither can they pass to us, that would come from from there.
 
@@ -1566,7 +1566,7 @@
 
 7 But which of you, having a servant plowing or feeding cattle, will say to him by and by, when he is come from the field, Go and sit down to meat?
 
-8 And will not rather say to him, Make ready with what I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward you will eat and drink?
+8 And will not rather say to him, Make ready with what I may sup, and gird yourself, and serve me, till I have eaten and drunken; and afterward you will eat and drink?
 
 9 does he thank that servant because he did the things that were commanded him? I think not.
 
@@ -1756,7 +1756,7 @@
 
 20 And another came, saying, Lord, look, here is your pound, which I have kept laid up in a napkin:
 
-21 For I feared you, because you are an austere man: you tak up that you layedst not down, and reap that you did not sow.
+21 For I feared you, because you are an austere man: you tak up that you laid not down, and reap that you did not sow.
 
 22 And he says to him, Out of your own mouth will I judge you, you wicked servant. you knew that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 
@@ -2204,11 +2204,11 @@
 
 36 And the soldiers also mocked him, coming to him, and offering him vinegar,
 
-37 And saying, If you be the king of the Jews, save thyself.
+37 And saying, If you be the king of the Jews, save yourself.
 
 38 And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, This Is The King Of The Jews.
 
-39 And one of the malefactors which were hanged railed on him, saying, If you be Christ, save thyself and us.
+39 And one of the malefactors which were hanged railed on him, saying, If you be Christ, save yourself and us.
 
 40 But the other answering rebuked him, saying, do not you fear God, seeing you are in the same judgment?
 

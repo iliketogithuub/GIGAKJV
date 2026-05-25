@@ -152,7 +152,7 @@
 
 12 And they told to Mordecai Esther's words.
 
-13 Then Mordecai commanded to answer Esther, Think not with thyself that you will escape in the king's house, more than all the Jews.
+13 Then Mordecai commanded to answer Esther, Think not with yourself that you will escape in the king's house, more than all the Jews.
 
 14 For if you altogether hold your peace at this time, then will there enlargement and deliverance arise to the Jews from another place; but you and your father's house will be destroyed: and who knows whether you are come to the kingdom for such a time as this?
 

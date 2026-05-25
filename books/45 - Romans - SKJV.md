@@ -38,7 +38,7 @@
 
 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
 
-19 Because that which may be known of God is revealed in them; for God has showed it to them.
+19 Because that which may be known of God is manifest in them; for God has showed it to them.
 
 20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
 
@@ -68,7 +68,7 @@
 
 ## Romans Chapter 2
 
-1 Therefore you are inexcusable, O man, whosoever you are that judg: for in which you judg another, you condemn thyself; for you that judg do the same things.
+1 Therefore you are inexcusable, O man, whosoever you are that judg: for in which you judg another, you condemn yourself; for you that judg do the same things.
 
 2 But we are sure that the judgment of God is according to truth against them which commit such things.
 
@@ -76,7 +76,7 @@
 
 4 Or despises you the riches of his goodness and patience and patience; not knowing that the goodness of God leads you to repentance?
 
-5 But after your hardness and impenitent heart treasur up to thyself wrath against the day of wrath and revelation of the righteous judgment of God;
+5 But after your hardness and impenitent heart treasur up to yourself wrath against the day of wrath and revelation of the righteous judgment of God;
 
 6 Who will render to every man according to his deeds:
 
@@ -104,11 +104,11 @@
 
 18 And know his will, and approv the things that are more excellent, being instructed out of the law;
 
-19 And are confident that you thyself are a guide of the blind, a light of them which are in darkness,
+19 And are confident that you yourself are a guide of the blind, a light of them which are in darkness,
 
 20 An instructor of the foolish, a teacher of babes, which have the form of knowledge and of the truth in the law.
 
-21 you therefore which teach another, teach you not thyself? you that preach a man should not steal, do you steal?
+21 you therefore which teach another, teach you not yourself? you that preach a man should not steal, do you steal?
 
 22 you that say a man should not commit adultery, do you commit adultery? you that abhorr idols, do you commit desecrating holy things?
 
@@ -168,7 +168,7 @@
 
 20 Therefore by the deeds of the law there will no flesh be justified in his sight: for by the law is the knowledge of sin.
 
-21 But now the righteousness of God without the law is revealed, being witnessed by the law and the prophets;
+21 But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
 
 22 Even the righteousness of God which is by faith of Jesus Christ to all and upon all them that believe: for there is no difference:
 
@@ -424,7 +424,7 @@
 
 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which will be revealed in us.
 
-19 For the earnest expectation of the creature waits for the revelation of the sons of God.
+19 For the earnest expectation of the creature waits for the manifestation of the sons of God.
 
 20 For the creature was made subject to emptiness, not willingly, but by reason of him who has subjected the same in hope,
 
@@ -574,7 +574,7 @@
 
 19 But I say, Did not Israel know? First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
-20 But Esaias is very bold, and says, I was found of them that sought me not; I was made revealed to them that asked not after me.
+20 But Esaias is very bold, and says, I was found of them that sought me not; I was made manifest to them that asked not after me.
 
 21 But to Israel he says, All day long I have stretched forth my hands to a disobedient and rebellion people.
 
@@ -714,7 +714,7 @@
 
 8 Owe no man any thing, but to love one another: for he that loves another has fulfilled the law.
 
-9 For this, you will not commit adultery, you will not kill, you will not steal, you will not bear false witness, you will not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, you will love your neighbour as thyself.
+9 For this, you will not commit adultery, you will not kill, you will not steal, you will not bear false witness, you will not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, you will love your neighbour as yourself.
 
 10 Love works no ill to his neighbour: therefore love is the fulfilling of the law.
 
@@ -770,7 +770,7 @@
 
 21 It is good neither to eat flesh, nor to drink wine, nor any thing whereby your brother stumbls, or is offended, or is made weak.
 
-22 have you faith? have it to thyself before God. Happy is he that condemns not himself in that thing which he allows.
+22 have you faith? have it to yourself before God. Happy is he that condemns not himself in that thing which he allows.
 
 23 And he that doubts is damned if he eat, because he eats not of faith: for whatsoever is not of faith is sin.
 
@@ -894,7 +894,7 @@
 
 25 Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
 
-26 But now is made revealed, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
+26 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 
 27 To God only wise, be glory through Jesus Christ for ever. Amen.
 

@@ -78,7 +78,7 @@
 
 13 I had no rest in my human spirit, because I found not Titus my brother: but taking my leave of them, I went from from there into Macedonia.
 
-14 Now thanks be to God, which always causes us to triumph in Christ, and makes revealed the savour of his knowledge by us in every place.
+14 Now thanks be to God, which always causes us to triumph in Christ, and makes manifest the savour of his knowledge by us in every place.
 
 15 For we are to God a sweet savour of Christ, in them that are saved, and in them that perish:
 
@@ -128,7 +128,7 @@
 
 1 Therefore seeing we have this ministry, as we have received mercy, we faint not;
 
-2 But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by revelation of the truth commending ourselves to every man's conscience in the sight of God.
+2 But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.
 
 3 But if our gospel be hid, it is hid to them that are lost:
 
@@ -144,9 +144,9 @@
 
 9 Persecuted, but not forsaken; cast down, but not destroyed;
 
-10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made revealed in our body.
+10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
 
-11 For we which live are always delivered to death for Jesus' sake, that the life also of Jesus might be made revealed in our mortal flesh.
+11 For we which live are always delivered to death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.
 
 12 So then death works in us, but life in you.
 
@@ -184,7 +184,7 @@
 
 10 For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad.
 
-11 Knowing therefore the terror of the Lord, we persuade men; but we are made revealed to God; and I trust also are made revealed in your consciences.
+11 Knowing therefore the terror of the Lord, we persuade men; but we are made manifest to God; and I trust also are made manifest in your consciences.
 
 12 For we praise not ourselves again to you, but give you occasion to glory on our behalf, that you may have somewhat to answer them which glory in appearance, and not in heart.
 
@@ -410,7 +410,7 @@
 
 5 For I suppose I was not a whit behind the very chiefest apostles.
 
-6 But though I be rude in speech, yet not in knowledge; but we have been throughly made revealed among you in all things.
+6 But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.
 
 7 Have I committed an offence in abasing myself that you might be exalted, because I have preached to you the gospel of God freely?
 

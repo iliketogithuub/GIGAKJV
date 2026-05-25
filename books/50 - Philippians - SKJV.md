@@ -26,7 +26,7 @@
 
 12 But I would you should understand, brothers, that the things which happened to me have fallen out rather to the furtherance of the gospel;
 
-13 So that my bonds in Christ are revealed in all the palace, and in all other places;
+13 So that my bonds in Christ are manifest in all the palace, and in all other places;
 
 14 And many of the brothers in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 

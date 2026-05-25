@@ -119,9 +119,6 @@ HARD_WORD_MAP = {
     'discerning': 'recognizing',
     'quench': 'put out',               # H3518 kabah - to quench, extinguish, put out
     'quenched': 'put out',
-    'manifest': 'revealed',            # G5319 phaneroo - to make visible, reveal
-    'manifested': 'revealed',
-    'manifestation': 'revelation',
     'languish': 'grow weak',           # H535 amal - to droop, be weak, languish
     'languished': 'grew weak',
     'languishes': 'grows weak',

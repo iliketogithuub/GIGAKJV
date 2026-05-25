@@ -112,9 +112,9 @@
 
 1 Now the days of David drew near that he should die; and he charged Solomon his son, saying,
 
-2 I go the way of all the earth: be you strong therefore, and show thyself a man;
+2 I go the way of all the earth: be you strong therefore, and show yourself a man;
 
-3 And keep the charge of the Lord your God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that you may prosper in all that you do, and whithersoever you turn thyself:
+3 And keep the charge of the Lord your God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that you may prosper in all that you do, and whithersoever you turn yourself:
 
 4 That the Lord may continue his word which he spoke concerning me, saying, If your children take heed to their way, to walk before me in truth with all their heart and with all their soul, there will not fail you (said he) a man on the throne of Israel.
 
@@ -192,7 +192,7 @@
 
 41 And it was told Solomon that Shimei had gone from Jerusalem to Gath, and was come again.
 
-42 And the king sent and called for Shimei, and said to him, Did I not make you to swear by the Lord, and protested to you, saying, Know for a certain, on the day you go out, and walk abroad any where, that you will surely die? and you saidst to me, The word that I have heard is good.
+42 And the king sent and called for Shimei, and said to him, Did I not make you to swear by the Lord, and protested to you, saying, Know for a certain, on the day you go out, and walk abroad any where, that you will surely die? and you said to me, The word that I have heard is good.
 
 43 Why then have you not kept the oath of the Lord, and the commandment that I have charged you with?
 
@@ -224,7 +224,7 @@
 
 10 And the speech pleased the Lord, that Solomon had asked this thing.
 
-11 And God said to him, Because you have asked this thing, and have not asked for thyself long life; neither have asked riches for thyself, nor have asked the life of your enemies; but have asked for thyself understanding to recognize judgment;
+11 And God said to him, Because you have asked this thing, and have not asked for yourself long life; neither have asked riches for yourself, nor have asked the life of your enemies; but have asked for yourself understanding to recognize judgment;
 
 12 Look, I have done according to your words: look, I have given you a wise and an understanding heart; so that there was none like you before you, neither after you will any arise like to you.
 
@@ -598,9 +598,9 @@
 
 23 And he said, Lord God of Israel, there is no God like you, in heaven above, or on earth beneath, who keep covenant and mercy with your servants that walk before you with all their heart:
 
-24 Who have kept with your servant David my father that you promisedst him: you spak also with your mouth, and have fulfilled it with your hand, as it is this day.
+24 Who have kept with your servant David my father that you promised him: you spak also with your mouth, and have fulfilled it with your hand, as it is this day.
 
-25 Therefore now, Lord God of Israel, keep with your servant David my father that you promisedst him, saying, There will not fail you a man in my sight to sit on the throne of Israel; so that your children take heed to their way, that they walk before me as you have walked before me.
+25 Therefore now, Lord God of Israel, keep with your servant David my father that you promised him, saying, There will not fail you a man in my sight to sit on the throne of Israel; so that your children take heed to their way, that they walk before me as you have walked before me.
 
 26 And now, O God of Israel, let your word, I pray you, be verified, which you spak to your servant David my father.
 
@@ -972,7 +972,7 @@
 
 6 And the king answered and said to the man of God, Intreat now the face of the Lord your God, and pray for me, that my hand may be restored me again. And the man of God urged the Lord, and the king's hand was restored him again, and became as it was before.
 
-7 And the king said to the man of God, Come home with me, and refresh thyself, and I will give you a reward.
+7 And the king said to the man of God, Come home with me, and refresh yourself, and I will give you a reward.
 
 8 And the man of God said to the king, If you will give me half your house, I will not go in with you, neither will I eat bread nor drink water in this place:
 
@@ -1032,7 +1032,7 @@
 
 1 At that time Abijah the son of Jeroboam fell sick.
 
-2 And Jeroboam said to his wife, Arise, I pray you, and disguise thyself, that you be not known to be the wife of Jeroboam; and get you to Shiloh: look, there is Ahijah the prophet, which told me that I should be king over this people.
+2 And Jeroboam said to his wife, Arise, I pray you, and disguise yourself, that you be not known to be the wife of Jeroboam; and get you to Shiloh: look, there is Ahijah the prophet, which told me that I should be king over this people.
 
 3 And take with you ten loaves, and cracknels, and a cruse of honey, and go to him: he will tell you what will become of the child.
 
@@ -1040,7 +1040,7 @@
 
 5 And the Lord said to Ahijah, Look, the wife of Jeroboam comes to ask a thing of you for her son; for he is sick: thus and thus will you say to her: for it will be, when she comes in, that she will feign herself to be another woman.
 
-6 And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, you wife of Jeroboam; why feign you thyself to be another? for I am sent to you with heavy tidings.
+6 And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, you wife of Jeroboam; why feign you yourself to be another? for I am sent to you with heavy tidings.
 
 7 Go, tell Jeroboam, Thus says the Lord God of Israel, Since as I exalted you from among the people, and made you prince over my people Israel,
 
@@ -1238,7 +1238,7 @@
 
 2 And the word of the Lord came to him, saying,
 
-3 Get you from here, and turn you eastward, and hide thyself by the brook Cherith, that is before Jordan.
+3 Get you from here, and turn you eastward, and hide yourself by the brook Cherith, that is before Jordan.
 
 4 And it will be, that you will drink of the brook; and I have commanded the ravens to feed you there.
 
@@ -1284,7 +1284,7 @@
 
 ## 1 Kings Chapter 18
 
-1 And it came to pass after many days, that the word of the Lord came to Elijah in the third year, saying, Go, show thyself to Ahab; and I will send rain upon the earth.
+1 And it came to pass after many days, that the word of the Lord came to Elijah in the third year, saying, Go, show yourself to Ahab; and I will send rain upon the earth.
 
 2 And Elijah went to show himself to Ahab. And there was a sore famine in Samaria.
 
@@ -1464,7 +1464,7 @@
 
 21 And the king of Israel went out, and struck the horses and chariots, and killed the Syrians with a great slaughter.
 
-22 And the prophet came to the king of Israel, and said to him, Go, strengthen thyself, and mark, and see what you do: for at the return of the year the king of Syria will come up against you.
+22 And the prophet came to the king of Israel, and said to him, Go, strengthen yourself, and mark, and see what you do: for at the return of the year the king of Syria will come up against you.
 
 23 And the servants of the king of Syria said to him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we will be stronger than they.
 
@@ -1500,7 +1500,7 @@
 
 39 And as the king passed by, he cried to the king: and he said, your servant went out into the midst of the battle; and, look, a man turned aside, and brought a man to me, and said, Keep this man: if by any means he be missing, then will your life be for his life, or else you will pay a talent of silver.
 
-40 And as your servant was busy here and there, he was gone. And the king of Israel said to him, So will your judgment be; thyself have decided it.
+40 And as your servant was busy here and there, he was gone. And the king of Israel said to him, So will your judgment be; yourself have decided it.
 
 41 And he hasted, and took the ashes away from his face; and the king of Israel recognized him that he was of the prophets.
 
@@ -1548,7 +1548,7 @@
 
 19 And you will speak to him, saying, Thus says the Lord, have you killed, and also taken possession? And you will speak to him, saying, Thus says the Lord, In the place where dogs licked the blood of Naboth will dogs lick your blood, even your.
 
-20 And Ahab said to Elijah, have you found me, O mine enemy? And he answered, I have found you: because you have sold thyself to work evil in the sight of the Lord.
+20 And Ahab said to Elijah, have you found me, O mine enemy? And he answered, I have found you: because you have sold yourself to work evil in the sight of the Lord.
 
 21 Look, I will bring evil upon you, and will take away your descendants, and will cut off from Ahab him that pisses against the wall, and him that is shut up and left in Israel,
 
@@ -1618,7 +1618,7 @@
 
 24 But Zedekiah the son of Chenaanah went near, and struck Micaiah on the cheek, and said, Which way went the Holy Spirit of the Lord from me to speak to you?
 
-25 And Micaiah said, Look, you will see in that day, when you will go into an inner chamber to hide thyself.
+25 And Micaiah said, Look, you will see in that day, when you will go into an inner chamber to hide yourself.
 
 26 And the king of Israel said, Take Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;
 

@@ -910,7 +910,7 @@
 
 14 And the children of Joseph spoke to Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, since as the Lord has blessed me until now?
 
-15 And Joshua answered them, If you be a great people, then get you up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for you.
+15 And Joshua answered them, If you be a great people, then get you up to the wood country, and cut down for yourself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for you.
 
 16 And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Bethshean and her towns, and they who are of the valley of Jezreel.
 

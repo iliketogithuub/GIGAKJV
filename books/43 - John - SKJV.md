@@ -44,7 +44,7 @@
 
 21 And they asked him, What then? are you Elias? And he says, I am not. are you that prophet? And he answered, No.
 
-22 Then said they to him, Who are you? that we may give an answer to them that sent us. What say you of thyself?
+22 Then said they to him, Who are you? that we may give an answer to them that sent us. What say you of yourself?
 
 23 He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
 
@@ -62,7 +62,7 @@
 
 30 This is he of whom I said, After me comes a man which is preferred before me: for he was before me.
 
-31 And I knew him not: but that he should be made revealed to Israel, therefore am I come baptizing with water.
+31 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 
 32 And John bare record, saying, I saw the Holy Spirit descending from heaven like a dove, and it stayed upon him.
 
@@ -96,7 +96,7 @@
 
 47 Jesus saw Nathanael coming to him, and says of him, Look an Israelite indeed, in whom is no guile!
 
-48 Nathanael says to him, From where know you me? Jesus answered and said to him, Before that Philip called you, when you wast under the fig tree, I saw you.
+48 Nathanael says to him, From where know you me? Jesus answered and said to him, Before that Philip called you, when you were under the fig tree, I saw you.
 
 49 Nathanael answered and says to him, Rabbi, you are the Son of God; you are the King of Israel.
 
@@ -126,7 +126,7 @@
 
 10 And says to him, Every man at the beginning does set forth good wine; and when men have well drunk, then that which is worse: but you have kept the good wine until now.
 
-11 This beginning of miracles did Jesus in Cana of Galilee, and revealed forth his glory; and his disciples believed on him.
+11 This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
 
 12 After this he went down to Capernaum, he, and his mother, and his brothers, and his disciples: and they continued there not many days.
 
@@ -198,7 +198,7 @@
 
 20 For every one that does evil hates the light, neither comes to the light, otherwise his deeds should be corrected.
 
-21 But he that does truth comes to the light, that his deeds may be made revealed, that they are worked in God.
+21 But he that does truth comes to the light, that his deeds may be made manifest, that they are worked in God.
 
 22 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 
@@ -266,7 +266,7 @@
 
 17 The woman answered and said, I have no husband. Jesus said to her, you have well said, I have no husband:
 
-18 For you have had five husbands; and he whom you now have is not your husband: in that saidst you truly.
+18 For you have had five husbands; and he whom you now have is not your husband: in that said you truly.
 
 19 The woman says to him, Sir, I perceive that you are a prophet.
 
@@ -588,7 +588,7 @@
 
 3 His brothers therefore said to him, Depart from here, and go into Judaea, that your disciples also may see the works that you do.
 
-4 For there is no man that does any thing in secret, and he himself seeks to be known openly. If you do these things, show thyself to the world.
+4 For there is no man that does any thing in secret, and he himself seeks to be known openly. If you do these things, show yourself to the world.
 
 5 For neither did his brothers believe in him.
 
@@ -714,7 +714,7 @@
 
 12 Then spoke Jesus again to them, saying, I am the light of the world: he that follows me will not walk in darkness, but will have the light of life.
 
-13 The Pharisees therefore said to him, you bear record of thyself; your record is not true.
+13 The Pharisees therefore said to him, you bear record of yourself; your record is not true.
 
 14 Jesus answered and said to them, Though I bear record of myself, yet my record is true: for I know from where I came, and where I go; but you cannot tell from where I come, and where I go.
 
@@ -794,7 +794,7 @@
 
 52 Then said the Jews to him, Now we know that you have a devil. Abraham is dead, and the prophets; and you say, If a man keep my saying, he will never taste of death.
 
-53 are you greater than our father Abraham, which is dead? and the prophets are dead: whom mak you thyself?
+53 are you greater than our father Abraham, which is dead? and the prophets are dead: whom mak you yourself?
 
 54 Jesus answered, If I honour myself, my honour is nothing: it is my Father that honours me; of whom you say, that he is your God:
 
@@ -814,7 +814,7 @@
 
 2 And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
 
-3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made revealed in him.
+3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
 4 I must work the works of him that sent me, while it is day: the night comes, when no man can work.
 
@@ -876,7 +876,7 @@
 
 33 If this man were not of God, he could do nothing.
 
-34 They answered and said to him, you wast altogether born in sins, and do you teach us? And they cast him out.
+34 They answered and said to him, you were altogether born in sins, and do you teach us? And they cast him out.
 
 35 Jesus heard that they had cast him out; and when he had found him, he said to him, do you believe on the Son of God?
 
@@ -958,7 +958,7 @@
 
 32 Jesus answered them, Many good works have I showed you from my Father; for which of those works do you stone me?
 
-33 The Jews answered him, saying, For a good work we stone you not; but for blasphemy; and because that you, being a man, mak thyself God.
+33 The Jews answered him, saying, For a good work we stone you not; but for blasphemy; and because that you, being a man, mak yourself God.
 
 34 Jesus answered them, Is it not written in your law, I said, you are gods?
 
@@ -1316,9 +1316,9 @@
 
 20 At that day you will know that I am in my Father, and you in me, and I in you.
 
-21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will revealed myself to him.
+21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will manifest myself to him.
 
-22 Judas says to him, not Iscariot, Lord, how is it that you will revealed thyself to us, and not to the world?
+22 Judas says to him, not Iscariot, Lord, how is it that you will manifest yourself to us, and not to the world?
 
 23 Jesus answered and said to him, If a man love me, he will keep my words: and my Father will love him, and we will come to him, and make our stayed with him.
 
@@ -1474,7 +1474,7 @@
 
 5 And now, O Father, glorify you me with your own self with the glory which I had with you before the world was.
 
-6 I have revealed your name to the men which you gav me out of the world: your they were, and you gav them me; and they have kept your word.
+6 I have manifested your name to the men which you gav me out of the world: your they were, and you gav them me; and they have kept your word.
 
 7 Now they have known that all things whatsoever you have given me are of you.
 
@@ -1510,7 +1510,7 @@
 
 23 I in them, and you in me, that they may be made perfect in one; and that the world may know that you have sent me, and have loved them, as you have loved me.
 
-24 Father, I will that they also, whom you have given me, be with me where I am; that they may see my glory, which you have given me: for you lovedst me before the foundation of the world.
+24 Father, I will that they also, whom you have given me, be with me where I am; that they may see my glory, which you have given me: for you loved me before the foundation of the world.
 
 25 O righteous Father, the world has not known you: but I have known you, and these have known that you have sent me.
 
@@ -1584,7 +1584,7 @@
 
 33 Then Pilate entered into the judgment hall again, and called Jesus, and said to him, are you the King of the Jews?
 
-34 Jesus answered him, Say you this thing of thyself, or did others tell it you of me?
+34 Jesus answered him, Say you this thing of yourself, or did others tell it you of me?
 
 35 Pilate answered, Am I a Jew? your own nation and the chief priests have delivered you to me: what have you done?
 
@@ -1784,7 +1784,7 @@
 
 17 He says to him the third time, Simon, son of Jonas, lov you me? Peter was grieved because he said to him the third time, Lov you me? And he said to him, Lord, you know all things; you know that I love you. Jesus says to him, Feed my sheep.
 
-18 Truly, truly, I say to you, When you wast young, you gird thyself, and walkedst where you would: but when you will be old, you will stretch forth your hands, and another will gird you, and carry you where you would not.
+18 Truly, truly, I say to you, When you were young, you gird yourself, and walked where you would: but when you will be old, you will stretch forth your hands, and another will gird you, and carry you where you would not.
 
 19 This spoke he, signifying by what death he should glorify God. And when he had spoken this, he says to him, Follow me.
 

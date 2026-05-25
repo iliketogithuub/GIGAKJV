@@ -28,7 +28,7 @@
 
 13 And David said to the young man that told him, From where are you? And he answered, I am the son of a stranger, an Amalekite.
 
-14 And David said to him, How wast you not afraid to stretch forth your hand to destroy the Lord's anointed?
+14 And David said to him, How were you not afraid to stretch forth your hand to destroy the Lord's anointed?
 
 15 And David called one of the young men, and said, Go near, and fall upon him. And he struck him that he died.
 
@@ -50,7 +50,7 @@
 
 24 you daughters of Israel, weep over Saul, who clothed you in scarlet, with other delights, who put on ornaments of gold upon your clothing.
 
-25 How are the mighty fallen in the midst of the battle! O Jonathan, you wast slain in your high places.
+25 How are the mighty fallen in the midst of the battle! O Jonathan, you were slain in your high places.
 
 26 I am distressed for you, my brother Jonathan: very pleasant have you been to me: your love to me was wonderful, passing the love of women.
 
@@ -232,7 +232,7 @@
 
 1 Then came all the tribes of Israel to David to Hebron, and spoke, saying, Look, we are your bone and your flesh.
 
-2 Also in time past, when Saul was king over us, you wast he that ledd out and brought in Israel: and the Lord said to you, you will feed my people Israel, and you will be a captain over Israel.
+2 Also in time past, when Saul was king over us, you were he that ledd out and brought in Israel: and the Lord said to you, you will feed my people Israel, and you will be a captain over Israel.
 
 3 So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the Lord: and they anointed David king over Israel.
 
@@ -276,7 +276,7 @@
 
 23 And when David enquired of the Lord, he said, you will not go up; but fetch a compass behind them, and come upon them over against the mulberry trees.
 
-24 And let it be, when you hear the sound of a going in the tops of the mulberry trees, that then you will bestir thyself: for then will the Lord go out before you, to smite the host of the Philistines.
+24 And let it be, when you hear the sound of a going in the tops of the mulberry trees, that then you will bestir yourself: for then will the Lord go out before you, to smite the host of the Philistines.
 
 25 And David did so, as the Lord had commanded him; and struck the Philistines from Geba until you come to Gazer.
 
@@ -374,9 +374,9 @@
 
 22 therefore you are great, O Lord God: for there is none like you, neither is there any God beside you, according to all that we have heard with our ears.
 
-23 And what one nation in the earth is like your people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for your land, before your people, which you redeemedst to you from Egypt, from the nations and their gods?
+23 And what one nation in the earth is like your people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for your land, before your people, which you redeemed to you from Egypt, from the nations and their gods?
 
-24 For you have confirmed to thyself your people Israel to be a people to you for ever: and you, Lord, are become their God.
+24 For you have confirmed to yourself your people Israel to be a people to you for ever: and you, Lord, are become their God.
 
 25 And now, O Lord God, the word that you have spoken concerning your servant, and concerning his house, establish it for ever, and do as you have said.
 
@@ -624,7 +624,7 @@
 
 4 And he said to him, Why are you, being the king's son, lean from day to day? will you not tell me? And Amnon said to him, I love Tamar, my brother Absalom's sister.
 
-5 And Jonadab said to him, Lay you down on your bed, and make thyself sick: and when your father comes to see you, say to him, I pray you, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.
+5 And Jonadab said to him, Lay you down on your bed, and make yourself sick: and when your father comes to see you, say to him, I pray you, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.
 
 6 So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said to the king, I pray you, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.
 
@@ -698,7 +698,7 @@
 
 1 Now Joab the son of Zeruiah perceived that the king's heart was toward Absalom.
 
-2 And Joab sent to Tekoah, and fetched from there a wise woman, and said to her, I pray you, feign thyself to be a mourner, and put on now mourning clothing, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:
+2 And Joab sent to Tekoah, and fetched from there a wise woman, and said to her, I pray you, feign yourself to be a mourner, and put on now mourning clothing, and anoint not yourself with oil, but be as a woman that had a long time mourned for the dead:
 
 3 And come to the king, and speak on this manner to him. So Joab put the words in her mouth.
 
@@ -972,7 +972,7 @@
 
 12 And the man said to Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king's son: for in our hearing the king charged you and Abishai and Ittai, saying, Beware that none touch the young man Absalom.
 
-13 Otherwise I should have done falsehood against mine own life: for there is no matter hid from the king, and you thyself would have set thyself against me.
+13 Otherwise I should have done falsehood against mine own life: for there is no matter hid from the king, and you yourself would have set yourself against me.
 
 14 Then said Joab, I may not tarry thus with you. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
 
@@ -1254,9 +1254,9 @@
 
 25 Therefore the Lord has rewarded me according to my righteousness; according to my cleanness in his eye sight.
 
-26 With the merciful you will show thyself merciful, and with the upright man you will show thyself upright.
+26 With the merciful you will show yourself merciful, and with the upright man you will show yourself upright.
 
-27 With the pure you will show thyself pure; and with the stubborn you will show thyself unsavoury.
+27 With the pure you will show yourself pure; and with the stubborn you will show yourself unsavoury.
 
 28 And the afflicted people you will save: but your eyes are upon the haughty, that you may bring them down.
 

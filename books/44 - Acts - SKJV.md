@@ -240,7 +240,7 @@
 
 15 But when they had commanded them to go aside out of the council, they conferred among themselves,
 
-16 Saying, What will we do to these men? for that indeed a notable miracle has been done by them is revealed to all them that dwell in Jerusalem; and we cannot deny it.
+16 Saying, What will we do to these men? for that indeed a notable miracle has been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it.
 
 17 But that it spread no further among the people, let us straitly threaten them, that they speak from now on to no man in this name.
 
@@ -582,7 +582,7 @@
 
 28 Was returning, and sitting in his chariot read Esaias the prophet.
 
-29 Then the Holy Spirit said to Philip, Go near, and join thyself to this chariot.
+29 Then the Holy Spirit said to Philip, Go near, and join yourself to this chariot.
 
 30 And Philip ran there to him, and heard him read the prophet Esaias, and said, Understand you what you read?
 
@@ -870,7 +870,7 @@
 
 7 And, look, the angel of the Lord came upon him, and a light shined in the prison: and he struck Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
 
-8 And the angel said to him, Gird thyself, and bind on your sandals. And so he did. And he says to him, Cast your garment about you, and follow me.
+8 And the angel said to him, Gird yourself, and bind on your sandals. And so he did. And he says to him, Cast your garment about you, and follow me.
 
 9 And he went out, and followed him; and knew not that it was true which was done by the angel; but thought he saw a vision.
 
@@ -1210,7 +1210,7 @@
 
 27 And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.
 
-28 But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here.
+28 But Paul cried with a loud voice, saying, Do yourself no harm: for we are all here.
 
 29 Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas,
 
@@ -1574,7 +1574,7 @@
 
 23 Do therefore this that we say to you: We have four men which have a vow on them;
 
-24 Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning you, are nothing; but that you thyself also walk orderly, and keep the law.
+24 Them take, and purify yourself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning you, are nothing; but that you yourself also walk orderly, and keep the law.
 
 25 As touching the Gentiles which believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from sexual sin.
 
@@ -1758,7 +1758,7 @@
 
 7 But the chief captain Lysias came upon us, and with great violence took him away out of our hands,
 
-8 Commanding his accusers to come to you: by examining of whom thyself may take knowledge of all these things, whereof we accuse him.
+8 Commanding his accusers to come to you: by examining of whom yourself may take knowledge of all these things, whereof we accuse him.
 
 9 And the Jews also assented, saying that these things were so.
 
@@ -1856,7 +1856,7 @@
 
 ## Acts Chapter 26
 
-1 Then Agrippa said to Paul, you are permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
+1 Then Agrippa said to Paul, you are permitted to speak for yourself. Then Paul stretched forth the hand, and answered for himself:
 
 2 I think myself happy, king Agrippa, because I will answer for myself this day before you touching all the things whereof I am accused of the Jews:
 
@@ -1902,7 +1902,7 @@
 
 23 That Christ should suffer, and that he should be the first that should rise from the dead, and should show light to the people, and to the Gentiles.
 
-24 And as he thus spoke for himself, Festus said with a loud voice, Paul, you are beside thyself; much learning does make you mad.
+24 And as he thus spoke for himself, Festus said with a loud voice, Paul, you are beside yourself; much learning does make you mad.
 
 25 But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.
 

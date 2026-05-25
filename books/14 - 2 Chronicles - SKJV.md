@@ -22,7 +22,7 @@
 
 10 Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this your people, that is so great?
 
-11 And God said to Solomon, Because this was in your heart, and you have not asked riches, wealth, or honour, nor the life of your enemies, neither yet have asked long life; but have asked wisdom and knowledge for thyself, that you may judge my people, over whom I have made you king:
+11 And God said to Solomon, Because this was in your heart, and you have not asked riches, wealth, or honour, nor the life of your enemies, neither yet have asked long life; but have asked wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king:
 
 12 Wisdom and knowledge is granted to you; and I will give you riches, and wealth, and honour, such as none of the kings have had that have been before you, neither will there any after you have the like.
 
@@ -778,7 +778,7 @@
 
 23 Then Zedekiah the son of Chenaanah came near, and struck Micaiah upon the cheek, and said, Which way went the Holy Spirit of the Lord from me to speak to you?
 
-24 And Micaiah said, Look, you will see on that day when you will go into an inner chamber to hide thyself.
+24 And Micaiah said, Look, you will see on that day when you will go into an inner chamber to hide yourself.
 
 25 Then the king of Israel said, Take you Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;
 
@@ -898,7 +898,7 @@
 
 36 And he joined himself with him to make ships to go to Tarshish: and they made the ships in Eziongaber.
 
-37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because you have joined thyself with Ahaziah, the Lord has broken your works. And the ships were broken, that they were not able to go to Tarshish.
+37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because you have joined yourself with Ahaziah, the Lord has broken your works. And the ships were broken, that they were not able to go to Tarshish.
 
 ## 2 Chronicles Chapter 21
 
@@ -926,7 +926,7 @@
 
 12 And there came a writing to him from Elijah the prophet, saying, Thus says the Lord God of David your father, Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah,
 
-13 But have walked in the way of the kings of Israel, and have made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also have slain your brothers of your father's house, which were better than thyself:
+13 But have walked in the way of the kings of Israel, and have made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also have slain your brothers of your father's house, which were better than yourself:
 
 14 Look, with a great plague will the Lord smite your people, and your children, and your wives, and all your goods:
 
@@ -1598,7 +1598,7 @@
 
 26 And as for the king of Judah, who sent you to enquire of the Lord, so will you say to him, Thus says the Lord God of Israel concerning the words which you have heard;
 
-27 Because your heart was tender, and you did humble thyself before God, when you heard his words against this place, and against the inhabitants of it, and humbledst thyself before me, and did rend your clothes, and weep before me; I have even heard you also, says the Lord.
+27 Because your heart was tender, and you did humble yourself before God, when you heard his words against this place, and against the inhabitants of it, and humbled yourself before me, and did rend your clothes, and weep before me; I have even heard you also, says the Lord.
 
 28 Look, I will gather you to your fathers, and you will be gathered to your grave in peace, neither will your eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again.
 

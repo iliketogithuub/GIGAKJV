@@ -58,7 +58,7 @@
 
 6 Ho, ho, come forth, and flee from the land of the north, says the Lord: for I have spread you abroad as the four winds of the heaven, says the Lord.
 
-7 Deliver thyself, O Zion, that dwell with the daughter of Babylon.
+7 Deliver yourself, O Zion, that dwell with the daughter of Babylon.
 
 8 For thus says the Lord of hosts; After the glory has he sent me to the nations which spoiled you: for he that touchs you touchs the apple of his eye.
 

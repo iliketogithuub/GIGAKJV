@@ -10,7 +10,7 @@
 
 4 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and sufferings that you endure:
 
-5 Which is a revealed token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
+5 Which is a manifest token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
 
 6 Seeing it is a righteous thing with God to repay suffering to them that trouble you;
 

@@ -44,7 +44,7 @@
 
 6 But one in a certain place testified, saying, What is man, that you are mindful of him? or the son of man that you visit him?
 
-7 you mad him a little lower than the angels; you crownedst him with glory and honour, and did set him over the works of your hands:
+7 you mad him a little lower than the angels; you crowned him with glory and honour, and did set him over the works of your hands:
 
 8 you have put all things in submission under his feet. For in that he put all in submission under him, he left nothing that is not put under him. But now we see not yet all things put under him.
 
@@ -134,7 +134,7 @@
 
 12 For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing apart of soul and human spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
-13 Neither is there any creature that is not revealed in his sight: but all things are naked and opened to the eyes of him with whom we have to do.
+13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened to the eyes of him with whom we have to do.
 
 14 Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
 
@@ -316,7 +316,7 @@
 
 7 But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:
 
-8 The Holy Spirit this signifying, that the way into the holiest of all was not yet made revealed, while as the first tabernacle was yet standing:
+8 The Holy Spirit this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:
 
 9 Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
 

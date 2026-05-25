@@ -136,7 +136,7 @@
 
 5 Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. [Pause and reflect].
 
-6 Arise, O Lord, in your anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that you have commanded.
+6 Arise, O Lord, in your anger, lift up yourself because of the rage of mine enemies: and awake for me to the judgment that you have commanded.
 
 7 So will the congregation of the people compass you about: for their sakes therefore return you on high.
 
@@ -224,7 +224,7 @@
 
 ## Psalm Chapter 10
 
-1 Why stand you afar off, O Lord? why hid you thyself in times of trouble?
+1 Why stand you afar off, O Lord? why hid you yourself in times of trouble?
 
 2 The wicked in his pride does persecute the poor: let them be taken in the devices that they have imagined.
 
@@ -442,9 +442,9 @@
 
 24 Therefore has the Lord rewarded me according to my righteousness, according to the cleanness of my hands in his eyesight.
 
-25 With the merciful you will show thyself merciful; with an upright man you will show thyself upright;
+25 With the merciful you will show yourself merciful; with an upright man you will show yourself upright;
 
-26 With the pure you will show thyself pure; and with the stubborn you will show thyself stubborn.
+26 With the pure you will show yourself pure; and with the stubborn you will show yourself stubborn.
 
 27 For you will save the afflicted people; but will bring down high looks.
 
@@ -760,7 +760,7 @@
 
 7 Hear, O Lord, when I cry with my voice: have mercy also upon me, and answer me.
 
-8 When you saidst, Seek you my face; my heart said to you, your face, Lord, will I seek.
+8 When you said, Seek you my face; my heart said to you, your face, Lord, will I seek.
 
 9 Hide not your face far from me; put not your servant away in anger: you have been my help; leave me not, neither forsake me, O God of my salvation.
 
@@ -1056,7 +1056,7 @@
 
 22 This you have seen, O Lord: keep not silence: O Lord, be not far from me.
 
-23 Stir up thyself, and awake to my judgment, even to my cause, my God and my Lord.
+23 Stir up yourself, and awake to my judgment, even to my cause, my God and my Lord.
 
 24 Judge me, O Lord my God, according to your righteousness; and let them not rejoice over me.
 
@@ -1096,21 +1096,21 @@
 
 ## Psalm Chapter 37
 
-1 Fret not thyself because of evildoers, neither be you envious against the workers of wickedness.
+1 Fret not yourself because of evildoers, neither be you envious against the workers of wickedness.
 
 2 For they will soon be cut down like the grass, and wither as the green herb.
 
 3 Trust in the Lord, and do good; so will you dwell in the land, and truly you will be fed.
 
-4 Delight thyself also in the Lord: and he will give you the desires of your heart.
+4 Delight yourself also in the Lord: and he will give you the desires of your heart.
 
 5 Commit your way to the Lord; trust also in him; and he will bring it to pass.
 
 6 And he will bring forth your righteousness as the light, and your judgment as the noonday.
 
-7 REST in the Lord, and wait patiently for him: fret not thyself because of him who prospers in his way, because of the man who brings wicked devices to pass.
+7 REST in the Lord, and wait patiently for him: fret not yourself because of him who prospers in his way, because of the man who brings wicked devices to pass.
 
-8 Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.
+8 Cease from anger, and forsake wrath: fret not yourself in any wise to do evil.
 
 9 For evildoers will be cut off: but those that wait upon the Lord, they will inherit the earth.
 
@@ -1354,7 +1354,7 @@
 
 1 We have heard with our ears, O God, our fathers have told us, what work you did in their days, in the times of old.
 
-2 How you did drive out the heathen with your hand, and plantedst them; how you did afflict the people, and cast them out.
+2 How you did drive out the heathen with your hand, and planted them; how you did afflict the people, and cast them out.
 
 3 For they got not the land in possession by their own sword, neither did their own arm save them: but your right hand, and your arm, and the light of your face, because you had a favour to them.
 
@@ -1550,7 +1550,7 @@
 
 17 For when he dies he will carry nothing away: his glory will not descend after him.
 
-18 Though while he lived he blessed his soul: and men will praise you, when you do well to thyself.
+18 Though while he lived he blessed his soul: and men will praise you, when you do well to yourself.
 
 19 He will go to the generation of his fathers; they will never see light.
 
@@ -1592,13 +1592,13 @@
 
 17 Seeing you hat instruction, and casts my words behind you.
 
-18 When you saw a thief, then you consentedst with him, and have been partaker with adulterers.
+18 When you saw a thief, then you consented with him, and have been partaker with adulterers.
 
 19 you giv your mouth to evil, and your tongue frams deceit.
 
 20 you sitt and speak against your brother; you slander your own mother's son.
 
-21 These things have you done, and I kept silence; you thought that I was altogether such an one as thyself: but I will correct you, and set them in order before your eyes.
+21 These things have you done, and I kept silence; you thought that I was altogether such an one as yourself: but I will correct you, and set them in order before your eyes.
 
 22 Now consider this, you that forget God, otherwise I tear you in pieces, and there be none to deliver.
 
@@ -1646,7 +1646,7 @@
 
 ## Psalm Chapter 52
 
-1 Why boast you thyself in mischief, O mighty man? the goodness of God endures continually.
+1 Why boast you yourself in mischief, O mighty man? the goodness of God endures continually.
 
 2 The tongue deviss mischiefs; like a sharp razor, working deceitfully.
 
@@ -1696,7 +1696,7 @@
 
 ## Psalm Chapter 55
 
-1 Give ear to my prayer, O God; and hide not thyself from my prayer.
+1 Give ear to my prayer, O God; and hide not yourself from my prayer.
 
 2 Attend to me, and hear me: I mourn in my complaint, and make a noise;
 
@@ -1856,7 +1856,7 @@
 
 ## Psalm Chapter 60
 
-1 O God, you have cast us off, you have scattered us, you have been displeased; O turn thyself to us again.
+1 O God, you have cast us off, you have scattered us, you have been displeased; O turn yourself to us again.
 
 2 you have made the earth to tremble; you have broken it: heal the breaches of it; for it shaks.
 
@@ -2020,7 +2020,7 @@
 
 10 For you, O God, have proved us: you have tried us, as silver is tried.
 
-11 you brought us into the net; you laidst affliction upon our loins.
+11 you brought us into the net; you laid affliction upon our loins.
 
 12 you have caused men to ride over our heads; we went through fire and through water: but you brought us out into a wealthy place.
 
@@ -2342,7 +2342,7 @@
 
 17 Until I went into the sanctuary of God; then understood I their end.
 
-18 Surely you did set them in slippery places: you castedst them down into destruction.
+18 Surely you did set them in slippery places: you casted them down into destruction.
 
 19 How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
 
@@ -2394,7 +2394,7 @@
 
 14 you brak the heads of leviathan in pieces, and gav him to be meat to the people inhabiting the wilderness.
 
-15 you did cleave the fountain and the flood: you driedst up mighty rivers.
+15 you did cleave the fountain and the flood: you dried up mighty rivers.
 
 16 The day is your, the night also is your: you have prepared the light and the sun.
 
@@ -2694,7 +2694,7 @@
 
 8 you have brought a vine out of Egypt: you have cast out the heathen, and planted it.
 
-9 you preparedst room before it, and did cause it to take deep root, and it filled the land.
+9 you prepared room before it, and did cause it to take deep root, and it filled the land.
 
 10 The hills were covered with the shadow of it, and the boughs of it were like the goodly cedars.
 
@@ -2706,11 +2706,11 @@
 
 14 Return, we urge you, O God of hosts: look down from heaven, and look, and visit this vine;
 
-15 And the vineyard which your right hand has planted, and the branch that you mad strong for thyself.
+15 And the vineyard which your right hand has planted, and the branch that you mad strong for yourself.
 
 16 It is burned with fire, it is cut down: they perish at the rebuke of your face.
 
-17 Let your hand be upon the man of your right hand, upon the son of man whom you mad strong for thyself.
+17 Let your hand be upon the man of your right hand, upon the son of man whom you mad strong for yourself.
 
 18 So will not we go back from you: quicken us, and we will call upon your name.
 
@@ -2730,7 +2730,7 @@
 
 6 I removed his shoulder from the burden: his hands were delivered from the pots.
 
-7 you calledst in trouble, and I delivered you; I answered you in the secret place of thunder: I proved you at the waters of Meribah. [Pause and reflect].
+7 you called in trouble, and I delivered you; I answered you in the secret place of thunder: I proved you at the waters of Meribah. [Pause and reflect].
 
 8 Hear, O my people, and I will testify to you: O Israel, if you will listen to me;
 
@@ -2838,7 +2838,7 @@
 
 2 you have forgiven the wickedness of your people, you have covered all their sin. [Pause and reflect].
 
-3 you have taken away all your wrath: you have turned thyself from the fierceness of your anger.
+3 you have taken away all your wrath: you have turned yourself from the fierceness of your anger.
 
 4 Turn us, O God of our salvation, and cause your anger toward us to cease.
 
@@ -2988,7 +2988,7 @@
 
 18 For the Lord is our defence; and the Holy One of Israel is our king.
 
-19 Then you spak in vision to your holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people.
+19 Then you spak in vision to your holy one, and said, I have laid help upon one that is mighty; I have exalted one chosen out of the people.
 
 20 I have found David my servant; with my holy oil have I anointed him:
 
@@ -3042,7 +3042,7 @@
 
 45 The days of his youth have you shortened: you have covered him with shame. [Pause and reflect].
 
-46 How long, Lord? will you hide thyself for ever? will your wrath burn like fire?
+46 How long, Lord? will you hide yourself for ever? will your wrath burn like fire?
 
 47 Remember how short my time is: therefore have you made all men for nothing?
 
@@ -3172,9 +3172,9 @@
 
 ## Psalm Chapter 94
 
-1 O Lord God, to whom vengeance belongs; O God, to whom vengeance belongs, show thyself.
+1 O Lord God, to whom vengeance belongs; O God, to whom vengeance belongs, show yourself.
 
-2 Lift up thyself, you judge of the earth: render a reward to the proud.
+2 Lift up yourself, you judge of the earth: render a reward to the proud.
 
 3 Lord, how long will the wicked, how long will the wicked triumph?
 
@@ -3332,7 +3332,7 @@
 
 7 He spoke to them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.
 
-8 you answeredst them, O Lord our God: you wast a God that forgav them, though you took vengeance of their inventions.
+8 you answered them, O Lord our God: you were a God that forgav them, though you took vengeance of their inventions.
 
 9 Exalt the Lord our God, and worship at his holy hill; for the Lord our God is holy.
 
@@ -3474,7 +3474,7 @@
 
 1 Bless the Lord, O my soul. O Lord my God, you are very great; you are clothed with honour and majesty.
 
-2 Who cover thyself with light as with a garment: who stretch out the heavens like a curtain:
+2 Who cover yourself with light as with a garment: who stretch out the heavens like a curtain:
 
 3 Who lays the beams of his chambers in the waters: who makes the clouds his chariot: who walks upon the wings of the wind:
 
@@ -3482,7 +3482,7 @@
 
 5 Who laid the foundations of the earth, that it should not be removed for ever.
 
-6 you coveredst it with the deep as with a garment: the waters stood above the mountains.
+6 you covered it with the deep as with a garment: the waters stood above the mountains.
 
 7 At your rebuke they fled; at the voice of your thunder they hasted away.
 
@@ -4002,7 +4002,7 @@
 
 4 The mountains skipped like rams, and the little hills like lambs.
 
-5 What ailed you, O you sea, that you fledd? you Jordan, that you wast driven back?
+5 What ailed you, O you sea, that you fledd? you Jordan, that you were driven back?
 
 6 you mountains, that you skipped like rams; and you little hills, like lambs?
 
@@ -4864,7 +4864,7 @@
 
 2 I will worship toward your holy temple, and praise your name for your faithful love and for your truth: for you have magnified your word above all your name.
 
-3 In the day when I cried you answeredst me, and strengthenedst me with strength in my soul.
+3 In the day when I cried you answered me, and strengthened me with strength in my soul.
 
 4 All the kings of the earth will praise you, O Lord, when they hear the words of your mouth.
 

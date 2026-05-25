@@ -72,7 +72,7 @@
 
 7 Do not they blaspheme that worthy name by the which you are called?
 
-8 If you fulfil the royal law according to the scripture, you will love your neighbour as thyself, you do well:
+8 If you fulfil the royal law according to the scripture, you will love your neighbour as yourself, you do well:
 
 9 But if you have respect to persons, you commit sin, and are convinced of the law as sinners.
 
