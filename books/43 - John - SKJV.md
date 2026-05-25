@@ -4,13 +4,13 @@
 
 1 In the beginning was the Word, and the Word was with God, and the Word was God.
 
-2 The same was in the beginning with God.
+2 This exact Word was in the beginning with God.
 
-3 All things were made by him; and without him was not any thing made that was made.
+3 All things were created through the Word; and apart from the Word, not a single thing was created that exists.
 
-4 In him was life; and the life was the light of men.
+4 Inside the Word was life; and the life was the light of humanity.
 
-5 And the light shins in darkness; and the darkness comprehended it not.
+5 And the light shines inside the darkness; and the darkness has never extinguished the light.
 
 6 There was a man sent from God, whose name was John.
 

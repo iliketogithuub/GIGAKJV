@@ -2,59 +2,59 @@
 
 ## Titus Chapter 1
 
-1 Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
+1 Paul, a servant of God and an apostle of Jesus Christ, aligned with the faith of God's chosen people and the full recognition of the truth that produces a divine lifestyle;
 
-2 In hope of eternal life, which God, that cannot lie, promised before the world began;
+2 anchored in the absolute certainty of eternal life, which God—who is completely incapable of lying—promised before time even began;
 
-3 But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Saviour;
+3 and has at the perfect strategic time revealed the spoken word through preaching, which was entrusted to me by the direct command of God our Savior;
 
-4 To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
+4 To Titus, a true child in our shared faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.
 
-5 For this cause left I you in Crete, that you should set in order the things that are wanting, and ordain elders in every city, as I had appointed you:
+5 For this exact reason I left you in Crete, so that you would straighten out the things that were left unfinished, and appoint leadership in every city just as I instructed you.
 
-6 If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
+6 Any leader chosen must be beyond reproach, faithful in marriage, having children who walk in faith and are never accused of wild living or rebellion.
 
-7 For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy money;
+7 Because an overseer is managing God’s household, that individual must be blameless—not arrogant, not quick-tempered, not a drunkard, not violent, and not chasing dirty financial gain.
 
-8 But a lover of hospitality, a lover of good men, sober, just, holy, self-controlled;
+8 Instead, that individual must be hospitable, a lover of what is good, clear-minded, just, holy, and completely self-controlled;
 
-9 Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to encourage and to convince the opponents.
+9 holding fast to the trustworthy word exactly as it was taught, so that the leader has the ability to both encourage people with sound doctrine and completely expose and silence those who contradict the truth.
 
-10 For there are many unruly and empty talkers and deceivers, specially they of the circumcision:
+10 Because there are many rebellious people, empty talkers, and deceivers, especially those sticking to old religious rituals like circumcision;
 
-11 Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy money's sake.
+11 the mouths of these deceivers must be stopped, because whole households are being ruined by the teaching of things that should never be taught, all for the sake of dirty financial gain.
 
-12 One of themselves, even a prophet of their own, said, the Cretians are alway liars, evil beasts, slow bellies.
+12 A local speaker, a prophet from that very culture, even said, “People from Crete are always liars, dangerous beasts, and lazy gluttons.”
 
-13 This witness is true. therefore rebuke them sharply, that they may be sound in the faith;
+13 This testimony is completely true. For this reason, issue a sharp rebuke, so that the believers remain completely healthy and sound in the faith;
 
-14 Not giving heed to Jewish fables, and commandments of men, that turn from the truth.
+14 paying absolutely no attention to religious myths or human commandments that reject the truth.
 
-15 to the pure all things are pure: but to them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.
+15 To the clean, all things are clean; but to the defiled and unbelieving, nothing is clean—in fact, both the mind and the conscience of a defiled individual are completely polluted.
 
-16 They profess that they know God; but in works they deny him, being abominable, and disobedient, and to every good work reprobate.
+16 A public claim is made to know God, but real-world actions completely deny God. Such individuals are detestable, disobedient, and entirely worthless for any good work.
 
 ## Titus Chapter 2
 
-1 But speak you the things which become sound doctrine:
+1 But as for you, speak only the things that align with sound doctrine:
 
-2 That the aged men be sober, grave, self-controlled, sound in faith, in love, in patience.
+2 Ensure that older men are clear-minded, respected, self-controlled, and completely sound in faith, in love, and in endurance.
 
-3 The aged women likewise, that they be in behaviour as becomes holiness, not false accusers, not given to much wine, teachers of good things;
+3 Likewise, older women must live with holy conduct, never acting as malicious gossips or enslaved to wine, but serving as teachers of what is good;
 
-4 That they may teach the young women to be sober, to love their husbands, to love their children,
+4 training younger women to be wise, to love marriage partners, and to love children,
 
-5 To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
+5 to be discreet, pure, managers of the home, good, and cooperative within marriage, so that the word of God is never dishonored.
 
-6 Young men likewise encourage to be sober minded.
+6 Similarly, urge younger men to be completely self-controlled and sober-minded.
 
-7 In all things showing yourself a pattern of good works: in doctrine showing uncorruptness, gravity, sincerity,
+7 In every area of life, model a perfect pattern of good works, showing absolute integrity, seriousness, and sincerity in teaching,
 
-8 Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
+8 using sound speech that cannot be discredited, so that any opponent will be completely ashamed, having absolutely nothing bad to say about you.
 
-9 Encourage servants to be obedient to their own masters, and to please them well in all things; not answering again;
+9 Urge workers to be cooperative with employers, aiming to provide excellent service in every way, without talking back,
 
-10 Not purloining, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+10 never stealing, but demonstrating absolute trustworthiness, so that the doctrine of God our Savior is made beautiful in every single area of life.
 
 11 For the grace of God that brings salvation has appeared to all men,
 

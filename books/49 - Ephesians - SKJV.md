@@ -68,7 +68,7 @@
 
 9 Not of works, otherwise any man should boast.
 
-10 For we are his workmanship, created in Christ Jesus to good works, which God has before ordained that we should walk in them.
+10 For we are His masterpiece, created in Christ Jesus to operate in good works, which God prepared ahead of time for us to walk in as our lifestyle.
 
 11 therefore remember, that you being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
 

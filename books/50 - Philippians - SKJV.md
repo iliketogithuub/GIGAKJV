@@ -194,7 +194,7 @@
 
 12 I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
 
-13 I can do all things through Christ which strengthens me.
+13 With Christ, all things can be executed, because divine strength is fully infusing my body.
 
 14 Nevertheless you have well done, that you did communicate with my affliction.
 

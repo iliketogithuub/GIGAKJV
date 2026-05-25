@@ -174,7 +174,7 @@
 
 ## Hebrews Chapter 6
 
-1 Therefore leaving the principles of the doctrine of Christ, let us go on to perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
+1 Therefore, leaving behind the elementary lessons of Christ, let us press onward into full maturity and completeness—not laying all over again the basic foundation of turning away from dead religious works, or of trusting in God,
 
 2 Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
@@ -328,7 +328,7 @@
 
 13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifies to the purifying of the flesh:
 
-14 How much more will the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+14 How much more will the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your conscience from dead works so that you can actively serve the living God?
 
 15 And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the sins that were under the first testament, they which are called might receive the promise of eternal inheritance.
 
