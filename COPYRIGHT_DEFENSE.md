@@ -62,6 +62,21 @@ To mathematically and linguistically guarantee that the SKJV does not duplicate 
 | **Trespasses** | Trespasses | Trespasses | **Sins** | Eliminates confusing legalistic vocabulary. |
 | **Grievance** | Grievance | Grievance | **A Grudge** | Translates relationships into immediate, actionable terms. |
 | **Lo / Behold** | Behold / Lo | Behold / Look | **Listen closely** / **Look** | Active attention-grabbing modern anchors. |
+| **Durst** | Durst | Dared | **Dared** | Standard vocabulary modernization. |
+| **Lasciviousness** | Lasciviousness | Lewdness / Licentiousness | **Sensuality** | Modernized, easily understood moral term. |
+| **Charity** | Charity | Love | **Love** / **Love feasts** | Eliminates archaic confusion with handouts. |
+| **Wrought** | Wrought | Worked / Done | **Worked** / **Done** / **Performed** | Context-aware modernizations. |
+| **Entreated** | Entreated | Treated / Entreated | **Treated** / **Mistreated** | Simplifies archaic relational verbs. |
+| **Spake** | Spake | Spoke | **Spoke** | Standard preterite modernization. |
+| **Shew / Shewed** | Shew / Shewed / Shewing | Show / Showed / Showing | **Show** / **Showed** / **Showing** | Modernized spelling and tense forms. |
+| **Slew** | Slew | Killed / Slew | **Killed** | Simplifies violent descriptors. |
+| **Brake** | Brake | Broke | **Broke** | Standard preterite modernization. |
+| **Nought** | Nought / Naught | Nothing / Nought | **Nothing** | Standardizes archaic negative nouns. |
+| **Travail** | Travail | Labor / Anguish | **Labor** / **Hardship** / **Childbirth** | Context-aware simplification of labor and distress. |
+| **Hence** | Hence / From hence | Hence / From here | **From here** | Translates spatial references clearly. |
+| **Gat** | Gat | Got | **Got** | Standard preterite modernization. |
+| **Clave** | Clave | Clung / Split | **Clung** / **Split** | Context-aware translation (relational vs physical). |
+| **Archaic Helpers** | Didst, hadst, canst, wert, wilt | Did, had, can, were, will | **Did**, **had**, **can**, **were**, **will** | Eliminates second-person verb inflections. |
 
 ---
 

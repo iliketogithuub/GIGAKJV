@@ -37,11 +37,27 @@ SKJV/
 
 ## Translation Rules
 
-1. **Eliminate all archaisms** — no *thee*, *thou*, *ye*, *thy*, *thine*, *lo*, *behold*, *lest*, *wherefore*, or *-eth/-est* verb endings
-2. **Preserve covenant terms** — *good works*, *dead works*, *repentance* remain exactly as written
-3. **Distinguish power words** — *exousia* (legal authority) vs *dunamis* (supernatural power) are translated differently
-4. **Down-to-earth vocabulary** — *infirmities* → *sicknesses and diseases*, *stripes* → *wounds*, *trespasses* → *sins*
-5. **Copyright safety** — every phrase is structurally distinct from the NKJV and other copyrighted translations
+1. **Eliminate all archaisms** — no *thee*, *thou*, *ye*, *thy*, *thine*, *lo*, *behold*, *lest*, *wherefore*, *-eth/-est* verb endings, or second-person helper inflections (*didst*, *hadst*, *canst*, *wert*, *wilt*).
+2. **Preserve covenant terms** — *good works*, *dead works*, *repentance* remain exactly as written.
+3. **Distinguish power words** — *exousia* (legal/delegated authority) vs *dunamis* (supernatural/miraculous power) are translated differently.
+4. **Down-to-earth vocabulary** — modernizes difficult, outdated, or misleading KJV vocabulary:
+   - *infirmities* → *sicknesses and diseases*
+   - *stripes* → *wounds* / *scourging wounds*
+   - *trespasses* → *sins*
+   - *charity* → *love*
+   - *spake* → *spoke*
+   - *shew* / *shewed* → *show* / *showed*
+   - *slew* → *killed*
+   - *brake* → *broke*
+   - *nought* → *nothing*
+   - *travail* → *labor* / *hardship* / *childbirth*
+   - *hence* → *from here*
+   - *clave* → *clung* / *split*
+   - *durst* → *dared*
+   - *lasciviousness* → *sensuality*
+   - *wrought* → *worked* / *done* / *performed*
+   - *entreated* → *treated* / *mistreated*
+5. **Copyright safety** — every phrase is structurally distinct from the NKJV and other copyrighted translations, utilizing the **Zero-Pronoun Rule** (substituting third-person pronouns with active targets in instruction blocks) to secure independent derivative originality.
 
 ## Quoting the SKJV
 
