@@ -75,6 +75,11 @@ For non-commercial media (bulletins, posters, etc.), simply append **(SKJV)** af
 
 See [COPYRIGHT_DEFENSE.md](COPYRIGHT_DEFENSE.md) for the full legal framework.
 
+## Version & Feedback
+
+- **Version**: 1.0
+- **Feedback**: We welcome corrections, suggestions, and translation feedback. Please email us at [contact@supernaturalchuches.org](mailto:contact@supernaturalchuches.org).
+
 ## License
 
 See [LICENSE.md](LICENSE.md) for complete terms.

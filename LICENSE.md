@@ -1,4 +1,5 @@
 # Simple King James Version (SKJV) License Agreement
+**Version 1.0**
 
 Copyright © 2026 by the Simple King James Version (SKJV) Publishing Team & Ministry. All rights reserved.
 
@@ -17,3 +18,5 @@ Any commentary or other work that duplicates more than one thousand (1,000) vers
 To preserve the theological integrity and translation trail of the SKJV:
 1. No modifications, alterations, or changes to the words, formatting (specifically bolded verbs and bracketed operational insights), or sentence structures of the SKJV may be made without written approval.
 2. The name "Simple King James Version" and the abbreviation "SKJV" are protected trademarks. Any derivative translation must not use these marks without written consent.
+
+For permissions, licensing queries, or translation feedback, please contact us at: [contact@supernaturalchuches.org](mailto:contact@supernaturalchuches.org).

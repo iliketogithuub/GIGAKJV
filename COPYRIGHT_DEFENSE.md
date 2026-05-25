@@ -1,4 +1,5 @@
 # Simple King James Version (SKJV) Copyright & Legal Defense Framework
+**Version 1.0**
 
 ## Executive Summary
 
