@@ -150,13 +150,14 @@ def translate_via_api(text, book_name, chapter_num, api_key):
     """
     Translates KJV text to BKJV using the Google Gemini API.
     """
+    import importlib
     try:
-        import google.generativeai as genai
+        genai = importlib.import_module('google.generativeai')
     except ImportError:
         print("google-generativeai module not found. Installing it first...")
         import subprocess
         subprocess.check_call([sys.executable, "-m", "pip", "install", "google-generativeai"])
-        import google.generativeai as genai
+        genai = importlib.import_module('google.generativeai')
         
     genai.configure(api_key=api_key)
     
