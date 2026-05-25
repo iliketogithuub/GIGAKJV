@@ -70,6 +70,7 @@ body {
   display: inline-block;
   background: linear-gradient(135deg, var(--pure-white) 30%, var(--electric-blue));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
