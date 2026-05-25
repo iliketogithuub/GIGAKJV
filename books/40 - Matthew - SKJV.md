@@ -194,7 +194,7 @@
 
 2 And he opened his mouth, and taught them, saying,
 
-3 Blessed are the poor in their human spirit: for theirs is the kingdom of heaven.
+3 Blessed are the spiritually surrendered: for theirs is the kingdom of heaven.
 
 4 Blessed are they that mourn: for they will be comforted.
 
@@ -750,7 +750,7 @@
 
 17 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 
-18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my human spirit upon him, and he will show judgment to the Gentiles.
+18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my Holy Spirit upon him, and he will show judgment to the Gentiles.
 
 19 He will not strive, nor cry; neither will any man hear his voice in the streets.
 

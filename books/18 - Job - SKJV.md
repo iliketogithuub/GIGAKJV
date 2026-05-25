@@ -1272,7 +1272,7 @@
 
 12 He divids the sea with his power, and by his understanding he smits through the proud.
 
-13 By his human spirit he has garnished the heavens; his hand has formed the crooked serpent.
+13 By His Holy Spirit he has garnished the heavens; his hand has formed the crooked serpent.
 
 14 Look, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
 

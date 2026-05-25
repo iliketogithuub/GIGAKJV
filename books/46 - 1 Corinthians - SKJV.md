@@ -84,7 +84,7 @@
 
 9 But as it is written, Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for them that love him.
 
-10 But God has revealed them to us by his human spirit: for the Holy Spirit searchs all things, yea, the deep things of God.
+10 But God has revealed them to us by His Holy Spirit: for the Holy Spirit searchs all things, yea, the deep things of God.
 
 11 For what man knows the things of a man, save the human spirit of man which is in him? even so the things of God knows no man, but the Holy Spirit of God.
 
