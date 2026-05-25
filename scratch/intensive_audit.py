@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = "/home/charlie/Desktop/Websites/BKJV/books"
 
 # Helper verbs (second person singular, etc.)
 ARCHAIC_HELPERS = {
@@ -126,7 +126,7 @@ def check_file(fname):
     issues = []
     
     # Check header
-    if not re.match(r'^#\s+.*?\s+-\s+Simple\s+King\s+James\s+Version\s+\(SKJV\)', content):
+    if not re.match(r'^#\s+.*?\s+-\s+Simple\s+King\s+James\s+Version\s+\(BKJV\)', content):
         issues.append(("HEADER", "Missing or invalid book header at line 1"))
         
     # Check eof marker
@@ -170,13 +170,13 @@ def check_file(fname):
 
 def main():
     files = sorted([f for f in os.listdir(BOOKS_DIR) if f.endswith('.md')])
-    log_path = "/home/charlie/Desktop/Websites/SKJV/scratch/audit_details.log"
+    log_path = "/home/charlie/Desktop/Websites/BKJV/scratch/audit_details.log"
     
     total_issues = 0
     by_category = {}
     
     with open(log_path, 'w', encoding='utf-8') as log_file:
-        log_file.write("=== SKJV INTENSIVE AUDIT DETAILS ===\n\n")
+        log_file.write("=== BKJV INTENSIVE AUDIT DETAILS ===\n\n")
         log_file.write(f"Auditing {len(files)} files in {BOOKS_DIR}...\n")
         
         for fname in files:

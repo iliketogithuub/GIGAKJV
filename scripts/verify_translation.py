@@ -88,8 +88,8 @@ def verify_file(file_path):
     warnings = 0
     
     # 1. Check basic headers
-    if not re.search(r'^#\s+.*?\s+-\s+Simple\s+King\s+James\s+Version\s+\(SKJV\)', content, re.MULTILINE):
-        print("WARNING: Missing or malformed top title header '# [Book Name] - Simple King James Version (SKJV)'")
+    if not re.search(r'^#\s+.*?\s+-\s+Based\s+King\s+James\s+Version\s+\(BKJV\)', content, re.MULTILINE):
+        print("WARNING: Missing or malformed top title header '# [Book Name] - Based King James Version (BKJV)'")
         warnings += 1
         
     if not re.search(r'##\s+eof', content, re.IGNORECASE):
@@ -134,7 +134,7 @@ def verify_file(file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: verify_translation.py <path_to_skjv_markdown_file>")
+        print("Usage: verify_translation.py <path_to_bkjv_markdown_file>")
         sys.exit(1)
         
     success = verify_file(sys.argv[1])

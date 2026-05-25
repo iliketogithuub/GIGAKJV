@@ -2,7 +2,7 @@
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
 # Map of corrupted words to their correct modern equivalents
 CORRUPTIONS_MAP = {

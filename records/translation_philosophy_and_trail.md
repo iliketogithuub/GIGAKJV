@@ -1,12 +1,12 @@
-# SKJV Translation Philosophy & Trail Document
+# BKJV Translation Philosophy & Trail Document
 
-This document records the official translation philosophy, linguistic parameters, and specific word mappings for the **Simple King James Version (SKJV)** Bible translation project. It serves as a guide for translators (and AI agents) and forms part of the project's legal record of independent creation.
+This document records the official translation philosophy, linguistic parameters, and specific word mappings for the **Simple King James Version (BKJV)** Bible translation project. It serves as a guide for translators (and AI agents) and forms part of the project's legal record of independent creation.
 
 ---
 
 ## 1. Core Translation Philosophy
 
-The Simple King James Version (SKJV) is built upon a **Functional Covenant Model** of translation. Unlike traditional modern Bibles that prioritize either formal equivalence (literal word-for-word) or dynamic equivalence (thought-for-thought), the SKJV is designed to read as a **functional operating manual** for the believer.
+The Simple King James Version (BKJV) is built upon a **Functional Covenant Model** of translation. Unlike traditional modern Bibles that prioritize either formal equivalence (literal word-for-word) or dynamic equivalence (thought-for-thought), the BKJV is designed to read as a **functional operating manual** for the believer.
 
 ### A. The Direct-Address Principle
 God's Word is treated as a direct broadcast to the reader. Wherever the text describes covenant blessings, identity, or authority, the translation shifts from abstract third-person narratives to direct, personal possession ("my body", "your body", "your Father").
@@ -29,7 +29,7 @@ Religious and archaic words that carry centuries of theological dust or have shi
 
 ## 2. Master Translation Parameters & Guidelines
 
-All chapters processed for the SKJV must adhere to the following strict guidelines:
+All chapters processed for the BKJV must adhere to the following strict guidelines:
 
 1. **Eliminate All Archaisms**: Completely remove words like *thee, thou, ye, thy, thine, lest, wherefore*, and verbs ending in *-eth* or *-est* (e.g., *saith, walketh, runnest*).
 2. **Bold the Functional Directives**: Whenever a verse outlines an explicit command, action step, or state of identity under the Covenant, **bold** the core action words (e.g., **say to this mountain**, **do not doubt**, **believe you receive**).
@@ -44,7 +44,7 @@ All chapters processed for the SKJV must adhere to the following strict guidelin
 
 ## 3. Targeted Word & Phrase Mapping Table
 
-| KJV 1611 Term | Strong's Reference | SKJV Translation Target | Theological Context |
+| KJV 1611 Term | Strong's Reference | BKJV Translation Target | Theological Context |
 | :--- | :--- | :--- | :--- |
 | **Behold / Lo** | G2400 (Idou) | Listen closely / Look | Attention-grabber; dynamic engagement. |
 | **Power** | G1849 (Exousia) | Delegated Authority / Legal Authority | Legal jurisdiction, backing by a higher government. |

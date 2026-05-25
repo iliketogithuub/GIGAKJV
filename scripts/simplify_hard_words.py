@@ -8,7 +8,7 @@ Every replacement preserves the original verse structure.
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
 # Strong's-verified word replacements
 # Format: old_word -> new_word

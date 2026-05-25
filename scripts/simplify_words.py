@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-SKJV Hard Word Simplifier
+BKJV Hard Word Simplifier
 ===========================
 Replaces archaic, obscure, and unnecessarily difficult English words
-across all 66 SKJV book files with simple, clear modern equivalents.
+across all 66 BKJV book files with simple, clear modern equivalents.
 The "Simple" King James Version must be instantly understandable.
 """
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
 # ===========================================================================
 # Hard word → simple word mapping
@@ -228,7 +228,7 @@ def process_file(filepath):
 
 def main():
     print("=" * 60)
-    print("SKJV Hard Word Simplifier")
+    print("BKJV Hard Word Simplifier")
     print("=" * 60)
 
     total_fixes = 0

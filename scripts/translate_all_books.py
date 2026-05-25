@@ -6,10 +6,10 @@ import sys
 
 def translate_all():
     source_dir = "/home/charlie/Downloads/kjv-markdown-master"
-    target_dir = "/home/charlie/Desktop/Websites/SKJV/books"
-    script_dir = "/home/charlie/Desktop/Websites/SKJV/scripts"
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    target_dir = os.path.abspath(os.path.join(script_dir, "..", "books"))
     
-    translate_script = os.path.join(script_dir, "translate_kjv_to_skjv.py")
+    translate_script = os.path.join(script_dir, "translate_kjv_to_bkjv.py")
     verify_script = os.path.join(script_dir, "verify_translation.py")
     
     # Find all source files
@@ -27,8 +27,8 @@ def translate_all():
     
     for src in source_files:
         filename = os.path.basename(src)
-        # Construct target name: e.g. "01 - Genesis - SKJV.md"
-        target_filename = filename.replace("- KJV.md", "- SKJV.md")
+        # Construct target name: e.g. "01 - Genesis - BKJV.md"
+        target_filename = filename.replace("- KJV.md", "- BKJV.md")
         tgt = os.path.join(target_dir, target_filename)
         
         print(f"\n==========================================")

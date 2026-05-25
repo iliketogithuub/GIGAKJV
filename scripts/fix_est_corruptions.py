@@ -4,9 +4,9 @@ import re
 import glob
 
 KJV_DIR = "/home/charlie/Downloads/kjv-markdown-master"
-SKJV_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BKJV_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
-# Strict whitelist of words we want to restore to the SKJV.
+# Strict whitelist of words we want to restore to the BKJV.
 # If a word in KJV ends in -est but is NOT in this list, it is treated as an
 # archaic verb (like walkest, believest) and will NOT be restored.
 RESTORE_WORDS = {
@@ -162,7 +162,7 @@ def fix_book(kjv_path, skjv_path):
                 # We want to restore this word
                 stem = kjv_word[:-3]
                 
-                # Check near idx in SKJV tokens
+                # Check near idx in BKJV tokens
                 search_start = max(0, idx - 3)
                 search_end = min(len(skjv_tokens), idx + 4)
                 
@@ -216,18 +216,18 @@ def fix_book(kjv_path, skjv_path):
 
 def main():
     print("=" * 60)
-    print("SKJV Refactored Est Corruptions Restoration Script")
+    print("BKJV Refactored Est Corruptions Restoration Script")
     print("=" * 60)
     
     total_fixes = 0
     files_fixed = 0
     
-    book_files = sorted([f for f in os.listdir(SKJV_DIR) if f.endswith('.md')])
+    book_files = sorted([f for f in os.listdir(BKJV_DIR) if f.endswith('.md')])
     
     for filename in book_files:
-        kjv_filename = filename.replace("- SKJV.md", "- KJV.md")
+        kjv_filename = filename.replace("- BKJV.md", "- KJV.md")
         kjv_path = os.path.join(KJV_DIR, kjv_filename)
-        skjv_path = os.path.join(SKJV_DIR, filename)
+        skjv_path = os.path.join(BKJV_DIR, filename)
         
         if not os.path.exists(kjv_path):
             continue

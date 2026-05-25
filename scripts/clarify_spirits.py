@@ -2,7 +2,7 @@
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
 # Specific verses where "my spirit" / "My spirit" refers to God (Holy Spirit)
 GOD_MY_SPIRIT_VERSES = {
@@ -160,7 +160,7 @@ def process_file(fname):
     original = content
     
     # Identify book name
-    book_match = re.match(r'^#\s+(.*?)\s+-\s+Simple', content)
+    book_match = re.match(r'^#\s+(.*?)\s+-\s+(?:Simple|Based)', content)
     book_name = book_match.group(1).strip() if book_match else fname
     
     lines = content.split('\n')

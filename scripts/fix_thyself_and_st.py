@@ -2,7 +2,7 @@
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
 # Direct mapping for words that do not follow the simple (\w+ed)st -> \w+ed rule
 DIRECT_MAP = {

@@ -1,12 +1,12 @@
-# 📖 Simple King James Version (SKJV)
+# 📖 Based King James Version (BKJV)
 
-The **Simple King James Version (SKJV)** is an independent, modern English Bible translation derived from the public domain **1611 King James Version (KJV)**. Every word choice is anchored to the original **Strong's Greek and Hebrew Concordance** definitions.
+The **Based King James Version (BKJV)** is an independent, modern English Bible translation derived from the public domain **1611 King James Version (KJV)**. Every word choice is anchored to the original **Strong's Greek and Hebrew Concordance** definitions.
 
 ## Mission
 
 To deliver God's Word in **concise, precise, and clear 2026 English** — stripping away centuries of archaic language while preserving the majestic truth and authority of the King James lineage.
 
-## What Makes the SKJV Different
+## What Makes the BKJV Different
 
 | Feature | Description |
 |:---|:---|
@@ -15,18 +15,20 @@ To deliver God's Word in **concise, precise, and clear 2026 English** — stripp
 | **Covenant Precision** | *Exousia* → "delegated authority", *Dunamis* → "supernatural power", *Astheneia* → "sicknesses and diseases" |
 | **Operational Insights** | Key chapters include bracketed insights explaining the spiritual and legal mechanics of the text |
 | **Copyright Free** | 100% derived from the public domain KJV — no royalties, no licensing fees, no restrictions |
+| **Bold Theology** | Front matter includes the gospel of divine health, power word lexicon, and confrontational truth |
+| **Gen Z Ready** | Designed for the generation that owns zero physical Bibles but wants the whole truth |
 
 ## Repository Structure
 
 ```
-SKJV/
+BKJV/
 ├── books/                 # All 66 books of the Bible in Markdown (.md)
 ├── records/               # Translation trail, philosophy, and legal records
 │   ├── chat_history_archive_01.md
 │   ├── translation_philosophy_and_trail.md
 │   └── power_word_lexicon.md
 ├── scripts/               # Translation and verification automation (Python)
-│   ├── translate_kjv_to_skjv.py
+│   ├── translate_kjv_to_bkjv.py
 │   ├── translate_all_books.py
 │   ├── verify_translation.py
 │   └── fix_all_books.py
@@ -59,21 +61,25 @@ SKJV/
    - *entreated* → *treated* / *mistreated*
 5. **Copyright safety** — every phrase is structurally distinct from the NKJV and other copyrighted translations, utilizing the **Zero-Pronoun Rule** (substituting third-person pronouns with active targets in instruction blocks) to secure independent derivative originality.
 
-## Quoting the SKJV
+## Quoting the BKJV
 
 You may quote up to **1,000 verses** without written permission, provided the verses do not constitute a complete book or more than 50% of your work. Include the notice:
 
-> *Scripture quotations are taken from the Simple King James Version (SKJV). Copyright © 2026. Used by permission. All rights reserved.*
+> *Scripture quotations are taken from the Based King James Version (BKJV). Copyright © 2026. Used by permission. All rights reserved.*
 
-For non-commercial media (bulletins, posters, etc.), simply append **(SKJV)** after each quotation.
+For non-commercial media (bulletins, posters, etc.), simply append **(BKJV)** after each quotation.
 
 ## Legal Status
 
 - **Source material**: Public domain 1611 KJV (no copyright restrictions in US/Australia)
-- **SKJV text**: Protected as a derivative work under 17 U.S.C. § 103
-- **Trademark**: "Simple King James Version" and "SKJV" are protected marks
+- **BKJV text**: Protected as a derivative work under 17 U.S.C. § 103
+- **Trademark**: "Based King James Version" and "BKJV" are protected marks
 
 See [COPYRIGHT_DEFENSE.md](COPYRIGHT_DEFENSE.md) for the full legal framework.
+
+## Who Is Behind the BKJV
+
+This translation is produced under the theological oversight of **supernaturalchurches.org** and distributed through **supernatural.institute** -- a movement of believers contending for the restoration of divine health to the church. The front matter contains a complete gospel presentation on the blood AND stripes of Jesus, because the finished work is not forgiveness only -- it is healing too.
 
 ## Version & Feedback
 

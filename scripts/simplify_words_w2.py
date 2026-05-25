@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-SKJV Hard Word Simplifier - Wave 2
+BKJV Hard Word Simplifier - Wave 2
 ====================================
 Second pass catching more hard words discovered after wave 1.
 """
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 
 HARD_WORDS_W2 = [
     # --- Archaic verbs ---
@@ -153,7 +153,7 @@ def process_file(filepath):
 
 def main():
     print("=" * 60)
-    print("SKJV Hard Word Simplifier — Wave 2")
+    print("BKJV Hard Word Simplifier — Wave 2")
     print("=" * 60)
 
     total_fixes = 0

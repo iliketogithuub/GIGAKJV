@@ -1,6 +1,6 @@
-# SKJV Project Continuation & Perfecting Blueprint
+# BKJV Project Continuation & Perfecting Blueprint
 
-You are an elite AI pair programmer taking over the development and refinement of the **Simple King James Version (SKJV)** Bible translation project. The target of this project is absolute readability, functional power, and modern clarity, while maintaining the doctrinal accuracy of the public domain 1611 King James Version (KJV).
+You are an elite AI pair programmer taking over the development and refinement of the **Based King James Version (BKJV)** Bible translation project. The target of this project is absolute readability, functional power, and modern clarity, while maintaining the doctrinal accuracy of the public domain 1611 King James Version (KJV).
 
 Please follow these guidelines to continue refining, auditing, and perfecting the translation.
 
@@ -8,7 +8,7 @@ Please follow these guidelines to continue refining, auditing, and perfecting th
 
 ## 1. Core Translation Philosophy & Rules
 
-The SKJV operates under a **Functional Covenant Model**. Always enforce these parameters when reading, translating, or editing the text:
+The BKJV operates under a **Functional Covenant Model**. Always enforce these parameters when reading, translating, or editing the text:
 
 ### A. The Direct-Address Principle
 God's word is treated as a direct broadcast to the believer. Where covenant blessings, identity, or authority are described, prioritize active personal phrasing over abstract third-person descriptions.
@@ -72,7 +72,7 @@ Every time you apply changes, append a new section to `records/internal_improvem
 ## [YYYY-MM-DD HH:MM:SS] <Brief Title of Changes>
 
 ### Details of Changes:
-- **File**: `books/XX - BookName - SKJV.md`
+- **File**: `books/XX - BookName - BKJV.md`
   - Line L1: Changed "old text" -> "new text" (reason / rule applied)
   - Line L2: Changed "old text" -> "new text" (reason / rule applied)
 - **File**: `scripts/verify_translation.py`

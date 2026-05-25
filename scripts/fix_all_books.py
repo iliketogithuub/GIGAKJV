@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SKJV Post-Processing Fix Script
+BKJV Post-Processing Fix Script
 ================================
 Fixes all known issues identified in the May 25 2026 audit:
 1. Broken words from naive -eth regex (coms, drivs, becoms, etc.)
@@ -14,7 +14,7 @@ import os
 import re
 import sys
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "books"))
 KJV_SOURCE_DIR = "/home/charlie/Downloads/kjv-markdown-master"
 
 # ===========================================================================
@@ -397,8 +397,8 @@ def translate_single_chapter_book(kjv_path, skjv_path, book_name):
     body, _ = fix_eth_verbs(body)
     body, _ = fix_archaisms(body)
 
-    # Write the SKJV file
-    output = f"# {book_name} - Simple King James Version (SKJV)\n\n"
+    # Write the BKJV file
+    output = f"# {book_name} - Based King James Version (BKJV)\n\n"
     output += f"## {book_name} Chapter 1\n\n"
     output += body.strip() + "\n\n## eof\n"
 
@@ -409,7 +409,7 @@ def translate_single_chapter_book(kjv_path, skjv_path, book_name):
 
 
 def process_book_file(filepath):
-    """Apply all fixes to an existing SKJV book file."""
+    """Apply all fixes to an existing BKJV book file."""
     with open(filepath, 'r', encoding='utf-8') as f:
         text = f.read()
 
@@ -435,7 +435,7 @@ def process_book_file(filepath):
 
 def main():
     print("=" * 60)
-    print("SKJV Post-Processing Fix Script")
+    print("BKJV Post-Processing Fix Script")
     print("=" * 60)
 
     # ===== PHASE 1: Fix all existing book files =====
@@ -467,7 +467,7 @@ def main():
     }
 
     for file_prefix, book_name in stubs.items():
-        skjv_path = os.path.join(BOOKS_DIR, f"{file_prefix} - SKJV.md")
+        skjv_path = os.path.join(BOOKS_DIR, f"{file_prefix} - BKJV.md")
         kjv_path = os.path.join(KJV_SOURCE_DIR, f"{file_prefix} - KJV.md")
 
         if not os.path.exists(kjv_path):

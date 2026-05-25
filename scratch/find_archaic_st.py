@@ -2,7 +2,7 @@
 import os
 import re
 
-BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
+BOOKS_DIR = "/home/charlie/Desktop/Websites/BKJV/books"
 
 # Whitelist of modern words ending in st (including plurals and possessives if any)
 WHITELIST = {

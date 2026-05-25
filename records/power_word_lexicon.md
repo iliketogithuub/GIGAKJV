@@ -1,6 +1,6 @@
-# The New Man's Power-Word Lexicon (SKJV)
+# The New Man's Power-Word Lexicon (BKJV)
 
-This glossary compiles the Top 30 Operational Words used in the Simple King James Version (SKJV) translation. By linking these terms to their original Greek and Hebrew root definitions, this lexicon serves as a practical field guide to the mechanics of the New Covenant.
+This glossary compiles the Top 30 Operational Words used in the Simple King James Version (BKJV) translation. By linking these terms to their original Greek and Hebrew root definitions, this lexicon serves as a practical field guide to the mechanics of the New Covenant.
 
 ---
 
@@ -30,15 +30,15 @@ This glossary compiles the Top 30 Operational Words used in the Simple King Jame
 
 ### 7. SICKNESS / DISEASE (Astheneia - G769 / Nosos - G3554)
 * **Definition**: Bodily weakness, physical frailty, or structural failure of the body.
-* **Mechanism**: Translated in traditional Bibles as "infirmities." The SKJV uses "sicknesses and diseases" to expose these conditions as physical intruders that have been legally paid for and evicted.
+* **Mechanism**: Translated in traditional Bibles as "infirmities." The BKJV uses "sicknesses and diseases" to expose these conditions as physical intruders that have been legally paid for and evicted.
 
 ### 8. WOUNDS / SCOURGING WOUNDS (Molops - G3468 / Chabburah - H2250)
 * **Definition**: Physical injuries, welts, or bloody gashes caused by scourging.
-* **Mechanism**: Traditional Bibles use "stripes." The SKJV translates this as "wounds" to keep the physical reality of the whipping post clear. Jesus's wounds were the currency paid for physical bodily health.
+* **Mechanism**: Traditional Bibles use "stripes." The BKJV translates this as "wounds" to keep the physical reality of the whipping post clear. Jesus's wounds were the currency paid for physical bodily health.
 
 ### 9. SINS (Hamartia - G266 / Paraptoma - G3900)
 * **Definition**: Missing the mark, lawlessness, or violations of spiritual covenant.
-* **Mechanism**: Traditional Bibles use "trespasses." The SKJV uses "sins" to simplify the legal vocabulary for immediate modern understanding.
+* **Mechanism**: Traditional Bibles use "trespasses." The BKJV uses "sins" to simplify the legal vocabulary for immediate modern understanding.
 
 ### 10. A GRUDGE (Lupe - G3076 / Bitter Offense)
 * **Definition**: Bitterness, active sorrow, or offense held against another in the heart.
@@ -126,5 +126,5 @@ This glossary compiles the Top 30 Operational Words used in the Simple King Jame
 
 ### 31. HOLY SPIRIT / GHOST (Pneuma Hagion - G4151 / G40)
 * **Definition**: The literal spiritual Person of God who dwells within the believer.
-* **Mechanism**: The SKJV uses "Holy Spirit" for peak modern readability, replacing the archaic "Holy Ghost." However, the operational reality remains identical: He is a literal, tangible spiritual Person (literally a "Ghost" occupying the believer's body as His temple) rather than an abstract influence or feeling. He works in perfect alignment with the *human spirit* to enforce New Covenant authority on earth.
+* **Mechanism**: The BKJV uses "Holy Spirit" for peak modern readability, replacing the archaic "Holy Ghost." However, the operational reality remains identical: He is a literal, tangible spiritual Person (literally a "Ghost" occupying the believer's body as His temple) rather than an abstract influence or feeling. He works in perfect alignment with the *human spirit* to enforce New Covenant authority on earth.
 
