@@ -142,7 +142,7 @@
 
 9 And when the children of Israel cried to the Lord, the Lord raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb's younger brother.
 
-10 And the Spirit of the Lord came upon him, and he judged Israel, and went out to war: and the Lord delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.
+10 And the Holy Spirit of the Lord came upon him, and he judged Israel, and went out to war: and the Lord delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.
 
 11 And the land had rest forty years. And Othniel the son of Kenaz died.
 
@@ -368,7 +368,7 @@
 
 33 Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
 
-34 But the Spirit of the Lord came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
+34 But the Holy Spirit of the Lord came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 
 35 And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers to Asher, and to Zebulun, and to Naphtali; and they came up to meet them.
 
@@ -718,7 +718,7 @@
 
 28 However the king of the children of Ammon listened not to the words of Jephthah which he sent him.
 
-29 Then the Spirit of the Lord came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over to the children of Ammon.
+29 Then the Holy Spirit of the Lord came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over to the children of Ammon.
 
 30 And Jephthah vowed a vow to the Lord, and said, If you will without fail deliver the children of Ammon into mine hands,
 
@@ -824,7 +824,7 @@
 
 24 And the woman bare a son, and called his name Samson: and the child grew, and the Lord blessed him.
 
-25 And the Spirit of the Lord began to move him at times in the camp of Dan between Zorah and Eshtaol.
+25 And the Holy Spirit of the Lord began to move him at times in the camp of Dan between Zorah and Eshtaol.
 
 ## Judges Chapter 14
 
@@ -838,7 +838,7 @@
 
 5 Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, look, a young lion roared against him.
 
-6 And the Spirit of the Lord came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.
+6 And the Holy Spirit of the Lord came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.
 
 7 And he went down, and talked with the woman; and she pleased Samson well.
 
@@ -864,7 +864,7 @@
 
 18 And the men of the city said to him on the seventh day before the sun went down, What is sweeter than honey? And what is stronger than a lion? and he said to them, If you had not plowed with my heifer, you had not found out my riddle.
 
-19 And the Spirit of the Lord came upon him, and he went down to Ashkelon, and killed thirty men of them, and took their spoil, and gave change of garments to them which expounded the riddle. And his anger was kindled, and he went up to his father's house.
+19 And the Holy Spirit of the Lord came upon him, and he went down to Ashkelon, and killed thirty men of them, and took their spoil, and gave change of garments to them which expounded the riddle. And his anger was kindled, and he went up to his father's house.
 
 20 But Samson's wife was given to his companion, whom he had used as his friend.
 
@@ -896,7 +896,7 @@
 
 13 And they spoke to him, saying, No; but we will bind you fast, and deliver you into their hand: but surely we will not kill you. And they bound him with two new cords, and brought him up from the rock.
 
-14 And when he came to Lehi, the Philistines shouted against him: and the Spirit of the Lord came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
+14 And when he came to Lehi, the Philistines shouted against him: and the Holy Spirit of the Lord came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
 
 15 And he found a new jawbone of an ass, and put forth his hand, and took it, and killed a thousand men with it.
 
@@ -906,7 +906,7 @@
 
 18 And he was sore athirst, and called on the Lord, and said, you have given this great deliverance into the hand of your servant: and now will I die for thirst, and fall into the hand of the uncircumcised?
 
-19 But God split a hollow place that was in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: therefore he called the name of it Enhakkore, which is in Lehi to this day.
+19 But God split a hollow place that was in the jaw, and there came water thereout; and when he had drunk, his human spirit came again, and he revived: therefore he called the name of it Enhakkore, which is in Lehi to this day.
 
 20 And he judged Israel in the days of the Philistines twenty years.
 

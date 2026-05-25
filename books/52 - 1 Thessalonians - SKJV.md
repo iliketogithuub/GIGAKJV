@@ -168,7 +168,7 @@
 
 18 In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 
-19 Quench not the Spirit.
+19 Quench not the Holy Spirit.
 
 20 Despise not prophesyings.
 
@@ -176,7 +176,7 @@
 
 22 Abstain from all appearance of evil.
 
-23 And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless to the coming of our Lord Jesus Christ.
+23 And the very God of peace sanctify you wholly; and I pray God your whole human spirit, soul, and body be preserved blameless to the coming of our Lord Jesus Christ.
 
 24 Faithful is he that calls you, who also will do it.
 

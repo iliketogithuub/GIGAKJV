@@ -38,7 +38,7 @@
 
 18 The Lord is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and look at my sorrow: my virgins and my young men are gone into captivity.
 
-19 I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
+19 I called for my lovers, but they deceived me: my priests and mine elders gave up the Holy Spirit in the city, while they sought their meat to relieve their souls.
 
 20 Look, O Lord; for I am in distress: my heart are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereavs, at home there is as death.
 

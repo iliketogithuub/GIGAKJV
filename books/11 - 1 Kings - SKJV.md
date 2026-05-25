@@ -1306,7 +1306,7 @@
 
 11 And now you say, Go, tell your lord, Look, Elijah is here.
 
-12 And it will come to pass, as soon as I am gone from you, that the Spirit of the Lord will carry you where I know not; and so when I come and tell Ahab, and he cannot find you, he will slay me: but I your servant fear the Lord from my youth.
+12 And it will come to pass, as soon as I am gone from you, that the Holy Spirit of the Lord will carry you where I know not; and so when I come and tell Ahab, and he cannot find you, he will slay me: but I your servant fear the Lord from my youth.
 
 13 Was it not told my lord what I did when Jezebel killed the prophets of the Lord, how I hid an hundred men of the Lord's prophets by fifty in a cave, and fed them with bread and water?
 
@@ -1518,7 +1518,7 @@
 
 4 And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give you the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread.
 
-5 But Jezebel his wife came to him, and said to him, Why is your spirit so sad, that you eat no bread?
+5 But Jezebel his wife came to him, and said to him, Why is your human spirit so sad, that you eat no bread?
 
 6 And he said to her, Because I spoke to Naboth the Jezreelite, and said to him, Give me your vineyard for money; or else, if it please you, I will give you another vineyard for it: and he answered, I will not give you my vineyard.
 
@@ -1616,7 +1616,7 @@
 
 23 Now therefore, look, the Lord has put a lying spirit in the mouth of all these your prophets, and the Lord has spoken evil concerning you.
 
-24 But Zedekiah the son of Chenaanah went near, and struck Micaiah on the cheek, and said, Which way went the Spirit of the Lord from me to speak to you?
+24 But Zedekiah the son of Chenaanah went near, and struck Micaiah on the cheek, and said, Which way went the Holy Spirit of the Lord from me to speak to you?
 
 25 And Micaiah said, Look, you will see in that day, when you will go into an inner chamber to hide thyself.
 

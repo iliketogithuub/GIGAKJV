@@ -17,7 +17,7 @@ FORBIDDEN_WORDS = [
     (r'\bdost\b', "dost"),
     (r'\bwherefore\b', "wherefore"),
     (r'\blest\b', "lest"),
-    (r'\bHoly Ghost\b', "Holy Ghost"),
+    (r'\bghost\b', "ghost"),
     (r'\bbehold\b', "behold"),
     (r'\bbeheld\b', "beheld"),
     (r'\bbeholding\b', "beholding"),

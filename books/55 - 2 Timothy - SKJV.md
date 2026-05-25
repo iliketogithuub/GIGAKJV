@@ -14,7 +14,7 @@
 
 6 therefore I put you in remembrance that you stir up the gift of God, which is in you by the putting on of my hands.
 
-7 For God has not given us the spirit of fear; but of power, and of love, and of a sound mind.
+7 For God has not given us the Holy Spirit of fear; but of power, and of love, and of a sound mind.
 
 8 Be not you therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be you partaker of the afflictions of the gospel according to the power of God;
 
@@ -172,7 +172,7 @@
 
 21 Do your diligence to come before winter. Eubulus greets you, and Pudens, and Linus, and Claudia, and all the brothers.
 
-22 The Lord Jesus Christ be with your spirit. Grace be with you. Amen.
+22 The Lord Jesus Christ be with your human spirit. Grace be with you. Amen.
 
 
 ## eof

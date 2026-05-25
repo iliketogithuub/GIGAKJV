@@ -154,7 +154,7 @@
 
 29 (As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did to me;) until I will pass over Jordan into the land which the Lord our God gives us.
 
-30 But Sihon king of Heshbon would not let us pass by him: for the Lord your God hardened his spirit, and made his heart obstinate, that he might deliver him into your hand, as appears this day.
+30 But Sihon king of Heshbon would not let us pass by him: for the Lord your God hardened his human spirit, and made his heart obstinate, that he might deliver him into your hand, as appears this day.
 
 31 And the Lord said to me, Look, I have begun to give Sihon and his land before you: begin to possess, that you may inherit his land.
 

@@ -106,7 +106,7 @@
 
 5 Then the angel that talked with me answered and said to me, Know you not what these be? And I said, No, my lord.
 
-6 Then he answered and spoke to me, saying, This is the word of the Lord to Zerubbabel, saying, Not by might, nor by power, but by my spirit, says the Lord of hosts.
+6 Then he answered and spoke to me, saying, This is the word of the Lord to Zerubbabel, saying, Not by might, nor by power, but by my Holy Spirit, says the Lord of hosts.
 
 7 Who are you, O great mountain? before Zerubbabel you will become a plain: and he will bring forth the headstone of it with shoutings, crying, Grace, grace to it.
 
@@ -164,7 +164,7 @@
 
 7 And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you from here, walk to and fro through the earth. So they walked to and fro through the earth.
 
-8 Then cried he upon me, and spoke to me, saying, Look, these that go toward the north country have quieted my spirit in the north country.
+8 Then cried he upon me, and spoke to me, saying, Look, these that go toward the north country have quieted my Holy Spirit in the north country.
 
 9 And the word of the Lord came to me, saying,
 
@@ -204,7 +204,7 @@
 
 11 But they refused to listen, and pulled away the shoulder, and stopped their ears, that they should not hear.
 
-12 Yea, they made their hearts as an adamant stone, otherwise they should hear the law, and the words which the Lord of hosts has sent in his spirit by the former prophets: therefore came a great wrath from the Lord of hosts.
+12 Yea, they made their hearts as an adamant stone, otherwise they should hear the law, and the words which the Lord of hosts has sent in His Holy Spirit by the former prophets: therefore came a great wrath from the Lord of hosts.
 
 13 Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, says the Lord of hosts:
 
@@ -358,7 +358,7 @@
 
 ## Zechariah Chapter 12
 
-1 The burden of the word of the Lord for Israel, says the Lord, which stretchs forth the heavens, and lays the foundation of the earth, and forms the spirit of man within him.
+1 The burden of the word of the Lord for Israel, says the Lord, which stretchs forth the heavens, and lays the foundation of the earth, and forms the human spirit of man within him.
 
 2 Look, I will make Jerusalem a cup of trembling to all the people round about, when they will be in the siege both against Judah and against Jerusalem.
 

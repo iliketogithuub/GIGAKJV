@@ -96,7 +96,7 @@
 
 10 Because it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes.
 
-11 Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
+11 Why died I not from the womb? why did I not gives up the Holy Spirit when I came out of the belly?
 
 12 Why did the knees prevent me? or why the breasts that I should suck?
 
@@ -236,7 +236,7 @@
 
 3 For now it would be heavier than the sand of the sea: therefore my words are swallowed up.
 
-4 For the arrows of the Almighty are within me, the poison whereof drinks up my spirit: the terrors of God do set themselves in array against me.
+4 For the arrows of the Almighty are within me, the poison whereof drinks up my human spirit: the terrors of God do set themselves in array against me.
 
 5 does the wild ass bray when he has grass? or lows the ox over his fodder?
 
@@ -312,7 +312,7 @@
 
 10 He will return no more to his house, neither will his place know him any more.
 
-11 Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
+11 Therefore I will not refrain my mouth; I will speak in the anguish of my human spirit; I will complain in the bitterness of my soul.
 
 12 Am I a sea, or a whale, that you sett a watch over me?
 
@@ -476,7 +476,7 @@
 
 11 you have clothed me with skin and flesh, and have fenced me with bones and sinews.
 
-12 you have granted me life and favour, and your visitation has preserved my spirit.
+12 you have granted me life and favour, and your visitation has preserved my human spirit.
 
 13 And these things have you hid in your heart: I know that this is with you.
 
@@ -488,7 +488,7 @@
 
 17 you renew your witnesses against me, and increas your indignation upon me; changes and war are against me.
 
-18 therefore then have you brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!
+18 therefore then have you brought me forth out of the womb? Oh that I had given up the Holy Spirit, and no eye had seen me!
 
 19 I should have been as though I had not been; I should have been carried from the womb to the grave.
 
@@ -538,7 +538,7 @@
 
 19 Also you will lie down, and none will make you afraid; yea, many will make suit to you.
 
-20 But the eyes of the wicked will fail, and they will not escape, and their hope will be as the giving up of the ghost.
+20 But the eyes of the wicked will fail, and they will not escape, and their hope will be as the giving up of the Holy Spirit.
 
 ## Job Chapter 12
 
@@ -630,7 +630,7 @@
 
 18 Look, now, I have ordered my cause; I know that I will be justified.
 
-19 Who is he that will plead with me? for now, if I hold my tongue, I will give up the ghost.
+19 Who is he that will plead with me? for now, if I hold my tongue, I will gives up the Holy Spirit.
 
 20 Only do not two things to me: then will I not hide myself from you.
 
@@ -670,7 +670,7 @@
 
 9 Yet through the scent of water it will bud, and bring forth boughs like a plant.
 
-10 But man dies, and wasts away: yea, man gives up the ghost, and where is he?
+10 But man dies, and wasts away: yea, man gives up the Holy Spirit, and where is he?
 
 11 As the waters fail from the sea, and the flood decays and dries up:
 
@@ -722,7 +722,7 @@
 
 12 Why does your heart carry you away? and what do your eyes wink at,
 
-13 That you turn your spirit against God, and lett such words go out of your mouth?
+13 That you turn your human spirit against God, and lett such words go out of your mouth?
 
 14 What is man, that he should be clean? and he which is born of a woman, that he should be righteous?
 
@@ -1020,7 +1020,7 @@
 
 3 Suffer me that I may speak; and after that I have spoken, mock on.
 
-4 As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?
+4 As for me, is my complaint to man? and if it were so, why should not my human spirit be troubled?
 
 5 Mark me, and be astonished, and lay your hand upon your mouth.
 
@@ -1272,7 +1272,7 @@
 
 12 He divids the sea with his power, and by his understanding he smits through the proud.
 
-13 By his spirit he has garnished the heavens; his hand has formed the crooked serpent.
+13 By his human spirit he has garnished the heavens; his hand has formed the crooked serpent.
 
 14 Look, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
 
@@ -1282,7 +1282,7 @@
 
 2 As God lives, who has taken away my judgment; and the Almighty, who has vexed my soul;
 
-3 All the while my breath is in me, and the spirit of God is in my nostrils;
+3 All the while my breath is in me, and the Holy Spirit of God is in my nostrils;
 
 4 My lips will not speak wickedness, nor my tongue utter deceit.
 
@@ -1634,7 +1634,7 @@
 
 3 My words will be of the uprightness of my heart: and my lips will utter knowledge clearly.
 
-4 The spirit of God has made me, and the breath of the Almighty has given me life.
+4 The Holy Spirit of God has made me, and the breath of the Almighty has given me life.
 
 5 If you can answer me, set your words in order before me, stand up.
 
@@ -1722,7 +1722,7 @@
 
 13 Who has given him a charge over the earth? or who has disposed the whole world?
 
-14 If he set his heart upon man, if he gather to himself his spirit and his breath;
+14 If he set his heart upon man, if he gather to himself his human spirit and his breath;
 
 15 All flesh will perish together, and man will turn again to dust.
 

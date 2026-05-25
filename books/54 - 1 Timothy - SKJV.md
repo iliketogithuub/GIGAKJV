@@ -106,11 +106,11 @@
 
 15 But if I tarry long, that you may know how you ought to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 
-16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
+16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Holy Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
 
 ## 1 Timothy Chapter 4
 
-1 Now the Spirit speaks expressly, that in the latter times some will depart from the faith, giving heed to seducing spirits, and doctrines of devils;
+1 Now the Holy Spirit speaks expressly, that in the latter times some will depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 
 2 Speaking lies in hypocrisy; having their conscience seared with a hot iron;
 

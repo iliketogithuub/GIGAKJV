@@ -132,13 +132,13 @@
 
 15 And Jesus answering said to him, Suffer it to be so now: for thus it becomes us to fulfil all righteousness. Then he suffered him.
 
-16 And Jesus, when he was baptized, went up immediately out of the water: and, look, the heavens were opened to him, and he saw the Spirit of God descending like a dove, and lighting upon him:
+16 And Jesus, when he was baptized, went up immediately out of the water: and, look, the heavens were opened to him, and he saw the Holy Spirit of God descending like a dove, and lighting upon him:
 
 17 And look, a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 
 ## Matthew Chapter 4
 
-1 Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
+1 Then was Jesus led up of the Holy Spirit into the wilderness to be tempted of the devil.
 
 2 And when he had fasted forty days and forty nights, he was afterward an hungred.
 
@@ -194,7 +194,7 @@
 
 2 And he opened his mouth, and taught them, saying,
 
-3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+3 Blessed are the poor in their human spirit: for theirs is the kingdom of heaven.
 
 4 Blessed are they that mourn: for they will be comforted.
 
@@ -606,7 +606,7 @@
 
 19 But when they deliver you up, take no thought how or what you will speak: for it will be given you in that same hour what you will speak.
 
-20 For it is not you that speak, but the Spirit of your Father which speaks in you.
+20 For it is not you that speak, but the Holy Spirit of your Father which speaks in you.
 
 21 And the brother will deliver up the brother to death, and the father the child: and the children will rise up against their parents, and cause them to be put to death.
 
@@ -750,7 +750,7 @@
 
 17 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 
-18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he will show judgment to the Gentiles.
+18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my human spirit upon him, and he will show judgment to the Gentiles.
 
 19 He will not strive, nor cry; neither will any man hear his voice in the streets.
 
@@ -770,7 +770,7 @@
 
 27 And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they will be your judges.
 
-28 But if I cast out devils by the Spirit of God, then the kingdom of God is come to you.
+28 But if I cast out devils by the Holy Spirit of God, then the kingdom of God is come to you.
 
 29 Or else how can one enter into a strong man's house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.
 
@@ -1954,7 +1954,7 @@
 
 40 And he comes to the disciples, and finds them asleep, and says to Peter, What, could you not watch with me one hour?
 
-41 Watch and pray, that you enter not into temptation: the spirit indeed is willing, but the flesh is weak.
+41 Watch and pray, that you enter not into temptation: the human spirit indeed is willing, but the flesh is weak.
 
 42 He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, your will be done.
 
@@ -2124,7 +2124,7 @@
 
 49 The rest said, Let be, let us see whether Elias will come to save him.
 
-50 Jesus, when he had cried again with a loud voice, yielded up the ghost.
+50 Jesus, when he had cried again with a loud voice, yielded up the Holy Spirit.
 
 51 And, look, the veil of the temple was rent in two from the top to the bottom; and the earth did quake, and the rocks rent;
 

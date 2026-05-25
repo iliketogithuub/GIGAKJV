@@ -42,7 +42,7 @@
 
 7 For the mystery of iniquity does already work: only he who now lets will let, until he be taken out of the way.
 
-8 And then will that Wicked be revealed, whom the Lord will consume with the spirit of his mouth, and will destroy with the brightness of his coming:
+8 And then will that Wicked be revealed, whom the Lord will consume with the Holy Spirit of his mouth, and will destroy with the brightness of his coming:
 
 9 Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
 
@@ -52,7 +52,7 @@
 
 12 That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
+13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Holy Spirit and belief of the truth:
 
 14 Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 

@@ -34,7 +34,7 @@
 
 16 And many of the children of Israel will he turn to the Lord their God.
 
-17 And he will go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
+17 And he will go before him in the Holy Spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
 
 18 And Zacharias said to the angel, Whereby will I know this? for I am an old man, and my wife well stricken in years.
 
@@ -94,7 +94,7 @@
 
 46 And Mary said, My soul does magnify the Lord,
 
-47 And my spirit has rejoiced in God my Saviour.
+47 And my human spirit has rejoiced in God my Saviour.
 
 48 For he has regarded the low estate of his handmaiden: for, look, from from now on all generations will call me blessed.
 
@@ -160,7 +160,7 @@
 
 79 To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
 
-80 And the child grew, and grew strong in spirit, and was in the deserts till the day of his showing to Israel.
+80 And the child grew, and grew strong in human spirit, and was in the deserts till the day of his showing to Israel.
 
 ## Luke Chapter 2
 
@@ -216,7 +216,7 @@
 
 26 And it was revealed to him by the Holy Spirit, that he should not see death, before he had seen the Lord's Christ.
 
-27 And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
+27 And he came by the Holy Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
 
 28 Then took he him up in his arms, and blessed God, and said,
 
@@ -242,7 +242,7 @@
 
 39 And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazars.
 
-40 And the child grew, and grew strong in spirit, filled with wisdom: and the grace of God was upon him.
+40 And the child grew, and grew strong in human spirit, filled with wisdom: and the grace of God was upon him.
 
 41 Now his parents went to Jerusalem every year at the feast of the passover.
 
@@ -348,7 +348,7 @@
 
 ## Luke Chapter 4
 
-1 And Jesus being full of the Holy Spirit returned from Jordan, and was led by the Spirit into the wilderness,
+1 And Jesus being full of the Holy Spirit returned from Jordan, and was led by the Holy Spirit into the wilderness,
 
 2 Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.
 
@@ -374,7 +374,7 @@
 
 13 And when the devil had ended all the temptation, he departed from him for a season.
 
-14 And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.
+14 And Jesus returned in the power of the Holy Spirit into Galilee: and there went out a fame of him through all the region round about.
 
 15 And he taught in their synagogues, being glorified of all.
 
@@ -382,7 +382,7 @@
 
 17 And there was delivered to him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,
 
-18 The Spirit of the Lord is upon me, because he has anointed me to preach the gospel to the poor; he has sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
+18 The Holy Spirit of the Lord is upon me, because he has anointed me to preach the gospel to the poor; he has sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
 
 19 To preach the acceptable year of the Lord.
 
@@ -2222,7 +2222,7 @@
 
 45 And the sun was darkened, and the veil of the temple was rent in the midst.
 
-46 And when Jesus had cried with a loud voice, he said, Father, into your hands I commend my spirit: and having said thus, he gave up the ghost.
+46 And when Jesus had cried with a loud voice, he said, Father, into your hands I commend my human spirit: and having said thus, he gave up the Holy Spirit.
 
 47 Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.
 

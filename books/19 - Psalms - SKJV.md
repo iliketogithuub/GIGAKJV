@@ -854,7 +854,7 @@
 
 4 Pull me out of the net that they have laid secretly for me: for you are my strength.
 
-5 Into your hand I commit my spirit: you have redeemed me, O Lord God of truth.
+5 Into your hand I commit my human spirit: you have redeemed me, O Lord God of truth.
 
 6 I have hated them that regard lying vanities: but I trust in the Lord.
 
@@ -1000,7 +1000,7 @@
 
 17 The righteous cry, and the Lord hears, and delivers them out of all their troubles.
 
-18 The Lord is near to them that are of a broken heart; and saves such as be of a contrite spirit.
+18 The Lord is near to them that are of a broken heart; and saves such as be of a contrite human spirit.
 
 19 Many are the afflictions of the righteous: but the Lord delivers him out of them all.
 
@@ -1624,7 +1624,7 @@
 
 9 Hide your face from my sins, and blot out all mine iniquities.
 
-10 Create in me a clean heart, O God; and renew a right spirit within me.
+10 Create in me a clean heart, O God; and renew a right human spirit within me.
 
 11 Cast me not away from your presence; and take not your holy spirit from me.
 
@@ -1638,7 +1638,7 @@
 
 16 For you desir not sacrifice; else would I give it: you delight not in burnt offering.
 
-17 The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, you will not despise.
+17 The sacrifices of God are a broken human spirit: a broken and a contrite heart, O God, you will not despise.
 
 18 Do good in your good pleasure to Zion: build you the walls of Jerusalem.
 
@@ -2466,13 +2466,13 @@
 
 2 In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.
 
-3 I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.
+3 I remembered God, and was troubled: I complained, and my human spirit was overwhelmed. Selah.
 
 4 you hold mine eyes waking: I am so troubled that I cannot speak.
 
 5 I have considered the days of old, the years of ancient times.
 
-6 I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.
+6 I call to remembrance my song in the night: I commune with mine own heart: and my human spirit made diligent search.
 
 7 Will the Lord cast off for ever? and will he be favourable no more?
 
@@ -3530,7 +3530,7 @@
 
 29 you hid your face, they are troubled: you tak away their breath, they die, and return to their dust.
 
-30 you send forth your spirit, they are created: and you renew the face of the earth.
+30 you send forth your human spirit, they are created: and you renew the face of the earth.
 
 31 The glory of the Lord will endure for ever: the Lord will rejoice in his works.
 
@@ -3700,7 +3700,7 @@
 
 32 They angered him also at the waters of strife, so that it went ill with Moses for their sakes:
 
-33 Because they provoked his spirit, so that he spoke unadvisedly with his lips.
+33 Because they provoked his human spirit, so that he spoke unadvisedly with his lips.
 
 34 They did not destroy the nations, concerning whom the Lord commanded them:
 
@@ -4890,7 +4890,7 @@
 
 6 Such knowledge is too wonderful for me; it is high, I cannot attain to it.
 
-7 Where will I go from your spirit? or where will I flee from your presence?
+7 Where will I go from your Holy Spirit? or where will I flee from your presence?
 
 8 If I ascend up into heaven, you are there: if I make my bed in hell, look, you are there.
 
@@ -4982,7 +4982,7 @@
 
 2 I poured out my complaint before him; I showed before him my trouble.
 
-3 When my spirit was overwhelmed within me, then you knew my path. In the way in which I walked have they secretly laid a snare for me.
+3 When my human spirit was overwhelmed within me, then you knew my path. In the way in which I walked have they secretly laid a snare for me.
 
 4 I looked on my right hand, and saw, but there was no man that would know me: refuge failed me; no man cared for my soul.
 
@@ -5000,19 +5000,19 @@
 
 3 For the enemy has persecuted my soul; he has smitten my life down to the ground; he has made me to dwell in darkness, as those that have been long dead.
 
-4 Therefore is my spirit overwhelmed within me; my heart within me is desolate.
+4 Therefore is my human spirit overwhelmed within me; my heart within me is desolate.
 
 5 I remember the days of old; I meditate on all your works; I muse on the work of your hands.
 
 6 I stretch forth my hands to you: my soul thirsts after you, as a thirsty land. Selah.
 
-7 Hear me speedily, O Lord: my spirit fails: hide not your face from me, otherwise I be like to them that go down into the pit.
+7 Hear me speedily, O Lord: my human spirit fails: hide not your face from me, otherwise I be like to them that go down into the pit.
 
 8 Cause me to hear your lovingkindness in the morning; for in you do I trust: cause me to know the way in which I should walk; for I lift up my soul to you.
 
 9 Deliver me, O Lord, from mine enemies: I flee to you to hide me.
 
-10 Teach me to do your will; for you are my God: your spirit is good; lead me into the land of uprightness.
+10 Teach me to do your will; for you are my God: your human spirit is good; lead me into the land of uprightness.
 
 11 Quicken me, O Lord, for your name's sake: for your righteousness' sake bring my soul out of trouble.
 

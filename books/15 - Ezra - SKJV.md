@@ -2,7 +2,7 @@
 
 ## Ezra Chapter 1
 
-1 Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
+1 Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the human spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 
 2 Thus says Cyrus king of Persia, The Lord God of heaven has given me all the kingdoms of the earth; and he has charged me to build him an house at Jerusalem, which is in Judah.
 
@@ -10,7 +10,7 @@
 
 4 And whosoever remains in any place where he sojourns, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
 
-5 Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the Lord which is in Jerusalem.
+5 Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose human spirit God had raised, to go up to build the house of the Lord which is in Jerusalem.
 
 6 And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered.
 

@@ -98,9 +98,9 @@
 
 27 And you will know that I am in the midst of Israel, and that I am the Lord your God, and none else: and my people will never be ashamed.
 
-28 And it will come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters will prophesy, your old men will dream dreams, your young men will see visions:
+28 And it will come to pass afterward, that I will pour out my Holy Spirit upon all flesh; and your sons and your daughters will prophesy, your old men will dream dreams, your young men will see visions:
 
-29 And also upon the servants and upon the handmaids in those days will I pour out my spirit.
+29 And also upon the servants and upon the handmaids in those days will I pour out my Holy Spirit.
 
 30 And I will show wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
 

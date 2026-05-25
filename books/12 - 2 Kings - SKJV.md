@@ -56,7 +56,7 @@
 
 8 And Elijah took his mantle, and wrapped it together, and struck the waters, and they were divided here and there, so that they two went over on dry ground.
 
-9 And it came to pass, when they were gone over, that Elijah said to Elisha, Ask what I will do for you, before I be taken away from you. And Elisha said, I pray you, let a double portion of your spirit be upon me.
+9 And it came to pass, when they were gone over, that Elijah said to Elisha, Ask what I will do for you, before I be taken away from you. And Elisha said, I pray you, let a double portion of your human spirit be upon me.
 
 10 And he said, you have asked a hard thing: nevertheless, if you see me when I am taken from you, it will be so to you; but if not, it will not be so.
 
@@ -68,9 +68,9 @@
 
 14 And he took the mantle of Elijah that fell from him, and struck the waters, and said, Where is the Lord God of Elijah? and when he also had smitten the waters, they parted here and there: and Elisha went over.
 
-15 And when the sons of the prophets which were to view at Jericho saw him, they said, The spirit of Elijah does rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.
+15 And when the sons of the prophets which were to view at Jericho saw him, they said, The human spirit of Elijah does rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.
 
-16 And they said to him, Look, now, there be with your servants fifty strong men; let them go, we pray you, and seek your master: otherwise perhaps the Spirit of the Lord has taken him up, and cast him upon some mountain, or into some valley. And he said, you will not send.
+16 And they said to him, Look, now, there be with your servants fifty strong men; let them go, we pray you, and seek your master: otherwise perhaps the Holy Spirit of the Lord has taken him up, and cast him upon some mountain, or into some valley. And he said, you will not send.
 
 17 And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.
 

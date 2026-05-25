@@ -28,7 +28,7 @@
 
 13 Then spoke Haggai the Lord's messenger in the Lord's message to the people, saying, I am with you, says the Lord.
 
-14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
+14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the human spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
 
 15 In the four and twentieth day of the sixth month, in the second year of Darius the king.
 
@@ -42,7 +42,7 @@
 
 4 Yet now be strong, O Zerubbabel, says the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all you people of the land, says the Lord, and work: for I am with you, says the Lord of hosts:
 
-5 According to the word that I covenanted with you when you came out of Egypt, so my spirit remains among you: fear you not.
+5 According to the word that I covenanted with you when you came out of Egypt, so my Holy Spirit remains among you: fear you not.
 
 6 For thus says the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;
 

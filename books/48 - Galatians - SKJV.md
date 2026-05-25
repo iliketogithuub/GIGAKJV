@@ -98,13 +98,13 @@
 
 1 O foolish Galatians, who has bewitched you, that you should not obey the truth, before whose eyes Jesus Christ has been evidently set forth, crucified among you?
 
-2 This only would I learn of you, Received you the Spirit by the works of the law, or by the hearing of faith?
+2 This only would I learn of you, Received you the Holy Spirit by the works of the law, or by the hearing of faith?
 
-3 Are you so foolish? having begun in the Spirit, are you now made perfect by the flesh?
+3 Are you so foolish? having begun in the Holy Spirit, are you now made perfect by the flesh?
 
 4 Have you suffered so many things in vain? if it be yet in vain.
 
-5 He therefore that ministers to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
+5 He therefore that ministers to you the Holy Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
 
 6 Even as Abraham believed God, and it was accounted to him for righteousness.
 
@@ -122,7 +122,7 @@
 
 13 Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:
 
-14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
+14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Holy Spirit through faith.
 
 15 Brothers, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannuls, or adds to it.
 
@@ -166,7 +166,7 @@
 
 5 To redeem them that were under the law, that we might receive the adoption of sons.
 
-6 And because you are sons, God has sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
+6 And because you are sons, God has sent forth the Holy Spirit of his Son into your hearts, crying, Abba, Father.
 
 7 therefore you are no more a servant, but a son; and if a son, then an heir of God through Christ.
 
@@ -212,7 +212,7 @@
 
 28 Now we, brothers, as Isaac was, are the children of promise.
 
-29 But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
+29 But as then he that was born after the flesh persecuted him that was born after the Holy Spirit, even so it is now.
 
 30 Nevertheless what says the scripture? Cast out the bondwoman and her son: for the son of the bondwoman will not be heir with the son of the freewoman.
 
@@ -228,7 +228,7 @@
 
 4 Christ is become of no effect to you, whosoever of you are justified by the law; you are fallen from grace.
 
-5 For we through the Spirit wait for the hope of righteousness by faith.
+5 For we through the Holy Spirit wait for the hope of righteousness by faith.
 
 6 For in Jesus Christ neither circumcision avails any thing, nor uncircumcision; but faith which works by love.
 
@@ -250,11 +250,11 @@
 
 15 But if you bite and devour one another, take heed that you be not consumed one of another.
 
-16 This I say then, Walk in the Spirit, and you will not fulfil the lust of the flesh.
+16 This I say then, Walk in the Holy Spirit, and you will not fulfil the lust of the flesh.
 
-17 For the flesh lusts against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that you cannot do the things that you would.
+17 For the flesh lusts against the Holy Spirit, and the Holy Spirit against the flesh: and these are contrary the one to the other: so that you cannot do the things that you would.
 
-18 But if you be led of the Spirit, you are not under the law.
+18 But if you be led of the Holy Spirit, you are not under the law.
 
 19 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, sensuality,
 
@@ -262,19 +262,19 @@
 
 21 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things will not inherit the kingdom of God.
 
-22 But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
+22 But the fruit of the Holy Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
 
 23 Meekness, temperance: against such there is no law.
 
 24 And they that are Christ's have crucified the flesh with the affections and lusts.
 
-25 If we live in the Spirit, let us also walk in the Spirit.
+25 If we live in the Holy Spirit, let us also walk in the Holy Spirit.
 
 26 Let us not be desirous of vain glory, provoking one another, envying one another.
 
 ## Galatians Chapter 6
 
-1 Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the spirit of meekness; considering thyself, otherwise you also be tempted.
+1 Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the Holy Spirit of meekness; considering thyself, otherwise you also be tempted.
 
 2 Bear you one another's burdens, and so fulfil the law of Christ.
 
@@ -288,7 +288,7 @@
 
 7 Be not deceived; God is not mocked: for whatsoever a man sows, that will he also reap.
 
-8 For he that sows to his flesh will of the flesh reap corruption; but he that sows to the Spirit will of the Spirit reap life everlasting.
+8 For he that sows to his flesh will of the flesh reap corruption; but he that sows to the Holy Spirit will of the Holy Spirit reap life everlasting.
 
 9 And let us not be weary in well doing: for in due season we will reap, if we faint not.
 
@@ -308,7 +308,7 @@
 
 17 From from now on let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 
-18 Brothers, the grace of our Lord Jesus Christ be with your spirit. Amen.
+18 Brothers, the grace of our Lord Jesus Christ be with your human spirit. Amen.
 
 
 ## eof

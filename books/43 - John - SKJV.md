@@ -64,9 +64,9 @@
 
 31 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 
-32 And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it stayed upon him.
+32 And John bare record, saying, I saw the Holy Spirit descending from heaven like a dove, and it stayed upon him.
 
-33 And I knew him not: but he that sent me to baptize with water, the same said to me, Upon whom you will see the Spirit descending, and remaining on him, the same is he which baptizs with the Holy Spirit.
+33 And I knew him not: but he that sent me to baptize with water, the same said to me, Upon whom you will see the Holy Spirit descending, and remaining on him, the same is he which baptizs with the Holy Spirit.
 
 34 And I saw, and bare record that this is the Son of God.
 
@@ -166,13 +166,13 @@
 
 4 Nicodemus says to him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?
 
-5 Jesus answered, Truly, truly, I say to you, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+5 Jesus answered, Truly, truly, I say to you, Except a man be born of water and of the Holy Spirit, he cannot enter into the kingdom of God.
 
-6 That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.
+6 That which is born of the flesh is flesh; and that which is born of the Holy Spirit is spirit.
 
 7 Marvel not that I said to you, you must be born again.
 
-8 The wind blows where it lists, and you hear the sound of it, but can not tell from where it comes, and where it goes: so is every one that is born of the Spirit.
+8 The wind blows where it lists, and you hear the sound of it, but can not tell from where it comes, and where it goes: so is every one that is born of the Holy Spirit.
 
 9 Nicodemus answered and said to him, How can these things be?
 
@@ -224,7 +224,7 @@
 
 33 He that has received his testimony has set to his seal that God is true.
 
-34 For he whom God has sent speaks the words of God: for God gives not the Spirit by measure to him.
+34 For he whom God has sent speaks the words of God: for God gives not the Holy Spirit by measure to him.
 
 35 The Father loves the Son, and has given all things into his hand.
 
@@ -562,7 +562,7 @@
 
 62 What and if you will see the Son of man ascend up where he was before?
 
-63 It is the spirit that quickens; the flesh profits nothing: the words that I speak to you, they are spirit, and they are life.
+63 It is the Holy Spirit that quickens; the flesh profits nothing: the words that I speak to you, they are spirit, and they are life.
 
 64 But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
 
@@ -658,7 +658,7 @@
 
 38 He that believes on me, as the scripture has said, out of his belly will flow rivers of living water.
 
-39 (But this spoke he of the Spirit, which they that believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
+39 (But this spoke he of the Holy Spirit, which they that believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
 
 40 Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.
 
@@ -1044,7 +1044,7 @@
 
 32 Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying to him, Lord, if you had been here, my brother had not died.
 
-33 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled.
+33 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in His human spirit, and was troubled.
 
 34 And said, Where have you laid him? They said to him, Lord, come and see.
 
@@ -1308,7 +1308,7 @@
 
 16 And I will pray the Father, and he will give you another Comforter, that he may abide with you for ever;
 
-17 Even the Spirit of truth; whom the world cannot receive, because it sees him not, neither knows him: but you know him; for he dwells with you, and will be in you.
+17 Even the Holy Spirit of truth; whom the world cannot receive, because it sees him not, neither knows him: but you know him; for he dwells with you, and will be in you.
 
 18 I will not leave you comfortless: I will come to you.
 
@@ -1390,7 +1390,7 @@
 
 25 But this comes to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.
 
-26 But when the Comforter is come, whom I will send to you from the Father, even the Spirit of truth, which proceeds from the Father, he will testify of me:
+26 But when the Comforter is come, whom I will send to you from the Father, even the Holy Spirit of truth, which proceeds from the Father, he will testify of me:
 
 27 And you also will bear witness, because you have been with me from the beginning.
 
@@ -1420,7 +1420,7 @@
 
 12 I have yet many things to say to you, but you cannot bear them now.
 
-13 However when he, the Spirit of truth, is come, he will guide you into all truth: for he will not speak of himself; but whatsoever he will hear, that will he speak: and he will show you things to come.
+13 However when he, the Holy Spirit of truth, is come, he will guide you into all truth: for he will not speak of himself; but whatsoever he will hear, that will he speak: and he will show you things to come.
 
 14 He will glorify me: for he will receive of mine, and will show it to you.
 
@@ -1658,7 +1658,7 @@
 
 29 Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
 
-30 When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
+30 When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the Holy Spirit.
 
 31 The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) urged Pilate that their legs might be broken, and that they might be taken away.
 

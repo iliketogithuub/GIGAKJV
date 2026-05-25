@@ -274,7 +274,7 @@
 
 8 And I will bring you in to the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the Lord.
 
-9 And Moses spoke so to the children of Israel: but they listened not to Moses for anguish of spirit, and for cruel bondage.
+9 And Moses spoke so to the children of Israel: but they listened not to Moses for anguish of human spirit, and for cruel bondage.
 
 10 And the Lord spoke to Moses, saying,
 
@@ -1842,7 +1842,7 @@
 
 2 See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
 
-3 And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
+3 And I have filled him with the Holy Spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
 
 4 To devise cunning works, to work in gold, and in silver, and in brass,
 
@@ -2108,7 +2108,7 @@
 
 20 And all the congregation of the children of Israel departed from the presence of Moses.
 
-21 And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the Lord's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
+21 And they came, every one whose heart stirred him up, and every one whom his human spirit made willing, and they brought the Lord's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
 
 22 And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold to the Lord.
 
@@ -2128,7 +2128,7 @@
 
 30 And Moses said to the children of Israel, See, the Lord has called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;
 
-31 And he has filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;
+31 And he has filled him with the Holy Spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;
 
 32 And to devise curious works, to work in gold, and in silver, and in brass,
 

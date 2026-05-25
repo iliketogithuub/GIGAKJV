@@ -20,7 +20,7 @@
 
 9 I John, who also am your brother, and companion in suffering, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 
-10 I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,
+10 I was in the Holy Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,
 
 11 Saying, I am Alpha and Omega, the first and the last: and, What you se, write in a book, and send it to the seven churches which are in Asia; to Ephesus, and to Smyrna, and to Pergamos, and to Thyatira, and to Sardis, and to Philadelphia, and to Laodicea.
 
@@ -56,7 +56,7 @@
 
 6 But this you have, that you hat the deeds of the Nicolaitanes, which I also hate.
 
-7 He that has an ear, let him hear what the Spirit says to the churches; To him that overcomes will I give to eat of the tree of life, which is in the midst of the paradise of God.
+7 He that has an ear, let him hear what the Holy Spirit says to the churches; To him that overcomes will I give to eat of the tree of life, which is in the midst of the paradise of God.
 
 8 And to the angel of the church in Smyrna write; These things says the first and the last, which was dead, and is alive;
 
@@ -64,7 +64,7 @@
 
 10 Fear none of those things which you will suffer: look, the devil will cast some of you into prison, that you may be tried; and you will have suffering ten days: be you faithful to death, and I will give you a crown of life.
 
-11 He that has an ear, let him hear what the Spirit says to the churches; He that overcomes will not be hurt of the second death.
+11 He that has an ear, let him hear what the Holy Spirit says to the churches; He that overcomes will not be hurt of the second death.
 
 12 And to the angel of the church in Pergamos write; These things says he which has the sharp sword with two edges;
 
@@ -76,7 +76,7 @@
 
 16 Repent; or else I will come to you quickly, and will fight against them with the sword of my mouth.
 
-17 He that has an ear, let him hear what the Spirit says to the churches; To him that overcomes will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knows saving he that receives it.
+17 He that has an ear, let him hear what the Holy Spirit says to the churches; To him that overcomes will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knows saving he that receives it.
 
 18 And to the angel of the church in Thyatira write; These things says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
 
@@ -100,7 +100,7 @@
 
 28 And I will give him the morning star.
 
-29 He that has an ear, let him hear what the Spirit says to the churches.
+29 He that has an ear, let him hear what the Holy Spirit says to the churches.
 
 ## Revelation Chapter 3
 
@@ -114,7 +114,7 @@
 
 5 He that overcomes, the same will be clothed in white clothing; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
 
-6 He that has an ear, let him hear what the Spirit says to the churches.
+6 He that has an ear, let him hear what the Holy Spirit says to the churches.
 
 7 And to the angel of the church in Philadelphia write; These things says he that is holy, he that is true, he that has the key of David, he that opens, and no man shuts; and shuts, and no man opens;
 
@@ -128,7 +128,7 @@
 
 12 Him that overcomes will I make a pillar in the temple of my God, and he will go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which comes down out of heaven from my God: and I will write upon him my new name.
 
-13 He that has an ear, let him hear what the Spirit says to the churches.
+13 He that has an ear, let him hear what the Holy Spirit says to the churches.
 
 14 And to the angel of the church of the Laodiceans write; These things says the Amen, the faithful and true witness, the beginning of the creation of God;
 
@@ -146,13 +146,13 @@
 
 21 To him that overcomes will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
 
-22 He that has an ear, let him hear what the Spirit says to the churches.
+22 He that has an ear, let him hear what the Holy Spirit says to the churches.
 
 ## Revelation Chapter 4
 
 1 After this I looked, and, look, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will show you things which must be from now on.
 
-2 And immediately I was in the spirit: and, look, a throne was set in heaven, and one sat on the throne.
+2 And immediately I was in the Holy Spirit: and, look, a throne was set in heaven, and one sat on the throne.
 
 3 And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like to an emerald.
 
@@ -392,7 +392,7 @@
 
 10 And they that dwell upon the earth will rejoice over them, and make merry, and will send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 
-11 And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
+11 And after three days and an half the Holy Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 
 12 And they heard a great voice from heaven saying to them, Come up here. And they ascended up to heaven in a cloud; and their enemies saw them.
 
@@ -510,7 +510,7 @@
 
 12 Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 
-13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from from now on: Yea, says the Spirit, that they may rest from their labours; and their works do follow them.
+13 And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from from now on: Yea, says the Holy Spirit, that they may rest from their labours; and their works do follow them.
 
 14 And I looked, and look, a white cloud, and upon the cloud one sat like to the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
 
@@ -594,7 +594,7 @@
 
 2 With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 
-3 So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
+3 So he carried me away in the Holy Spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 
 4 And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
 
@@ -696,7 +696,7 @@
 
 9 And he says to me, Write, Blessed are they which are called to the marriage supper of the Lamb. And he says to me, These are the true sayings of God.
 
-10 And I fell at his feet to worship him. And he said to me, See you do it not: I am your fellowservant, and of your brothers that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+10 And I fell at his feet to worship him. And he said to me, See you do it not: I am your fellowservant, and of your brothers that have the testimony of Jesus: worship God: for the testimony of Jesus is the Holy Spirit of prophecy.
 
 11 And I saw heaven opened, and look, a white horse; and he that sat upon him was called Faithful and True, and in righteousness he does judge and make war.
 
@@ -772,7 +772,7 @@
 
 9 And there came to me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come here, I will show you the bride, the Lamb's wife.
 
-10 And he carried me away in the spirit to a great and high mountain, and showed me that great city, the holy Jerusalem, descending out of heaven from God,
+10 And he carried me away in the Holy Spirit to a great and high mountain, and showed me that great city, the holy Jerusalem, descending out of heaven from God,
 
 11 Having the glory of God: and her light was like to a stone most precious, even like a jasper stone, clear as crystal;
 
@@ -842,7 +842,7 @@
 
 16 I Jesus have sent mine angel to testify to you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
 
-17 And the Spirit and the bride say, Come. And let him that hears say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.
+17 And the Holy Spirit and the bride say, Come. And let him that hears say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.
 
 18 For I testify to every man that hears the words of the prophecy of this book, If any man will add to these things, God will add to him the plagues that are written in this book:
 

@@ -16,7 +16,7 @@
 
 7 As you also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
 
-8 Who also declared to us your love in the Spirit.
+8 Who also declared to us your love in the Holy Spirit.
 
 9 For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that you might be filled with the knowledge of his will in all wisdom and spiritual understanding;
 
@@ -70,7 +70,7 @@
 
 4 And this I say, otherwise any man should beguile you with enticing words.
 
-5 For though I be absent in the flesh, yet am I with you in the spirit, joying and observing your order, and the stedfastness of your faith in Christ.
+5 For though I be absent in the flesh, yet am I with you in the Holy Spirit, joying and observing your order, and the stedfastness of your faith in Christ.
 
 6 As you have therefore received Christ Jesus the Lord, so walk you in him:
 

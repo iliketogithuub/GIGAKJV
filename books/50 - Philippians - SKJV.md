@@ -38,7 +38,7 @@
 
 18 What then? nevertheless, every way, whether in pretence, or in truth, Christ is preached; and I in it do rejoice, yea, and will rejoice.
 
-19 For I know that this will turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
+19 For I know that this will turn to my salvation through your prayer, and the supply of the Holy Spirit of Jesus Christ,
 
 20 According to my earnest expectation and my hope, that in nothing I will be ashamed, but that with all boldness, as always, so now also Christ will be magnified in my body, whether it be by life, or by death.
 
@@ -64,7 +64,7 @@
 
 ## Philippians Chapter 2
 
-1 If there be therefore any comfort in Christ, if any comfort of love, if any fellowship of the Spirit, if any deep affection and mercies,
+1 If there be therefore any comfort in Christ, if any comfort of love, if any fellowship of the Holy Spirit, if any deep affection and mercies,
 
 2 Fulfil you my joy, that you be likeminded, having the same love, being of one accord, of one mind.
 
@@ -130,7 +130,7 @@
 
 2 Beware of dogs, beware of evil workers, beware of the concision.
 
-3 For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.
+3 For we are the circumcision, which worship God in the Holy Spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.
 
 4 Though I might also have confidence in the flesh. If any other man thinks that he has whereof he might trust in the flesh, I more:
 

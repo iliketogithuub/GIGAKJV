@@ -20,11 +20,11 @@
 
 9 And it came to pass in those days, that Jesus came from Nazars of Galilee, and was baptized of John in Jordan.
 
-10 And immediately coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:
+10 And immediately coming up out of the water, he saw the heavens opened, and the Holy Spirit like a dove descending upon him:
 
 11 And there came a voice from heaven, saying, you are my beloved Son, in whom I am well pleased.
 
-12 And immediately the spirit drives him into the wilderness.
+12 And immediately the Holy Spirit drives him into the wilderness.
 
 13 And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered to him.
 
@@ -108,7 +108,7 @@
 
 7 Why does this man thus speak blasphemies? who can forgive sins but God only?
 
-8 And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said to them, Why reason you these things in your hearts?
+8 And immediately when Jesus perceived in his human spirit that they so reasoned within themselves, he said to them, Why reason you these things in your hearts?
 
 9 Whether is it easier to say to the sick of the palsy, your sins be forgiven you; or to say, Arise, and take up your bed, and walk?
 
@@ -608,7 +608,7 @@
 
 11 And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him.
 
-12 And he sighed deeply in his spirit, and says, Why does this generation seek after a sign? truly I say to you, There will no sign be given to this generation.
+12 And he sighed deeply in his human spirit, and says, Why does this generation seek after a sign? truly I say to you, There will no sign be given to this generation.
 
 13 And he left them, and entering into the ship again departed to the other side.
 
@@ -702,7 +702,7 @@
 
 19 He answers him, and says, O faithless generation, how long will I be with you? how long will I suffer you? bring him to me.
 
-20 And they brought him to him: and when he saw him, immediately the spirit tare him; and he fell on the ground, and wallowed foaming.
+20 And they brought him to him: and when he saw him, immediately the Holy Spirit tare him; and he fell on the ground, and wallowed foaming.
 
 21 And he asked his father, How long is it ago since this came to him? And he said, Of a child.
 
@@ -714,7 +714,7 @@
 
 25 When Jesus saw that the people came running together, he rebuked the foul spirit, saying to him, you dumb and deaf spirit, I charge you, come out of him, and enter no more into him.
 
-26 And the spirit cried, and rent him sore, and came out of him: and he was as one dead; so much so that many said, He is dead.
+26 And the Holy Spirit cried, and rent him sore, and came out of him: and he was as one dead; so much so that many said, He is dead.
 
 27 But Jesus took him by the hand, and lifted him up; and he arose.
 
@@ -1182,7 +1182,7 @@
 
 37 And he comes, and finds them sleeping, and says to Peter, Simon, sleep you? could not you watch one hour?
 
-38 Watch you and pray, otherwise you enter into temptation. The spirit truly is ready, but the flesh is weak.
+38 Watch you and pray, otherwise you enter into temptation. The human spirit truly is ready, but the flesh is weak.
 
 39 And again he went away, and prayed, and spoke the same words.
 
@@ -1326,11 +1326,11 @@
 
 36 And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.
 
-37 And Jesus cried with a loud voice, and gave up the ghost.
+37 And Jesus cried with a loud voice, and gave up the Holy Spirit.
 
 38 And the veil of the temple was rent in two from the top to the bottom.
 
-39 And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.
+39 And when the centurion, which stood over against him, saw that he so cried out, and gave up the Holy Spirit, he said, Truly this man was the Son of God.
 
 40 There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;
 

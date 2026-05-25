@@ -1310,7 +1310,7 @@
 
 1 Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 
-2 The Spirit of the Lord spoke by me, and his word was in my tongue.
+2 The Holy Spirit of the Lord spoke by me, and his word was in my tongue.
 
 3 The God of Israel said, the Rock of Israel spoke to me, He that rules over men must be just, ruling in the fear of God.
 

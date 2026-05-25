@@ -50,7 +50,7 @@
 
 24 Marcus, Aristarchus, Demas, Lucas, my co-workers.
 
-25 The grace of our Lord Jesus Christ be with your spirit. Amen.
+25 The grace of our Lord Jesus Christ be with your human spirit. Amen.
 
 
 ## eof

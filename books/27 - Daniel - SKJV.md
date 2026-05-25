@@ -46,11 +46,11 @@
 
 ## Daniel Chapter 2
 
-1 And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, with what his spirit was troubled, and his sleep broke from him.
+1 And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, with what his human spirit was troubled, and his sleep broke from him.
 
 2 Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to show the king his dreams. So they came and stood before the king.
 
-3 And the king said to them, I have dreamed a dream, and my spirit was troubled to know the dream.
+3 And the king said to them, I have dreamed a dream, and my human spirit was troubled to know the dream.
 
 4 Then spoke the Chaldeans to the king in Syriack, O king, live for ever: tell your servants the dream, and we will show the interpretation.
 
@@ -306,7 +306,7 @@
 
 11 There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar your father, the king, I say, your father, made master of the magicians, astrologers, Chaldeans, and fortune-tellers;
 
-12 Since as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and showing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will show the interpretation.
+12 Since as an excellent human spirit, and knowledge, and understanding, interpreting of dreams, and showing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will show the interpretation.
 
 13 Then was Daniel brought in before the king. And the king spoke and said to Daniel, are you that Daniel, which are of the children of the captivity of Judah, whom the king my father brought out of Jewry?
 
@@ -352,7 +352,7 @@
 
 2 And over these three presidents; of whom Daniel was first: that the princes might give accounts to them, and the king should have no damage.
 
-3 Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him; and the king thought to set him over the whole realm.
+3 Then this Daniel was preferred above the presidents and princes, because an excellent human spirit was in him; and the king thought to set him over the whole realm.
 
 4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; since as he was faithful, neither was there any error or fault found in him.
 
@@ -434,7 +434,7 @@
 
 14 And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which will not pass away, and his kingdom that which will not be destroyed.
 
-15 I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me.
+15 I Daniel was grieved in my human spirit in the midst of my body, and the visions of my head troubled me.
 
 16 I came near to one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.
 

@@ -60,9 +60,9 @@
 
 14 Yet you say, therefore? Because the Lord has been witness between you and the wife of your youth, against whom you have dealt treacherously: yet is she your companion, and the wife of your covenant.
 
-15 And did not he make one? Yet had he the residue of the spirit. And therefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.
+15 And did not he make one? Yet had he the residue of the spirit. And therefore one? That he might seek a godly seed. Therefore take heed to your human spirit, and let none deal treacherously against the wife of his youth.
 
-16 For the Lord, the God of Israel, says that he hates putting away: for one covers violence with his garment, says the Lord of hosts: therefore take heed to your spirit, that you deal not treacherously.
+16 For the Lord, the God of Israel, says that he hates putting away: for one covers violence with his garment, says the Lord of hosts: therefore take heed to your human spirit, that you deal not treacherously.
 
 17 you have wearied the Lord with your words. Yet you say, In which have we wearied him? When you say, Every one that does evil is good in the sight of the Lord, and he delights in them; or, Where is the God of judgment?
 

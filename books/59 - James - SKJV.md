@@ -108,7 +108,7 @@
 
 25 Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?
 
-26 For as the body without the spirit is dead, so faith without works is dead also.
+26 For as the body without the human spirit is dead, so faith without works is dead also.
 
 ## James Chapter 3
 

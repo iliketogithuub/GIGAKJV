@@ -622,7 +622,7 @@
 
 ## 2 Chronicles Chapter 15
 
-1 And the Spirit of God came upon Azariah the son of Oded:
+1 And the Holy Spirit of God came upon Azariah the son of Oded:
 
 2 And he went out to meet Asa, and said to him, Hear you me, Asa, and all Judah and Benjamin; The Lord is with you, while you be with him; and if you seek him, he will be found of you; but if you forsake him, he will forsake you.
 
@@ -776,7 +776,7 @@
 
 22 Now therefore, look, the Lord has put a lying spirit in the mouth of these your prophets, and the Lord has spoken evil against you.
 
-23 Then Zedekiah the son of Chenaanah came near, and struck Micaiah upon the cheek, and said, Which way went the Spirit of the Lord from me to speak to you?
+23 Then Zedekiah the son of Chenaanah came near, and struck Micaiah upon the cheek, and said, Which way went the Holy Spirit of the Lord from me to speak to you?
 
 24 And Micaiah said, Look, you will see on that day when you will go into an inner chamber to hide thyself.
 
@@ -852,7 +852,7 @@
 
 13 And all Judah stood before the Lord, with their little ones, their wives, and their children.
 
-14 Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the Lord in the midst of the congregation;
+14 Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Holy Spirit of the Lord in the midst of the congregation;
 
 15 And he said, Listen you, all Judah, and you inhabitants of Jerusalem, and you king Jehoshaphat, Thus says the Lord to you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God's.
 
@@ -1052,7 +1052,7 @@
 
 19 Yet he sent prophets to them, to bring them again to the Lord; and they testified against them: but they would not give ear.
 
-20 And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said to them, Thus says God, Why transgress you the commandments of the Lord, that you cannot prosper? because you have forsaken the Lord, he has also forsaken you.
+20 And the Holy Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said to them, Thus says God, Why transgress you the commandments of the Lord, that you cannot prosper? because you have forsaken the Lord, he has also forsaken you.
 
 21 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the Lord.
 
@@ -1712,7 +1712,7 @@
 
 21 To fulfil the word of the Lord by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
 
-22 Now in the first year of Cyrus king of Persia, that the word of the Lord spoken by the mouth of Jeremiah might be accomplished, the Lord stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
+22 Now in the first year of Cyrus king of Persia, that the word of the Lord spoken by the mouth of Jeremiah might be accomplished, the Lord stirred up the human spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 
 23 Thus says Cyrus king of Persia, All the kingdoms of the earth has the Lord God of heaven given me; and he has charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The Lord his God be with him, and let him go up.
 

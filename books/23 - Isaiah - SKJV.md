@@ -484,7 +484,7 @@
 
 1 And there will come forth a rod out of the stem of Jesse, and a Branch will grow out of his roots:
 
-2 And the spirit of the Lord will rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord;
+2 And the Holy Spirit of the Lord will rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord;
 
 3 And will make him of quick understanding in the fear of the Lord: and he will not judge after the sight of his eyes, neither correct after the hearing of his ears:
 
@@ -1020,7 +1020,7 @@
 
 8 Yea, in the way of your judgments, O Lord, have we waited for you; the desire of our soul is to your name, and to the remembrance of you.
 
-9 With my soul have I desired you in the night; yea, with my spirit within me will I seek you early: for when your judgments are in the earth, the inhabitants of the world will learn righteousness.
+9 With my soul have I desired you in the night; yea, with my human spirit within me will I seek you early: for when your judgments are in the earth, the inhabitants of the world will learn righteousness.
 
 10 Let favour be showed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not look at the majesty of the Lord.
 
@@ -1186,7 +1186,7 @@
 
 ## Isaiah Chapter 30
 
-1 Woe to the rebellious children, says the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
+1 Woe to the rebellious children, says the Lord, that take counsel, but not of me; and that cover with a covering, but not of my Holy Spirit, that they may add sin to sin:
 
 2 That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
 
@@ -1396,7 +1396,7 @@
 
 15 There will the great owl make her nest, and lay, and hatch, and gather under her shadow: there will the vultures also be gathered, every one with her mate.
 
-16 Seek you out of the book of the Lord, and read: no one of these will fail, none will want her mate: for my mouth it has commanded, and his spirit it has gathered them.
+16 Seek you out of the book of the Lord, and read: no one of these will fail, none will want her mate: for my mouth it has commanded, and His Holy Spirit it has gathered them.
 
 17 And he has cast the lot for them, and his hand has divided it to them by line: they will possess it for ever, from generation to generation will they dwell in it.
 
@@ -1578,7 +1578,7 @@
 
 15 What will I say? he has both spoken to me, and himself has done it: I will go softly all my years in the bitterness of my soul.
 
-16 O Lord, by these things men live, and in all these things is the life of my spirit: so will you recover me, and make me to live.
+16 O Lord, by these things men live, and in all these things is the life of my human spirit: so will you recover me, and make me to live.
 
 17 Look, for peace I had great bitterness: but you have in love to my soul delivered it from the pit of corruption: for you have cast all my sins behind your back.
 
@@ -1624,7 +1624,7 @@
 
 6 The voice said, Cry. And he said, What will I cry? All flesh is grass, and all the goodliness of it is as the flower of the field:
 
-7 The grass withers, the flower fads: because the spirit of the Lord blows upon it: surely the people is grass.
+7 The grass withers, the flower fads: because the Holy Spirit of the Lord blows upon it: surely the people is grass.
 
 8 The grass withers, the flower fads: but the word of our God will stand for ever.
 
@@ -1636,7 +1636,7 @@
 
 12 Who has measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
 
-13 Who has directed the Spirit of the Lord, or being his counsellor has taught him?
+13 Who has directed the Holy Spirit of the Lord, or being his counsellor has taught him?
 
 14 With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and showed to him the way of understanding?
 
@@ -1736,7 +1736,7 @@
 
 ## Isaiah Chapter 42
 
-1 Look at my servant, whom I uphold; mine elect, in whom my soul delights; I have put my spirit upon him: he will bring forth judgment to the Gentiles.
+1 Look at my servant, whom I uphold; mine elect, in whom my soul delights; I have put my Holy Spirit upon him: he will bring forth judgment to the Gentiles.
 
 2 He will not cry, nor lift up, nor cause his voice to be heard in the street.
 
@@ -1850,7 +1850,7 @@
 
 2 Thus says the Lord that made you, and formed you from the womb, which will help you; Fear not, O Jacob, my servant; and you, Jesurun, whom I have chosen.
 
-3 For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon your seed, and my blessing upon your offspring:
+3 For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my Holy Spirit upon your seed, and my blessing upon your offspring:
 
 4 And they will spring up as among the grass, as willows by the water courses.
 
@@ -2046,7 +2046,7 @@
 
 15 I, even I, have spoken; yea, I have called him: I have brought him, and he will make his way prosperous.
 
-16 Come you near to me, hear you this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and his Spirit, has sent me.
+16 Come you near to me, hear you this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and His Holy Spirit, has sent me.
 
 17 Thus says the Lord, your Redeemer, the Holy One of Israel; I am the Lord your God which teachs you to profit, which leads you by the way that you should go.
 
@@ -2366,7 +2366,7 @@
 
 14 And will say, Cast you up, cast you up, prepare the way, take up the stumblingblock out of the way of my people.
 
-15 For thus says the high and lofty One that inhabits eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
+15 For thus says the high and lofty One that inhabits eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble human spirit, to revive the human spirit of the humble, and to revive the heart of the contrite ones.
 
 16 For I will not contend for ever, neither will I be always furious: for the spirit should fail before me, and the souls which I have made.
 
@@ -2448,11 +2448,11 @@
 
 18 According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
 
-19 So will they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy will come in like a flood, the Spirit of the Lord will lift up a standard against him.
+19 So will they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy will come in like a flood, the Holy Spirit of the Lord will lift up a standard against him.
 
 20 And the Redeemer will come to Zion, and to them that turn from sin in Jacob, says the Lord.
 
-21 As for me, this is my covenant with them, says the Lord; My spirit that is upon you, and my words which I have put in your mouth, will not depart out of your mouth, nor out of the mouth of your seed, nor out of the mouth of your seed's seed, says the Lord, from from now on and for ever.
+21 As for me, this is my covenant with them, says the Lord; my Holy Spirit that is upon you, and my words which I have put in your mouth, will not depart out of your mouth, nor out of the mouth of your seed, nor out of the mouth of your seed's seed, says the Lord, from from now on and for ever.
 
 ## Isaiah Chapter 60
 
@@ -2502,7 +2502,7 @@
 
 ## Isaiah Chapter 61
 
-1 The Spirit of the Lord God is upon me; because the Lord has anointed me to preach good tidings to the meek; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
+1 The Holy Spirit of the Lord God is upon me; because the Lord has anointed me to preach good tidings to the meek; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 
 2 To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
 
@@ -2578,7 +2578,7 @@
 
 13 That led them through the deep, as an horse in the wilderness, that they should not stumble?
 
-14 As a beast goes down into the valley, the Spirit of the Lord caused him to rest: so did you lead your people, to make thyself a glorious name.
+14 As a beast goes down into the valley, the Holy Spirit of the Lord caused him to rest: so did you lead your people, to make thyself a glorious name.
 
 15 Look down from heaven, and look from the habitation of your holiness and of your glory: where is your zeal and your strength, the sounding of your deep affection and of your mercies toward me? are they restrained?
 
@@ -2672,7 +2672,7 @@
 
 1 Thus says the Lord, The heaven is my throne, and the earth is my footstool: where is the house that you build to me? and where is the place of my rest?
 
-2 For all those things has mine hand made, and all those things have been, says the Lord: but to this man will I look, even to him that is poor and of a contrite spirit, and trembls at my word.
+2 For all those things has mine hand made, and all those things have been, says the Lord: but to this man will I look, even to him that is poor and of a contrite human spirit, and trembls at my word.
 
 3 He that kills an ox is as if he killed a man; he that sacrifics a lamb, as if he cut off a dog's neck; he that offers an oblation, as if he offered swine's blood; he that burns incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delights in their abominations.
 

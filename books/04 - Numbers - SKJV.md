@@ -918,7 +918,7 @@
 
 28 And Joshua the son of Nun, the servant of Moses, one of his young men, answered and said, My lord Moses, forbid them.
 
-29 And Moses said to him, Envi you for my sake? would God that all the Lord'S people were prophets, and that the Lord would put his spirit upon them!
+29 And Moses said to him, Envi you for my sake? would God that all the Lord'S people were prophets, and that the Lord would put His Holy Spirit upon them!
 
 30 And Moses got him into the camp, he and the elders of Israel.
 
@@ -1734,7 +1734,7 @@
 
 1 And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 
-2 And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.
+2 And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the Holy Spirit of God came upon him.
 
 3 And he took up his parable, and said, Balaam the son of Beor has said, and the man whose eyes are open has said:
 

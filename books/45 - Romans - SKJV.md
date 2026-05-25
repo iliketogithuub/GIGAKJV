@@ -8,7 +8,7 @@
 
 3 Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
 
-4 And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
+4 And declared to be the Son of God with power, according to the Holy Spirit of holiness, by the resurrection from the dead:
 
 5 By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
 
@@ -18,7 +18,7 @@
 
 8 First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
 
-9 For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
+9 For God is my witness, whom I serve with my human spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
 
 10 Making request, if by any means now at length I might have a prosperous journey by the will of God to come to you.
 
@@ -124,7 +124,7 @@
 
 28 For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:
 
-29 But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.
+29 But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the Holy Spirit, and not in the letter; whose praise is not of men, but of God.
 
 ## Romans Chapter 3
 
@@ -388,15 +388,15 @@
 
 ## Romans Chapter 8
 
-1 There is therefore now no judgment to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+1 There is therefore now no judgment to them which are in Christ Jesus, who walk not after the flesh, but after the Holy Spirit.
 
-2 For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death.
+2 For the law of the Holy Spirit of life in Christ Jesus has made me free from the law of sin and death.
 
 3 For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:
 
-4 That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
+4 That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Holy Spirit.
 
-5 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.
+5 For they that are after the flesh do mind the things of the flesh; but they that are after the Holy Spirit the things of the Holy Spirit.
 
 6 For to be carnally minded is death; but to be spiritually minded is life and peace.
 
@@ -404,21 +404,21 @@
 
 8 So then they that are in the flesh cannot please God.
 
-9 But you are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.
+9 But you are not in the flesh, but in the Holy Spirit, if so be that the Holy Spirit of God dwell in you. Now if any man have not the Holy Spirit of Christ, he is none of his.
 
-10 And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.
+10 And if Christ be in you, the body is dead because of sin; but the Holy Spirit is life because of righteousness.
 
-11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead will also quicken your mortal bodies by his Spirit that dwells in you.
+11 But if the Holy Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead will also quicken your mortal bodies by His Holy Spirit that dwells in you.
 
 12 Therefore, brothers, we are debtors, not to the flesh, to live after the flesh.
 
-13 For if you live after the flesh, you will die: but if you through the Spirit do mortify the deeds of the body, you will live.
+13 For if you live after the flesh, you will die: but if you through the Holy Spirit do mortify the deeds of the body, you will live.
 
-14 For as many as are led by the Spirit of God, they are the sons of God.
+14 For as many as are led by the Holy Spirit of God, they are the sons of God.
 
-15 For you have not received the spirit of bondage again to fear; but you have received the Spirit of adoption, whereby we cry, Abba, Father.
+15 For you have not received the Holy Spirit of bondage again to fear; but you have received the Holy Spirit of adoption, whereby we cry, Abba, Father.
 
-16 The Spirit itself bears witness with our spirit, that we are the children of God:
+16 The Spirit itself bears witness with our human spirit, that we are the children of God:
 
 17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
@@ -432,15 +432,15 @@
 
 22 For we know that the whole creation groans and groans in labor together until now.
 
-23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
+23 And not only they, but ourselves also, which have the firstfruits of the Holy Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
 
 24 For we are saved by hope: but hope that is seen is not hope: for what a man sees, why does he yet hope for?
 
 25 But if we hope for that we see not, then do we with patience wait for it.
 
-26 Likewise the Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Spirit itself makes intercession for us with groanings which cannot be uttered.
+26 Likewise the Holy Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Holy Spirit itself makes intercession for us with groanings which cannot be uttered.
 
-27 And he that searchs the hearts knows what is the mind of the Spirit, because he makes intercession for the saints according to the will of God.
+27 And he that searchs the hearts knows what is the mind of the Holy Spirit, because he makes intercession for the saints according to the will of God.
 
 28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
@@ -594,7 +594,7 @@
 
 7 What then? Israel has not obtained that which he seeks for; but the election has obtained it, and the rest were blinded.
 
-8 (According as it is written, God has given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) to this day.
+8 (According as it is written, God has given them the Holy Spirit of slumber, eyes that they should not see, and ears that they should not hear;) to this day.
 
 9 And David says, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence to them:
 
@@ -674,7 +674,7 @@
 
 10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
-11 Not slothful in business; fervent in spirit; serving the Lord;
+11 Not slothful in business; fervent in human spirit; serving the Lord;
 
 12 Rejoicing in hope; patient in suffering; continuing instant in prayer;
 
@@ -812,7 +812,7 @@
 
 18 For I will not dare to speak of any of those things which Christ has not worked by me, to make the Gentiles obedient, by word and deed,
 
-19 Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about to Illyricum, I have fully preached the gospel of Christ.
+19 Through mighty signs and wonders, by the power of the Holy Spirit of God; so that from Jerusalem, and round about to Illyricum, I have fully preached the gospel of Christ.
 
 20 Yea, so have I strived to preach the gospel, not where Christ was named, otherwise I should build upon another man's foundation:
 
@@ -834,7 +834,7 @@
 
 29 And I am sure that, when I come to you, I will come in the fulness of the blessing of the gospel of Christ.
 
-30 Now I urge you, brothers, for the Lord Jesus Christ's sake, and for the love of the Spirit, that you strive together with me in your prayers to God for me;
+30 Now I urge you, brothers, for the Lord Jesus Christ's sake, and for the love of the Holy Spirit, that you strive together with me in your prayers to God for me;
 
 31 That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;
 

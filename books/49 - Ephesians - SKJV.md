@@ -26,7 +26,7 @@
 
 12 That we should be to the praise of his glory, who first trusted in Christ.
 
-13 In whom you also trusted, after that you heard the word of truth, the gospel of your salvation: in whom also after that you believed, you were sealed with that holy Spirit of promise,
+13 In whom you also trusted, after that you heard the word of truth, the gospel of your salvation: in whom also after that you believed, you were sealed with that holy Holy Spirit of promise,
 
 14 Which is the earnest of our inheritance until the redemption of the purchased possession, to the praise of his glory.
 
@@ -34,7 +34,7 @@
 
 16 Cease not to give thanks for you, making mention of you in my prayers;
 
-17 That the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of him:
+17 That the God of our Lord Jesus Christ, the Father of glory, may give to you the Holy Spirit of wisdom and revelation in the knowledge of him:
 
 18 The eyes of your understanding being enlightened; that you may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 
@@ -52,7 +52,7 @@
 
 1 And you has he quickened, who were dead in trespasses and sins;
 
-2 In which in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:
+2 In which in time past you walked according to the course of this world, according to the prince of the power of the air, the Holy Spirit that now works in the children of disobedience:
 
 3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 
@@ -84,7 +84,7 @@
 
 17 And came and preached peace to you which were afar off, and to them that were near.
 
-18 For through him we both have access by one Spirit to the Father.
+18 For through him we both have access by one Holy Spirit to the Father.
 
 19 Now therefore you are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
 
@@ -92,7 +92,7 @@
 
 21 In whom all the building fitly framed together grows to an holy temple in the Lord:
 
-22 In whom you also are builded together for an habitation of God through the Spirit.
+22 In whom you also are builded together for an habitation of God through the Holy Spirit.
 
 ## Ephesians Chapter 3
 
@@ -104,7 +104,7 @@
 
 4 Whereby, when you read, you may understand my knowledge in the mystery of Christ)
 
-5 Which in other ages was not made known to the sons of men, as it is now revealed to his holy apostles and prophets by the Spirit;
+5 Which in other ages was not made known to the sons of men, as it is now revealed to his holy apostles and prophets by the Holy Spirit;
 
 6 That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
 
@@ -126,7 +126,7 @@
 
 15 Of whom the whole family in heaven and earth is named,
 
-16 That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;
+16 That he would grant you, according to the riches of his glory, to be strengthened with might by His Holy Spirit in the inner man;
 
 17 That Christ may dwell in your hearts by faith; that you, being rooted and grounded in love,
 
@@ -144,9 +144,9 @@
 
 2 With all lowliness and meekness, with longsuffering, forbearing one another in love;
 
-3 Endeavouring to keep the unity of the Spirit in the bond of peace.
+3 Endeavouring to keep the unity of the Holy Spirit in the bond of peace.
 
-4 There is one body, and one Spirit, even as you are called in one hope of your calling;
+4 There is one body, and one Holy Spirit, even as you are called in one hope of your calling;
 
 5 One Lord, one faith, one baptism,
 
@@ -184,7 +184,7 @@
 
 22 That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 
-23 And be renewed in the spirit of your mind;
+23 And be renewed in the Holy Spirit of your mind;
 
 24 And that you put on the new man, which after God is created in righteousness and true holiness.
 
@@ -198,7 +198,7 @@
 
 29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace to the hearers.
 
-30 And grieve not the holy Spirit of God, whereby you are sealed to the day of redemption.
+30 And grieve not the holy Holy Spirit of God, whereby you are sealed to the day of redemption.
 
 31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
 
@@ -222,7 +222,7 @@
 
 8 For you were sometimes darkness, but now are you light in the Lord: walk as children of light:
 
-9 (For the fruit of the Spirit is in all goodness and righteousness and truth;)
+9 (For the fruit of the Holy Spirit is in all goodness and righteousness and truth;)
 
 10 Proving what is acceptable to the Lord.
 
@@ -240,7 +240,7 @@
 
 17 therefore be you not unwise, but understanding what the will of the Lord is.
 
-18 And be not drunk with wine, in which is excess; but be filled with the Spirit;
+18 And be not drunk with wine, in which is excess; but be filled with the Holy Spirit;
 
 19 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
 
@@ -306,9 +306,9 @@
 
 16 Above all, taking the shield of faith, with what you will be able to quench all the fiery darts of the wicked.
 
-17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
+17 And take the helmet of salvation, and the sword of the Holy Spirit, which is the word of God:
 
-18 Praying always with all prayer and prayer in the Spirit, and watching thereunto with all perseverance and prayer for all saints;
+18 Praying always with all prayer and prayer in the Holy Spirit, and watching thereunto with all perseverance and prayer for all saints;
 
 19 And for me, that utterance may be given to me, that I may open my mouth boldly, to make known the mystery of the gospel,
 

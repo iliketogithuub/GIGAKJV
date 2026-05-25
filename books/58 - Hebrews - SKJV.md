@@ -132,7 +132,7 @@
 
 11 Let us labour therefore to enter into that rest, otherwise any man fall after the same example of unbelief.
 
-12 For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing apart of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
+12 For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing apart of soul and human spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
 13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened to the eyes of him with whom we have to do.
 
@@ -416,7 +416,7 @@
 
 28 He that despised Moses' law died without mercy under two or three witnesses:
 
-29 Of how much sorer punishment, suppose you, will he be thought worthy, who has trodden under foot the Son of God, and has counted the blood of the covenant, with what he was sanctified, an unholy thing, and has done despite to the Spirit of grace?
+29 Of how much sorer punishment, suppose you, will he be thought worthy, who has trodden under foot the Son of God, and has counted the blood of the covenant, with what he was sanctified, an unholy thing, and has done despite to the Holy Spirit of grace?
 
 30 For we know him that has said, Vengeance belongs to me, I will repay, says the Lord. And again, The Lord will judge his people.
 
@@ -566,7 +566,7 @@
 
 22 But you are come to mount Sion, and to the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,
 
-23 To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,
+23 To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the human spirits of righteous men made perfect,
 
 24 And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things than that of Abel.
 

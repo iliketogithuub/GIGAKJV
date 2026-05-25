@@ -130,13 +130,13 @@
 
 23 And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
 
-24 And he that keeps his commandments dwells in him, and he in him. And hereby we know that he abides in us, by the Spirit which he has given us.
+24 And he that keeps his commandments dwells in him, and he in him. And hereby we know that he abides in us, by the Holy Spirit which he has given us.
 
 ## 1 John Chapter 4
 
 1 Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 
-2 Hereby know you the Spirit of God: Every spirit that confesses that Jesus Christ is come in the flesh is of God:
+2 Hereby know you the Holy Spirit of God: Every spirit that confesses that Jesus Christ is come in the flesh is of God:
 
 3 And every spirit that confesses not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof you have heard that it should come; and even now already is it in the world.
 
@@ -144,7 +144,7 @@
 
 5 They are of the world: therefore speak they of the world, and the world hears them.
 
-6 We are of God: he that knows God hears us; he that is not of God hears not us. Hereby know we the spirit of truth, and the spirit of error.
+6 We are of God: he that knows God hears us; he that is not of God hears not us. Hereby know we the Holy Spirit of truth, and the Holy Spirit of error.
 
 7 Beloved, let us love one another: for love is of God; and every one that loves is born of God, and knows God.
 
@@ -158,7 +158,7 @@
 
 12 No man has seen God at any time. If we love one another, God dwells in us, and his love is perfected in us.
 
-13 Hereby know we that we dwell in him, and he in us, because he has given us of his Spirit.
+13 Hereby know we that we dwell in him, and he in us, because he has given us of His Holy Spirit.
 
 14 And we have seen and do testify that the Father sent the Son to be the Saviour of the world.
 
@@ -188,11 +188,11 @@
 
 5 Who is he that overcomes the world, but he that believes that Jesus is the Son of God?
 
-6 This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that bears witness, because the Spirit is truth.
+6 This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Holy Spirit that bears witness, because the Holy Spirit is truth.
 
 7 For there are three that bear record in heaven, the Father, the Word, and the Holy Spirit: and these three are one.
 
-8 And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.
+8 And there are three that bear witness in earth, the Holy Spirit, and the water, and the blood: and these three agree in one.
 
 9 If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son.
 

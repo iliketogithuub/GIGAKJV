@@ -46,7 +46,7 @@
 
 22 How long, you simple ones, will you love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
 
-23 Turn you at my reproof: look, I will pour out my spirit to you, I will make known my words to you.
+23 Turn you at my reproof: look, I will pour out my Holy Spirit to you, I will make known my words to you.
 
 24 Because I have called, and you refused; I have stretched out my hand, and no man regarded;
 
@@ -622,7 +622,7 @@
 
 12 He that is void of wisdom despiss his neighbour: but a man of understanding holds his peace.
 
-13 A talebearer reveals secrets: but he that is of a faithful spirit conceals the matter.
+13 A talebearer reveals secrets: but he that is of a faithful human spirit conceals the matter.
 
 14 Where no counsel is, the people fall: but in the multitude of counsellors there is safety.
 
@@ -946,9 +946,9 @@
 
 17 The highway of the upright is to depart from evil: he that keeps his way preserves his soul.
 
-18 Pride goes before destruction, and an haughty spirit before a fall.
+18 Pride goes before destruction, and an haughty human spirit before a fall.
 
-19 Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.
+19 Better it is to be of an humble human spirit with the lowly, than to divide the spoil with the proud.
 
 20 He that handls a matter wisely will find good: and whoso trusts in the Lord, happy is he.
 
@@ -974,7 +974,7 @@
 
 31 The hoary head is a crown of glory, if it be found in the way of righteousness.
 
-32 He that is slow to anger is better than the mighty; and he that rules his spirit than he that takes a city.
+32 He that is slow to anger is better than the mighty; and he that rules his human spirit than he that takes a city.
 
 33 The lot is cast into the lap; but the whole disposing of it is of the Lord.
 
@@ -1022,7 +1022,7 @@
 
 21 He that begets a fool does it to his sorrow: and the father of a fool has no joy.
 
-22 A merry heart does good like a medicine: but a broken spirit dries the bones.
+22 A merry heart does good like a medicine: but a broken human spirit dries the bones.
 
 23 A wicked man takes a gift out of the bosom to pervert the ways of judgment.
 
@@ -1032,7 +1032,7 @@
 
 26 Also to punish the just is not good, nor to strike princes for equity.
 
-27 He that has knowledge spars his words: and a man of understanding is of an excellent spirit.
+27 He that has knowledge spars his words: and a man of understanding is of an excellent human spirit.
 
 28 Even a fool, when he holds his peace, is counted wise: and he that shuts his lips is esteemed a man of understanding.
 
@@ -1064,7 +1064,7 @@
 
 13 He that answers a matter before he hears it, it is folly and shame to him.
 
-14 The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
+14 The human spirit of a man will sustain his infirmity; but a wounded human spirit who can bear?
 
 15 The heart of the prudent gets knowledge; and the ear of the wise seeks knowledge.
 
@@ -1200,7 +1200,7 @@
 
 26 A wise king scatters the wicked, and brings the wheel over them.
 
-27 The spirit of man is the candle of the Lord, searching all the inward parts of the belly.
+27 The human spirit of man is the candle of the Lord, searching all the inward parts of the belly.
 
 28 Mercy and truth preserve the king: and his throne is upholden by mercy.
 

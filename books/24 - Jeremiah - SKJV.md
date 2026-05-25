@@ -784,7 +784,7 @@
 
 8 Their widows are increased to me above the sand of the seas: I have brought upon them against the mother of the young men a spoiler at noonday: I have caused him to fall upon it suddenly, and terrors upon the city.
 
-9 She that has borne seven languishs: she has given up the ghost; her sun is gone down while it was yet day: she has been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, says the Lord.
+9 She that has borne seven languishs: she has given up the Holy Spirit; her sun is gone down while it was yet day: she has been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, says the Lord.
 
 10 Woe is me, my mother, that you have borne me a man of strife and a man of contention to the whole earth! I have neither lent on usury, nor men have lent to me on usury; yet every one of them does curse me.
 

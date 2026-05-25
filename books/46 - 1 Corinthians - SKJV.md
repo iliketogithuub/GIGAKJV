@@ -72,7 +72,7 @@
 
 3 And I was with you in weakness, and in fear, and in much trembling.
 
-4 And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Spirit and of power:
+4 And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Holy Spirit and of power:
 
 5 That your faith should not stand in the wisdom of men, but in the power of God.
 
@@ -84,15 +84,15 @@
 
 9 But as it is written, Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for them that love him.
 
-10 But God has revealed them to us by his Spirit: for the Spirit searchs all things, yea, the deep things of God.
+10 But God has revealed them to us by his human spirit: for the Holy Spirit searchs all things, yea, the deep things of God.
 
-11 For what man knows the things of a man, save the spirit of man which is in him? even so the things of God knows no man, but the Spirit of God.
+11 For what man knows the things of a man, save the human spirit of man which is in him? even so the things of God knows no man, but the Holy Spirit of God.
 
-12 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
+12 Now we have received, not the Holy Spirit of the world, but the Holy Spirit which is of God; that we might know the things that are freely given to us of God.
 
 13 Which things also we speak, not in the words which man's wisdom teachs, but which the Holy Spirit teachs; comparing spiritual things with spiritual.
 
-14 But the natural man receives not the things of the Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually discerned.
+14 But the natural man receives not the things of the Holy Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually discerned.
 
 15 But he that is spiritual judges all things, yet he himself is judged of no man.
 
@@ -130,7 +130,7 @@
 
 15 If any man's work will be burned, he will suffer looses: but he himself will be saved; yet so as by fire.
 
-16 Know you not that you are the temple of God, and that the Spirit of God dwells in you?
+16 Know you not that you are the temple of God, and that the Holy Spirit of God dwells in you?
 
 17 If any man defile the temple of God, him will God destroy; for the temple of God is holy, which temple you are.
 
@@ -188,7 +188,7 @@
 
 20 For the kingdom of God is not in word, but in power.
 
-21 What will you? will I come to you with a rod, or in love, and in the spirit of meekness?
+21 What will you? will I come to you with a rod, or in love, and in the Holy Spirit of meekness?
 
 ## 1 Corinthians Chapter 5
 
@@ -198,9 +198,9 @@
 
 3 For I truly, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that has so done this deed,
 
-4 In the name of our Lord Jesus Christ, when you are gathered together, and my spirit, with the power of our Lord Jesus Christ,
+4 In the name of our Lord Jesus Christ, when you are gathered together, and my human spirit, with the power of our Lord Jesus Christ,
 
-5 To deliver such an one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
+5 To deliver such an one to Satan for the destruction of the flesh, that the Holy Spirit may be saved in the day of the Lord Jesus.
 
 6 Your glorying is not good. Know you not that a little leaven leavens the whole lump?
 
@@ -240,7 +240,7 @@
 
 10 Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, will inherit the kingdom of God.
 
-11 And such were some of you: but you are washed, but you are sanctified, but you are justified in the name of the Lord Jesus, and by the Spirit of our God.
+11 And such were some of you: but you are washed, but you are sanctified, but you are justified in the name of the Lord Jesus, and by the Holy Spirit of our God.
 
 12 All things are lawful to me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.
 
@@ -258,7 +258,7 @@
 
 19 What? know you not that your body is the temple of the Holy Spirit which is in you, which you have of God, and you are not your own?
 
-20 For you are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.
+20 For you are bought with a price: therefore glorify God in your body, and in your human spirit, which are God's.
 
 ## 1 Corinthians Chapter 7
 
@@ -328,7 +328,7 @@
 
 33 But he that is married cars for the things that are of the world, how he may please his wife.
 
-34 There is difference also between a wife and a virgin. The unmarried woman cars for the things of the Lord, that she may be holy both in body and in spirit: but she that is married cars for the things of the world, how she may please her husband.
+34 There is difference also between a wife and a virgin. The unmarried woman cars for the things of the Lord, that she may be holy both in body and in human spirit: but she that is married cars for the things of the world, how she may please her husband.
 
 35 And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that you may attend upon the Lord without distraction.
 
@@ -340,7 +340,7 @@
 
 39 The wife is bound by the law as long as her husband lives; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.
 
-40 But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.
+40 But she is happier if she so abide, after my judgment: and I think also that I have the Holy Spirit of God.
 
 ## 1 Corinthians Chapter 8
 
@@ -570,27 +570,27 @@
 
 2 you know that you were Gentiles, carried away to these dumb idols, even as you were led.
 
-3 therefore I give you to understand, that no man speaking by the Spirit of God calls Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Spirit.
+3 therefore I give you to understand, that no man speaking by the Holy Spirit of God calls Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Spirit.
 
-4 Now there are diversities of gifts, but the same Spirit.
+4 Now there are diversities of gifts, but the same Holy Spirit.
 
 5 And there are differences of administrations, but the same Lord.
 
 6 And there are diversities of operations, but it is the same God which works all in all.
 
-7 But the manifestation of the Spirit is given to every man to profit also.
+7 But the manifestation of the Holy Spirit is given to every man to profit also.
 
-8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
+8 For to one is given by the Holy Spirit the word of wisdom; to another the word of knowledge by the same Holy Spirit;
 
-9 To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+9 To another faith by the same Holy Spirit; to another the gifts of healing by the same Holy Spirit;
 
 10 To another the working of miracles; to another prophecy; to another discerning of spirits; to another various kinds of tongues; to another the interpretation of tongues:
 
-11 But all these works that one and the selfsame Spirit, dividing to every man severally as he will.
+11 But all these works that one and the selfsame Holy Spirit, dividing to every man severally as he will.
 
 12 For as the body is one, and has many members, and all the members of that one body, being many, are one body: so also is Christ.
 
-13 For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+13 For by one Holy Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Holy Spirit.
 
 14 For the body is not one member, but many.
 
@@ -660,7 +660,7 @@
 
 1 Follow after love, and desire spiritual gifts, but rather that you may prophesy.
 
-2 For he that speaks in an unknown tongue speaks not to men, but to God: for no man understands him; however in the spirit he speaks mysteries.
+2 For he that speaks in an unknown tongue speaks not to men, but to God: for no man understands him; however in the Holy Spirit he speaks mysteries.
 
 3 But he that prophesies speaks to men to edification, and encouragement, and comfort.
 
@@ -684,11 +684,11 @@
 
 13 therefore let him that speaks in an unknown tongue pray that he may interpret.
 
-14 For if I pray in an unknown tongue, my spirit prays, but my understanding is unfruitful.
+14 For if I pray in an unknown tongue, my human spirit prays, but my understanding is unfruitful.
 
-15 What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
+15 What is it then? I will pray with the Holy Spirit, and I will pray with the understanding also: I will sing with the Holy Spirit, and I will sing with the understanding also.
 
-16 Else when you will bless with the spirit, how will he that occupies the room of the unlearned say Amen at your giving of thanks, seeing he understands not what you say?
+16 Else when you will bless with the Holy Spirit, how will he that occupies the room of the unlearned say Amen at your giving of thanks, seeing he understands not what you say?
 
 17 For you truly giv thanks well, but the other is not edified.
 
@@ -828,7 +828,7 @@
 
 44 It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
 
-45 And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.
+45 And so it is written, The first man Adam was made a living soul; the last Adam was made a life-giving Holy Spirit.
 
 46 However that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.
 
@@ -892,7 +892,7 @@
 
 17 I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
 
-18 For they have refreshed my spirit and yours: therefore acknowledge you them that are such.
+18 For they have refreshed my human spirit and yours: therefore acknowledge you them that are such.
 
 19 The churches of Asia greet you. Aquila and Priscilla greet you much in the Lord, with the church that is in their house.
 

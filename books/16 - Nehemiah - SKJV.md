@@ -506,7 +506,7 @@
 
 29 And testifiedst against them, that you might bring them again to your law: yet they dealt proudly, and listened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 
-30 Yet many years did you forbear them, and testifiedst against them by your spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
+30 Yet many years did you forbear them, and testifiedst against them by your Holy Spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
 
 31 Nevertheless for your great mercies' sake you did not utterly consume them, nor forsake them; for you are a gracious and merciful God.
 

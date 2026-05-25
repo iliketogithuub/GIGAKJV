@@ -4,7 +4,7 @@
 
 1 In the beginning God created the heaven and the earth.
 
-2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Holy Spirit of God moved upon the face of the waters.
 
 3 And God said, Let there be light: and there was light.
 
@@ -292,7 +292,7 @@
 
 2 That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.
 
-3 And the Lord said, My spirit will not always strive with man, for that he also is flesh: yet his days will be an hundred and twenty years.
+3 And the Lord said, my Holy Spirit will not always strive with man, for that he also is flesh: yet his days will be an hundred and twenty years.
 
 4 There were giants in the earth in those days; and also after that, when the sons of God came in to the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
@@ -1382,7 +1382,7 @@
 
 7 And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.
 
-8 Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.
+8 Then Abraham gave up the Holy Spirit, and died in a good old age, an old man, and full of years; and was gathered to his people.
 
 9 And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;
 
@@ -1400,7 +1400,7 @@
 
 16 These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.
 
-17 And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered to his people.
+17 And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the Holy Spirit and died; and was gathered to his people.
 
 18 And they dwelt from Havilah to Shur, that is before Egypt, as you go toward Assyria: and he died in the presence of all his brothers.
 
@@ -2150,7 +2150,7 @@
 
 28 And the days of Isaac were an hundred and fourscore years.
 
-29 And Isaac gave up the ghost, and died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him.
+29 And Isaac gave up the Holy Spirit, and died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him.
 
 ## Genesis Chapter 36
 
@@ -2488,7 +2488,7 @@
 
 7 And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, look, it was a dream.
 
-8 And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men of it: and Pharaoh told them his dream; but there was none that could interpret them to Pharaoh.
+8 And it came to pass in the morning that his human spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men of it: and Pharaoh told them his dream; but there was none that could interpret them to Pharaoh.
 
 9 Then spoke the chief butler to Pharaoh, saying, I do remember my faults this day:
 
@@ -2548,7 +2548,7 @@
 
 37 And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
 
-38 And Pharaoh said to his servants, Can we find such a one as this is, a man in whom the Spirit of God is?
+38 And Pharaoh said to his servants, Can we find such a one as this is, a man in whom the Holy Spirit of God is?
 
 39 And Pharaoh said to Joseph, Since as God has showed you all this, there is none so discreet and wise as you are:
 
@@ -2860,7 +2860,7 @@
 
 26 And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted, for he believed them not.
 
-27 And they told him all the words of Joseph, which he had said to them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
+27 And they told him all the words of Joseph, which he had said to them: and when he saw the wagons which Joseph had sent to carry him, the human spirit of Jacob their father revived:
 
 28 And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die.
 
@@ -3110,7 +3110,7 @@
 
 32 The purchase of the field and of the cave that is in it was from the children of Hs.
 
-33 And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered to his people.
+33 And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the Holy Spirit, and was gathered to his people.
 
 ## Genesis Chapter 50
 

@@ -4,7 +4,7 @@
 
 1 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
-2 Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, to obedience and sprinkling of the blood of Jesus Christ: Grace to you, and peace, be multiplied.
+2 Elect according to the foreknowledge of God the Father, through sanctification of the Holy Spirit, to obedience and sprinkling of the blood of Jesus Christ: Grace to you, and peace, be multiplied.
 
 3 Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
 
@@ -22,7 +22,7 @@
 
 10 Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come to you:
 
-11 Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
+11 Searching what, or what manner of time the Holy Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
 12 to whom it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
 
@@ -44,7 +44,7 @@
 
 21 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 
-22 Seeing you have purified your souls in obeying the truth through the Spirit to unfeigned love of the brothers, see that you love one another with a pure heart fervently:
+22 Seeing you have purified your souls in obeying the truth through the Holy Spirit to unfeigned love of the brothers, see that you love one another with a pure heart fervently:
 
 23 Being born again, not of corruptible seed, but of incorruptible, by the word of God, which lives and abides for ever.
 
@@ -114,7 +114,7 @@
 
 3 Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;
 
-4 But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.
+4 But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet human spirit, which is in the sight of God of great price.
 
 5 For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection to their own husbands:
 
@@ -142,7 +142,7 @@
 
 17 For it is better, if the will of God be so, that you suffer for well doing, than for evil doing.
 
-18 For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
+18 For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Holy Spirit:
 
 19 By which also he went and preached to the spirits in prison;
 
@@ -164,7 +164,7 @@
 
 5 Who will give account to him that is ready to judge the quick and the dead.
 
-6 For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.
+6 For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the Holy Spirit.
 
 7 But the end of all things is at hand: be you therefore sober, and watch to prayer.
 
@@ -180,7 +180,7 @@
 
 13 But rejoice, since as you are partakers of Christ's sufferings; that, when his glory will be revealed, you may be glad also with exceeding joy.
 
-14 If you be reproached for the name of Christ, happy are you; for the spirit of glory and of God rests upon you: on their part he is evil spoken of, but on your part he is glorified.
+14 If you be reproached for the name of Christ, happy are you; for the Holy Spirit of glory and of God rests upon you: on their part he is evil spoken of, but on your part he is glorified.
 
 15 But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.
 

@@ -442,7 +442,7 @@
 
 5 After that you will come to the hill of God, where is the garrison of the Philistines: and it will come to pass, when you are come there to the city, that you will meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they will prophesy:
 
-6 And the Spirit of the Lord will come upon you, and you will prophesy with them, and will be turned into another man.
+6 And the Holy Spirit of the Lord will come upon you, and you will prophesy with them, and will be turned into another man.
 
 7 And let it be, when these signs are come to you, that you do as occasion serve you; for God is with you.
 
@@ -450,7 +450,7 @@
 
 9 And it was so, that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day.
 
-10 And when they came there to the hill, look, a company of prophets met him; and the Spirit of God came upon him, and he prophesied among them.
+10 And when they came there to the hill, look, a company of prophets met him; and the Holy Spirit of God came upon him, and he prophesied among them.
 
 11 And it came to pass, when all that knew him beforetime saw that, look, he prophesied among the prophets, then the people said one to another, What is this that is come to the son of Kish? Is Saul also among the prophets?
 
@@ -498,7 +498,7 @@
 
 5 And, look, Saul came after the herd out of the field; and Saul said, What ails the people that they weep? And they told him the tidings of the men of Jabesh.
 
-6 And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.
+6 And the Holy Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.
 
 7 And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever comes not forth after Saul and after Samuel, so will it be done to his oxen. And the fear of the Lord fell on the people, and they came out with one consent.
 
@@ -822,9 +822,9 @@
 
 12 And he sent, and brought him in. Now he was ruddy, and also of a beautiful countenance, and goodly to look to. And the Lord said, Arise, anoint him: for this is he.
 
-13 Then Samuel took the horn of oil, and anointed him in the midst of his brothers: and the Spirit of the Lord came upon David from that day forward. So Samuel rose up, and went to Ramah.
+13 Then Samuel took the horn of oil, and anointed him in the midst of his brothers: and the Holy Spirit of the Lord came upon David from that day forward. So Samuel rose up, and went to Ramah.
 
-14 But the Spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled him.
+14 But the Holy Spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled him.
 
 15 And Saul's servants said to him, Look, now, an evil spirit from God troubls you.
 
@@ -1064,13 +1064,13 @@
 
 19 And it was told Saul, saying, Look, David is at Naioth in Ramah.
 
-20 And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.
+20 And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Holy Spirit of God was upon the messengers of Saul, and they also prophesied.
 
 21 And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.
 
 22 Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Look, they be at Naioth in Ramah.
 
-23 And he went there to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.
+23 And he went there to Naioth in Ramah: and the Holy Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.
 
 24 And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. therefore they say, Is Saul also among the prophets?
 
@@ -1614,7 +1614,7 @@
 
 11 And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;
 
-12 And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights.
+12 And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his human spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights.
 
 13 And David said to him, To whom belong you? and from where are you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
 

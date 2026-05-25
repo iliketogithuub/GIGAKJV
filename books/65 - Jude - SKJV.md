@@ -38,7 +38,7 @@
 
 18 How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 
-19 These be they who separate themselves, sensual, having not the Spirit.
+19 These be they who separate themselves, sensual, having not the Holy Spirit.
 
 20 But you, beloved, building up yourselves on your most holy faith, praying in the Holy Spirit,
 

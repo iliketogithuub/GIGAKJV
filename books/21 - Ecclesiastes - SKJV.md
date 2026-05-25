@@ -134,7 +134,7 @@
 
 20 All go to one place; all are of the dust, and all turn to dust again.
 
-21 Who knows the spirit of man that goes upward, and the spirit of the beast that goes downward to the earth?
+21 Who knows the human spirit of man that goes upward, and the spirit of the beast that goes downward to the earth?
 
 22 therefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who will bring him to see what will be after him?
 
@@ -256,9 +256,9 @@
 
 7 Surely oppression makes a wise man mad; and a gift destroys the heart.
 
-8 Better is the end of a thing than the beginning of it: and the patient in spirit is better than the proud in spirit.
+8 Better is the end of a thing than the beginning of it: and the patient in human spirit is better than the proud in human spirit.
 
-9 Be not hasty in your spirit to be angry: for anger rests in the bosom of fools.
+9 Be not hasty in your human spirit to be angry: for anger rests in the bosom of fools.
 
 10 Say not you, What is the cause that the former days were better than these? for you do not enquire wisely concerning this.
 

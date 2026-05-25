@@ -48,7 +48,7 @@
 
 6 Prophesy you not, say they to them that prophesy: they will not prophesy to them, that they will not take shame.
 
-7 O you that are named the house of Jacob, is the spirit of the Lord straitened? are these his doings? do not my words do good to him that walks uprightly?
+7 O you that are named the house of Jacob, is the Holy Spirit of the Lord straitened? are these his doings? do not my words do good to him that walks uprightly?
 
 8 Even of late my people is risen up as an enemy: you pull off the robe with the garment from them that pass by securely as men averse from war.
 
@@ -78,7 +78,7 @@
 
 7 Then will the seers be ashamed, and the diviners confounded: yea, they will all cover their lips; for there is no answer of God.
 
-8 But truly I am full of power by the spirit of the Lord, and of judgment, and of might, to declare to Jacob his sin, and to Israel his sin.
+8 But truly I am full of power by the Holy Spirit of the Lord, and of judgment, and of might, to declare to Jacob his sin, and to Israel his sin.
 
 9 Hear this, I pray you, you heads of the house of Jacob, and princes of the house of Israel, that despise judgment, and pervert all equity.
 

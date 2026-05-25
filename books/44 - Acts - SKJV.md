@@ -64,7 +64,7 @@
 
 3 Then, separating tongues that looked like fire appeared and rested upon every single individual.
 
-4 Instantly, everyone was filled with the Holy Spirit and began to speak in other tongues, exactly as the Spirit granted the ability to speak.
+4 Instantly, everyone was filled with the Holy Spirit and began to speak in other tongues, exactly as the Holy Spirit granted the ability to speak.
 
 5 And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
 
@@ -90,9 +90,9 @@
 
 16 But this is that which was spoken by the prophet Joel;
 
-17 And it will come to pass in the last days, says God, I will pour out of my Spirit upon all flesh: and your sons and your daughters will prophesy, and your young men will see visions, and your old men will dream dreams:
+17 And it will come to pass in the last days, says God, I will pour out of my Holy Spirit upon all flesh: and your sons and your daughters will prophesy, and your young men will see visions, and your old men will dream dreams:
 
-18 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they will prophesy:
+18 And on my servants and on my handmaidens I will pour out in those days of my Holy Spirit; and they will prophesy:
 
 19 And I will show wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
 
@@ -294,7 +294,7 @@
 
 4 Whiles it remained, was it not your own? and after it was sold, was it not in your own power? why have you conceived this thing in your heart? you have not lied to men, but to God.
 
-5 And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.
+5 And Ananias hearing these words fell down, and gave up the Holy Spirit: and great fear came on all them that heard these things.
 
 6 And the young men arose, wound him up, and carried him out, and buried him.
 
@@ -302,9 +302,9 @@
 
 8 And Peter answered to her, Tell me whether you sold the land for so much? And she said, Yea, for so much.
 
-9 Then Peter said to her, How is it that you have agreed together to tempt the Spirit of the Lord? look, the feet of them which have buried your husband are at the door, and will carry you out.
+9 Then Peter said to her, How is it that you have agreed together to tempt the Holy Spirit of the Lord? look, the feet of them which have buried your husband are at the door, and will carry you out.
 
-10 Then fell she down immediately at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
+10 Then fell she down immediately at his feet, and yielded up the Holy Spirit: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
 
 11 And great fear came upon all the church, and upon as many as heard these things.
 
@@ -390,7 +390,7 @@
 
 9 Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
 
-10 And they were not able to resist the wisdom and the spirit by which he spoke.
+10 And they were not able to resist the wisdom and the Holy Spirit by which he spoke.
 
 11 Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
 
@@ -520,7 +520,7 @@
 
 58 And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.
 
-59 And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.
+59 And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my human spirit.
 
 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
 
@@ -582,7 +582,7 @@
 
 28 Was returning, and sitting in his chariot read Esaias the prophet.
 
-29 Then the Spirit said to Philip, Go near, and join thyself to this chariot.
+29 Then the Holy Spirit said to Philip, Go near, and join thyself to this chariot.
 
 30 And Philip ran there to him, and heard him read the prophet Esaias, and said, Understand you what you read?
 
@@ -602,7 +602,7 @@
 
 38 And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.
 
-39 And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
+39 And when they were come up out of the water, the Holy Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
 
 40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.
 
@@ -732,7 +732,7 @@
 
 18 And called, and asked whether Simon, which was surnamed Peter, were lodged there.
 
-19 While Peter thought on the vision, the Spirit said to him, Look, three men seek you.
+19 While Peter thought on the vision, the Holy Spirit said to him, Look, three men seek you.
 
 20 Arise therefore, and get you down, and go with them, doubting nothing: for I have sent them.
 
@@ -816,7 +816,7 @@
 
 11 And, look, immediately there were three men already come to the house where I was, sent from Caesarea to me.
 
-12 And the Spirit bade me go with them, nothing doubting. Moreover these six brothers accompanied me, and we entered into the man's house:
+12 And the Holy Spirit bade me go with them, nothing doubting. Moreover these six brothers accompanied me, and we entered into the man's house:
 
 13 And he showed us how he had seen an angel in his house, which stood and said to him, Send men to Joppa, and call for Simon, whose surname is Peter;
 
@@ -848,7 +848,7 @@
 
 27 And in these days came prophets from Jerusalem to Antioch.
 
-28 And there stood up one of them named Agabus, and signified by the Spirit that there should be great famine throughout all the world: which came to pass in the days of Claudius Caesar.
+28 And there stood up one of them named Agabus, and signified by the Holy Spirit that there should be great famine throughout all the world: which came to pass in the days of Claudius Caesar.
 
 29 Then the disciples, every man according to his ability, determined to send relief to the brothers which dwelt in Judaea:
 
@@ -900,7 +900,7 @@
 
 22 And the people gave a shout, saying, It is the voice of a god, and not of a man.
 
-23 And immediately the angel of the Lord struck him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.
+23 And immediately the angel of the Lord struck him, because he gave not God the glory: and he was eaten of worms, and gave up the Holy Spirit.
 
 24 But the word of God grew and multiplied.
 
@@ -1168,7 +1168,7 @@
 
 6 Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Spirit to preach the word in Asia,
 
-7 After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not.
+7 After they were come to Mysia, they assayed to go into Bithynia: but the Holy Spirit suffered them not.
 
 8 And they passing by Mysia came down to Troas.
 
@@ -1190,7 +1190,7 @@
 
 17 The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which show to us the way of salvation.
 
-18 And this did she many days. But Paul, being grieved, turned and said to the spirit, I command you in the name of Jesus Christ to come out of her. And he came out the same hour.
+18 And this did she many days. But Paul, being grieved, turned and said to the Holy Spirit, I command you in the name of Jesus Christ to come out of her. And he came out the same hour.
 
 19 And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace to the rulers,
 
@@ -1268,7 +1268,7 @@
 
 15 And they that conducted Paul brought him to Athens: and receiving a commandment to Silas and Timotheus for to come to him with all speed, they departed.
 
-16 Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.
+16 Now while Paul waited for them at Athens, his human spirit was stirred in him, when he saw the city wholly given to idolatry.
 
 17 Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.
 
@@ -1316,7 +1316,7 @@
 
 4 And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
-5 And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+5 And when Silas and Timotheus were come from Macedonia, Paul was pressed in the Holy Spirit, and testified to the Jews that Jesus was Christ.
 
 6 And when they opposed themselves, and blasphemed, he shook his clothing, and said to them, Your blood be upon your own heads; I am clean; from from now on I will go to the Gentiles.
 
@@ -1356,7 +1356,7 @@
 
 24 And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.
 
-25 This man was instructed in the way of the Lord; and being fervent in the spirit, he spoke and taught diligently the things of the Lord, knowing only the baptism of John.
+25 This man was instructed in the way of the Lord; and being fervent in human spirit, he spoke and taught diligently the things of the Lord, knowing only the baptism of John.
 
 26 And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him to them, and expounded to him the way of God more perfectly.
 
@@ -1406,7 +1406,7 @@
 
 20 So mightily grew the word of God and prevailed.
 
-21 After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.
+21 After these things were ended, Paul purposed in his human spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.
 
 22 So he sent into Macedonia two of them that ministered to him, Timotheus and Erastus; but he himself stayed in Asia for a season.
 
@@ -1492,7 +1492,7 @@
 
 21 Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
 
-22 And now, look, I go bound in the spirit to Jerusalem, not knowing the things that will befall me there:
+22 And now, look, I go bound in my human spirit to Jerusalem, not knowing the things that will befall me there:
 
 23 Save that the Holy Spirit witnesses in every city, saying that bonds and afflictions abide me.
 
@@ -1534,7 +1534,7 @@
 
 3 Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
 
-4 And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.
+4 And finding disciples, we tarried there seven days: who said to Paul through the Holy Spirit, that he should not go up to Jerusalem.
 
 5 And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till we were out of the city: and we kneeled down on the shore, and prayed.
 

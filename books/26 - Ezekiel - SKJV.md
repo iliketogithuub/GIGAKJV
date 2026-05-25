@@ -40,7 +40,7 @@
 
 19 And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.
 
-20 Whithersoever the spirit was to go, they went, there was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.
+20 Whithersoever the spirit was to go, they went, there was their human spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.
 
 21 When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.
 
@@ -108,7 +108,7 @@
 
 13 I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.
 
-14 So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the Lord was strong upon me.
+14 So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my human spirit; but the hand of the Lord was strong upon me.
 
 15 Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days.
 
@@ -412,7 +412,7 @@
 
 4 Therefore prophesy against them, prophesy, O son of man.
 
-5 And the Spirit of the Lord fell upon me, and said to me, Speak; Thus says the Lord; Thus have you said, O house of Israel: for I know the things that come into your mind, every one of them.
+5 And the Holy Spirit of the Lord fell upon me, and said to me, Speak; Thus says the Lord; Thus have you said, O house of Israel: for I know the things that come into your mind, every one of them.
 
 6 you have multiplied your slain in this city, and you have filled the streets of it with the slain.
 
@@ -450,7 +450,7 @@
 
 23 And the glory of the Lord went up from the midst of the city, and stood upon the mountain which is on the east side of the city.
 
-24 Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
+24 Afterwards the spirit took me up, and brought me in a vision by the Holy Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 
 25 Then I spoke to them of the captivity all the things that the Lord had showed me.
 
@@ -1914,7 +1914,7 @@
 
 26 A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.
 
-27 And I will put my spirit within you, and cause you to walk in my statutes, and you will keep my judgments, and do them.
+27 And I will put my Holy Spirit within you, and cause you to walk in my statutes, and you will keep my judgments, and do them.
 
 28 And you will dwell in the land that I gave to your fathers; and you will be my people, and I will be your God.
 
@@ -1940,7 +1940,7 @@
 
 ## Ezekiel Chapter 37
 
-1 The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,
+1 The hand of the Lord was upon me, and carried me out in the Holy Spirit of the Lord, and set me down in the midst of the valley which was full of bones,
 
 2 And caused me to pass by them round about: and, look, there were very many in the open valley; and, look, they were very dry.
 
@@ -1966,7 +1966,7 @@
 
 13 And you will know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,
 
-14 And will put my spirit in you, and you will live, and I will place you in your own land: then will you know that I the Lord have spoken it, and performed it, says the Lord.
+14 And will put my Holy Spirit in you, and you will live, and I will place you in your own land: then will you know that I the Lord have spoken it, and performed it, says the Lord.
 
 15 The word of the Lord came again to me, saying,
 
@@ -2102,7 +2102,7 @@
 
 28 Then will they know that I am the Lord their God, which caused them to be led into captivity among the heathen: but I have gathered them to their own land, and have left none of them any more there.
 
-29 Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, says the Lord God.
+29 Neither will I hide my face any more from them: for I have poured out my Holy Spirit upon the house of Israel, says the Lord God.
 
 ## Ezekiel Chapter 40
 
