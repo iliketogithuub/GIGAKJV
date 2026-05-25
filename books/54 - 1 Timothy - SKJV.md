@@ -8,17 +8,17 @@
 
 3 As I urged you to abide still at Ephesus, when I went into Macedonia, that you might charge some that they teach no other doctrine,
 
-4 Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do.
+4 Neither give heed to fables and endless genealogies, which minister questions, rather than godly building up which is in faith: so do.
 
 5 Now the end of the commandment is love out of a pure heart, and of a good conscience, and of faith unfeigned:
 
-6 From which some having swerved have turned aside to vain jangling;
+6 From which some having swerved have turned aside to empty jangling;
 
 7 Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
 8 But we know that the law is good, if a man use it lawfully;
 
-9 Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+9 Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and defile, for murderers of fathers and murderers of mothers, for manslayers,
 
 10 For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
 
@@ -32,7 +32,7 @@
 
 15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 
-16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all longsuffering, for a pattern to them which should from now on believe on him to life everlasting.
+16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all patience, for a pattern to them which should from now on believe on him to life everlasting.
 
 17 Now to the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
 
@@ -60,11 +60,11 @@
 
 8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 
-9 In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
+9 In like manner also, that women adorn themselves in modest clothing, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
 
 10 But (which becomes women professing godliness) with good works.
 
-11 Let the woman learn in silence with all subjection.
+11 Let the woman learn in silence with all submission.
 
 12 But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
 
@@ -80,17 +80,17 @@
 
 2 A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 
-3 Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;
+3 Not given to wine, no striker, not greedy of filthy money; but patient, not a brawler, not covetous;
 
-4 One that rules well his own house, having his children in subjection with all gravity;
+4 One that rules well his own house, having his children in submission with all gravity;
 
 5 (For if a man know not how to rule his own house, how will he take care of the church of God?)
 
 6 Not a novice, otherwise being lifted up with pride he fall into the judgment of the devil.
 
-7 Moreover he must have a good report of them which are without; otherwise he fall into reproach and the snare of the devil.
+7 Moreover he must have a good report of them which are without; otherwise he fall into disgrace and the snare of the devil.
 
-8 Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
+8 Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy money;
 
 9 Holding the mystery of the faith in a pure conscience.
 
@@ -106,7 +106,7 @@
 
 15 But if I tarry long, that you may know how you ought to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 
-16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Holy Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
+16 And without controversy great is the mystery of godliness: God was revealed in the flesh, justified in the Holy Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
 
 ## 1 Timothy Chapter 4
 
@@ -122,13 +122,13 @@
 
 6 If you put the brothers in remembrance of these things, you will be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto you have attained.
 
-7 But refuse profane and old wives' fables, and exercise thyself rather to godliness.
+7 But refuse defile and old wives' fables, and exercise thyself rather to godliness.
 
 8 For bodily exercise profits little: but godliness is profitable to all things, having promise of the life that now is, and of that which is to come.
 
 9 This is a faithful saying and worthy of all acceptation.
 
-10 For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
+10 For therefore we both labour and suffer disgrace, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
 
 11 These things command and teach.
 
@@ -150,7 +150,7 @@
 
 3 Honour widows that are widows indeed.
 
-4 But if any widow have children or nephews, let them learn first to show piety at home, and to requite their parents: for that is good and acceptable before God.
+4 But if any widow have children or nephews, let them learn first to show piety at home, and to repay their parents: for that is good and acceptable before God.
 
 5 Now she that is a widow indeed, and desolate, trusts in God, and continus in prayers and prayers night and day.
 
@@ -164,13 +164,13 @@
 
 10 Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints' feet, if she have relieved the afflicted, if she have diligently followed every good work.
 
-11 But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
+11 But the younger widows refuse: for when they have begun to wax lustful against Christ, they will marry;
 
-12 Having damnation, because they have cast off their first faith.
+12 Having condemnation, because they have cast off their first faith.
 
 13 And also they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
 
-14 I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
+14 I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak disgracefully.
 
 15 For some are already turned aside after Satan.
 
@@ -192,7 +192,7 @@
 
 24 Some men's sins are open beforehand, going before to judgment; and some men they follow after.
 
-25 Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.
+25 Likewise also the good works of some are revealed beforehand; and they that are otherwise cannot be hid.
 
 ## 1 Timothy Chapter 6
 
@@ -212,7 +212,7 @@
 
 8 And having food and clothing let us be with it content.
 
-9 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
+9 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and destruction.
 
 10 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
@@ -234,7 +234,7 @@
 
 19 Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
 
-20 O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
+20 O Timothy, keep that which is committed to your trust, avoiding defile and empty babblings, and oppositions of science falsely so called:
 
 21 Which some professing have erred concerning the faith. Grace be with you. Amen.
 

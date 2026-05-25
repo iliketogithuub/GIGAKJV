@@ -10,7 +10,7 @@
 
 4 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and sufferings that you endure:
 
-5 Which is a manifest token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
+5 Which is a revealed token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer:
 
 6 Seeing it is a righteous thing with God to repay suffering to them that trouble you;
 
@@ -32,7 +32,7 @@
 
 2 That you be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
 
-3 Let no man deceive you by any means: for that day will not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
+3 Let no man deceive you by any means: for that day will not come, except there come a falling away first, and that man of sin be revealed, the son of destruction;
 
 4 Who opposs and exalts himself above all that is called God, or that is worshipped; so that he as God sits in the temple of God, showing himself that he is God.
 
@@ -40,7 +40,7 @@
 
 6 And now you know what withholds that he might be revealed in his time.
 
-7 For the mystery of iniquity does already work: only he who now lets will let, until he be taken out of the way.
+7 For the mystery of wickedness does already work: only he who now lets will let, until he be taken out of the way.
 
 8 And then will that Wicked be revealed, whom the Lord will consume with the Holy Spirit of his mouth, and will destroy with the brightness of his coming:
 
@@ -52,11 +52,11 @@
 
 12 That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Holy Spirit and belief of the truth:
+13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through being made holy of the Holy Spirit and belief of the truth:
 
 14 Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
-15 Therefore, brothers, stand fast, and hold the traditions which you have been taught, whether by word, or our epistle.
+15 Therefore, brothers, stand fast, and hold the traditions which you have been taught, whether by word, or our letter.
 
 16 Now our Lord Jesus Christ himself, and God, even our Father, which has loved us, and has given us everlasting comfort and good hope through grace,
 
@@ -90,13 +90,13 @@
 
 13 But you, brothers, be not weary in well doing.
 
-14 And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.
+14 And if any man obey not our word by this letter, note that man, and have no company with him, that he may be ashamed.
 
 15 Yet count him not as an enemy, but admonish him as a brother.
 
 16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
 
-17 The greeting of Paul with mine own hand, which is the token in every epistle: so I write.
+17 The greeting of Paul with mine own hand, which is the token in every letter: so I write.
 
 18 The grace of our Lord Jesus Christ be with you all. Amen.
 

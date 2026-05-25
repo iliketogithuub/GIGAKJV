@@ -14,7 +14,7 @@
 
 6 And has made us kings and priests to God and his Father; to him be glory and dominion for ever and ever. Amen.
 
-7 Look, he comes with clouds; and every eye will see him, and they also which pierced him: and all kindreds of the earth will wail because of him. Even so, Amen.
+7 Look, he comes with clouds; and every eye will see him, and they also which pierced him: and all families of the earth will wail because of him. Even so, Amen.
 
 8 I am Alpha and Omega, the beginning and the ending, says the Lord, which is, and which was, and which is to come, the Almighty.
 
@@ -32,7 +32,7 @@
 
 15 And his feet like to fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 
-16 And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shins in his strength.
+16 And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his face was as the sun shins in his strength.
 
 17 And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying to me, Fear not; I am the first and the last:
 
@@ -70,7 +70,7 @@
 
 13 I know your works, and where you dwell, even where Satan's seat is: and you hold fast my name, and have not denied my faith, even in those days in which Antipas was my faithful martyr, who was slain among you, where Satan dwells.
 
-14 But I have a few things against you, because you have there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed to idols, and to commit fornication.
+14 But I have a few things against you, because you have there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed to idols, and to commit sexual sin.
 
 15 So have you also them that hold the doctrine of the Nicolaitanes, which thing I hate.
 
@@ -82,9 +82,9 @@
 
 19 I know your works, and love, and service, and faith, and your patience, and your works; and the last to be more than the first.
 
-20 Nevertheless I have a few things against you, because you suffer that woman Jezebel, which calls herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed to idols.
+20 Nevertheless I have a few things against you, because you suffer that woman Jezebel, which calls herself a prophetess, to teach and to seduce my servants to commit sexual sin, and to eat things sacrificed to idols.
 
-21 And I gave her space to repent of her fornication; and she repented not.
+21 And I gave her space to repent of her sexual sin; and she repented not.
 
 22 Look, I will cast her into a bed, and them that commit adultery with her into great suffering, except they repent of their deeds.
 
@@ -140,7 +140,7 @@
 
 18 I counsel you to buy of me gold tried in the fire, that you may be rich; and white clothing, that you may be clothed, and that the shame of your nakedness do not appear; and anoint your eyes with eyesalve, that you may see.
 
-19 As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+19 As many as I love, I rebuke and discipline: be zealous therefore, and repent.
 
 20 Look, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
 
@@ -190,7 +190,7 @@
 
 8 And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
 
-9 And they sung a new song, saying, you are worthy to take the book, and to open the seals of it: for you wast slain, and have redeemed us to God by your blood out of every kindred, and tongue, and people, and nation;
+9 And they sung a new song, saying, you are worthy to take the book, and to open the seals of it: for you wast slain, and have redeemed us to God by your blood out of every relatives, and tongue, and people, and nation;
 
 10 And have made us to our God kings and priests: and we will reign on the earth.
 
@@ -222,7 +222,7 @@
 
 9 And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
 
-10 And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?
+10 And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and bring justice our blood on them that dwell on the earth?
 
 11 And white robes were given to every one of them; and it was said to them, that they should rest yet for a little season, until their fellowservants also and their brothers, that should be killed as they were, should be fulfilled.
 
@@ -232,7 +232,7 @@
 
 14 And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 
-15 And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
+15 And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every slave, and every free man, hid themselves in the dens and in the rocks of the mountains;
 
 16 And said to the mountains and rocks, Fall on us, and hide us from the face of him that sits on the throne, and from the wrath of the Lamb:
 
@@ -256,7 +256,7 @@
 
 8 Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 
-9 After this I looked, and, look, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
+9 After this I looked, and, look, a great multitude, which no man could number, of all nations, and families, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
 
 10 And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and to the Lamb.
 
@@ -344,7 +344,7 @@
 
 20 And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
 
-21 Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
+21 Neither repented they of their murders, nor of their sorceries, nor of their sexual sin, nor of their thefts.
 
 ## Revelation Chapter 10
 
@@ -388,7 +388,7 @@
 
 8 And their dead bodies will lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
-9 And they of the people and kindreds and tongues and nations will see their dead bodies three days and an half, and will not suffer their dead bodies to be put in graves.
+9 And they of the people and families and tongues and nations will see their dead bodies three days and an half, and will not suffer their dead bodies to be put in graves.
 
 10 And they that dwell upon the earth will rejoice over them, and make merry, and will send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 
@@ -460,7 +460,7 @@
 
 6 And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
 
-7 And it was given to him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
+7 And it was given to him to make war with the saints, and to overcome them: and power was given him over all families, and tongues, and nations.
 
 8 And all that dwell upon the earth will worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
@@ -496,11 +496,11 @@
 
 5 And in their mouth was found no guile: for they are without fault before the throne of God.
 
-6 And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach to them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
+6 And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach to them that dwell on the earth, and to every nation, and relatives, and tongue, and people,
 
 7 Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
 
-8 And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
+8 And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her sexual sin.
 
 9 And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,
 
@@ -534,7 +534,7 @@
 
 3 And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are your works, Lord God Almighty; just and true are your ways, you King of saints.
 
-4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made manifest.
+4 Who will not fear you, O Lord, and glorify your name? for you only are holy: for all nations will come and worship before you; for your judgments are made revealed.
 
 5 And after that I looked, and, look, the temple of the tabernacle of the testimony in heaven was opened:
 
@@ -592,25 +592,25 @@
 
 1 And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will show to you the judgment of the great whore that sits upon many waters:
 
-2 With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
+2 With whom the kings of the earth have committed sexual sin, and the inhabitants of the earth have been made drunk with the wine of her sexual sin.
 
 3 So he carried me away in the Holy Spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 
-4 And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
+4 And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her sexual sin:
 
-5 And upon her forehead was a name written, Mystery, Babylon The Great, The Mother Of Harlots And Abominations Of The Earth.
+5 And upon her forehead was a name written, Mystery, Babylon The Great, The Mother Of Prostitutes And Abominations Of The Earth.
 
 6 And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
 
 7 And the angel said to me, therefore did you marvel? I will tell you the mystery of the woman, and of the beast that carries her, which has the seven heads and ten horns.
 
-8 The beast that you saw was, and is not; and will ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth will wonder, whose names were not written in the book of life from the foundation of the world, when they look at the beast that was, and is not, and yet is.
+8 The beast that you saw was, and is not; and will ascend out of the bottomless pit, and go into destruction: and they that dwell on the earth will wonder, whose names were not written in the book of life from the foundation of the world, when they look at the beast that was, and is not, and yet is.
 
 9 And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sits.
 
 10 And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he comes, he must continue a short space.
 
-11 And the beast that was, and is not, even he is the eighth, and is of the seven, and goes into perdition.
+11 And the beast that was, and is not, even he is the eighth, and is of the seven, and goes into destruction.
 
 12 And the ten horns which you saw are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
 
@@ -632,11 +632,11 @@
 
 2 And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
 
-3 For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are grew rich through the abundance of her delicacies.
+3 For all nations have drunk of the wine of the wrath of her sexual sin, and the kings of the earth have committed sexual sin with her, and the merchants of the earth are grew rich through the abundance of her delicacies.
 
 4 And I heard another voice from heaven, saying, Come out of her, my people, that you be not partakers of her sins, and that you receive not of her plagues.
 
-5 For her sins have reached to heaven, and God has remembered her iniquities.
+5 For her sins have reached to heaven, and God has remembered her wickedness.
 
 6 Reward her even as she rewarded you, and double to her double according to her works: in the cup which she has filled fill to her double.
 
@@ -644,7 +644,7 @@
 
 8 Therefore will her plagues come in one day, death, and mourning, and famine; and she will be utterly burned with fire: for strong is the Lord God who judges her.
 
-9 And the kings of the earth, who have committed fornication and lived deliciously with her, will bewail her, and lament for her, when they will see the smoke of her burning,
+9 And the kings of the earth, who have committed sexual sin and lived deliciously with her, will bewail her, and mourn for her, when they will see the smoke of her burning,
 
 10 Standing afar off for the fear of her torment, saying, Alas, alas that great city Babylon, that mighty city! for in one hour is your judgment come.
 
@@ -666,7 +666,7 @@
 
 19 And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas that great city, in which were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
 
-20 Rejoice over her, you heaven, and you holy apostles and prophets; for God has avenged you on her.
+20 Rejoice over her, you heaven, and you holy apostles and prophets; for God has brought justice you on her.
 
 21 And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence will that great city Babylon be thrown down, and will be found no more at all.
 
@@ -680,7 +680,7 @@
 
 1 And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, to the Lord our God:
 
-2 For true and righteous are his judgments: for he has judged the great whore, which did corrupt the earth with her fornication, and has avenged the blood of his servants at her hand.
+2 For true and righteous are his judgments: for he has judged the great whore, which did corrupt the earth with her sexual sin, and has brought justice the blood of his servants at her hand.
 
 3 And again they said, Alleluia And her smoke rose up for ever and ever.
 
@@ -702,13 +702,13 @@
 
 12 His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
 
-13 And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
+13 And he was clothed with a robe dipped in blood: and his name is called The Word of God.
 
 14 And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
 
 15 And out of his mouth goes a sharp sword, that with it he should smite the nations: and he will rule them with a rod of iron: and he treads the winepress of the fierceness and wrath of Almighty God.
 
-16 And he has on his vesture and on his thigh a name written, King Of Kings, And Lord Of Lords.
+16 And he has on his robe and on his thigh a name written, King Of Kings, And Lord Of Lords.
 
 17 And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together to the supper of the great God;
 

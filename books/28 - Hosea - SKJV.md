@@ -8,7 +8,7 @@
 
 3 So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.
 
-4 And the Lord said to him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
+4 And the Lord said to him, Call his name Jezreel; for yet a little while, and I will bring justice the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
 
 5 And it will come to pass at that day, that I will break the bow of Israel, in the valley of Jezreel.
 
@@ -34,7 +34,7 @@
 
 4 And I will not have mercy upon her children; for they be the children of whoredoms.
 
-5 For their mother has played the harlot: she that conceived them has done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.
+5 For their mother has played the prostitute: she that conceived them has done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.
 
 6 Therefore, look, I will hedge up your way with thorns, and make a wall, that she will not find her paths.
 
@@ -62,7 +62,7 @@
 
 18 And in that day will I make a covenant for them with the beasts of the field and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.
 
-19 And I will betroth you to me for ever; yea, I will betroth you to me in righteousness, and in judgment, and in lovingkindness, and in mercies.
+19 And I will betroth you to me for ever; yea, I will betroth you to me in righteousness, and in judgment, and in faithful love, and in mercies.
 
 20 I will even betroth you to me in faithfulness: and you will know the Lord.
 
@@ -78,7 +78,7 @@
 
 2 So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:
 
-3 And I said to her, you will abide for me many days; you will not play the harlot, and you will not be for another man: so will I also be for you.
+3 And I said to her, you will abide for me many days; you will not play the prostitute, and you will not be for another man: so will I also be for you.
 
 4 For the children of Israel will abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
 
@@ -90,7 +90,7 @@
 
 2 By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood touchs blood.
 
-3 Therefore will the land mourn, and every one that dwells in it will languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also will be taken away.
+3 Therefore will the land mourn, and every one that dwells in it will grow weak, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also will be taken away.
 
 4 Yet let no man strive, nor correct another: for your people are as they that strive with the priest.
 
@@ -100,7 +100,7 @@
 
 7 As they were increased, so they sinned against me: therefore will I change their glory into shame.
 
-8 They eat up the sin of my people, and they set their heart on their iniquity.
+8 They eat up the sin of my people, and they set their heart on their wickedness.
 
 9 And there will be, like people, like priest: and I will punish them for their ways, and reward them their doings.
 
@@ -112,9 +112,9 @@
 
 13 They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow of it is good: therefore your daughters will commit whoredom, and your spouses will commit adultery.
 
-14 I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that does not understand will fall.
+14 I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with prostitutes: therefore the people that does not understand will fall.
 
-15 Though you, Israel, play the harlot, yet let not Judah offend; and come not you to Gilgal, neither go you up to Bethaven, nor swear, The Lord lives.
+15 Though you, Israel, play the prostitute, yet let not Judah offend; and come not you to Gilgal, neither go you up to Bethaven, nor swear, The Lord lives.
 
 16 For Israel slids back as a backsliding heifer: now the Lord will feed them as a lamb in a large place.
 
@@ -134,7 +134,7 @@
 
 4 They will not frame their doings to turn to their God: for the spirit of whoredoms is in the midst of them, and they have not known the Lord.
 
-5 And the pride of Israel does testify to his face: therefore will Israel and Ephraim fall in their iniquity: Judah also will fall with them.
+5 And the pride of Israel does testify to his face: therefore will Israel and Ephraim fall in their wickedness: Judah also will fall with them.
 
 6 They will go with their flocks and with their herds to seek the Lord; but they will not find him; he has withdrawn himself from them.
 
@@ -172,7 +172,7 @@
 
 7 But they like men have sinned the covenant: there have they dealt treacherously against me.
 
-8 Gilead is a city of them that work iniquity, and is polluted with blood.
+8 Gilead is a city of them that work wickedness, and is polluted with blood.
 
 9 And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.
 
@@ -182,7 +182,7 @@
 
 ## Hosea Chapter 7
 
-1 When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief comes in, and the troop of robbers spoils without.
+1 When I would have healed Israel, then the wickedness of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief comes in, and the troop of robbers spoils without.
 
 2 And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face.
 
@@ -224,7 +224,7 @@
 
 4 They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.
 
-5 your calf, O Samaria, has cast you off; mine anger is kindled against them: how long will it be ere they attain to innocency?
+5 your calf, O Samaria, has cast you off; mine anger is burned against them: how long will it be ere they attain to innocency?
 
 6 For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria will be broken in pieces.
 
@@ -240,7 +240,7 @@
 
 12 I have written to him the great things of my law, but they were counted as a strange thing.
 
-13 They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the Lord accepts them not; now will he remember their iniquity, and visit their sins: they will return to Egypt.
+13 They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the Lord accepts them not; now will he remember their wickedness, and visit their sins: they will return to Egypt.
 
 14 For Israel has forgotten his Maker, and builds temples; and Judah has multiplied fenced cities: but I will send a fire upon his cities, and it will devour the palaces of it.
 
@@ -258,11 +258,11 @@
 
 6 For, look, they are gone because of destruction: Egypt will gather them up, Memphis will bury them: the pleasant places for their silver, nettles will possess them: thorns will be in their tabernacles.
 
-7 The days of visitation are come, the days of recompence are come; Israel will know it: the prophet is a fool, the spiritual man is mad, for the multitude of your iniquity, and the great hatred.
+7 The days of visitation are come, the days of recompence are come; Israel will know it: the prophet is a fool, the spiritual man is mad, for the multitude of your wickedness, and the great hatred.
 
 8 The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God.
 
-9 They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.
+9 They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their wickedness, he will visit their sins.
 
 10 I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves to that shame; and their abominations were according as they loved.
 
@@ -298,7 +298,7 @@
 
 8 The high places also of Aven, the sin of Israel, will be destroyed: the thorn and the thistle will come up on their altars; and they will say to the mountains, Cover us; and to the hills, Fall on us.
 
-9 O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
+9 O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of wickedness did not overtake them.
 
 10 It is in my desire that I should discipline them; and the people will be gathered against them, when they will bind themselves in their two furrows.
 
@@ -306,7 +306,7 @@
 
 12 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you.
 
-13 you have plowed wickedness, you have reaped iniquity; you have eaten the fruit of lies: because you did trust in your way, in the multitude of your mighty men.
+13 you have plowed wickedness, you have reaped wickedness; you have eaten the fruit of lies: because you did trust in your way, in the multitude of your mighty men.
 
 14 Therefore will a uproar arise among your people, and all your fortresses will be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.
 
@@ -328,7 +328,7 @@
 
 7 And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.
 
-8 How will I give you up, Ephraim? how will I deliver you, Israel? how will I make you as Admah? how will I set you as Zeboim? mine heart is turned within me, my repentings are kindled together.
+8 How will I give you up, Ephraim? how will I deliver you, Israel? how will I make you as Admah? how will I set you as Zeboim? mine heart is turned within me, my repentings are burned together.
 
 9 I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of you: and I will not enter into the city.
 
@@ -354,19 +354,19 @@
 
 7 He is a merchant, the balances of deceit are in his hand: he loves to oppress.
 
-8 And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they will find none iniquity in me that were sin.
+8 And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they will find none wickedness in me that were sin.
 
 9 And I that am the Lord your God from the land of Egypt will yet make you to dwell in tabernacles, as in the days of the solemn feast.
 
 10 I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.
 
-11 Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.
+11 Is there wickedness in Gilead? surely they are emptiness: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.
 
 12 And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.
 
 13 And by a prophet the Lord brought Israel out of Egypt, and by a prophet was he preserved.
 
-14 Ephraim provoked him to anger most bitterly: therefore will he leave his blood upon him, and his reproach will his Lord return to him.
+14 Ephraim angered him to anger most bitterly: therefore will he leave his blood upon him, and his disgrace will his Lord return to him.
 
 ## Hosea Chapter 13
 
@@ -392,7 +392,7 @@
 
 11 I gave you a king in mine anger, and took him away in my wrath.
 
-12 The iniquity of Ephraim is bound up; his sin is hid.
+12 The wickedness of Ephraim is bound up; his sin is hid.
 
 13 The sorrows of a woman in labor will come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.
 
@@ -404,9 +404,9 @@
 
 ## Hosea Chapter 14
 
-1 O israel, return to the Lord your God; for you have fallen by your iniquity.
+1 O israel, return to the Lord your God; for you have fallen by your wickedness.
 
-2 Take with you words, and turn to the Lord: say to him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.
+2 Take with you words, and turn to the Lord: say to him, Take away all wickedness, and receive us graciously: so will we render the calves of our lips.
 
 3 Asshur will not save us; we will not ride upon horses: neither will we say any more to the work of our hands, you are our gods: for in you the fatherless finds mercy.
 
@@ -420,7 +420,7 @@
 
 8 Ephraim will say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is your fruit found.
 
-9 Who is wise, and he will understand these things? prudent, and he will know them? for the ways of the Lord are right, and the just will walk in them: but the sinners will fall in it.
+9 Who is wise, and he will understand these things? wise, and he will know them? for the ways of the Lord are right, and the just will walk in them: but the sinners will fall in it.
 
 
 ## eof

@@ -68,13 +68,13 @@
 
 3 The horseman lifts up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:
 
-4 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that sells nations through her whoredoms, and families through her witchcrafts.
+4 Because of the multitude of the whoredoms of the wellfavoured prostitute, the mistress of witchcrafts, that sells nations through her whoredoms, and families through her witchcrafts.
 
 5 Look, I am against you, says the Lord of hosts; and I will discover your skirts upon your face, and I will show the nations your nakedness, and the kingdoms your shame.
 
 6 And I will cast abominable filth upon you, and make you vile, and will set you as a gazingstock.
 
-7 And it will come to pass, that all they that look upon you will flee from you, and say, Nineveh is laid waste: who will bemoan her? from where will I seek comforters for you?
+7 And it will come to pass, that all they that look upon you will flee from you, and say, Nineveh is laid waste: who will grieve for her? from where will I seek comforters for you?
 
 8 are you better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
 

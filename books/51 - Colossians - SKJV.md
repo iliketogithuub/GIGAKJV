@@ -22,7 +22,7 @@
 
 10 That you might walk worthy of the Lord to all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
 
-11 Strengthened with all might, according to his glorious power, to all patience and longsuffering with joyfulness;
+11 Strengthened with all might, according to his glorious power, to all patience and patience with joyfulness;
 
 12 Giving thanks to the Father, which has made us meet to be partakers of the inheritance of the saints in light:
 
@@ -52,7 +52,7 @@
 
 25 Whereof I am made a minister, according to the administration of God which is given to me for you, to fulfil the word of God;
 
-26 Even the mystery which has been hid from ages and from generations, but now is made manifest to his saints:
+26 Even the mystery which has been hid from ages and from generations, but now is made revealed to his saints:
 
 27 To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 
@@ -76,7 +76,7 @@
 
 7 Rooted and built up in him, and stablished in the faith, as you have been taught, abounding in it with thanksgiving.
 
-8 Beware otherwise any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
+8 Beware otherwise any man spoil you through philosophy and empty deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
 9 For in him dwells all the fulness of the Godhead bodily.
 
@@ -118,13 +118,13 @@
 
 4 When Christ, who is our life, will appear, then will you also appear with him in glory.
 
-5 Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil sinful desire, and covetousness, which is idolatry:
+5 Mortify therefore your members which are upon the earth; sexual sin, uncleanness, inordinate affection, evil sinful desire, and greed, which is idolatry:
 
 6 For which things' sake the wrath of God comes on the children of disobedience:
 
 7 In the which you also walked some time, when you lived in them.
 
-8 But now you also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
+8 But now you also put off all these; anger, wrath, ill will, blasphemy, filthy communication out of your mouth.
 
 9 Lie not one to another, seeing that you have put off the old man with his deeds;
 
@@ -132,9 +132,9 @@
 
 11 Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
 
-12 Put on therefore, as the elect of God, holy and beloved, tender compassion, kindness, humbleness of mind, meekness, longsuffering;
+12 Put on therefore, as the elect of God, holy and beloved, tender compassion, kindness, humbleness of mind, meekness, patience;
 
-13 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do you.
+13 Holding back one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do you.
 
 14 And above all these things put on love, which is the bond of perfectness.
 
@@ -168,7 +168,7 @@
 
 3 Also praying also for us, that God would open to us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
 
-4 That I may make it manifest, as I ought to speak.
+4 That I may make it revealed, as I ought to speak.
 
 5 Walk in wisdom toward them that are without, redeeming the time.
 
@@ -192,7 +192,7 @@
 
 15 Greet the brothers which are in Laodicea, and Nymphas, and the church which is in his house.
 
-16 And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that you likewise read the epistle from Laodicea.
+16 And when this letter is read among you, cause that it be read also in the church of the Laodiceans; and that you likewise read the letter from Laodicea.
 
 17 And say to Archippus, Take heed to the ministry which you have received in the Lord, that you fulfil it.
 

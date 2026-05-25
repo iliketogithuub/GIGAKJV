@@ -80,7 +80,7 @@
 
 3 Now Joshua was clothed with filthy garments, and stood before the angel.
 
-4 And he answered and spoke to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Look, I have caused your iniquity to pass from you, and I will clothe you with change of clothing.
+4 And he answered and spoke to those that stood before him, saying, Take away the filthy garments from him. And to him he said, Look, I have caused your wickedness to pass from you, and I will clothe you with change of clothing.
 
 5 And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the Lord stood by.
 
@@ -90,7 +90,7 @@
 
 8 Hear now, O Joshua the high priest, you, and your fellows that sit before you: for they are men wondered at: for, look, I will bring forth my servant the Branch.
 
-9 For look at the stone that I have laid before Joshua; upon one stone will be seven eyes: look, I will engrave the graving of it, says the Lord of hosts, and I will remove the iniquity of that land in one day.
+9 For look at the stone that I have laid before Joshua; upon one stone will be seven eyes: look, I will engrave the graving of it, says the Lord of hosts, and I will remove the wickedness of that land in one day.
 
 10 In that day, says the Lord of hosts, will you call every man his neighbour under the vine and under the fig tree.
 
@@ -232,13 +232,13 @@
 
 10 For before these days there was no hire for man, nor any hire for beast; neither was there any peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.
 
-11 But now I will not be to the residue of this people as in the former days, says the Lord of hosts.
+11 But now I will not be to the rest of this people as in the former days, says the Lord of hosts.
 
 12 For the seed will be prosperous; the vine will give her fruit, and the ground will give her increase, and the heavens will give their dew; and I will cause the remnant of this people to possess all these things.
 
 13 And it will come to pass, that as you were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and you will be a blessing: fear not, but let your hands be strong.
 
-14 For thus says the Lord of hosts; As I thought to punish you, when your fathers provoked me to wrath, says the Lord of hosts, and I repented not:
+14 For thus says the Lord of hosts; As I thought to punish you, when your fathers angered me to wrath, says the Lord of hosts, and I repented not:
 
 15 So again have I thought in these days to do well to Jerusalem and to the house of Judah: fear you not.
 
@@ -264,7 +264,7 @@
 
 2 And Hamath also will border by that; Tyrus, and Zidon, though it be very wise.
 
-3 And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
+3 And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mud of the streets.
 
 4 Look, the Lord will cast her out, and he will smite her power in the sea; and she will be devoured with fire.
 
@@ -290,7 +290,7 @@
 
 15 The Lord of hosts will defend them; and they will devour, and subdue with sling stones; and they will drink, and make a noise as through wine; and they will be filled like bowls, and as the corners of the altar.
 
-16 And the Lord their God will save them in that day as the flock of his people: for they will be as the stones of a crown, lifted up as an ensign upon his land.
+16 And the Lord their God will save them in that day as the flock of his people: for they will be as the stones of a crown, lifted up as an banner upon his land.
 
 17 For how great is his goodness, and how great is his beauty! corn will make the young men cheerful, and new wine the maids.
 
@@ -298,13 +298,13 @@
 
 1 Ask you of the Lord rain in the time of the latter rain; so the Lord will make bright clouds, and give them showers of rain, to every one grass in the field.
 
-2 For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because there was no shepherd.
+2 For the idols have spoken emptiness, and the diviners have seen a lie, and have told false dreams; they comfort for nothing: therefore they went their way as a flock, they were troubled, because there was no shepherd.
 
-3 Mine anger was kindled against the shepherds, and I punished the goats: for the Lord of hosts has visited his flock the house of Judah, and has made them as his goodly horse in the battle.
+3 Mine anger was burned against the shepherds, and I punished the goats: for the Lord of hosts has visited his flock the house of Judah, and has made them as his goodly horse in the battle.
 
 4 Out of him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together.
 
-5 And they will be as mighty men, which tread down their enemies in the mire of the streets in the battle: and they will fight, because the Lord is with them, and the riders on horses will be confounded.
+5 And they will be as mighty men, which tread down their enemies in the mud of the streets in the battle: and they will fight, because the Lord is with them, and the riders on horses will be confounded.
 
 6 And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they will be as though I had not cast them off: for I am the Lord their God, and will hear them.
 
@@ -344,7 +344,7 @@
 
 11 And it was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of the Lord.
 
-12 And I said to them, If you think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
+12 And I said to them, If you think good, give me my price; and if not, hold back. So they weighed for my price thirty pieces of silver.
 
 13 And the Lord said to me, Cast it to the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.
 
@@ -364,7 +364,7 @@
 
 3 And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it will be cut in pieces, though all the people of the earth be gathered together against it.
 
-4 In that day, says the Lord, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.
+4 In that day, says the Lord, I will smite every horse with amazement, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.
 
 5 And the governors of Judah will say in their heart, The inhabitants of Jerusalem will be my strength in the Lord of hosts their God.
 
@@ -410,7 +410,7 @@
 
 1 Look, the day of the Lord comes, and your spoil will be divided in the midst of you.
 
-2 For I will gather all nations against Jerusalem to battle; and the city will be taken, and the houses rifled, and the women ravished; and half of the city will go forth into captivity, and the residue of the people will not be cut off from the city.
+2 For I will gather all nations against Jerusalem to battle; and the city will be taken, and the houses rifled, and the women ravished; and half of the city will go forth into captivity, and the rest of the people will not be cut off from the city.
 
 3 Then will the Lord go forth, and fight against those nations, as when he fought in the day of battle.
 
@@ -434,7 +434,7 @@
 
 13 And it will come to pass in that day, that a great uproar from the Lord will be among them; and they will lay hold every one on the hand of his neighbour, and his hand will rise up against the hand of his neighbour.
 
-14 And Judah also will fight at Jerusalem; and the wealth of all the heathen round about will be gathered together, gold, and silver, and apparel, in great abundance.
+14 And Judah also will fight at Jerusalem; and the wealth of all the heathen round about will be gathered together, gold, and silver, and clothing, in great abundance.
 
 15 And so will be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that will be in these tents, as this plague.
 

@@ -6,7 +6,7 @@
 
 2 O Lord, how long will I cry, and you will not hear! even cry out to you of violence, and you will not save!
 
-3 Why do you show me iniquity, and cause me to see grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
+3 Why do you show me wickedness, and cause me to see grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
 
 4 Therefore the law is slacked, and judgment does never go forth: for the wicked does compass about the righteous; therefore wrong judgment proceeds.
 
@@ -22,11 +22,11 @@
 
 10 And they will scoff at the kings, and the princes will be a scorn to them: they will deride every strong hold; for they will heap dust, and take it.
 
-11 Then will his mind change, and he will pass over, and offend, imputing this his power to his god.
+11 Then will his mind change, and he will pass over, and offend, crediting this his power to his god.
 
 12 are you not from everlasting, O Lord my God, mine Holy One? we will not die. O Lord, you have ordained them for judgment; and, O mighty God, you have established them for correction.
 
-13 you are of purer eyes than to see evil, and can not look on iniquity: therefore look you upon them that deal treacherously, and hold your tongue when the wicked devours the man that is more righteous than he?
+13 you are of purer eyes than to see evil, and can not look on wickedness: therefore look you upon them that deal treacherously, and hold your tongue when the wicked devours the man that is more righteous than he?
 
 14 And mak men as the fishes of the sea, as the creeping things, that have no ruler over them?
 
@@ -54,15 +54,15 @@
 
 8 Because you have spoiled many nations, all the remnant of the people will spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell in it.
 
-9 Woe to him that covets an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
+9 Woe to him that covets an evil greed to his house, that he may set his nest on high, that he may be delivered from the power of evil!
 
 10 you have consulted shame to your house by cutting off many people, and have sinned against your soul.
 
 11 For the stone will cry out of the wall, and the beam out of the timber will answer it.
 
-12 Woe to him that builds a town with blood, and stablishs a city by iniquity!
+12 Woe to him that builds a town with blood, and stablishs a city by wickedness!
 
-13 Look, is it not of the Lord of hosts that the people will labour in the very fire, and the people will weary themselves for very vanity?
+13 Look, is it not of the Lord of hosts that the people will labour in the very fire, and the people will weary themselves for very emptiness?
 
 14 For the earth will be filled with the knowledge of the glory of the Lord, as the waters cover the sea.
 
@@ -84,11 +84,11 @@
 
 2 O Lord, I have heard your speech, and was afraid: O Lord, revive your work in the midst of the years, in the midst of the years make known; in wrath remember mercy.
 
-3 God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
+3 God came from Teman, and the Holy One from mount Paran. [Pause and reflect]. His glory covered the heavens, and the earth was full of his praise.
 
 4 And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.
 
-5 Before him went the pestilence, and burning coals went forth at his feet.
+5 Before him went the plague, and burning coals went forth at his feet.
 
 6 He stood, and measured the earth: he saw, and drove apart the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 
@@ -96,7 +96,7 @@
 
 8 Was the Lord displeased against the rivers? was your anger against the rivers? was your wrath against the sea, that you did ride upon your horses and your chariots of salvation?
 
-9 your bow was made quite naked, according to the oaths of the tribes, even your word. Selah. you did cleave the earth with rivers.
+9 your bow was made quite naked, according to the oaths of the tribes, even your word. [Pause and reflect]. you did cleave the earth with rivers.
 
 10 The mountains saw you, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.
 
@@ -104,7 +104,7 @@
 
 12 you did march through the land in indignation, you did thresh the heathen in anger.
 
-13 you went forth for the salvation of your people, even for salvation with your anointed; you woundedst the head out of the house of the wicked, by discovering the foundation to the neck. Selah.
+13 you went forth for the salvation of your people, even for salvation with your anointed; you woundedst the head out of the house of the wicked, by discovering the foundation to the neck. [Pause and reflect].
 
 14 you did strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 

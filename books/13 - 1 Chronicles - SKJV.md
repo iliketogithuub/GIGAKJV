@@ -64,7 +64,7 @@
 
 31 Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
 
-32 Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
+32 Now the sons of Keturah, Abraham's secondary wife: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
 
 33 And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these are the sons of Keturah.
 
@@ -202,11 +202,11 @@
 
 45 And the son of Shammai was Maon: and Maon was the father of Bethzur.
 
-46 And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran fathered Gazez.
+46 And Ephah, Caleb's secondary wife, bare Haran, and Moza, and Gazez: and Haran fathered Gazez.
 
 47 And the sons of Jahdai; Regem, and Jotham, and Gesham, and Pelet, and Ephah, and Shaaph.
 
-48 Maachah, Caleb's concubine, bare Sheber, and Tirhanah.
+48 Maachah, Caleb's secondary wife, bare Sheber, and Tirhanah.
 
 49 She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsa.
 
@@ -240,7 +240,7 @@
 
 8 And Elishama, and Eliada, and Eliphelet, nine.
 
-9 These were all the sons of David, beside the sons of the concubines, and Tamar their sister.
+9 These were all the sons of David, beside the sons of the secondary wives, and Tamar their sister.
 
 10 And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,
 
@@ -546,7 +546,7 @@
 
 65 And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names.
 
-66 And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
+66 And the rest of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
 
 67 And they gave to them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,
 
@@ -606,7 +606,7 @@
 
 13 The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 
-14 The sons of Manasseh; Ashriel, whom she bare: (but his concubine the Aramitess bare Machir the father of Gilead:
+14 The sons of Manasseh; Ashriel, whom she bare: (but his secondary wife the Aramitess bare Machir the father of Gilead:
 
 15 And Machir took to wife the sister of Huppim and Shuppim, whose sister's name was Maachah;) and the name of the second was Zelophehad: and Zelophehad had daughters.
 
@@ -894,7 +894,7 @@
 
 15 Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.
 
-16 And David was then in the hold, and the Philistines' garrison was then at Bethlehem.
+16 And David was then in the hold, and the Philistines' military post was then at Bethlehem.
 
 17 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that is at the gate!
 
@@ -1016,7 +1016,7 @@
 
 28 And Zadok, a young man mighty of valour, and of his father's house twenty and two captains.
 
-29 And of the children of Benjamin, the kindred of Saul, three thousand: for until now the greatest part of them had kept the ward of the house of Saul.
+29 And of the children of Benjamin, the relatives of Saul, three thousand: for until now the greatest part of them had kept the ward of the house of Saul.
 
 30 And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.
 
@@ -1060,7 +1060,7 @@
 
 9 And when they came to the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
 
-10 And the anger of the Lord was kindled against Uzza, and he struck him, because he put his hand to the ark: and there he died before God.
+10 And the anger of the Lord was burned against Uzza, and he struck him, because he put his hand to the ark: and there he died before God.
 
 11 And David was displeased, because the Lord had made a breach upon Uzza: therefore that place is called Perezuzza to this day.
 
@@ -1222,7 +1222,7 @@
 
 27 Glory and honour are in his presence; strength and gladness are in his place.
 
-28 Give to the Lord, you kindreds of the people, give to the Lord glory and strength.
+28 Give to the Lord, you families of the people, give to the Lord glory and strength.
 
 29 Give to the Lord the glory due to his name: bring an offering, and come before him: worship the Lord in the beauty of holiness.
 
@@ -1322,7 +1322,7 @@
 
 5 And when the Syrians of Damascus came to help Hadarezer king of Zobah, David killed of the Syrians two and twenty thousand men.
 
-6 Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the Lord preserved David whithersoever he went.
+6 Then David put military posts in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the Lord preserved David whithersoever he went.
 
 7 And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
 
@@ -1336,7 +1336,7 @@
 
 12 Moreover Abishai the son of Zeruiah killed of the Edomites in the valley of salt eighteen thousand.
 
-13 And he put garrisons in Edom; and all the Edomites became David's servants. Thus the Lord preserved David whithersoever he went.
+13 And he put military posts in Edom; and all the Edomites became David's servants. Thus the Lord preserved David whithersoever he went.
 
 14 So David reigned over all Israel, and executed judgment and justice among all his people.
 
@@ -1406,7 +1406,7 @@
 
 ## 1 Chronicles Chapter 21
 
-1 And Satan stood up against Israel, and provoked David to number Israel.
+1 And Satan stood up against Israel, and angered David to number Israel.
 
 2 And David said to Joab and to the rulers of the people, Go, number Israel from Beersheba even to Dan; and bring the number of them to me, that I may know it.
 
@@ -1420,7 +1420,7 @@
 
 7 And God was displeased with this thing; therefore he struck Israel.
 
-8 And David said to God, I have sinned greatly, because I have done this thing: but now, I urge you, do away the iniquity of your servant; for I have done very foolishly.
+8 And David said to God, I have sinned greatly, because I have done this thing: but now, I urge you, do away the wickedness of your servant; for I have done very foolishly.
 
 9 And the Lord spoke to Gad, David's seer, saying,
 
@@ -1428,11 +1428,11 @@
 
 11 So Gad came to David, and said to him, Thus says the Lord, Choose you
 
-12 Either three years' famine; or three months to be destroyed before your foes, while that the sword of your enemies overtaks you; or else three days the sword of the Lord, even the pestilence, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise thyself what word I will bring again to him that sent me.
+12 Either three years' famine; or three months to be destroyed before your foes, while that the sword of your enemies overtaks you; or else three days the sword of the Lord, even the plague, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise thyself what word I will bring again to him that sent me.
 
 13 And David said to Gad, I am in a great strait: let me fall now into the hand of the Lord; for very great are his mercies: but let me not fall into the hand of man.
 
-14 So the Lord sent pestilence upon Israel: and there fell of Israel seventy thousand men.
+14 So the Lord sent plague upon Israel: and there fell of Israel seventy thousand men.
 
 15 And God sent an angel to Jerusalem to destroy it: and as he was destroying, the Lord saw, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now your hand. And the angel of the Lord stood by the threshingfloor of Ornan the Jebusite.
 
@@ -1890,7 +1890,7 @@
 
 4 Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses also:
 
-5 The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day to the Lord?
+5 The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to set apart his service this day to the Lord?
 
 6 Then the chief of the fathers and princes of the tribes of Israel and the captains of thousands and of hundreds, with the rulers of the king's work, offered willingly,
 
@@ -1910,7 +1910,7 @@
 
 14 But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of you, and of your own have we given you.
 
-15 For we are strangers before you, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
+15 For we are strangers before you, and foreigners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
 
 16 O Lord our God, all this store that we have prepared to build you an house for your holy name comes of your hand, and is all your own.
 

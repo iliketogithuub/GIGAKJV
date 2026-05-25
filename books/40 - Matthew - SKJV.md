@@ -88,7 +88,7 @@
 
 17 Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
 
-18 In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
+18 In Rama was there a voice heard, mourning, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
 
 19 But when Herod was dead, look, an angel of the Lord appears in a dream to Joseph in Egypt,
 
@@ -124,7 +124,7 @@
 
 11 I indeed baptize you with water to repentance. but he that comes after me is mightier than I, whose shoes I am not worthy to bear: he will baptize you with the Holy Spirit, and with fire:
 
-12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
+12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the storehouse; but he will burn up the chaff with unquenchable fire.
 
 13 Then comes Jesus from Galilee to Jordan to John, to be baptized of him.
 
@@ -210,7 +210,7 @@
 
 10 Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
 
-11 Blessed are you, when men will revile you, and persecute you, and will say all manner of evil against you falsely, for my sake.
+11 Blessed are you, when men will insult you, and persecute you, and will say all manner of evil against you falsely, for my sake.
 
 12 Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
 
@@ -252,7 +252,7 @@
 
 31 It has been said, Whosoever will put away his wife, let him give her a writing of divorcement:
 
-32 But I say to you, That whosoever will put away his wife, saving for the cause of fornication, causes her to commit adultery: and whosoever will marry her that is divorced commits adultery.
+32 But I say to you, That whosoever will put away his wife, saving for the cause of sexual sin, causes her to commit adultery: and whosoever will marry her that is divorced commits adultery.
 
 33 Again, you have heard that it has been said by them of old time, you will not forswear thyself, but will perform to the Lord your oaths:
 
@@ -270,7 +270,7 @@
 
 40 And if any man will sue you at the law, and take away your coat, let him have your cloak also.
 
-41 And whosoever will compel you to go a mile, go with him two.
+41 And whosoever will force you to go a mile, go with him two.
 
 42 Give to him that asks you, and from him that would borrow of you turn not you away.
 
@@ -300,11 +300,11 @@
 
 6 But you, when you pray, enter into your closet, and when you have shut your door, pray to your Father which is in secret; and your Father which sees in secret will reward you openly.
 
-7 But when you pray, use not vain repetitions, as the heathen do: for they think that they will be heard for their much speaking.
+7 But when you pray, use not empty repetitions, as the heathen do: for they think that they will be heard for their much speaking.
 
 8 Be not you therefore like to them: for your Father knows what things you have need of, before you ask him.
 
-9 After this manner therefore pray you: Our Father which are in heaven, Hallowed be your name.
+9 After this manner therefore pray you: Our Father which are in heaven, May your name be kept holy.
 
 10 your kingdom come, your will be done in earth, as it is in heaven.
 
@@ -318,7 +318,7 @@
 
 15 But if you forgive not men their trespasses, neither will your Father forgive your trespasses.
 
-16 Moreover when you fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear to men to fast. Truly I say to you, They have their reward.
+16 Moreover when you fast, be not, as the hypocrites, of a sad face: for they disfigure their faces, that they may appear to men to fast. Truly I say to you, They have their reward.
 
 17 But you, when you fast, anoint your head, and wash your face;
 
@@ -334,7 +334,7 @@
 
 23 But if your eye be evil, your whole body will be full of darkness. If therefore the light that is in you be darkness, how great is that darkness!
 
-24 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. you cannot serve God and mammon.
+24 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. you cannot serve God and wealth.
 
 25 Therefore I say to you, Take no thought for your life, what you will eat, or what you will drink; nor yet for your body, what you will put on. Is not the life more than meat, and the body than clothing?
 
@@ -360,7 +360,7 @@
 
 1 Judge not, that you be not judged.
 
-2 For with what judgment you judge, you will be judged: and with what measure you mete, it will be measured to you again.
+2 For with what judgment you judge, you will be judged: and with what measure you measure, it will be measured to you again.
 
 3 And why look at you the mote that is in your brother's eye, but consider not the beam that is in your own eye?
 
@@ -402,7 +402,7 @@
 
 22 Many will say to me in that day, Lord, Lord, have we not prophesied in your name? and in your name have cast out devils? and in your name done many wonderful works?
 
-23 And then will I profess to them, I never knew you: depart from me, you that work iniquity.
+23 And then will I profess to them, I never knew you: depart from me, you that work wickedness.
 
 24 Therefore whosoever hears these sayings of mine, and does them, I will liken him to a wise man, which built his house upon a rock:
 
@@ -412,7 +412,7 @@
 
 27 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
 
-28 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
+28 And it came to pass, when Jesus had ended these sayings, the people were amazed at his doctrine:
 
 29 For he taught them as one having authority, and not as the scribes.
 
@@ -600,7 +600,7 @@
 
 16 Look, I send you forth as sheep in the midst of wolves: be you therefore wise as serpents, and harmless as doves.
 
-17 But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;
+17 But beware of men: for they will deliver you up to the councils, and they will whip you in their synagogues;
 
 18 And you will be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
 
@@ -686,7 +686,7 @@
 
 16 But whereunto will I liken this generation? It is like to children sitting in the markets, and calling to their fellows,
 
-17 And saying, We have piped to you, and you have not danced; we have mourned to you, and you have not lamented.
+17 And saying, We have piped to you, and you have not danced; we have mourned to you, and you have not mourned.
 
 18 For John came neither eating nor drinking, and they say, He has a devil.
 
@@ -702,7 +702,7 @@
 
 24 But I say to you, That it will be more tolerable for the land of Sodom in the day of judgment, than for you.
 
-25 At that time Jesus answered and said, I thank you, O Father, Lord of heaven and earth, because you have hid these things from the wise and prudent, and have revealed them to babes.
+25 At that time Jesus answered and said, I thank you, O Father, Lord of heaven and earth, because you have hid these things from the wise and wise, and have revealed them to babes.
 
 26 Even so, Father: for so it seemed good in your sight.
 
@@ -724,7 +724,7 @@
 
 4 How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
 
-5 Or have you not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?
+5 Or have you not read in the law, how that on the sabbath days the priests in the temple defile the sabbath, and are blameless?
 
 6 But I say to you, That in this place is one greater than the temple.
 
@@ -754,7 +754,7 @@
 
 19 He will not strive, nor cry; neither will any man hear his voice in the streets.
 
-20 A bruised reed will he not break, and smoking flax will he not quench, till he send forth judgment to victory.
+20 A bruised reed will he not break, and smoking flax will he not put out, till he send forth judgment to victory.
 
 21 And in his name will the Gentiles trust.
 
@@ -898,7 +898,7 @@
 
 40 As therefore the tares are gathered and burned in the fire; so will it be in the end of this world.
 
-41 The Son of man will send forth his angels, and they will gather out of his kingdom all things that offend, and them which do iniquity;
+41 The Son of man will send forth his angels, and they will gather out of his kingdom all things that offend, and them which do wickedness;
 
 42 And will cast them into a furnace of fire: there will be wailing and gnashing of tes.
 
@@ -924,7 +924,7 @@
 
 53 And it came to pass, that when Jesus had finished these parables, he departed from there.
 
-54 And when he was come into his own country, he taught them in their synagogue, so much so that they were astonished, and said, From where has this man this wisdom, and these mighty works?
+54 And when he was come into his own country, he taught them in their synagogue, so much so that they were amazed, and said, From where has this man this wisdom, and these mighty works?
 
 55 Is not this the carpenter's son? is not his mother called Mary? and his brothers, James, and Joses, and Simon, and Judas?
 
@@ -964,7 +964,7 @@
 
 14 And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.
 
-15 And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.
+15 And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves food.
 
 16 But Jesus said to them, They need not depart; give you them to eat.
 
@@ -978,7 +978,7 @@
 
 21 And they that had eaten were about five thousand men, beside women and children.
 
-22 And immediately Jesus constrained his disciples to get into a ship, and to go before him to the other side, while he sent the multitudes away.
+22 And immediately Jesus urged his disciples to get into a ship, and to go before him to the other side, while he sent the multitudes away.
 
 23 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
 
@@ -1026,7 +1026,7 @@
 
 8 This people draws near to me with their mouth, and honours me with their lips; but their heart is far from me.
 
-9 But in vain they do worship me, teaching for doctrines the commandments of men.
+9 But for nothing they do worship me, teaching for doctrines the commandments of men.
 
 10 And he called the multitude, and said to them, Hear, and understand:
 
@@ -1046,7 +1046,7 @@
 
 18 But those things which proceed out of the mouth come forth from the heart; and they defile the man.
 
-19 For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:
+19 For out of the heart proceed evil thoughts, murders, adulteries, sexual sins, thefts, false witness, blasphemies:
 
 20 These are the things which defile a man: but to eat with unwashen hands defiles not a man.
 
@@ -1094,7 +1094,7 @@
 
 2 He answered and said to them, When it is evening, you say, It will be fair weather: for the sky is red.
 
-3 And in the morning, It will be foul weather to day: for the sky is red and lowering. O you hypocrites, you can discern the face of the sky; but can you not discern the signs of the times?
+3 And in the morning, It will be foul weather to day: for the sky is red and lowering. O you hypocrites, you can recognize the face of the sky; but can you not recognize the signs of the times?
 
 4 A wicked and adulterous generation seeks after a sign; and there will no sign be given to it, but the sign of the prophet Jonas. And he left them, and departed.
 
@@ -1292,7 +1292,7 @@
 
 8 He says to them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
 
-9 And I say to you, Whosoever will put away his wife, except it be for fornication, and will marry another, commits adultery: and whoso marries her which is put away does commit adultery.
+9 And I say to you, Whosoever will put away his wife, except it be for sexual sin, and will marry another, commits adultery: and whoso marries her which is put away does commit adultery.
 
 10 His disciples say to him, If the case of the man be so with his wife, it is not good to marry.
 
@@ -1330,7 +1330,7 @@
 
 27 Then answered Peter and said to him, Look, we have forsaken all, and followed you; what will we have therefore?
 
-28 And Jesus said to them, Truly I say to you, That you which have followed me, in the regeneration when the Son of man will sit in the throne of his glory, you also will sit upon twelve thrones, judging the twelve tribes of Israel.
+28 And Jesus said to them, Truly I say to you, That you which have followed me, in the new birth when the Son of man will sit in the throne of his glory, you also will sit upon twelve thrones, judging the twelve tribes of Israel.
 
 29 And every one that has forsaken houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, will receive an hundredfold, and will inherit everlasting life.
 
@@ -1374,7 +1374,7 @@
 
 18 Look, we go up to Jerusalem; and the Son of man will be betrayed to the chief priests and to the scribes, and they will condemn him to death,
 
-19 And will deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he will rise again.
+19 And will deliver him to the Gentiles to mock, and to whip, and to crucify him: and the third day he will rise again.
 
 20 Then came to him the mother of Zebedees children with her sons, worshipping him, and desiring a certain thing of him.
 
@@ -1468,9 +1468,9 @@
 
 30 And he came to the second, and said likewise. And he answered and said, I go, sir: and went not.
 
-31 Whether of them two did the will of his father? They say to him, The first. Jesus says to them, Truly I say to you, That the publicans and the harlots go into the kingdom of God before you.
+31 Whether of them two did the will of his father? They say to him, The first. Jesus says to them, Truly I say to you, That the publicans and the prostitutes go into the kingdom of God before you.
 
-32 For John came to you in the way of righteousness, and you believed him not: but the publicans and the harlots believed him: and you, when you had seen it, repented not afterward, that you might believe him.
+32 For John came to you in the way of righteousness, and you believed him not: but the publicans and the prostitutes believed him: and you, when you had seen it, repented not afterward, that you might believe him.
 
 33 Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to farmers, and went into a far country:
 
@@ -1566,7 +1566,7 @@
 
 32 I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 
-33 And when the multitude heard this, they were astonished at his doctrine.
+33 And when the multitude heard this, they were amazed at his doctrine.
 
 34 But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.
 
@@ -1622,7 +1622,7 @@
 
 13 But woe to you, scribes and Pharisees, hypocrites! for you shut up the kingdom of heaven against men: for you neither go in yourselves, neither suffer you them that are entering to go in.
 
-14 Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, and for a pretence make long prayer: therefore you will receive the greater damnation.
+14 Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, and for a pretence make long prayer: therefore you will receive the greater condemnation.
 
 15 Woe to you, scribes and Pharisees, hypocrites! for you compass sea and land to make one proselyte, and when he is made, you make him twofold more the child of hell than yourselves.
 
@@ -1650,7 +1650,7 @@
 
 27 Woe to you, scribes and Pharisees, hypocrites! for you are like to whited tombs, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.
 
-28 Even so you also outwardly appear righteous to men, but within you are full of hypocrisy and iniquity.
+28 Even so you also outwardly appear righteous to men, but within you are full of hypocrisy and wickedness.
 
 29 Woe to you, scribes and Pharisees, hypocrites! because you build the tombs of the prophets, and garnish the tombs of the righteous,
 
@@ -1660,9 +1660,9 @@
 
 32 Fill you up then the measure of your fathers.
 
-33 you serpents, you generation of vipers, how can you escape the damnation of hell?
+33 you serpents, you generation of vipers, how can you escape the condemnation of hell?
 
-34 therefore, look, I send to you prophets, and wise men, and scribes: and some of them you will kill and crucify; and some of them will you scourge in your synagogues, and persecute them from city to city:
+34 therefore, look, I send to you prophets, and wise men, and scribes: and some of them you will kill and crucify; and some of them will you whip in your synagogues, and persecute them from city to city:
 
 35 That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom you killed between the temple and the altar.
 
@@ -1688,7 +1688,7 @@
 
 6 And you will hear of wars and rumours of wars: see that you be not troubled: for all these things must come to pass, but the end is not yet.
 
-7 For nation will rise against nation, and kingdom against kingdom: and there will be famines, and pestilences, and earthquakes, in various places.
+7 For nation will rise against nation, and kingdom against kingdom: and there will be famines, and plagues, and earthquakes, in various places.
 
 8 All these are the beginning of sorrows.
 
@@ -1698,7 +1698,7 @@
 
 11 And many false prophets will rise, and will deceive many.
 
-12 And because iniquity will abound, the love of many will wax cold.
+12 And because wickedness will abound, the love of many will wax cold.
 
 13 But he that will endure to the end, the same will be saved.
 
@@ -1832,7 +1832,7 @@
 
 26 His lord answered and said to him, you wicked and slothful servant, you knew that I reap where I sowed not, and gather where I have not scattered:
 
-27 you ought therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.
+27 you ought therefore to have put my money to the exchangers, and then at my coming I should have received mine own with interest.
 
 28 Take therefore the talent from him, and give it to him which has ten talents.
 
@@ -1998,7 +1998,7 @@
 
 62 And the high priest arose, and said to him, Answer you nothing? what is it which these witness against you?
 
-63 But Jesus held his peace, And the high priest answered and said to him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
+63 But Jesus held his peace, And the high priest answered and said to him, I command under oath you by the living God, that you tell us whether you be the Christ, the Son of God.
 
 64 Jesus says to him, you have said: nevertheless I say to you, From now on will you see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 
@@ -2076,7 +2076,7 @@
 
 25 Then answered all the people, and said, His blood be on us, and on our children.
 
-26 Then released he Barabbas to them: and when he had scourged Jesus, he delivered him to be crucified.
+26 Then released he Barabbas to them: and when he had whipped Jesus, he delivered him to be crucified.
 
 27 Then the soldiers of the governor took Jesus into the common hall, and gathered to him the whole band of soldiers.
 
@@ -2088,13 +2088,13 @@
 
 31 And after that they had mocked him, they took the robe off from him, and put his own clothing on him, and led him away to crucify him.
 
-32 And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
+32 And as they came out, they found a man of Cyrene, Simon by name: him they forced to bear his cross.
 
 33 And when they were come to a place called Golgotha, that is to say, a place of a skull,
 
 34 They gave him vinegar to drink mingled with gall: and when he had tasted of it, he would not drink.
 
-35 And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
+35 And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my robe did they cast lots.
 
 36 And sitting down they watched him there;
 
@@ -2102,7 +2102,7 @@
 
 38 Then were there two thieves crucified with him, one on the right hand, and another on the left.
 
-39 And they that passed by reviled him, wagging their heads,
+39 And they that passed by insulted him, wagging their heads,
 
 40 And saying, you that destroy the temple, and build it in three days, save thyself. If you be the Son of God, come down from the cross.
 
@@ -2164,7 +2164,7 @@
 
 2 And, look, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.
 
-3 His countenance was like lightning, and his clothing white as snow:
+3 His face was like lightning, and his clothing white as snow:
 
 4 And for fear of him the keepers did shake, and became as dead men.
 

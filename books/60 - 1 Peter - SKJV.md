@@ -4,7 +4,7 @@
 
 1 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
-2 Elect according to the foreknowledge of God the Father, through sanctification of the Holy Spirit, to obedience and sprinkling of the blood of Jesus Christ: Grace to you, and peace, be multiplied.
+2 Elect according to the foreknowledge of God the Father, through being made holy of the Holy Spirit, to obedience and sprinkling of the blood of Jesus Christ: Grace to you, and peace, be multiplied.
 
 3 Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
 
@@ -34,13 +34,13 @@
 
 16 Because it is written, Be you holy; for I am holy.
 
-17 And if you call on the Father, who without respect of persons judges according to every man's work, pass the time of your sojourning here in fear:
+17 And if you call on the Father, who without respect of persons judges according to every man's work, pass the time of your living temporarily here in fear:
 
-18 Since as you know that you were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;
+18 Since as you know that you were not redeemed with corruptible things, as silver and gold, from your empty conversation received by tradition from your fathers;
 
 19 But with the precious blood of Christ, as of a lamb without blemish and without spot:
 
-20 Who truly was foreordained before the foundation of the world, but was manifest in these last times for you,
+20 Who truly was foreordained before the foundation of the world, but was revealed in these last times for you,
 
 21 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 
@@ -54,7 +54,7 @@
 
 ## 1 Peter Chapter 2
 
-1 therefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
+1 therefore laying aside all ill will, and all guile, and hypocrisies, and envies, and all evil speakings,
 
 2 As newborn babes, desire the sincere milk of the word, that you may grow by that:
 
@@ -98,7 +98,7 @@
 
 22 Who did no sin, neither was guile found in his mouth:
 
-23 Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judges righteously:
+23 Who, when he was insulted, insulted not again; when he suffered, he threatened not; but committed himself to him that judges righteously:
 
 24 He personally carried our sins in His own body on the cross, so that we, having died to sin, can live for righteousness—by His wounds you were healed.
 
@@ -108,15 +108,15 @@
 
 ## 1 Peter Chapter 3
 
-1 Likewise, you wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
+1 Likewise, you wives, be in submission to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 
 2 While they look at your chaste conversation coupled with fear.
 
-3 Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;
+3 Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of clothing;
 
 4 But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet human spirit, which is in the sight of God of great price.
 
-5 For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection to their own husbands:
+5 For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in submission to their own husbands:
 
 6 Even as Sara obeyed Abraham, calling him lord: whose daughters you are, as long as you do well, and are not afraid with any amazement.
 
@@ -128,7 +128,7 @@
 
 10 For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
 
-11 Let him avoid evil, and do good; let him seek peace, and ensue it.
+11 Let him avoid evil, and do good; let him seek peace, and pursue it.
 
 12 For the eyes of the Lord are over the righteous, and his ears are open to their prayers: but the face of the Lord is against them that do evil.
 
@@ -146,7 +146,7 @@
 
 19 By which also he went and preached to the spirits in prison;
 
-20 Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, in which few, that is, eight souls were saved by water.
+20 Which sometime were disobedient, when once the patience of God waited in the days of Noah, while the ark was a preparing, in which few, that is, eight souls were saved by water.
 
 21 The like figure whereunto even baptism does also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 
@@ -180,7 +180,7 @@
 
 13 But rejoice, since as you are partakers of Christ's sufferings; that, when his glory will be revealed, you may be glad also with exceeding joy.
 
-14 If you be reproached for the name of Christ, happy are you; for the Holy Spirit of glory and of God rests upon you: on their part he is evil spoken of, but on your part he is glorified.
+14 If you be disgraced for the name of Christ, happy are you; for the Holy Spirit of glory and of God rests upon you: on their part he is evil spoken of, but on your part he is glorified.
 
 15 But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.
 
@@ -196,7 +196,7 @@
 
 1 The elders which are among you I encourage, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:
 
-2 Feed the flock of God which is among you, taking the oversight of it, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
+2 Feed the flock of God which is among you, taking the oversight of it, not by constraint, but willingly; not for filthy money, but of a ready mind;
 
 3 Neither as being lords over God's heritage, but being examples to the flock.
 

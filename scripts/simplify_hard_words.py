@@ -14,11 +14,23 @@ BOOKS_DIR = "/home/charlie/Desktop/Websites/SKJV/books"
 # Format: old_word -> new_word
 # Each mapping is verified against the Strong's Concordance root definition
 HARD_WORD_MAP = {
+    # --- PHRASE REPLACEMENTS (Evaluated first to preserve grammar) ---
+    'Hallowed be your name': 'May your name be kept holy',
+    'hallowed thing': 'holy thing',
+    'hallowed things': 'holy things',
+    'hallowed bread': 'holy bread',
+    'hallowed part': 'holy part',
+    'hallowed it': 'made it holy',
+    'hallowed this house': 'made this house holy',
+    'hallowed the middle': 'made the middle holy',
+    'in vain': 'for nothing',
+    'vain show': 'empty show',
+
     # --- HIGH FREQUENCY (50+) ---
     'iniquity': 'wickedness',          # H5771 avon - moral evil, perversity, wickedness
     'iniquities': 'wickedness',        # H5771 plural
-    'vain': 'worthless',               # H7723 shav - emptiness, worthlessness, falsehood
-    'vanity': 'worthlessness',         # H1892 hevel - vapor, breath, worthlessness
+    'vain': 'empty',                   # H7723 shav - emptiness, vanity, uselessness
+    'vanity': 'emptiness',             # H1892 hevel - vapor, breath, emptiness
     'reproach': 'disgrace',            # H2781 cherpah - scorn, shame, disgrace
     'reproached': 'disgraced',
     'reproaches': 'disgraces',
@@ -27,8 +39,6 @@ HARD_WORD_MAP = {
     'pestilence': 'plague',            # H1698 dever - plague, deadly disease
     'pestilences': 'plagues',
     'pestilent': 'plague-spreading',
-    'grievous': 'severe',              # H3515 kabed - heavy, severe, burdensome
-    'grievously': 'severely',
     'kindled': 'burned',               # H2734 charah - to burn, be hot with anger
     'firmament': 'sky',                # H7549 raqia - expanse, vault of heaven, sky
     'residue': 'rest',                 # H7611 sheerith - remainder, rest, remnant
@@ -47,8 +57,6 @@ HARD_WORD_MAP = {
     'covetousness': 'greed',           # G4124 pleonexia - greediness, desire for more
     'usury': 'interest',               # H5392 neshek - interest on a loan
     'usurer': 'moneylender',
-    'vexed': 'tormented',              # H3238 yanah - to oppress, mistreat, torment
-    'vexation': 'torment',
     'profane': 'defile',               # H2490 chalal - to pollute, defile, desecrate
     'profaned': 'defiled',
     'victuals': 'food',                # H400 okel - food, provisions, nourishment
@@ -82,8 +90,6 @@ HARD_WORD_MAP = {
     'betrothed': 'engaged',            # H781 aras - to betroth, engage to marry
     'epistle': 'letter',               # G1992 epistole - letter, written message
     'epistles': 'letters',
-    'eunuch': 'court official',        # H5631 saris - official, court servant
-    'eunuchs': 'court officials',
     'concubine': 'secondary wife',     # H6370 pilegesh - concubine
     'concubines': 'secondary wives',
     'precept': 'command',              # H6490 piqqud - precept, statute, command

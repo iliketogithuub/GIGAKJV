@@ -26,7 +26,7 @@
 
 12 Now therefore come, let me, I pray you, give you counsel, that you may save your own life, and the life of your son Solomon.
 
-13 Go and get you in to king David, and say to him, Did not you, my lord, O king, swear to your handmaid, saying, Assuredly Solomon your son will reign after me, and he will sit upon my throne? why then does Adonijah reign?
+13 Go and get you in to king David, and say to him, Did not you, my lord, O king, swear to your female servant, saying, Assuredly Solomon your son will reign after me, and he will sit upon my throne? why then does Adonijah reign?
 
 14 Look, while you yet talk there with the king, I also will come in after you, and confirm your words.
 
@@ -34,7 +34,7 @@
 
 16 And Bathsheba bowed, and did obeisance to the king. And the king said, What would you?
 
-17 And she said to him, My lord, you swar by the Lord your God to your handmaid, saying, Assuredly Solomon your son will reign after me, and he will sit upon my throne.
+17 And she said to him, My lord, you swar by the Lord your God to your female servant, saying, Assuredly Solomon your son will reign after me, and he will sit upon my throne.
 
 18 And now, look, Adonijah reigns; and now, my lord the king, you know it not:
 
@@ -220,11 +220,11 @@
 
 8 And your servant is in the midst of your people which you have chosen, a great people, that cannot be numbered nor counted for multitude.
 
-9 Give therefore your servant an understanding heart to judge your people, that I may discern between good and bad: for who is able to judge this your so great a people?
+9 Give therefore your servant an understanding heart to judge your people, that I may recognize between good and bad: for who is able to judge this your so great a people?
 
 10 And the speech pleased the Lord, that Solomon had asked this thing.
 
-11 And God said to him, Because you have asked this thing, and have not asked for thyself long life; neither have asked riches for thyself, nor have asked the life of your enemies; but have asked for thyself understanding to discern judgment;
+11 And God said to him, Because you have asked this thing, and have not asked for thyself long life; neither have asked riches for thyself, nor have asked the life of your enemies; but have asked for thyself understanding to recognize judgment;
 
 12 Look, I have done according to your words: look, I have given you a wise and an understanding heart; so that there was none like you before you, neither after you will any arise like to you.
 
@@ -234,7 +234,7 @@
 
 15 And Solomon awoke; and, look, it was a dream. And he came to Jerusalem, and stood before the ark of the covenant of the Lord, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
 
-16 Then came there two women, that were harlots, to the king, and stood before him.
+16 Then came there two women, that were prostitutes, to the king, and stood before him.
 
 17 And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house.
 
@@ -242,7 +242,7 @@
 
 19 And this woman's child died in the night; because she overlaid it.
 
-20 And she arose at midnight, and took my son from beside me, while your handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.
+20 And she arose at midnight, and took my son from beside me, while your female servant slept, and laid it in her bosom, and laid her dead child in my bosom.
 
 21 And when I rose in the morning to give my child suck, look, it was dead: but when I had considered it in the morning, look, it was not my son, which I did bear.
 
@@ -274,7 +274,7 @@
 
 6 And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.
 
-7 And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
+7 And Solomon had twelve officers over all Israel, which provided food for the king and his household: each man his month in a year made provision.
 
 8 And these are their names: The son of Hur, in mount Ephraim:
 
@@ -314,7 +314,7 @@
 
 26 And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
 
-27 And those officers provided victual for king Solomon, and for all that came to king Solomon's table, every man in his month: they lacked nothing.
+27 And those officers provided food for king Solomon, and for all that came to king Solomon's table, every man in his month: they lacked nothing.
 
 28 Barley also and straw for the horses and dromedaries brought they to the place where the officers were, every man according to his charge.
 
@@ -624,7 +624,7 @@
 
 36 Then hear you in heaven, and forgive the sin of your servants, and of your people Israel, that you teach them the good way in which they should walk, and give rain upon your land, which you have given to your people for an inheritance.
 
-37 If there be in the land famine, if there be pestilence, blasting, mildew, locust, or if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be;
+37 If there be in the land famine, if there be plague, blasting, mildew, locust, or if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be;
 
 38 What prayer and prayer soever be made by any man, or by all your people Israel, which will know every man the plague of his own heart, and spread forth his hands toward this house:
 
@@ -690,7 +690,7 @@
 
 2 That the Lord appeared to Solomon the second time, as he had appeared to him at Gibeon.
 
-3 And the Lord said to him, I have heard your prayer and your prayer, that you have made before me: I have hallowed this house, which you have built, to put my name there for ever; and mine eyes and mine heart will be there perpetually.
+3 And the Lord said to him, I have heard your prayer and your prayer, that you have made before me: I have made this house holy, which you have built, to put my name there for ever; and mine eyes and mine heart will be there perpetually.
 
 4 And if you will walk before me, as David your father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded you, and will keep my statutes and my judgments:
 
@@ -698,9 +698,9 @@
 
 6 But if you will at all turn from following me, you or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:
 
-7 Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel will be a proverb and a byword among all people:
+7 Then will I cut off Israel out of the land which I have given them; and this house, which I have made holy for my name, will I cast out of my sight; and Israel will be a proverb and a byword among all people:
 
-8 And at this house, which is high, every one that passes by it will be astonished, and will hiss; and they will say, Why has the Lord done thus to this land, and to this house?
+8 And at this house, which is high, every one that passes by it will be amazed, and will hiss; and they will say, Why has the Lord done thus to this land, and to this house?
 
 9 And they will answer, Because they forsook the Lord their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore has the Lord brought upon them all this evil.
 
@@ -728,7 +728,7 @@
 
 21 Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice to this day.
 
-22 But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
+22 But of the children of Israel did Solomon make no slaves: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
 
 23 These were the chief of the officers that were over Solomon's work, five hundred and fifty, which bare rule over the people who worked in the work.
 
@@ -752,7 +752,7 @@
 
 4 And when the queen of Sheba had seen all Solomon's wisdom, and the house that he had built,
 
-5 And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up to the house of the Lord; there was no more spirit in her.
+5 And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their clothing, and his cupbearers, and his ascent by which he went up to the house of the Lord; there was no more spirit in her.
 
 6 And she said to the king, It was a true report that I heard in mine own land of your acts and of your wisdom.
 
@@ -808,7 +808,7 @@
 
 2 Of the nations concerning which the Lord said to the children of Israel, you will not go in to them, neither will they come in to you: for surely they will turn away your heart after their gods: Solomon clung to these in love.
 
-3 And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
+3 And he had seven hundred wives, princesses, and three hundred secondary wives: and his wives turned away his heart.
 
 4 For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
 
@@ -838,7 +838,7 @@
 
 17 That Hadad fled, he and certain Edomites of his father's servants with him, to go into Egypt; Hadad being yet a little child.
 
-18 And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, to Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
+18 And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, to Pharaoh king of Egypt; which gave him an house, and appointed him food, and gave him land.
 
 19 And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.
 
@@ -1024,7 +1024,7 @@
 
 32 For the saying which he cried by the word of the Lord against the altar in Bethel, and against all the houses of the high places which are in the cities of Samaria, will surely come to pass.
 
-33 After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places.
+33 After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he set apart him, and he became one of the priests of the high places.
 
 34 And this thing became sin to the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.
 
@@ -1072,7 +1072,7 @@
 
 21 And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the Lord did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
 
-22 And Judah did evil in the sight of the Lord, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
+22 And Judah did evil in the sight of the Lord, and they angered him to jealousy with their sins which they had committed, above all that their fathers had done.
 
 23 For they also built them high places, and images, and groves, on every high hill, and under every green tree.
 
@@ -1152,7 +1152,7 @@
 
 29 And it came to pass, when he reigned, that he struck all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according to the saying of the Lord, which he spoke by his servant Ahijah the Shilonite:
 
-30 Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his rebellion with what he provoked the Lord God of Israel to anger.
+30 Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his rebellion with what he angered the Lord God of Israel to anger.
 
 31 Now the rest of the acts of Nadab, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 
@@ -1168,7 +1168,7 @@
 
 2 Since as I exalted you out of the dust, and made you prince over my people Israel; and you have walked in the way of Jeroboam, and have made my people Israel to sin, to provoke me to anger with their sins;
 
-3 Look, I will take away the posterity of Baasha, and the posterity of his house; and will make your house like the house of Jeroboam the son of Nebat.
+3 Look, I will take away the descendants of Baasha, and the descendants of his house; and will make your house like the house of Jeroboam the son of Nebat.
 
 4 Him that dies of Baasha in the city will the dogs eat; and him that dies of his in the fields will the fowls of the air eat.
 
@@ -1272,7 +1272,7 @@
 
 19 And he said to her, Give me your son. And he took him out of her bosom, and carried him up into a loft, where he stayed, and laid him upon his own bed.
 
-20 And he cried to the Lord, and said, O Lord my God, have you also brought evil upon the widow with whom I sojourn, by slaying her son?
+20 And he cried to the Lord, and said, O Lord my God, have you also brought evil upon the widow with whom I live temporarily, by slaying her son?
 
 21 And he stretched himself upon the child three times, and cried to the Lord, and said, O Lord my God, I pray you, let this child's soul come into him again.
 
@@ -1502,7 +1502,7 @@
 
 40 And as your servant was busy here and there, he was gone. And the king of Israel said to him, So will your judgment be; thyself have decided it.
 
-41 And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he was of the prophets.
+41 And he hasted, and took the ashes away from his face; and the king of Israel recognized him that he was of the prophets.
 
 42 And he said to him, Thus says the Lord, Because you have let go out of your hand a man whom I appointed to utter destruction, therefore your life will go for his life, and your people for his people.
 
@@ -1550,9 +1550,9 @@
 
 20 And Ahab said to Elijah, have you found me, O mine enemy? And he answered, I have found you: because you have sold thyself to work evil in the sight of the Lord.
 
-21 Look, I will bring evil upon you, and will take away your posterity, and will cut off from Ahab him that pisses against the wall, and him that is shut up and left in Israel,
+21 Look, I will bring evil upon you, and will take away your descendants, and will cut off from Ahab him that pisses against the wall, and him that is shut up and left in Israel,
 
-22 And will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the rebellion with what you have provoked me to anger, and made Israel to sin.
+22 And will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the rebellion with what you have angered me to anger, and made Israel to sin.
 
 23 And of Jezebel also spoke the Lord, saying, The dogs will eat Jezebel by the wall of Jezreel.
 
@@ -1580,7 +1580,7 @@
 
 5 And Jehoshaphat said to the king of Israel, Enquire, I pray you, at the word of the Lord to day.
 
-6 Then the king of Israel gathered the prophets together, about four hundred men, and said to them, will I go against Ramothgilead to battle, or will I forbear? And they said, Go up; for the Lord will deliver it into the hand of the king.
+6 Then the king of Israel gathered the prophets together, about four hundred men, and said to them, will I go against Ramothgilead to battle, or will I hold back? And they said, Go up; for the Lord will deliver it into the hand of the king.
 
 7 And Jehoshaphat said, Is there not here a prophet of the Lord besides, that we might enquire of him?
 
@@ -1598,9 +1598,9 @@
 
 14 And Micaiah said, As the Lord lives, what the Lord says to me, that will I speak.
 
-15 So he came to the king. And the king said to him, Micaiah, will we go against Ramothgilead to battle, or will we forbear? And he answered him, Go, and prosper: for the Lord will deliver it into the hand of the king.
+15 So he came to the king. And the king said to him, Micaiah, will we go against Ramothgilead to battle, or will we hold back? And he answered him, Go, and prosper: for the Lord will deliver it into the hand of the king.
 
-16 And the king said to him, How many times will I adjure you that you tell me nothing but that which is true in the name of the Lord?
+16 And the king said to him, How many times will I command under oath you that you tell me nothing but that which is true in the name of the Lord?
 
 17 And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the Lord said, These have no master: let them return every man to his house in peace.
 
@@ -1674,7 +1674,7 @@
 
 52 And he did evil in the sight of the Lord, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 
-53 For he served Baal, and worshipped him, and provoked to anger the Lord God of Israel, according to all that his father had done.
+53 For he served Baal, and worshipped him, and angered to anger the Lord God of Israel, according to all that his father had done.
 
 
 ## eof

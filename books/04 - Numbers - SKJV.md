@@ -114,7 +114,7 @@
 
 1 And the Lord spoke to Moses and to Aaron, saying,
 
-2 Every man of the children of Israel will pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation will they pitch.
+2 Every man of the children of Israel will pitch by his own standard, with the banner of their father's house: far off about the tabernacle of the congregation will they pitch.
 
 3 And on the east side toward the rising of the sun will they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab will be captain of the children of Judah.
 
@@ -186,7 +186,7 @@
 
 2 And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
-3 These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest's office.
+3 These are the names of the sons of Aaron, the priests which were anointed, whom he set apart to minister in the priest's office.
 
 4 And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
 
@@ -206,7 +206,7 @@
 
 12 And I, look, I have taken the Levites from among the children of Israel instead of all the firstborn that opens the womb among the children of Israel: therefore the Levites will be mine;
 
-13 Because all the firstborn are mine; for on the day that I struck all the firstborn in the land of Egypt I hallowed to me all the firstborn in Israel, both man and beast: mine will they be: I am the Lord.
+13 Because all the firstborn are mine; for on the day that I struck all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both man and beast: mine will they be: I am the Lord.
 
 14 And the Lord spoke to Moses in the wilderness of Sinai, saying,
 
@@ -400,11 +400,11 @@
 
 7 Then they will confess their sin which they have done: and he will repay his trespass with the principal of it, and add to it the fifth part of it, and give it to him against whom he has trespassed.
 
-8 But if the man have no kinsman to repay the trespass to, let the trespass be recompensed to the Lord, even to the priest; beside the ram of the atonement, whereby an atonement will be made for him.
+8 But if the man have no kinsman to repay the trespass to, let the trespass be rewarded to the Lord, even to the priest; beside the ram of the atonement, whereby an atonement will be made for him.
 
 9 And every offering of all the holy things of the children of Israel, which they bring to the priest, will be his.
 
-10 And every man's hallowed things will be his: whatsoever any man gives the priest, it will be his.
+10 And every man's holy things will be his: whatsoever any man gives the priest, it will be his.
 
 11 And the Lord spoke to Moses, saying,
 
@@ -414,7 +414,7 @@
 
 14 And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:
 
-15 Then will the man bring his wife to the priest, and he will bring her offering for her, the tenth part of an ephah of barley meal; he will pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
+15 Then will the man bring his wife to the priest, and he will bring her offering for her, the tenth part of an ephah of barley meal; he will pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing wickedness to remembrance.
 
 16 And the priest will bring her near, and set her before the Lord:
 
@@ -446,7 +446,7 @@
 
 30 Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and will set the woman before the Lord, and the priest will execute upon her all this law.
 
-31 Then will the man be guiltless from iniquity, and this woman will bear her iniquity.
+31 Then will the man be guiltless from wickedness, and this woman will bear her wickedness.
 
 ## Numbers Chapter 6
 
@@ -462,17 +462,17 @@
 
 6 All the days that he separats himself to the Lord he will come at no dead body.
 
-7 He will not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.
+7 He will not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the setting apart of his God is upon his head.
 
 8 All the days of his separation he is holy to the Lord.
 
-9 And if any man die very suddenly by him, and he has defiled the head of his consecration; then he will shave his head in the day of his cleansing, on the seventh day will he shave it.
+9 And if any man die very suddenly by him, and he has defiled the head of his setting apart; then he will shave his head in the day of his cleansing, on the seventh day will he shave it.
 
 10 And on the eighth day he will bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:
 
 11 And the priest will offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and will hallow his head that same day.
 
-12 And he will consecrate to the Lord the days of his separation, and will bring a lamb of the first year for a trespass offering: but the days that were before will be lost, because his separation was defiled.
+12 And he will set apart to the Lord the days of his separation, and will bring a lamb of the first year for a trespass offering: but the days that were before will be lost, because his separation was defiled.
 
 13 And this is the law of the Nazarite, when the days of his separation are fulfilled: he will be brought to the door of the tabernacle of the congregation:
 
@@ -500,7 +500,7 @@
 
 25 The Lord make his face shine upon you, and be gracious to you:
 
-26 The Lord lift up his countenance upon you, and give you peace.
+26 The Lord lift up his face upon you, and give you peace.
 
 27 And they will put my name upon the children of Israel, and I will bless them.
 
@@ -758,7 +758,7 @@
 
 9 And the Lord spoke to Moses, saying,
 
-10 Speak to the children of Israel, saying, If any man of you or of your posterity will be unclean by reason of a dead body, or be in a journey afar off, yet he will keep the passover to the Lord.
+10 Speak to the children of Israel, saying, If any man of you or of your descendants will be unclean by reason of a dead body, or be in a journey afar off, yet he will keep the passover to the Lord.
 
 11 The fourteenth day of the second month at even they will keep it, and eat it with unleavened bread and bitter herbs.
 
@@ -766,7 +766,7 @@
 
 13 But the man that is clean, and is not in a journey, and forbears to keep the passover, even the same soul will be cut off from among his people: because he brought not the offering of the Lord in his appointed season, that man will bear his sin.
 
-14 And if a stranger will sojourn among you, and will keep the passover to the Lord; according to the ordinance of the passover, and according to the manner of it, so will he do: you will have one ordinance, both for the stranger, and for him that was born in the land.
+14 And if a stranger will live temporarily among you, and will keep the passover to the Lord; according to the ordinance of the passover, and according to the manner of it, so will he do: you will have one ordinance, both for the stranger, and for him that was born in the land.
 
 15 And on the day that the tabernacle was reared up the cloud covered the tabernacle, namely, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.
 
@@ -846,7 +846,7 @@
 
 29 And Moses said to Hobab, the son of Raguel the Midianite, Moses' father in law, We are journeying to the place of which the Lord said, I will give it you: come you with us, and we will do you good: for the Lord has spoken good concerning Israel.
 
-30 And he said to him, I will not go; but I will depart to mine own land, and to my kindred.
+30 And he said to him, I will not go; but I will depart to mine own land, and to my relatives.
 
 31 And he said, Leave us not, I pray you; since as you know how we are to encamp in the wilderness, and you may be to us instead of eyes.
 
@@ -862,9 +862,9 @@
 
 ## Numbers Chapter 11
 
-1 And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
+1 And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was burned; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
 
-2 And the people cried to Moses; and when Moses prayed to the Lord, the fire was quenched.
+2 And the people cried to Moses; and when Moses prayed to the Lord, the fire was put out.
 
 3 And he called the name of the place Taberah: because the fire of the Lord burnt among them.
 
@@ -880,7 +880,7 @@
 
 9 And when the dew fell upon the camp in the night, the manna fell upon it.
 
-10 Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the Lord was kindled greatly; Moses also was displeased.
+10 Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the Lord was burned greatly; Moses also was displeased.
 
 11 And Moses said to the Lord, therefore have you afflicted your servant? and therefore have I not found favour in your sight, that you lay the burden of all this people upon me?
 
@@ -926,7 +926,7 @@
 
 32 And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp.
 
-33 And while the flesh was yet between their tes, ere it was chewed, the wrath of the Lord was kindled against the people, and the Lord struck the people with a very great plague.
+33 And while the flesh was yet between their tes, ere it was chewed, the wrath of the Lord was burned against the people, and the Lord struck the people with a very great plague.
 
 34 And he called the name of that place Kibrothhattaavah: because there they buried the people that lusted.
 
@@ -950,7 +950,7 @@
 
 8 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the likeness of the Lord will he look: therefore then were you not afraid to speak against my servant Moses?
 
-9 And the anger of the Lord was kindled against them; and he departed.
+9 And the anger of the Lord was burned against them; and he departed.
 
 10 And the cloud departed from off the tabernacle; and, look, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, look, she was leprous.
 
@@ -1058,7 +1058,7 @@
 
 11 And the Lord said to Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have showed among them?
 
-12 I will smite them with the pestilence, and disinherit them, and will make of you a greater nation and mightier than they.
+12 I will smite them with the plague, and disinherit them, and will make of you a greater nation and mightier than they.
 
 13 And Moses said to the Lord, Then the Egyptians will hear it, (for you brought up this people in your might from among them;)
 
@@ -1070,9 +1070,9 @@
 
 17 And now, I urge you, let the power of my lord be great, according as you have spoken, saying,
 
-18 The Lord is longsuffering, and of great mercy, forgiving iniquity and sin, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children to the third and fourth generation.
+18 The Lord is patience, and of great mercy, forgiving wickedness and sin, and by no means clearing the guilty, visiting the wickedness of the fathers upon the children to the third and fourth generation.
 
-19 Pardon, I urge you, the iniquity of this people according to the greatness of your mercy, and as you have forgiven this people, from Egypt even until now.
+19 Pardon, I urge you, the wickedness of this people according to the greatness of your mercy, and as you have forgiven this people, from Egypt even until now.
 
 20 And the Lord said, I have pardoned according to your word:
 
@@ -1080,7 +1080,7 @@
 
 22 Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not listened to my voice;
 
-23 Surely they will not see the land which I sware to their fathers, neither will any of them that provoked me see it:
+23 Surely they will not see the land which I sware to their fathers, neither will any of them that angered me see it:
 
 24 But my servant Caleb, because he had another spirit with him, and has followed me fully, him will I bring into the land whereinto he went; and his seed will possess it.
 
@@ -1102,7 +1102,7 @@
 
 33 And your children will wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.
 
-34 After the number of the days in which you searched the land, even forty days, each day for a year, will you bear your iniquities, even forty years, and you will know my breach of promise.
+34 After the number of the days in which you searched the land, even forty days, each day for a year, will you bear your wickedness, even forty years, and you will know my breach of promise.
 
 35 I the Lord have said, I will surely do it to all this evil congregation, that are gathered together against me: in this wilderness they will be consumed, and there they will die.
 
@@ -1154,7 +1154,7 @@
 
 13 All that are born of the country will do these things after this manner, in offering an offering made by fire, of a sweet savour to the Lord.
 
-14 And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour to the Lord; as you do, so he will do.
+14 And if a stranger live temporarily with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour to the Lord; as you do, so he will do.
 
 15 One ordinance will be both for you of the congregation, and also for the stranger that sojourns with you, an ordinance for ever in your generations: as you are, so will the stranger be before the Lord.
 
@@ -1188,7 +1188,7 @@
 
 30 But the soul that does ought presumptuously, whether he be born in the land, or a stranger, the same reproachs the Lord; and that soul will be cut off from among his people.
 
-31 Because he has despised the word of the Lord, and has broken his commandment, that soul will utterly be cut off; his iniquity will be upon him.
+31 Because he has despised the word of the Lord, and has broken his commandment, that soul will utterly be cut off; his wickedness will be upon him.
 
 32 And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day.
 
@@ -1270,7 +1270,7 @@
 
 29 If these men die the common death of all men, or if they be visited after the visitation of all men; then the Lord has not sent me.
 
-30 But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain to them, and they go down quick into the pit; then you will understand that these men have provoked the Lord.
+30 But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain to them, and they go down quick into the pit; then you will understand that these men have angered the Lord.
 
 31 And it came to pass, as he had made an end of speaking all these words, that the ground split apart that was under them:
 
@@ -1284,9 +1284,9 @@
 
 36 And the Lord spoke to Moses, saying,
 
-37 Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter you the fire yonder; for they are hallowed.
+37 Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter you the fire yonder; for they are made holy.
 
-38 The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the Lord, therefore they are hallowed: and they will be a sign to the children of Israel.
+38 The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the Lord, therefore they are made holy: and they will be a sign to the children of Israel.
 
 39 And Eleazar the priest took the brasen censers, with what they that were burnt had offered; and they were made broad plates for a covering of the altar:
 
@@ -1342,7 +1342,7 @@
 
 ## Numbers Chapter 18
 
-1 And the Lord said to Aaron, you and your sons and your father's house with you will bear the iniquity of the sanctuary: and you and your sons with you will bear the iniquity of your priesthood.
+1 And the Lord said to Aaron, you and your sons and your father's house with you will bear the wickedness of the sanctuary: and you and your sons with you will bear the wickedness of your priesthood.
 
 2 And your brothers also of the tribe of Levi, the tribe of your father, bring you with you, that they may be joined to you, and minister to you: but you and your sons with you will minister before the tabernacle of witness.
 
@@ -1356,9 +1356,9 @@
 
 7 Therefore you and your sons with you will keep your priest's office for everything of the altar, and within the vail; and you will serve: I have given your priest's office to you as a service of gift: and the stranger that comes near will be put to death.
 
-8 And the Lord spoke to Aaron, Look, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
+8 And the Lord spoke to Aaron, Look, I also have given you the charge of mine heave offerings of all the holy things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
 
-9 This will be your of the most holy things, reserved from the fire: every oblation of their's, every meat offering of their's, and every sin offering of their's, and every trespass offering of their's which they will render to me, will be most holy for you and for your sons.
+9 This will be your of the most holy things, reserved from the fire: every offering of their's, every meat offering of their's, and every sin offering of their's, and every trespass offering of their's which they will render to me, will be most holy for you and for your sons.
 
 10 In the most holy place will you eat it; every male will eat it: it will be holy to you.
 
@@ -1386,7 +1386,7 @@
 
 22 Neither must the children of Israel from now on come near the tabernacle of the congregation, otherwise they bear sin, and die.
 
-23 But the Levites will do the service of the tabernacle of the congregation, and they will bear their iniquity: it will be a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
+23 But the Levites will do the service of the tabernacle of the congregation, and they will bear their wickedness: it will be a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
 
 24 But the tithes of the children of Israel, which they offer as an heave offering to the Lord, I have given to the Levites to inherit: therefore I have said to them, Among the children of Israel they will have no inheritance.
 
@@ -1398,7 +1398,7 @@
 
 28 Thus you also will offer an heave offering to the Lord of all your tithes, which you receive of the children of Israel; and you will give of it the Lord'S heave offering to Aaron the priest.
 
-29 Out of all your gifts you will offer every heave offering of the Lord, of all the best of it, even the hallowed part of it out of it.
+29 Out of all your gifts you will offer every heave offering of the Lord, of all the best of it, even the holy part of it out of it.
 
 30 Therefore you will say to them, When you have heaved the best of it from it, then it will be counted to the Levites as the increase of the threshingfloor, and as the increase of the winepress.
 
@@ -1628,7 +1628,7 @@
 
 21 And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
 
-22 And God's anger was kindled because he went: and the angel of the Lord stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.
+22 And God's anger was burned because he went: and the angel of the Lord stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.
 
 23 And the ass saw the angel of the Lord standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam struck the ass, to turn her into the way.
 
@@ -1638,7 +1638,7 @@
 
 26 And the angel of the Lord went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.
 
-27 And when the ass saw the angel of the Lord, she fell down under Balaam: and Balaam's anger was kindled, and he struck the ass with a staff.
+27 And when the ass saw the angel of the Lord, she fell down under Balaam: and Balaam's anger was burned, and he struck the ass with a staff.
 
 28 And the Lord opened the mouth of the ass, and she said to Balaam, What have I done to you, that you have smitten me these three times?
 
@@ -1710,7 +1710,7 @@
 
 20 Look, I have received commandment to bless: and he has blessed; and I cannot reverse it.
 
-21 He has not saw iniquity in Jacob, neither has he seen perverseness in Israel: the Lord his God is with him, and the shout of a king is among them.
+21 He has not saw wickedness in Jacob, neither has he seen perverseness in Israel: the Lord his God is with him, and the shout of a king is among them.
 
 22 God brought them out of Egypt; he has as it were the strength of an unicorn.
 
@@ -1750,7 +1750,7 @@
 
 9 He couched, he lay down as a lion, and as a great lion: who will stir him up? Blessed is he that blesses you, and cursed is he that curss you.
 
-10 And Balak's anger was kindled against Balaam, and he struck his hands together: and Balak said to Balaam, I called you to curse mine enemies, and, look, you have altogether blessed them these three times.
+10 And Balak's anger was burned against Balaam, and he struck his hands together: and Balak said to Balaam, I called you to curse mine enemies, and, look, you have altogether blessed them these three times.
 
 11 Therefore now flee you to your place: I thought to promote you to great honour; but, look, the Lord has kept you back from honour.
 
@@ -1788,7 +1788,7 @@
 
 2 And they called the people to the sacrifices of their gods: and the people did eat, and bowed down to their gods.
 
-3 And Israel joined himself to Baalpeor: and the anger of the Lord was kindled against Israel.
+3 And Israel joined himself to Baalpeor: and the anger of the Lord was burned against Israel.
 
 4 And the Lord said to Moses, Take all the heads of the people, and hang them up before the Lord against the sun, that the fierce anger of the Lord may be turned away from Israel.
 
@@ -1818,7 +1818,7 @@
 
 17 Vex the Midianites, and smite them:
 
-18 For they vex you with their wiles, with what they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor's sake.
+18 For they vex you with their schemes, with what they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor's sake.
 
 ## Numbers Chapter 26
 
@@ -2176,7 +2176,7 @@
 
 14 But if her husband altogether hold his peace at her from day to day; then he establishs all her vows, or all her bonds, which are upon her: he confirms them, because he held his peace at her in the day that he heard them.
 
-15 But if he will any ways make them void after that he has heard them; then he will bear her iniquity.
+15 But if he will any ways make them void after that he has heard them; then he will bear her wickedness.
 
 16 These are the statutes, which the Lord commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father's house.
 
@@ -2184,9 +2184,9 @@
 
 1 And the Lord spoke to Moses, saying,
 
-2 Avenge the children of Israel of the Midianites: afterward will you be gathered to your people.
+2 Bring justice the children of Israel of the Midianites: afterward will you be gathered to your people.
 
-3 And Moses spoke to the people, saying, Arm some of yourselves to the war, and let them go against the Midianites, and avenge the Lord of Midian.
+3 And Moses spoke to the people, saying, Arm some of yourselves to the war, and let them go against the Midianites, and bring justice the Lord of Midian.
 
 4 Of every tribe a thousand, throughout all the tribes of Israel, will you send to the war.
 
@@ -2280,7 +2280,7 @@
 
 49 And they said to Moses, your servants have taken the sum of the men of war which are under our charge, and there lacks not one man of us.
 
-50 We have therefore brought an oblation for the Lord, what every man has gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the Lord.
+50 We have therefore brought an offering for the Lord, what every man has gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the Lord.
 
 51 And Moses and Eleazar the priest took the gold of them, even all crafted jewels.
 
@@ -2310,13 +2310,13 @@
 
 9 For when they went up to the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the Lord had given them.
 
-10 And the Lord'S anger was kindled the same time, and he sware, saying,
+10 And the Lord'S anger was burned the same time, and he sware, saying,
 
 11 Surely none of the men that came up out of Egypt, from twenty years old and upward, will see the land which I sware to Abraham, to Isaac, and to Jacob; because they have not wholly followed me:
 
 12 Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the Lord.
 
-13 And the Lord'S anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the Lord, was consumed.
+13 And the Lord'S anger was burned against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the Lord, was consumed.
 
 14 And, look, you are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the Lord toward Israel.
 
@@ -2574,13 +2574,13 @@
 
 11 Then you will appoint you cities to be cities of refuge for you; that the slayer may flee there, which kills any person at unawares.
 
-12 And they will be to you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.
+12 And they will be to you cities for refuge from the one who brings justice; that the manslayer die not, until he stand before the congregation in judgment.
 
 13 And of these cities which you will give six cities will you have for refuge.
 
 14 you will give three cities on this side Jordan, and three cities will you give in the land of Canaan, which will be cities of refuge.
 
-15 These six cities will be a refuge, both for the children of Israel, and for the stranger, and for the sojourner among them: that every one that kills any person unawares may flee there.
+15 These six cities will be a refuge, both for the children of Israel, and for the stranger, and for the foreigner among them: that every one that kills any person unawares may flee there.
 
 16 And if he smite him with an instrument of iron, so that he die, he is a murderer: the murderer will surely be put to death.
 

@@ -54,13 +54,13 @@
 
 1 Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 
-2 And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but privately to them which were of reputation, otherwise by any means I should run, or had run, in vain.
+2 And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but privately to them which were of reputation, otherwise by any means I should run, or had run, for nothing.
 
-3 But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
+3 But neither Titus, who was with me, being a Greek, was forced to be circumcised:
 
 4 And that because of false brothers unawares brought in, who came in secretly to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
 
-5 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
+5 To whom we gave place by submission, no, not for an hour; that the truth of the gospel might continue with you.
 
 6 But of these who seemed to be somewhat, (whatsoever they were, it makes no matter to me: God accepts no man's person:) for they who seemed to be somewhat in conference added nothing to me:
 
@@ -92,7 +92,7 @@
 
 20 I am crucified with Christ: nevertheless I live; yet not I, but Christ lives in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
 
-21 I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.
+21 I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead for nothing.
 
 ## Galatians Chapter 3
 
@@ -102,7 +102,7 @@
 
 3 Are you so foolish? having begun in the Holy Spirit, are you now made perfect by the flesh?
 
-4 Have you suffered so many things in vain? if it be yet in vain.
+4 Have you suffered so many things for nothing? if it be yet for nothing.
 
 5 He therefore that ministers to you the Holy Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
 
@@ -176,7 +176,7 @@
 
 10 you observe days, and months, and times, and years.
 
-11 I am afraid of you, otherwise I have bestowed upon you labour in vain.
+11 I am afraid of you, otherwise I have bestowed upon you labour for nothing.
 
 12 Brothers, I urge you, be as I am; for I am as you are: you have not injured me at all.
 
@@ -198,9 +198,9 @@
 
 21 Tell me, you that desire to be under the law, do you not hear the law?
 
-22 For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
+22 For it is written, that Abraham had two sons, the one by a female slave, the other by a freewoman.
 
-23 But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
+23 But he who was of the female slave was born after the flesh; but he of the freewoman was by promise.
 
 24 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which genders to bondage, which is Agar.
 
@@ -214,9 +214,9 @@
 
 29 But as then he that was born after the flesh persecuted him that was born after the Holy Spirit, even so it is now.
 
-30 Nevertheless what says the scripture? Cast out the bondwoman and her son: for the son of the bondwoman will not be heir with the son of the freewoman.
+30 Nevertheless what says the scripture? Cast out the female slave and her son: for the son of the female slave will not be heir with the son of the freewoman.
 
-31 So then, brothers, we are not children of the bondwoman, but of the free.
+31 So then, brothers, we are not children of the female slave, but of the free.
 
 ## Galatians Chapter 5
 
@@ -256,21 +256,21 @@
 
 18 But if you be led of the Holy Spirit, you are not under the law.
 
-19 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, sensuality,
+19 Now the works of the flesh are revealed, which are these; Adultery, sexual sin, uncleanness, sensuality,
 
-20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,
+20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, rebellions, heresies,
 
 21 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things will not inherit the kingdom of God.
 
-22 But the fruit of the Holy Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
+22 But the fruit of the Holy Spirit is love, joy, peace, patience, gentleness, goodness, faith,
 
-23 Meekness, temperance: against such there is no law.
+23 Meekness, self-control: against such there is no law.
 
 24 And they that are Christ's have crucified the flesh with the affections and lusts.
 
 25 If we live in the Holy Spirit, let us also walk in the Holy Spirit.
 
-26 Let us not be desirous of vain glory, provoking one another, envying one another.
+26 Let us not be desirous of empty glory, provoking one another, envying one another.
 
 ## Galatians Chapter 6
 
@@ -296,7 +296,7 @@
 
 11 you see how large a letter I have written to you with mine own hand.
 
-12 As many as desire to make a fair show in the flesh, they constrain you to be circumcised; only otherwise they should suffer persecution for the cross of Christ.
+12 As many as desire to make a fair show in the flesh, they urge you to be circumcised; only otherwise they should suffer persecution for the cross of Christ.
 
 13 For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
 

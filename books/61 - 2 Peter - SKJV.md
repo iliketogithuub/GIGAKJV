@@ -12,7 +12,7 @@
 
 5 And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
 
-6 And to knowledge temperance; and to temperance patience; and to patience godliness;
+6 And to knowledge self-control; and to self-control patience; and to patience godliness;
 
 7 And to godliness brotherly kindness; and to brotherly kindness love.
 
@@ -50,7 +50,7 @@
 
 2 And many will follow their pernicious ways; by reason of whom the way of truth will be evil spoken of.
 
-3 And through covetousness will they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their damnation slumbers not.
+3 And through greed will they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their condemnation slumbers not.
 
 4 For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved to judgment;
 
@@ -76,11 +76,11 @@
 
 15 Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;
 
-16 But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet.
+16 But was rebuked for his wickedness: the dumb ass speaking with man's voice forbad the madness of the prophet.
 
 17 These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
 
-18 For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error.
+18 For when they speak great swelling words of emptiness, they allure through the lusts of the flesh, through much lustfulness, those that were clean escaped from them who live in error.
 
 19 While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.
 
@@ -88,13 +88,13 @@
 
 21 For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered to them.
 
-22 But it is happened to them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
+22 But it is happened to them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mud.
 
 [Operational Insight: Look at the tense shift. Isaiah said "we are healed" (looking forward to the payment). Peter looks back at the whipping post and declares "you were healed" (past tense). It is a finished legal transaction. Healing is no longer something God is deciding to do; it is a historical fact that the believer must now enforce with the mouth.]
 
 ## 2 Peter Chapter 3
 
-1 This second epistle, beloved, I now write to you; in both which I stir up your pure minds by way of remembrance:
+1 This second letter, beloved, I now write to you; in both which I stir up your pure minds by way of remembrance:
 
 2 That you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
 
@@ -106,11 +106,11 @@
 
 6 Whereby the world that then was, being overflowed with water, perished:
 
-7 But the heavens and the earth, which are now, by the same word are kept in store, reserved to fire against the day of judgment and perdition of ungodly men.
+7 But the heavens and the earth, which are now, by the same word are kept in store, reserved to fire against the day of judgment and destruction of ungodly men.
 
 8 But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
 
-9 The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
+9 The Lord is not slack concerning his promise, as some men count slackness; but is patience to us-ward, not willing that any should perish, but that all should come to repentance.
 
 10 But the day of the Lord will come as a thief in the night; in the which the heavens will pass away with a great noise, and the elements will melt with fervent heat, the earth also and the works that are in it will be burned up.
 
@@ -122,9 +122,9 @@
 
 14 therefore, beloved, seeing that you look for such things, be diligent that you may be found of him in peace, without spot, and blameless.
 
-15 And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given to him has written to you;
+15 And account that the patience of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given to him has written to you;
 
-16 As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, to their own destruction.
+16 As also in all his letters, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, to their own destruction.
 
 17 you therefore, beloved, seeing you know these things before, beware otherwise you also, being led away with the error of the wicked, fall from your own stedfastness.
 

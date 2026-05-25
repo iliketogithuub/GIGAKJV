@@ -78,7 +78,7 @@
 
 13 I had no rest in my human spirit, because I found not Titus my brother: but taking my leave of them, I went from from there into Macedonia.
 
-14 Now thanks be to God, which always causes us to triumph in Christ, and makes manifest the savour of his knowledge by us in every place.
+14 Now thanks be to God, which always causes us to triumph in Christ, and makes revealed the savour of his knowledge by us in every place.
 
 15 For we are to God a sweet savour of Christ, in them that are saved, and in them that perish:
 
@@ -88,11 +88,11 @@
 
 ## 2 Corinthians Chapter 3
 
-1 Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
+1 Do we begin again to praise ourselves? or need we, as some others, letters of praise to you, or letters of praise from you?
 
-2 you are our epistle written in our hearts, known and read of all men:
+2 you are our letter written in our hearts, known and read of all men:
 
-3 Since as you are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Holy Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
+3 Since as you are manifestly declared to be the letter of Christ ministered by us, written not with ink, but with the Holy Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 
 4 And such trust have we through Christ to God-ward:
 
@@ -100,7 +100,7 @@
 
 6 Who also has made us able ministers of the new testament; not of the letter, but of the Holy Spirit: for the letter kills, but the Holy Spirit gives life.
 
-7 But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly look at the face of Moses for the glory of his countenance; which glory was to be done away:
+7 But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly look at the face of Moses for the glory of his face; which glory was to be done away:
 
 8 How will not the ministration of the Holy Spirit be rather glorious?
 
@@ -128,7 +128,7 @@
 
 1 Therefore seeing we have this ministry, as we have received mercy, we faint not;
 
-2 But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.
+2 But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by revelation of the truth commending ourselves to every man's conscience in the sight of God.
 
 3 But if our gospel be hid, it is hid to them that are lost:
 
@@ -144,9 +144,9 @@
 
 9 Persecuted, but not forsaken; cast down, but not destroyed;
 
-10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
+10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made revealed in our body.
 
-11 For we which live are always delivered to death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.
+11 For we which live are always delivered to death for Jesus' sake, that the life also of Jesus might be made revealed in our mortal flesh.
 
 12 So then death works in us, but life in you.
 
@@ -184,13 +184,13 @@
 
 10 For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad.
 
-11 Knowing therefore the terror of the Lord, we persuade men; but we are made manifest to God; and I trust also are made manifest in your consciences.
+11 Knowing therefore the terror of the Lord, we persuade men; but we are made revealed to God; and I trust also are made revealed in your consciences.
 
-12 For we commend not ourselves again to you, but give you occasion to glory on our behalf, that you may have somewhat to answer them which glory in appearance, and not in heart.
+12 For we praise not ourselves again to you, but give you occasion to glory on our behalf, that you may have somewhat to answer them which glory in appearance, and not in heart.
 
 13 For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause.
 
-14 For the love of Christ constrains us; because we thus judge, that if one died for all, then were all dead:
+14 For the love of Christ urges us; because we thus judge, that if one died for all, then were all dead:
 
 15 And that he died for all, that they which live should not from now on live to themselves, but to him which died for them, and rose again.
 
@@ -198,9 +198,9 @@
 
 17 Therefore, if anyone is in Christ, he is a new creation: old things have passed away; look, all things have become new.
 
-18 And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;
+18 And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of peace-making;
 
-19 To wit, that God was in Christ, reconciling the world to himself, not imputing their trespasses to them; and has committed to us the word of reconciliation.
+19 To wit, that God was in Christ, reconciling the world to himself, not crediting their trespasses to them; and has committed to us the word of peace-making.
 
 20 Now then we are ambassadors for Christ, as though God did urge you by us: we pray you in Christ's stead, be you reconciled to God.
 
@@ -208,7 +208,7 @@
 
 ## 2 Corinthians Chapter 6
 
-1 We then, as workers together with him, urge you also that you receive not the grace of God in vain.
+1 We then, as workers together with him, urge you also that you receive not the grace of God for nothing.
 
 2 (For he says, I have heard you in a time accepted, and in the day of salvation have I succoured you: look, now is the accepted time; look, now is the day of salvation.)
 
@@ -216,7 +216,7 @@
 
 4 But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
 
-5 In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
+5 In stripes, in imprisonments, in uproars, in labours, in watchings, in fastings;
 
 6 By pureness, by knowledge, by long suffering, by kindness, by the Holy Spirit, by love unfeigned,
 
@@ -224,7 +224,7 @@
 
 8 By honour and dishonour, by evil report and good report: as deceivers, and yet true;
 
-9 As unknown, and yet well known; as dying, and, look, we live; as chastened, and not killed;
+9 As unknown, and yet well known; as dying, and, look, we live; as disciplined, and not killed;
 
 10 As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
 
@@ -260,7 +260,7 @@
 
 7 And not by his coming only, but by the comfort with what he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
-8 For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season.
+8 For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same letter has made you sorry, though it were but for a season.
 
 9 Now I rejoice, not that you were made sorry, but that you sorrowed to repentance: for you were made sorry after a godly manner, that you might receive damage by us in nothing.
 
@@ -298,7 +298,7 @@
 
 9 For you know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that you through his poverty might be rich.
 
-10 And in this I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.
+10 And in this I give my advice: for this is beneficial for you, who have begun before, not only to do, but also to be forward a year ago.
 
 11 Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which you have.
 
@@ -332,13 +332,13 @@
 
 1 For as touching the ministering to the saints, it is superfluous for me to write to you:
 
-2 For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has provoked very many.
+2 For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has angered very many.
 
-3 Yet have I sent the brothers, otherwise our boasting of you should be in vain in this behalf; that, as I said, you may be ready:
+3 Yet have I sent the brothers, otherwise our boasting of you should be for nothing in this behalf; that, as I said, you may be ready:
 
 4 otherwise perhaps if they of Macedonia come with me, and find you unprepared, we (that we say not, you) should be ashamed in this same confident boasting.
 
-5 Therefore I thought it necessary to encourage the brothers, that they would go before to you, and make up beforehand your bounty, whereof you had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.
+5 Therefore I thought it necessary to encourage the brothers, that they would go before to you, and make up beforehand your bounty, whereof you had notice before, that the same might be ready, as a matter of bounty, and not as of greed.
 
 6 But this I say, He which sows sparingly will reap also sparingly; and he which sows bountifully will reap also bountifully.
 
@@ -354,7 +354,7 @@
 
 12 For the administration of this service not only supplies the want of the saints, but is abundant also by many thanksgivings to God;
 
-13 Whiles by the experiment of this ministration they glorify God for your professed subjection to the gospel of Christ, and for your liberal distribution to them, and to all men;
+13 Whiles by the experiment of this ministration they glorify God for your professed submission to the gospel of Christ, and for your liberal distribution to them, and to all men;
 
 14 And by their prayer for you, which long after you for the exceeding grace of God in you.
 
@@ -376,7 +376,7 @@
 
 7 Do you look on things after the outward appearance? if any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's.
 
-8 For though I should boast somewhat more of our authority, which the Lord has given us for edification, and not for your destruction, I should not be ashamed:
+8 For though I should boast somewhat more of our authority, which the Lord has given us for building up, and not for your destruction, I should not be ashamed:
 
 9 That I may not seem as if I would terrify you by letters.
 
@@ -384,7 +384,7 @@
 
 11 Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
 
-12 For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
+12 For we dare not make ourselves of the number, or compare ourselves with some that praise themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
 
 13 But we will not boast of things without our measure, but according to the measure of the rule which God has distributed to us, a measure to reach even to you.
 
@@ -410,7 +410,7 @@
 
 5 For I suppose I was not a whit behind the very chiefest apostles.
 
-6 But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.
+6 But though I be rude in speech, yet not in knowledge; but we have been throughly made revealed among you in all things.
 
 7 Have I committed an offence in abasing myself that you might be exalted, because I have preached to you the gospel of God freely?
 
@@ -440,7 +440,7 @@
 
 20 For you suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.
 
-21 I speak as concerning reproach, as though we had been weak. However whereinsoever any is bold, (I speak foolishly,) I am bold also.
+21 I speak as concerning disgrace, as though we had been weak. However whereinsoever any is bold, (I speak foolishly,) I am bold also.
 
 22 Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
 
@@ -450,7 +450,7 @@
 
 25 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
 
-26 In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brothers;
+26 In journeyings often, in dangers of waters, in dangers of robbers, in dangers by mine own countrymen, in dangers by the heathen, in dangers in the city, in dangers in the wilderness, in dangers in the sea, in dangers among false brothers;
 
 27 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
 
@@ -462,13 +462,13 @@
 
 31 The God and Father of our Lord Jesus Christ, which is blessed for evermore, knows that I lie not.
 
-32 In Damascus the governor under Aretas the king kept the city of the damascenes with a garrison, desirous to apprehend me:
+32 In Damascus the governor under Aretas the king kept the city of the damascenes with a military post, desirous to apprehend me:
 
 33 And through a window in a basket was I let down by the wall, and escaped his hands.
 
 ## 2 Corinthians Chapter 12
 
-1 It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
+1 It is not beneficial for me doubtless to glory. I will come to visions and revelations of the Lord.
 
 2 I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knows;) such an one caught up to the third heaven.
 
@@ -478,7 +478,7 @@
 
 5 Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.
 
-6 For though I would desire to glory, I will not be a fool; for I will say the truth: but now I forbear, otherwise any man should think of me above that which he sees me to be, or that he hears of me.
+6 For though I would desire to glory, I will not be a fool; for I will say the truth: but now I hold back, otherwise any man should think of me above that which he sees me to be, or that he hears of me.
 
 7 And otherwise I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, otherwise I should be exalted above measure.
 
@@ -486,9 +486,9 @@
 
 9 And he said to me, My grace is sufficient for you: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
-10 Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.
+10 Therefore I take pleasure in infirmities, in disgraces, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.
 
-11 I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
+11 I am become a fool in glorying; you have forced me: for I ought to have been praised of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
 
 12 Truly the signs of an apostle were performed among you in all patience, in signs, and wonders, and mighty deeds.
 
@@ -504,11 +504,11 @@
 
 18 I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
 
-19 Again, think you that we excuse ourselves to you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.
+19 Again, think you that we excuse ourselves to you? we speak before God in Christ: but we do all things, dearly beloved, for your building up.
 
-20 For I fear, otherwise, when I come, I will not find you such as I would, and that I will be found to you such as you would not: otherwise there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
+20 For I fear, otherwise, when I come, I will not find you such as I would, and that I will be found to you such as you would not: otherwise there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, uproars:
 
-21 And otherwise, when I come again, my God will humble me among you, and that I will bewail many which have sinned already, and have not repented of the uncleanness and fornication and sensuality which they have committed.
+21 And otherwise, when I come again, my God will humble me among you, and that I will bewail many which have sinned already, and have not repented of the uncleanness and sexual sin and sensuality which they have committed.
 
 ## 2 Corinthians Chapter 13
 
@@ -530,7 +530,7 @@
 
 9 For we are glad, when we are weak, and you are strong: and this also we wish, even your perfection.
 
-10 Therefore I write these things being absent, otherwise being present I should use sharpness, according to the power which the Lord has given me to edification, and not to destruction.
+10 Therefore I write these things being absent, otherwise being present I should use sharpness, according to the power which the Lord has given me to building up, and not to destruction.
 
 11 Finally, brothers, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace will be with you.
 

@@ -148,9 +148,9 @@
 
 ## 2 Kings Chapter 4
 
-1 Now there cried a certain woman of the wives of the sons of the prophets to Elisha, saying, your servant my husband is dead; and you know that your servant did fear the Lord: and the creditor is come to take to him my two sons to be bondmen.
+1 Now there cried a certain woman of the wives of the sons of the prophets to Elisha, saying, your servant my husband is dead; and you know that your servant did fear the Lord: and the creditor is come to take to him my two sons to be slaves.
 
-2 And Elisha said to her, What will I do for you? tell me, what have you in the house? And she said, your handmaid has not any thing in the house, save a pot of oil.
+2 And Elisha said to her, What will I do for you? tell me, what have you in the house? And she said, your female servant has not any thing in the house, save a pot of oil.
 
 3 Then he said, Go, borrow you vessels abroad of all your neighbours, even empty vessels; borrow not a few.
 
@@ -162,7 +162,7 @@
 
 7 Then she came and told the man of God. And he said, Go, sell the oil, and pay your debt, and live you and your children of the rest.
 
-8 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as often as he passed by, he turned in there to eat bread.
+8 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she urged him to eat bread. And so it was, that as often as he passed by, he turned in there to eat bread.
 
 9 And she said to her husband, Look, now, I perceive that this is an holy man of God, which passes by us continually.
 
@@ -178,7 +178,7 @@
 
 15 And he said, Call her. And when he had called her, she stood in the door.
 
-16 And he said, About this season, according to the time of life, you will embrace a son. And she said, Nay, my lord, you man of God, do not lie to your handmaid.
+16 And he said, About this season, according to the time of life, you will embrace a son. And she said, Nay, my lord, you man of God, do not lie to your female servant.
 
 17 And the woman conceived, and bare a son at that season that Elisha had said to her, according to the time of life.
 
@@ -404,9 +404,9 @@
 
 ## 2 Kings Chapter 8
 
-1 Then spoke Elisha to the woman, whose son he had restored to life, saying, Arise, and go you and your household, and sojourn wheresoever you can sojourn: for the Lord has called for a famine; and it will also come upon the land seven years.
+1 Then spoke Elisha to the woman, whose son he had restored to life, saying, Arise, and go you and your household, and live temporarily wheresoever you can live temporarily: for the Lord has called for a famine; and it will also come upon the land seven years.
 
-2 And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
+2 And the woman arose, and did after the saying of the man of God: and she went with her household, and lived temporarily in the land of the Philistines seven years.
 
 3 And it came to pass at the seven years' end, that the woman returned out of the land of the Philistines: and she went forth to cry to the king for her house and for her land.
 
@@ -424,7 +424,7 @@
 
 10 And Elisha said to him, Go, say to him, you may certainly recover: however the Lord has showed me that he will surely die.
 
-11 And he settled his countenance stedfastly, until he was ashamed: and the man of God wept.
+11 And he settled his face stedfastly, until he was ashamed: and the man of God wept.
 
 12 And Hazael said, Why weeps my lord? And he answered, Because I know the evil that you will do to the children of Israel: their strong holds will you set on fire, and their young men will you slay with the sword, and will dash their children, and rip up their women with child.
 
@@ -476,7 +476,7 @@
 
 6 And he arose, and went into the house; and he poured the oil on his head, and said to him, Thus says the Lord God of Israel, I have anointed you king over the people of the Lord, even over Israel.
 
-7 And you will smite the house of Ahab your master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel.
+7 And you will smite the house of Ahab your master, that I may bring justice the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel.
 
 8 For the whole house of Ahab will perish: and I will cut off from Ahab him that pisses against the wall, and him that is shut up and left in Israel:
 
@@ -514,7 +514,7 @@
 
 25 Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and you rode together after Ahab his father, the Lord laid this burden upon him;
 
-26 Surely I have seen yesterday the blood of Naboth, and the blood of his sons, says the Lord; and I will requite you in this plat, says the Lord. Now therefore take and cast him into the plat of ground, according to the word of the Lord.
+26 Surely I have seen yesterday the blood of Naboth, and the blood of his sons, says the Lord; and I will repay you in this plat, says the Lord. Now therefore take and cast him into the plat of ground, according to the word of the Lord.
 
 27 But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed after him, and said, Smite him also in the chariot. And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo, and died there.
 
@@ -692,7 +692,7 @@
 
 17 Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.
 
-18 And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold that was found in the treasures of the house of the Lord, and in the king's house, and sent it to Hazael king of Syria: and he went away from Jerusalem.
+18 And Jehoash king of Judah took all the holy things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own holy things, and all the gold that was found in the treasures of the house of the Lord, and in the king's house, and sent it to Hazael king of Syria: and he went away from Jerusalem.
 
 19 And the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
@@ -706,7 +706,7 @@
 
 2 And he did that which was evil in the sight of the Lord, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
 
-3 And the anger of the Lord was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, all their days.
+3 And the anger of the Lord was burned against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, all their days.
 
 4 And Jehoahaz urged the Lord, and the Lord listened to him: for he saw the oppression of Israel, because the king of Syria oppressed them.
 
@@ -766,7 +766,7 @@
 
 6 But the children of the murderers he killed not: according to that which is written in the book of the law of Moses, in which the Lord commanded, saying, The fathers will not be put to death for the children, nor the children be put to death for the fathers; but every man will be put to death for his own sin.
 
-7 He killed of Edom in the valley of salt ten thousand, and took Selah by war, and called the name of it Joktheel to this day.
+7 He killed of Edom in the valley of salt ten thousand, and took [Pause and reflect] by war, and called the name of it Joktheel to this day.
 
 8 Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face.
 
@@ -962,7 +962,7 @@
 
 14 Nevertheless they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the Lord their God.
 
-15 And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed vanity, and became vain, and went after the heathen that were round about them, concerning whom the Lord had charged them, that they should not do like them.
+15 And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed emptiness, and became empty, and went after the heathen that were round about them, concerning whom the Lord had charged them, that they should not do like them.
 
 16 And they left all the commandments of the Lord their God, and made them melted images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal.
 
@@ -1056,7 +1056,7 @@
 
 19 And Rabshakeh said to them, Speak you now to Hezekiah, Thus says the great king, the king of Assyria, What confidence is this in which you trust?
 
-20 you say, (but they are but vain words,) I have counsel and strength for the war. Now on whom do you trust, that you rebell against me?
+20 you say, (but they are but empty words,) I have counsel and strength for the war. Now on whom do you trust, that you rebell against me?
 
 21 Now, look, you trust upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust on him.
 
@@ -1100,7 +1100,7 @@
 
 3 And they said to him, Thus says Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy; for the children are come to the birth, and there is not strength to bring forth.
 
-4 It may be the Lord your God will hear all the words of Rabshakeh, whom the king of Assyria his master has sent to reproach the living God; and will correct the words which the Lord your God has heard: therefore lift up your prayer for the remnant that are left.
+4 It may be the Lord your God will hear all the words of Rabshakeh, whom the king of Assyria his master has sent to disgrace the living God; and will correct the words which the Lord your God has heard: therefore lift up your prayer for the remnant that are left.
 
 5 So the servants of king Hezekiah came to Isaiah.
 
@@ -1124,7 +1124,7 @@
 
 15 And Hezekiah prayed before the Lord, and said, O Lord God of Israel, which dwell between the cherubims, you are the God, even you alone, of all the kingdoms of the earth; you have made heaven and earth.
 
-16 Lord, bow down your ear, and hear: open, Lord, your eyes, and see: and hear the words of Sennacherib, which has sent him to reproach the living God.
+16 Lord, bow down your ear, and hear: open, Lord, your eyes, and see: and hear the words of Sennacherib, which has sent him to disgrace the living God.
 
 17 Of a truth, Lord, the kings of Assyria have destroyed the nations and their lands,
 
@@ -1136,9 +1136,9 @@
 
 21 This is the word that the Lord has spoken concerning him; The virgin the daughter of Zion has despised you, and laughed you to scorn; the daughter of Jerusalem has shaken her head at you.
 
-22 Whom have you reproached and blasphemed? and against whom have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
+22 Whom have you disgraced and blasphemed? and against whom have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
 
-23 By your messengers you have reproached the Lord, and have said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees of it, and the choice fir trees of it: and I will enter into the lodgings of his borders, and into the forest of his Carmel.
+23 By your messengers you have disgraced the Lord, and have said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees of it, and the choice fir trees of it: and I will enter into the lodgings of his borders, and into the forest of his Carmel.
 
 24 I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.
 
@@ -1242,7 +1242,7 @@
 
 14 And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they will become a prey and a spoil to all their enemies;
 
-15 Because they have done that which was evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even to this day.
+15 Because they have done that which was evil in my sight, and have angered me to anger, since the day their fathers came forth out of Egypt, even to this day.
 
 16 Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another; beside his sin with what he made Judah to sin, in doing that which was evil in the sight of the Lord.
 
@@ -1292,7 +1292,7 @@
 
 12 And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king's, saying,
 
-13 Go you, enquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the Lord that is kindled against us, because our fathers have not listened to the words of this book, to do according to all that which is written concerning us.
+13 Go you, enquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the Lord that is burned against us, because our fathers have not listened to the words of this book, to do according to all that which is written concerning us.
 
 14 So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went to Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.
 
@@ -1300,7 +1300,7 @@
 
 16 Thus says the Lord, Look, I will bring evil upon this place, and upon the inhabitants of it, even all the words of the book which the king of Judah has read:
 
-17 Because they have forsaken me, and have burned incense to other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath will be kindled against this place, and will not be quenched.
+17 Because they have forsaken me, and have burned incense to other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath will be burned against this place, and will not be put out.
 
 18 But to the king of Judah which sent you to enquire of the Lord, thus will you say to him, Thus says the Lord God of Israel, As touching the words which you have heard;
 
@@ -1360,7 +1360,7 @@
 
 25 And like to him was there no king before him, that turned to the Lord with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
 
-26 Nevertheless the Lord turned not from the fierceness of his great wrath, with what his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him also.
+26 Nevertheless the Lord turned not from the fierceness of his great wrath, with what his anger was burned against Judah, because of all the provocations that Manasseh had angered him also.
 
 27 And the Lord said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name will be there.
 

@@ -20,7 +20,7 @@
 
 9 I wrote to the church: but Diotrephes, who loves to have the preeminence among them, receives us not.
 
-10 Therefore, if I come, I will remember his deeds which he does, prating against us with malicious words: and not content with it, neither does he himself receive the brothers, and forbids them that would, and casts them out of the church.
+10 Therefore, if I come, I will remember his deeds which he does, prating against us with full of ill will words: and not content with it, neither does he himself receive the brothers, and forbids them that would, and casts them out of the church.
 
 11 Beloved, follow not that which is evil, but that which is good. He that does good is of God: but he that does evil has not seen God.
 

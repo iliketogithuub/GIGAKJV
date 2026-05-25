@@ -14,7 +14,7 @@
 
 6 Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones of it into the valley, and I will discover the foundations of it.
 
-7 And all the graven images of it will be beaten to pieces, and all the hires of it will be burned with the fire, and all the idols of it will I lay desolate: for she gathered it of the hire of an harlot, and they will return to the hire of an harlot.
+7 And all the graven images of it will be beaten to pieces, and all the hires of it will be burned with the fire, and all the idols of it will I lay desolate: for she gathered it of the hire of an prostitute, and they will return to the hire of an prostitute.
 
 8 Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.
 
@@ -36,13 +36,13 @@
 
 ## Micah Chapter 2
 
-1 Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
+1 Woe to them that devise wickedness, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 
 2 And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
 
 3 Therefore thus says the Lord; Look, against this family do I devise an evil, from which you will not remove your necks; neither will you go haughtily: for this time is evil.
 
-4 In that day will one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he has changed the portion of my people: how has he removed it from me! turning away he has divided our fields.
+4 In that day will one take up a parable against you, and mourn with a doleful mourning, and say, We be utterly spoiled: he has changed the portion of my people: how has he removed it from me! turning away he has divided our fields.
 
 5 Therefore you will have none that will cast a cord by lot in the congregation of the Lord.
 
@@ -82,7 +82,7 @@
 
 9 Hear this, I pray you, you heads of the house of Jacob, and princes of the house of Israel, that despise judgment, and pervert all equity.
 
-10 They build up Zion with blood, and Jerusalem with iniquity.
+10 They build up Zion with blood, and Jerusalem with wickedness.
 
 11 The heads of it judge for reward, and the priests of it teach for hire, and the prophets of it divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us.
 
@@ -114,7 +114,7 @@
 
 12 But they know not the thoughts of the Lord, neither understand they his counsel: for he will gather them as the sheaves into the floor.
 
-13 Arise and thresh, O daughter of Zion: for I will make your horn iron, and I will make your hoofs brass: and you will beat in pieces many people: and I will consecrate their gain to the Lord, and their substance to the Lord of the whole earth.
+13 Arise and thresh, O daughter of Zion: for I will make your horn iron, and I will make your hoofs brass: and you will beat in pieces many people: and I will set apart their gain to the Lord, and their substance to the Lord of the whole earth.
 
 ## Micah Chapter 5
 
@@ -180,7 +180,7 @@
 
 15 you will sow, but you will not reap; you will tread the olives, but you will not anoint you with oil; and sweet wine, but will not drink wine.
 
-16 For the statutes of Omri are kept, and all the works of the house of Ahab, and you walk in their counsels; that I should make you a desolation, and the inhabitants of it an hissing: therefore you will bear the reproach of my people.
+16 For the statutes of Omri are kept, and all the works of the house of Ahab, and you walk in their counsels; that I should make you a desolation, and the inhabitants of it an hissing: therefore you will bear the disgrace of my people.
 
 ## Micah Chapter 7
 
@@ -202,7 +202,7 @@
 
 9 I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I will see his righteousness.
 
-10 Then she that is mine enemy will see it, and shame will cover her which said to me, Where is the Lord your God? mine eyes will see her: now will she be trodden down as the mire of the streets.
+10 Then she that is mine enemy will see it, and shame will cover her which said to me, Where is the Lord your God? mine eyes will see her: now will she be trodden down as the mud of the streets.
 
 11 In the day that your walls are to be built, in that day will the decree be far removed.
 
@@ -218,9 +218,9 @@
 
 17 They will lick the dust like a serpent, they will move out of their holes like worms of the earth: they will be afraid of the Lord our God, and will fear because of you.
 
-18 Who is a God like to you, that pardons iniquity, and passes by the sin of the remnant of his heritage? he retains not his anger for ever, because he delights in mercy.
+18 Who is a God like to you, that pardons wickedness, and passes by the sin of the remnant of his heritage? he retains not his anger for ever, because he delights in mercy.
 
-19 He will turn again, he will have compassion upon us; he will subdue our iniquities; and you will cast all their sins into the depths of the sea.
+19 He will turn again, he will have compassion upon us; he will subdue our wickedness; and you will cast all their sins into the depths of the sea.
 
 20 you will perform the truth to Jacob, and the mercy to Abraham, which you have sworn to our fathers from the days of old.
 

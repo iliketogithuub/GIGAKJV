@@ -26,7 +26,7 @@
 
 12 But I would you should understand, brothers, that the things which happened to me have fallen out rather to the furtherance of the gospel;
 
-13 So that my bonds in Christ are manifest in all the palace, and in all other places;
+13 So that my bonds in Christ are revealed in all the palace, and in all other places;
 
 14 And many of the brothers in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 
@@ -56,7 +56,7 @@
 
 27 Only let your conversation be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
 
-28 And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
+28 And in nothing terrified by your adversaries: which is to them an evident token of destruction, but to you of salvation, and that of God.
 
 29 For to you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
 
@@ -94,7 +94,7 @@
 
 15 That you may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom you shine as lights in the world;
 
-16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
+16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run for nothing, neither laboured for nothing.
 
 17 Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.
 

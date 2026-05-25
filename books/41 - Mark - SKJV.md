@@ -44,7 +44,7 @@
 
 21 And they went into Capernaum; and immediately on the sabbath day he entered into the synagogue, and taught.
 
-22 And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
+22 And they were amazed at his doctrine: for he taught them as one that had authority, and not as the scribes.
 
 23 And there was in their synagogue a man with an unclean spirit; and he cried out,
 
@@ -208,7 +208,7 @@
 
 28 Truly I say to you, All sins will be forgiven to the sons of men, and blasphemies with what soever they will blaspheme:
 
-29 But he that will blaspheme against the Holy Spirit has never forgiveness, but is in danger of eternal damnation.
+29 But he that will blaspheme against the Holy Spirit has never forgiveness, but is in danger of eternal condemnation.
 
 30 Because they said, He has an unclean spirit.
 
@@ -266,11 +266,11 @@
 
 21 And he said to them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?
 
-22 For there is nothing hid, which will not be manifested; neither was any thing kept secret, but that it should come abroad.
+22 For there is nothing hid, which will not be revealed; neither was any thing kept secret, but that it should come abroad.
 
 23 If any man have ears to hear, let him hear.
 
-24 And he said to them, Take heed what you hear: with what measure you mete, it will be measured to you: and to you that hear will more be given.
+24 And he said to them, Take heed what you hear: with what measure you measure, it will be measured to you: and to you that hear will more be given.
 
 25 For he that has, to him will be given: and he that has not, from him will be taken even that which he has.
 
@@ -320,7 +320,7 @@
 
 6 But when he saw Jesus afar off, he ran and worshipped him,
 
-7 And cried with a loud voice, and said, What have I to do with you, Jesus, you Son of the most high God? I adjure you by God, that you torment me not.
+7 And cried with a loud voice, and said, What have I to do with you, Jesus, you Son of the most high God? I command under oath you by God, that you torment me not.
 
 8 For he said to him, Come out of the man, you unclean spirit.
 
@@ -390,7 +390,7 @@
 
 41 And he took the young woman by the hand, and said to her, Talitha cumi; which is, being interpreted, Young woman, I say to you, arise.
 
-42 And immediately the young woman arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.
+42 And immediately the young woman arose, and walked; for she was of the age of twelve years. And they were amazed with a great amazement.
 
 43 And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
 
@@ -398,7 +398,7 @@
 
 1 And he went out from from there, and came into his own country; and his disciples follow him.
 
-2 And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
+2 And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were amazed, saying, From from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
 
 3 Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 
@@ -484,7 +484,7 @@
 
 44 And they that did eat of the loaves were about five thousand men.
 
-45 And immediately he constrained his disciples to get into the ship, and to go to the other side before to Bethsaida, while he sent away the people.
+45 And immediately he urged his disciples to get into the ship, and to go to the other side before to Bethsaida, while he sent away the people.
 
 46 And when he had sent them away, he departed into a mountain to pray.
 
@@ -522,7 +522,7 @@
 
 6 He answered and said to them, Well has Esaias prophesied of you hypocrites, as it is written, This people honours me with their lips, but their heart is far from me.
 
-7 However in vain do they worship me, teaching for doctrines the commandments of men.
+7 However for nothing do they worship me, teaching for doctrines the commandments of men.
 
 8 For laying aside the commandment of God, you hold the tradition of men, as the washing of pots and cups: and many other such like things you do.
 
@@ -550,9 +550,9 @@
 
 20 And he said, That which comes out of the man, that defiles the man.
 
-21 For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
+21 For from within, out of the heart of men, proceed evil thoughts, adulteries, sexual sins, murders,
 
-22 Thefts, covetousness, wickedness, deceit, sensuality, an evil eye, blasphemy, pride, foolishness:
+22 Thefts, greed, wickedness, deceit, sensuality, an evil eye, blasphemy, pride, foolishness:
 
 23 All these evil things come from within, and defile the man.
 
@@ -582,7 +582,7 @@
 
 36 And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it;
 
-37 And were beyond measure astonished, saying, He has done all things well: he makes both the deaf to hear, and the dumb to speak.
+37 And were beyond measure amazed, saying, He has done all things well: he makes both the deaf to hear, and the dumb to speak.
 
 ## Mark Chapter 8
 
@@ -748,17 +748,17 @@
 
 42 And whosoever will offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
 
-43 And if your hand offend you, cut it off: it is better for you to enter into life maimed, than having two hands to go into hell, into the fire that never will be quenched:
+43 And if your hand offend you, cut it off: it is better for you to enter into life maimed, than having two hands to go into hell, into the fire that never will be put out:
 
-44 Where their worm dies not, and the fire is not quenched.
+44 Where their worm dies not, and the fire is not put out.
 
-45 And if your foot offend you, cut it off: it is better for you to enter halt into life, than having two feet to be cast into hell, into the fire that never will be quenched:
+45 And if your foot offend you, cut it off: it is better for you to enter halt into life, than having two feet to be cast into hell, into the fire that never will be put out:
 
-46 Where their worm dies not, and the fire is not quenched.
+46 Where their worm dies not, and the fire is not put out.
 
 47 And if your eye offend you, pluck it out: it is better for you to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:
 
-48 Where their worm dies not, and the fire is not quenched.
+48 Where their worm dies not, and the fire is not put out.
 
 49 For every one will be salted with fire, and every sacrifice will be salted with salt.
 
@@ -774,7 +774,7 @@
 
 4 And they said, Moses suffered to write a bill of divorcement, and to put her away.
 
-5 And Jesus answered and said to them, For the hardness of your heart he wrote you this precept.
+5 And Jesus answered and said to them, For the hardness of your heart he wrote you this command.
 
 6 But from the beginning of the creation God made them male and female.
 
@@ -812,11 +812,11 @@
 
 23 And Jesus looked round about, and says to his disciples, How hardly will they that have riches enter into the kingdom of God!
 
-24 And the disciples were astonished at his words. But Jesus answers again, and says to them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!
+24 And the disciples were amazed at his words. But Jesus answers again, and says to them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!
 
 25 It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 
-26 And they were astonished out of measure, saying among themselves, Who then can be saved?
+26 And they were amazed out of measure, saying among themselves, Who then can be saved?
 
 27 And Jesus looking upon them says, With men it is impossible, but not with God: for with God all things are possible.
 
@@ -832,7 +832,7 @@
 
 33 Saying, Look, we go up to Jerusalem; and the Son of man will be delivered to the chief priests, and to the scribes; and they will condemn him to death, and will deliver him to the Gentiles:
 
-34 And they will mock him, and will scourge him, and will spit upon him, and will kill him: and the third day he will rise again.
+34 And they will mock him, and will whip him, and will spit upon him, and will kill him: and the third day he will rise again.
 
 35 And James and John, the sons of Zebedee, come to him, saying, Master, we would that you should do for us whatsoever we will desire.
 
@@ -906,7 +906,7 @@
 
 17 And he taught, saying to them, Is it not written, My house will be called of all nations the house of prayer? but you have made it a den of thieves.
 
-18 And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine.
+18 And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was amazed at his doctrine.
 
 19 And when even was come, he went out of the city.
 
@@ -918,7 +918,7 @@
 
 23 For truly I tell you, whoever **says to this mountain**, 'Be lifted up and thrown into the sea,' and **does not doubt within their heart**, but fully **believes that the words spoken with their mouth will happen**—they will have exactly what they have spoken come to pass.
 
-24 Therefore I tell you, whatever things you desire when you pray, **believe that those things have been received**, and those things will manifest.
+24 Therefore I tell you, whatever things you desire when you pray, **believe that those things have been received**, and those things will revealed.
 
 25 And whenever you **stand to pray**, if you **hold a grudge** against anyone, **forgive them**, so that your Father in heaven may also forgive your sins.
 
@@ -1020,7 +1020,7 @@
 
 39 And the chief seats in the synagogues, and the uppermost rooms at feasts:
 
-40 Which devour widows' houses, and for a pretence make long prayers: these will receive greater damnation.
+40 Which devour widows' houses, and for a pretence make long prayers: these will receive greater condemnation.
 
 41 And Jesus sat over against the treasury, and saw how the people cast money into the treasury: and many that were rich cast in much.
 
@@ -1282,7 +1282,7 @@
 
 14 Then Pilate said to them, Why, what evil has he done? And they cried out the more exceedingly, Crucify him.
 
-15 And so Pilate, willing to content the people, released Barabbas to them, and delivered Jesus, when he had scourged him, to be crucified.
+15 And so Pilate, willing to content the people, released Barabbas to them, and delivered Jesus, when he had whipped him, to be crucified.
 
 16 And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.
 
@@ -1294,7 +1294,7 @@
 
 20 And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.
 
-21 And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
+21 And they force one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
 
 22 And they bring him to the place Golgotha, which is, being interpreted, The place of a skull.
 
@@ -1316,7 +1316,7 @@
 
 31 Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.
 
-32 Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.
+32 Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him insulted him.
 
 33 And when the sixth hour was come, there was darkness over the whole land until the ninth hour.
 
@@ -1374,7 +1374,7 @@
 
 12 After that he appeared in another form to two of them, as they walked, and went into the country.
 
-13 And they went and told it to the residue: neither believed they them.
+13 And they went and told it to the rest: neither believed they them.
 
 14 Afterward he appeared to the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
 

@@ -36,7 +36,7 @@
 
 1 In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,
 
-2 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,
+2 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the rest of the people, saying,
 
 3 Who is left among you that saw this house in her first glory? and how do you see it now? is it not in your eyes in comparison of it as nothing?
 

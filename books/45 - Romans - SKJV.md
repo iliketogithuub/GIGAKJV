@@ -38,11 +38,11 @@
 
 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
 
-19 Because that which may be known of God is manifest in them; for God has showed it to them.
+19 Because that which may be known of God is revealed in them; for God has showed it to them.
 
 20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
 
-21 Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.
+21 Because that, when they knew God, they glorified him not as God, neither were thankful; but became empty in their imaginations, and their foolish heart was darkened.
 
 22 Professing themselves to be wise, they became fools,
 
@@ -58,7 +58,7 @@
 
 28 And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;
 
-29 Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,
+29 Being filled with all unrighteousness, sexual sin, wickedness, greed, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,
 
 30 Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,
 
@@ -74,7 +74,7 @@
 
 3 And think you this, O man, that judg them which do such things, and do the same, that you will escape the judgment of God?
 
-4 Or despises you the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leads you to repentance?
+4 Or despises you the riches of his goodness and patience and patience; not knowing that the goodness of God leads you to repentance?
 
 5 But after your hardness and impenitent heart treasur up to thyself wrath against the day of wrath and revelation of the righteous judgment of God;
 
@@ -110,7 +110,7 @@
 
 21 you therefore which teach another, teach you not thyself? you that preach a man should not steal, do you steal?
 
-22 you that say a man should not commit adultery, do you commit adultery? you that abhorr idols, do you commit sacrilege?
+22 you that say a man should not commit adultery, do you commit adultery? you that abhorr idols, do you commit desecrating holy things?
 
 23 you that mak your boast of the law, through breaking the law dishonour you God?
 
@@ -136,13 +136,13 @@
 
 4 God forbid: yea, let God be true, but every man a liar; as it is written, That you might be justified in your sayings, and might overcome when you are judged.
 
-5 But if our unrighteousness commend the righteousness of God, what will we say? Is God unrighteous who takes vengeance? (I speak as a man)
+5 But if our unrighteousness praise the righteousness of God, what will we say? Is God unrighteous who takes vengeance? (I speak as a man)
 
 6 God forbid: for then how will God judge the world?
 
 7 For if the truth of God has more abounded through my lie to his glory; why yet am I also judged as a sinner?
 
-8 And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
+8 And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose condemnation is just.
 
 9 What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;
 
@@ -168,7 +168,7 @@
 
 20 Therefore by the deeds of the law there will no flesh be justified in his sight: for by the law is the knowledge of sin.
 
-21 But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
+21 But now the righteousness of God without the law is revealed, being witnessed by the law and the prophets;
 
 22 Even the righteousness of God which is by faith of Jesus Christ to all and upon all them that believe: for there is no difference:
 
@@ -176,7 +176,7 @@
 
 24 Being justified freely by his grace through the redemption that is in Christ Jesus:
 
-25 Whom God has set forth to be a atoning sacrifice through faith in his blood, to declare his righteousness for the forgiveness of sins that are past, through the forbearance of God;
+25 Whom God has set forth to be a atoning sacrifice through faith in his blood, to declare his righteousness for the forgiveness of sins that are past, through the patience of God;
 
 26 To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believes in Jesus.
 
@@ -204,7 +204,7 @@
 
 6 Even as David also describs the blessedness of the man, to whom God imputs righteousness without works,
 
-7 Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
+7 Saying, Blessed are they whose wickedness are forgiven, and whose sins are covered.
 
 8 Blessed is the man to whom the Lord will not credit sin.
 
@@ -240,7 +240,7 @@
 
 24 But for us also, to whom it will be credited, if we believe on him that raised up Jesus our Lord from the dead;
 
-25 Who was delivered for our offences, and was raised again for our justification.
+25 Who was delivered for our offences, and was raised again for our being made right.
 
 ## Romans Chapter 5
 
@@ -274,11 +274,11 @@
 
 15 But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, has abounded to many.
 
-16 And not as it was by one that sinned, so is the gift: for the judgment was by one to judgment, but the free gift is of many offences to justification.
+16 And not as it was by one that sinned, so is the gift: for the judgment was by one to judgment, but the free gift is of many offences to being made right.
 
 17 For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness will reign in life by one, Jesus Christ.)
 
-18 Therefore as by the offence of one judgment came upon all men to judgment; even so by the righteousness of one the free gift came upon all men to justification of life.
+18 Therefore as by the offence of one judgment came upon all men to judgment; even so by the righteousness of one the free gift came upon all men to being made right of life.
 
 19 For as by one man's disobedience many were made sinners, so by the obedience of one will many be made righteous.
 
@@ -324,7 +324,7 @@
 
 18 Being then made free from sin, you became the servants of righteousness.
 
-19 I speak after the manner of men because of the infirmity of your flesh: for as you have yielded your members servants to uncleanness and to iniquity to iniquity; even so now yield your members servants to righteousness to holiness.
+19 I speak after the manner of men because of the infirmity of your flesh: for as you have yielded your members servants to uncleanness and to wickedness to wickedness; even so now yield your members servants to righteousness to holiness.
 
 20 For when you were the servants of sin, you were free from righteousness.
 
@@ -424,9 +424,9 @@
 
 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which will be revealed in us.
 
-19 For the earnest expectation of the creature waits for the manifestation of the sons of God.
+19 For the earnest expectation of the creature waits for the revelation of the sons of God.
 
-20 For the creature was made subject to vanity, not willingly, but by reason of him who has subjected the same in hope,
+20 For the creature was made subject to emptiness, not willingly, but by reason of him who has subjected the same in hope,
 
 21 Because the creature itself also will be delivered from the bondage of corruption into the glorious liberty of the children of God.
 
@@ -438,9 +438,9 @@
 
 25 But if we hope for that we see not, then do we with patience wait for it.
 
-26 Likewise the Holy Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Holy Spirit itself makes intercession for us with groanings which cannot be uttered.
+26 Likewise the Holy Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Holy Spirit itself makes prayer on behalf for us with groanings which cannot be uttered.
 
-27 And he that searchs the hearts knows what is the mind of the Holy Spirit, because he makes intercession for the saints according to the will of God.
+27 And he that searchs the hearts knows what is the mind of the Holy Spirit, because he makes prayer on behalf for the saints according to the will of God.
 
 28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
@@ -454,7 +454,7 @@
 
 33 Who will lay any thing to the charge of God's elect? It is God that justifies.
 
-34 Who is he that condemns? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also makes intercession for us.
+34 Who is he that condemns? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also makes prayer on behalf for us.
 
 35 Who will separate us from the love of Christ? will suffering, or distress, or persecution, or famine, or nakedness, or peril, or sword?
 
@@ -510,7 +510,7 @@
 
 21 has not the potter power over the clay, of the same lump to make one vessel to honour, and another to dishonour?
 
-22 What if God, willing to show his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+22 What if God, willing to show his wrath, and to make his power known, endured with much patience the vessels of wrath fitted to destruction:
 
 23 And that he might make known the riches of his glory on the vessels of mercy, which he had before prepared to glory,
 
@@ -574,7 +574,7 @@
 
 19 But I say, Did not Israel know? First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
-20 But Esaias is very bold, and says, I was found of them that sought me not; I was made manifest to them that asked not after me.
+20 But Esaias is very bold, and says, I was found of them that sought me not; I was made revealed to them that asked not after me.
 
 21 But to Israel he says, All day long I have stretched forth my hands to a disobedient and rebellion people.
 
@@ -582,7 +582,7 @@
 
 1 I say then, has God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
-2 God has not cast away his people which he foreknew. Know you not what the scripture says of Elias? how he makes intercession to God against Israel saying,
+2 God has not cast away his people which he foreknew. Know you not what the scripture says of Elias? how he makes prayer on behalf to God against Israel saying,
 
 3 Lord, they have killed your prophets, and digged down your altars; and I am left alone, and they seek my life.
 
@@ -648,7 +648,7 @@
 
 34 For who has known the mind of the Lord? or who has been his counsellor?
 
-35 Or who has first given to him, and it will be recompensed to him again?
+35 Or who has first given to him, and it will be rewarded to him again?
 
 36 For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
 
@@ -690,7 +690,7 @@
 
 18 If it be possible, as much as lies in you, live peaceably with all men.
 
-19 Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
+19 Dearly beloved, bring justice not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
 
 20 Therefore if your enemy hunger, feed him; if he thirst, give him drink: for in so doing you will heap coals of fire on his head.
 
@@ -700,11 +700,11 @@
 
 1 Let every soul be subject to the higher powers. For there is no power but of God: the powers that be are ordained of God.
 
-2 Whosoever therefore resists the power, resists the ordinance of God: and they that resist will receive to themselves damnation.
+2 Whosoever therefore resists the power, resists the ordinance of God: and they that resist will receive to themselves condemnation.
 
 3 For rulers are not a terror to good works, but to the evil. will you then not be afraid of the power? do that which is good, and you will have praise of the same:
 
-4 For he is the minister of God to you for good. But if you do that which is evil, be afraid; for he bears not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that does evil.
+4 For he is the minister of God to you for good. But if you do that which is evil, be afraid; for he bears not the sword for nothing: for he is the minister of God, a revenger to execute wrath upon him that does evil.
 
 5 therefore you must needs be subject, not only for wrath, but also for conscience sake.
 
@@ -722,7 +722,7 @@
 
 12 The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.
 
-13 Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.
+13 Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and lustfulness, not in strife and envying.
 
 14 But put you on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts of it.
 
@@ -764,7 +764,7 @@
 
 18 For he that in these things serves Christ is acceptable to God, and approved of men.
 
-19 Let us therefore follow after the things which make for peace, and things with what one may edify another.
+19 Let us therefore follow after the things which make for peace, and things with what one may build up another.
 
 20 For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eats with offence.
 
@@ -778,9 +778,9 @@
 
 1 We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 
-2 Let every one of us please his neighbour for his good to edification.
+2 Let every one of us please his neighbour for his good to building up.
 
-3 For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached you fell on me.
+3 For even Christ pleased not himself; but, as it is written, The disgraces of them that disgraced you fell on me.
 
 4 For whatsoever things were written before were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
@@ -844,7 +844,7 @@
 
 ## Romans Chapter 16
 
-1 I commend to you Phebe our sister, which is a servant of the church which is at Cenchrea:
+1 I praise to you Phebe our sister, which is a servant of the church which is at Cenchrea:
 
 2 That you receive her in the Lord, as becomes saints, and that you assist her in whatsoever business she has need of you: for she has been a succourer of many, and of myself also.
 
@@ -886,7 +886,7 @@
 
 21 Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, greet you.
 
-22 I Tertius, who wrote this epistle, greet you in the Lord.
+22 I Tertius, who wrote this letter, greet you in the Lord.
 
 23 Gaius mine host, and of the whole church, saluts you. Erastus the court official of the city saluts you, and Quartus a brother.
 
@@ -894,7 +894,7 @@
 
 25 Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
 
-26 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
+26 But now is made revealed, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 
 27 To God only wise, be glory through Jesus Christ for ever. Amen.
 

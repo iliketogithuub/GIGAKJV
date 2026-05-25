@@ -64,7 +64,7 @@
 
 13 The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.
 
-14 O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely.
+14 O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your face, let me hear your voice; for sweet is your voice, and your face is comely.
 
 15 Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.
 
@@ -160,7 +160,7 @@
 
 14 His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.
 
-15 His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.
+15 His legs are as pillars of marble, set upon sockets of fine gold: his face is as Lebanon, excellent as the cedars.
 
 16 His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.
 
@@ -180,9 +180,9 @@
 
 7 As a piece of a pomegranate are your temples within your locks.
 
-8 There are threescore queens, and fourscore concubines, and virgins without number.
+8 There are threescore queens, and fourscore secondary wives, and virgins without number.
 
-9 My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her.
+9 My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the secondary wives, and they praised her.
 
 10 Who is she that looks forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?
 
@@ -234,7 +234,7 @@
 
 6 Set me as a seal upon your heart, as a seal upon your arm: for love is strong as death; jealousy is cruel as the grave: the coals of it are coals of fire, which has a most vehement flame.
 
-7 Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
+7 Many waters cannot put out love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
 
 8 We have a little sister, and she has no breasts: what will we do for our sister in the day when she will be spoken for?
 

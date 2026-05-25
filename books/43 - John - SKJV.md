@@ -62,7 +62,7 @@
 
 30 This is he of whom I said, After me comes a man which is preferred before me: for he was before me.
 
-31 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
+31 And I knew him not: but that he should be made revealed to Israel, therefore am I come baptizing with water.
 
 32 And John bare record, saying, I saw the Holy Spirit descending from heaven like a dove, and it stayed upon him.
 
@@ -126,7 +126,7 @@
 
 10 And says to him, Every man at the beginning does set forth good wine; and when men have well drunk, then that which is worse: but you have kept the good wine until now.
 
-11 This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
+11 This beginning of miracles did Jesus in Cana of Galilee, and revealed forth his glory; and his disciples believed on him.
 
 12 After this he went down to Capernaum, he, and his mother, and his brothers, and his disciples: and they continued there not many days.
 
@@ -134,7 +134,7 @@
 
 14 And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
 
-15 And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
+15 And when he had made a whip of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
 
 16 And said to them that sold doves, Take these things from here; make not my Father's house an house of merchandise.
 
@@ -198,7 +198,7 @@
 
 20 For every one that does evil hates the light, neither comes to the light, otherwise his deeds should be corrected.
 
-21 But he that does truth comes to the light, that his deeds may be made manifest, that they are worked in God.
+21 But he that does truth comes to the light, that his deeds may be made revealed, that they are worked in God.
 
 22 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 
@@ -398,7 +398,7 @@
 
 28 Marvel not at this: for the hour is coming, in the which all that are in the graves will hear his voice,
 
-29 And will come forth; they that have done good, to the resurrection of life; and they that have done evil, to the resurrection of damnation.
+29 And will come forth; they that have done good, to the resurrection of life; and they that have done evil, to the resurrection of condemnation.
 
 30 I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which has sent me.
 
@@ -770,7 +770,7 @@
 
 40 But now you seek to kill me, a man that has told you the truth, which I have heard of God: this did not Abraham.
 
-41 you do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God.
+41 you do the deeds of your father. Then said they to him, We be not born of sexual sin; we have one Father, even God.
 
 42 Jesus said to them, If God were your Father, you would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.
 
@@ -814,7 +814,7 @@
 
 2 And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
 
-3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manifest in him.
+3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made revealed in him.
 
 4 I must work the works of him that sent me, while it is day: the night comes, when no man can work.
 
@@ -864,7 +864,7 @@
 
 27 He answered them, I have told you already, and you did not hear: therefore would you hear it again? will you also be his disciples?
 
-28 Then they reviled him, and said, you are his disciple; but we are Moses' disciples.
+28 Then they insulted him, and said, you are his disciple; but we are Moses' disciples.
 
 29 We know that God spoke to Moses: as for this fellow, we know not from from where he is.
 
@@ -1078,7 +1078,7 @@
 
 49 And one of them, named Caiaphas, being the high priest that same year, said to them, you know nothing at all,
 
-50 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
+50 Nor consider that it is beneficial for us, that one man should die for the people, and that the whole nation perish not.
 
 51 And this spoke he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 
@@ -1316,9 +1316,9 @@
 
 20 At that day you will know that I am in my Father, and you in me, and I in you.
 
-21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will manifest myself to him.
+21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will revealed myself to him.
 
-22 Judas says to him, not Iscariot, Lord, how is it that you will manifest thyself to us, and not to the world?
+22 Judas says to him, not Iscariot, Lord, how is it that you will revealed thyself to us, and not to the world?
 
 23 Jesus answered and said to him, If a man love me, he will keep my words: and my Father will love him, and we will come to him, and make our stayed with him.
 
@@ -1408,7 +1408,7 @@
 
 6 But because I have said these things to you, sorrow has filled your heart.
 
-7 Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come to you; but if I depart, I will send him to you.
+7 Nevertheless I tell you the truth; It is beneficial for you that I go away: for if I go not away, the Comforter will not come to you; but if I depart, I will send him to you.
 
 8 And when he is come, he will correct the world of sin, and of righteousness, and of judgment:
 
@@ -1434,7 +1434,7 @@
 
 19 Now Jesus knew that they were desirous to ask him, and said to them, Do you enquire among yourselves of that I said, A little while, and you will not see me: and again, a little while, and you will see me?
 
-20 Truly, truly, I say to you, That you will weep and lament, but the world will rejoice: and you will be sorrowful, but your sorrow will be turned into joy.
+20 Truly, truly, I say to you, That you will weep and mourn, but the world will rejoice: and you will be sorrowful, but your sorrow will be turned into joy.
 
 21 A woman when she is in labor has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
 
@@ -1474,7 +1474,7 @@
 
 5 And now, O Father, glorify you me with your own self with the glory which I had with you before the world was.
 
-6 I have manifested your name to the men which you gav me out of the world: your they were, and you gav them me; and they have kept your word.
+6 I have revealed your name to the men which you gav me out of the world: your they were, and you gav them me; and they have kept your word.
 
 7 Now they have known that all things whatsoever you have given me are of you.
 
@@ -1486,7 +1486,7 @@
 
 11 And now I am no more in the world, but these are in the world, and I come to you. Holy Father, keep through your own name those whom you have given me, that they may be one, as we are.
 
-12 While I was with them in the world, I kept them in your name: those that you gav me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+12 While I was with them in the world, I kept them in your name: those that you gav me I have kept, and none of them is lost, but the son of destruction; that the scripture might be fulfilled.
 
 13 And now come I to you; and these things I speak in the world, that they might have my joy fulfilled in themselves.
 
@@ -1544,7 +1544,7 @@
 
 13 And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
 
-14 Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.
+14 Now Caiaphas was he, which gave counsel to the Jews, that it was beneficial that one man should die for the people.
 
 15 And Simon Peter followed Jesus, and so did another disciple: that disciple was known to the high priest, and went in with Jesus into the palace of the high priest.
 
@@ -1600,7 +1600,7 @@
 
 ## John Chapter 19
 
-1 Then Pilate therefore took Jesus, and scourged him.
+1 Then Pilate therefore took Jesus, and whipped him.
 
 2 And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
 
@@ -1646,7 +1646,7 @@
 
 23 Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
 
-24 They said therefore among themselves, Let us not rend it, but cast lots for it, whose it will be: that the scripture might be fulfilled, which says, They parted my clothing among them, and for my vesture they did cast lots. These things therefore the soldiers did.
+24 They said therefore among themselves, Let us not rend it, but cast lots for it, whose it will be: that the scripture might be fulfilled, which says, They parted my clothing among them, and for my robe they did cast lots. These things therefore the soldiers did.
 
 25 Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene.
 

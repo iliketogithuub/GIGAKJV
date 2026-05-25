@@ -24,7 +24,7 @@
 
 ## 1 Thessalonians Chapter 2
 
-1 For yourselves, brothers, know our entrance in to you, that it was not in vain:
+1 For yourselves, brothers, know our entrance in to you, that it was not for nothing:
 
 2 But even after that we had suffered before, and were shamefully treated, as you know, at Philippi, we were bold in our God to speak to you the gospel of God with much contention.
 
@@ -32,7 +32,7 @@
 
 4 But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tries our hearts.
 
-5 For neither at any time used we flattering words, as you know, nor a cloke of covetousness; God is witness:
+5 For neither at any time used we flattering words, as you know, nor a cloke of greed; God is witness:
 
 6 Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.
 
@@ -66,7 +66,7 @@
 
 ## 1 Thessalonians Chapter 3
 
-1 therefore when we could no longer forbear, we thought it good to be left at Athens alone;
+1 therefore when we could no longer hold back, we thought it good to be left at Athens alone;
 
 2 And sent Timotheus, our brother, and minister of God, and our co-worker in the gospel of Christ, to establish you, and to comfort you concerning your faith:
 
@@ -74,7 +74,7 @@
 
 4 For truly, when we were with you, we told you before that we should suffer suffering; even as it came to pass, and you know.
 
-5 For this cause, when I could no longer forbear, I sent to know your faith, otherwise by some means the tempter have tempted you, and our labour be in vain.
+5 For this cause, when I could no longer hold back, I sent to know your faith, otherwise by some means the tempter have tempted you, and our labour be for nothing.
 
 6 But now when Timotheus came from you to us, and brought us good tidings of your faith and love, and that you have good remembrance of us always, desiring greatly to see us, as we also to see you:
 
@@ -98,13 +98,13 @@
 
 2 For you know what commandments we gave you by the Lord Jesus.
 
-3 For this is the will of God, even your sanctification, that you should abstain from fornication:
+3 For this is the will of God, even your being made holy, that you should abstain from sexual sin:
 
-4 That every one of you should know how to possess his vessel in sanctification and honour;
+4 That every one of you should know how to possess his vessel in being made holy and honour;
 
 5 Not in the lust of sinful desire, even as the Gentiles which know not God:
 
-6 That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.
+6 That no man go beyond and defraud his brother in any matter: because that the Lord is the one who brings justice of all such, as we also have forewarned you and testified.
 
 7 For God has not called us to uncleanness, but to holiness.
 
@@ -152,7 +152,7 @@
 
 10 Who died for us, that, whether we wake or sleep, we should live together with him.
 
-11 therefore comfort yourselves together, and edify one another, even as also you do.
+11 therefore comfort yourselves together, and build up one another, even as also you do.
 
 12 And we urge you, brothers, to know them which labour among you, and are over you in the Lord, and admonish you;
 
@@ -168,7 +168,7 @@
 
 18 In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 
-19 Quench not the Holy Spirit.
+19 Put out not the Holy Spirit.
 
 20 Despise not prophesyings.
 
@@ -184,7 +184,7 @@
 
 26 Greet all the brothers with an holy kiss.
 
-27 I charge you by the Lord that this epistle be read to all the holy brothers.
+27 I charge you by the Lord that this letter be read to all the holy brothers.
 
 28 The grace of our Lord Jesus Christ be with you. Amen.
 

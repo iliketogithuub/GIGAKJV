@@ -2,7 +2,7 @@
 
 ## Ruth Chapter 1
 
-1 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
+1 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to live temporarily in the country of Moab, he, and his wife, and his two sons.
 
 2 And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
 
@@ -52,7 +52,7 @@
 
 2 And Ruth the Moabitess said to Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I will find grace. And she said to her, Go, my daughter.
 
-3 And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging to Boaz, who was of the kindred of Elimelech.
+3 And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging to Boaz, who was of the relatives of Elimelech.
 
 4 And, look, Boaz came from Bethlehem, and said to the reapers, The Lord be with you. And they answered him, The Lord bless you.
 
@@ -72,11 +72,11 @@
 
 12 The Lord repay your work, and a full reward be given you of the Lord God of Israel, under whose wings you are come to trust.
 
-13 Then she said, Let me find favour in your sight, my lord; for that you have comforted me, and for that you have spoken friendly to your handmaid, though I be not like to one of your handmaidens.
+13 Then she said, Let me find favour in your sight, my lord; for that you have comforted me, and for that you have spoken friendly to your female servant, though I be not like to one of your female servants.
 
 14 And Boaz said to her, At mealtime come you here, and eat of the bread, and dip your morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.
 
-15 And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:
+15 And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and disgrace her not:
 
 16 And let fall also some of the handfuls of purpose for her, and leave them, that she may glean them, and rebuke her not.
 
@@ -98,7 +98,7 @@
 
 1 Then Naomi her mother in law said to her, My daughter, will I not seek rest for you, that it may be well with you?
 
-2 And now is not Boaz of our kindred, with whose maidens you wast? Look, he winnows barley to night in the threshingfloor.
+2 And now is not Boaz of our relatives, with whose maidens you wast? Look, he winnows barley to night in the threshingfloor.
 
 3 Wash thyself therefore, and anoint you, and put your clothing upon you, and get you down to the floor: but make not thyself known to the man, until he will have done eating and drinking.
 
@@ -112,7 +112,7 @@
 
 8 And it came to pass at midnight, that the man was afraid, and turned himself: and, look, a woman lay at his feet.
 
-9 And he said, Who are you? And she answered, I am Ruth your handmaid: spread therefore your skirt over your handmaid; for you are a near kinsman.
+9 And he said, Who are you? And she answered, I am Ruth your female servant: spread therefore your skirt over your female servant; for you are a near kinsman.
 
 10 And he said, Blessed be you of the Lord, my daughter: for you have showed more kindness in the latter end than at the beginning, since as you followedst not young men, whether poor or rich.
 

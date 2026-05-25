@@ -38,7 +38,7 @@
 
 18 For the preaching of the cross is to them that perish foolishness; but to us which are saved it is the power of God.
 
-19 For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.
+19 For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the wise.
 
 20 Where is the wise? where is the scribe? where is the disputer of this world? has not God made foolish the wisdom of this world?
 
@@ -60,7 +60,7 @@
 
 29 That no flesh should glory in his presence.
 
-30 But of him are you in Christ Jesus, who of God is made to us wisdom, and righteousness, and sanctification, and redemption:
+30 But of him are you in Christ Jesus, who of God is made to us wisdom, and righteousness, and being made holy, and redemption:
 
 31 That, according as it is written, He that glories, let him glory in the Lord.
 
@@ -92,7 +92,7 @@
 
 13 Which things also we speak, not in the words which man's wisdom teachs, but which the Holy Spirit teachs; comparing spiritual things with spiritual.
 
-14 But the natural man receives not the things of the Holy Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually discerned.
+14 But the natural man receives not the things of the Holy Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually recognized.
 
 15 But he that is spiritual judges all things, yet he himself is judged of no man.
 
@@ -124,7 +124,7 @@
 
 12 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
 
-13 Every man's work will be made manifest: for the day will declare it, because it will be revealed by fire; and the fire will try every man's work of what sort it is.
+13 Every man's work will be made revealed: for the day will declare it, because it will be revealed by fire; and the fire will try every man's work of what sort it is.
 
 14 If any man's work abide which he has built thereupon, he will receive a reward.
 
@@ -138,7 +138,7 @@
 
 19 For the wisdom of this world is foolishness with God. For it is written, He takes the wise in their own craftiness.
 
-20 And again, The Lord knows the thoughts of the wise, that they are vain.
+20 And again, The Lord knows the thoughts of the wise, that they are empty.
 
 21 Therefore let no man glory in men. For all things are your's;
 
@@ -156,7 +156,7 @@
 
 4 For I know nothing by myself; yet am I not hereby justified: but he that judges me is the Lord.
 
-5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then will every man have praise of God.
+5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make revealed the counsels of the hearts: and then will every man have praise of God.
 
 6 And these things, brothers, I have in a figure transferred to myself and to Apollos for your sakes; that you might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
 
@@ -170,7 +170,7 @@
 
 11 Even to this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
 
-12 And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
+12 And labour, working with our own hands: being insulted, we bless; being persecuted, we suffer it:
 
 13 Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things to this day.
 
@@ -192,7 +192,7 @@
 
 ## 1 Corinthians Chapter 5
 
-1 It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife.
+1 It is reported commonly that there is sexual sin among you, and such sexual sin as is not so much as named among the Gentiles, that one should have his father's wife.
 
 2 And you are puffed up, and have not rather mourned, that he that has done this deed might be taken away from among you.
 
@@ -206,9 +206,9 @@
 
 7 Purge out therefore the old leaven, that you may be a new lump, as you are unleavened. For even Christ our passover is sacrificed for us:
 
-8 Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth.
+8 Therefore let us keep the feast, not with old leaven, neither with the leaven of ill will and wickedness; but with the unleavened bread of sincerity and truth.
 
-9 I wrote to you in an epistle not to company with fornicators:
+9 I wrote to you in an letter not to company with fornicators:
 
 10 Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must you needs go out of the world.
 
@@ -242,19 +242,19 @@
 
 11 And such were some of you: but you are washed, but you are sanctified, but you are justified in the name of the Lord Jesus, and by the Holy Spirit of our God.
 
-12 All things are lawful to me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.
+12 All things are lawful to me, but all things are not beneficial: all things are lawful for me, but I will not be brought under the power of any.
 
-13 Meats for the belly, and the belly for meats: but God will destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.
+13 Meats for the belly, and the belly for meats: but God will destroy both it and them. Now the body is not for sexual sin, but for the Lord; and the Lord for the body.
 
 14 And God has both raised up the Lord, and will also raise up us by his own power.
 
-15 Know you not that your bodies are the members of Christ? will I then take the members of Christ, and make them the members of an harlot? God forbid.
+15 Know you not that your bodies are the members of Christ? will I then take the members of Christ, and make them the members of an prostitute? God forbid.
 
-16 What? know you not that he which is joined to an harlot is one body? for two, says he, will be one flesh.
+16 What? know you not that he which is joined to an prostitute is one body? for two, says he, will be one flesh.
 
 17 But he that is joined to the Lord is one spirit.
 
-18 Flee fornication. Every sin that a man does is without the body; but he that commits fornication sins against his own body.
+18 Flee sexual sin. Every sin that a man does is without the body; but he that commits sexual sin sins against his own body.
 
 19 What? know you not that your body is the temple of the Holy Spirit which is in you, which you have of God, and you are not your own?
 
@@ -264,7 +264,7 @@
 
 1 Now concerning the things whereof you wrote to me: It is good for a man not to touch a woman.
 
-2 Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
+2 Nevertheless, to avoid sexual sin, let every man have his own wife, and let every woman have her own husband.
 
 3 Let the husband render to the wife due benevolence: and likewise also the wife to the husband.
 
@@ -344,7 +344,7 @@
 
 ## 1 Corinthians Chapter 8
 
-1 Now as touching things offered to idols, we know that we all have knowledge. Knowledge puffs up, but love edifies.
+1 Now as touching things offered to idols, we know that we all have knowledge. Knowledge puffs up, but love builds up.
 
 2 And if any man think that he knows any thing, he knows nothing yet as he ought to know.
 
@@ -382,7 +382,7 @@
 
 5 Have we not power to lead about a sister, a wife, as well as other apostles, and as the brothers of the Lord, and Cephas?
 
-6 Or I only and Barnabas, have not we power to forbear working?
+6 Or I only and Barnabas, have not we power to hold back working?
 
 7 Who goes a warfare any time at his own charges? who plants a vineyard, and eats not of the fruit of it? or who feeds a flock, and eats not of the milk of the flock?
 
@@ -420,11 +420,11 @@
 
 24 Know you not that they which run in a race run all, but one receives the prize? So run, that you may obtain.
 
-25 And every man that strivs for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
+25 And every man that strivs for the mastery is self-controlled in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
 
 26 I therefore so run, not as uncertainly; so fight I, not as one that beats the air:
 
-27 But I keep under my body, and bring it into subjection: otherwise that by any means, when I have preached to others, I myself should be a castaway.
+27 But I keep under my body, and bring it into submission: otherwise that by any means, when I have preached to others, I myself should be a castaway.
 
 ## 1 Corinthians Chapter 10
 
@@ -442,7 +442,7 @@
 
 7 Neither be you idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.
 
-8 Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
+8 Neither let us commit sexual sin, as some of them committed, and fell in one day three and twenty thousand.
 
 9 Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
 
@@ -472,7 +472,7 @@
 
 22 Do we provoke the Lord to jealousy? are we stronger than he?
 
-23 All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
+23 All things are lawful for me, but all things are not beneficial: all things are lawful for me, but all things build up not.
 
 24 Let no man seek his own, but every man another's wealth.
 
@@ -532,7 +532,7 @@
 
 18 For first of all, when you come together in the church, I hear that there be divisions among you; and I partly believe it.
 
-19 For there must be also heresies among you, that they which are approved may be made manifest among you.
+19 For there must be also heresies among you, that they which are approved may be made revealed among you.
 
 20 When you come together therefore into one place, this is not to eat the Lord's supper.
 
@@ -552,13 +552,13 @@
 
 28 But let a man examine himself, and so let him eat of that bread, and drink of that cup.
 
-29 For he that eats and drinks unworthily, eats and drinks damnation to himself, not discerning the Lord's body.
+29 For he that eats and drinks unworthily, eats and drinks condemnation to himself, not recognizing the Lord's body.
 
 30 For this cause many are weak and sickly among you, and many sleep.
 
 31 For if we would judge ourselves, we should not be judged.
 
-32 But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.
+32 But when we are judged, we are disciplined of the Lord, that we should not be condemned with the world.
 
 33 therefore, my brothers, when you come together to eat, tarry one for another.
 
@@ -578,13 +578,13 @@
 
 6 And there are diversities of operations, but it is the same God which works all in all.
 
-7 But the manifestation of the Holy Spirit is given to every man to profit also.
+7 But the revelation of the Holy Spirit is given to every man to profit also.
 
 8 For to one is given by the Holy Spirit the word of wisdom; to another the word of knowledge by the same Holy Spirit;
 
 9 To another faith by the same Holy Spirit; to another the gifts of healing by the same Holy Spirit;
 
-10 To another the working of miracles; to another prophecy; to another discerning of spirits; to another various kinds of tongues; to another the interpretation of tongues:
+10 To another the working of miracles; to another prophecy; to another recognizing of spirits; to another various kinds of tongues; to another the interpretation of tongues:
 
 11 But all these works that one and the selfsame Holy Spirit, dividing to every man severally as he will.
 
@@ -638,9 +638,9 @@
 
 4 love suffers long, and is kind; love envies not; love vaunts not itself, is not puffed up,
 
-5 does not behave itself improperly, seeks not her own, is not easily provoked, thinks no evil;
+5 does not behave itself improperly, seeks not her own, is not easily angered, thinks no evil;
 
-6 Rejoics not in iniquity, but rejoics in the truth;
+6 Rejoics not in wickedness, but rejoics in the truth;
 
 7 Bears all things, believes all things, hops all things, endures all things.
 
@@ -662,11 +662,11 @@
 
 2 For he that speaks in an unknown tongue speaks not to men, but to God: for no man understands him; however in the Holy Spirit he speaks mysteries.
 
-3 But he that prophesies speaks to men to edification, and encouragement, and comfort.
+3 But he that prophesies speaks to men to building up, and encouragement, and comfort.
 
-4 He that speaks in an unknown tongue edifies himself; but he that prophesies edifies the church.
+4 He that speaks in an unknown tongue builds up himself; but he that prophesies builds up the church.
 
-5 I would that you all spoke with tongues but rather that you prophesied: for greater is he that prophesies than he that speaks with tongues, except he interpret, that the church may receive edifying.
+5 I would that you all spoke with tongues but rather that you prophesied: for greater is he that prophesies than he that speaks with tongues, except he interpret, that the church may receive building up.
 
 6 Now, brothers, if I come to you speaking with tongues, what will I profit you, except I will speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 
@@ -680,7 +680,7 @@
 
 11 Therefore if I know not the meaning of the voice, I will be to him that speaks a barbarian, and he that speaks will be a barbarian to me.
 
-12 Even so you, since as you are zealous of spiritual gifts, seek that you may excel to the edifying of the church.
+12 Even so you, since as you are zealous of spiritual gifts, seek that you may excel to the building up of the church.
 
 13 therefore let him that speaks in an unknown tongue pray that he may interpret.
 
@@ -690,13 +690,13 @@
 
 16 Else when you will bless with the Holy Spirit, how will he that occupies the room of the unlearned say Amen at your giving of thanks, seeing he understands not what you say?
 
-17 For you truly giv thanks well, but the other is not edified.
+17 For you truly giv thanks well, but the other is not built up.
 
 18 I thank my God, I speak with tongues more than you all:
 
 19 Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.
 
-20 Brothers, be not children in understanding: however in malice be you children, but in understanding be men.
+20 Brothers, be not children in understanding: however in ill will be you children, but in understanding be men.
 
 21 In the law it is written, With men of other tongues and other lips will I speak to this people; and yet for all that will they not hear me, says the Lord.
 
@@ -706,9 +706,9 @@
 
 24 But if all prophesy, and there come in one that believes not, or one unlearned, he is convinced of all, he is judged of all:
 
-25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
+25 And thus are the secrets of his heart made revealed; and so falling down on his face he will worship God, and report that God is in you of a truth.
 
-26 How is it then, brothers? when you come together, every one of you has a psalm, has a doctrine, has a tongue, has a revelation, has an interpretation. Let all things be done to edifying.
+26 How is it then, brothers? when you come together, every one of you has a psalm, has a doctrine, has a tongue, has a revelation, has an interpretation. Let all things be done to building up.
 
 27 If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.
 
@@ -742,7 +742,7 @@
 
 1 Moreover, brothers, I declare to you the gospel which I preached to you, which also you have received, and in which you stand;
 
-2 By which also you are saved, if you keep in memory what I preached to you, unless you have believed in vain.
+2 By which also you are saved, if you keep in memory what I preached to you, unless you have believed for nothing.
 
 3 For I delivered to you first of all that which I also received, how that Christ died for our sins according to the scriptures;
 
@@ -758,7 +758,7 @@
 
 9 For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.
 
-10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
+10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not for nothing; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
 
 11 Therefore whether it were I or they, so we preach, and so you believed.
 
@@ -766,13 +766,13 @@
 
 13 But if there be no resurrection of the dead, then is Christ not risen:
 
-14 And if Christ be not risen, then is our preaching vain, and your faith is also vain.
+14 And if Christ be not risen, then is our preaching empty, and your faith is also empty.
 
 15 Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
 
 16 For if the dead rise not, then is not Christ raised:
 
-17 And if Christ be not raised, your faith is vain; you are yet in your sins.
+17 And if Christ be not raised, your faith is empty; you are yet in your sins.
 
 18 Then they also which are fallen asleep in Christ are perished.
 
@@ -792,7 +792,7 @@
 
 26 The last enemy that will be destroyed is death.
 
-27 For he has put all things under his feet. But when he says all things are put under him, it is manifest that he is excepted, which did put all things under him.
+27 For he has put all things under his feet. But when he says all things are put under him, it is revealed that he is excepted, which did put all things under him.
 
 28 And when all things will be subdued to him, then will the Son also himself be subject to him that put all things under him, that God may be all in all.
 
@@ -854,7 +854,7 @@
 
 57 But thanks be to God, which gives us the victory through our Lord Jesus Christ.
 
-58 Therefore, my beloved brothers, be you stedfast, unmoveable, always abounding in the work of the Lord, since as you know that your labour is not in vain in the Lord.
+58 Therefore, my beloved brothers, be you stedfast, unmoveable, always abounding in the work of the Lord, since as you know that your labour is not for nothing in the Lord.
 
 ## 1 Corinthians Chapter 16
 

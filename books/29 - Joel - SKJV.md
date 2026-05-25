@@ -16,7 +16,7 @@
 
 7 He has laid my vine waste, and barked my fig tree: he has made it clean bare, and cast it away; the branches of it are made white.
 
-8 Lament like a virgin girded with sackcloth for the husband of her youth.
+8 Mourn like a virgin girded with sackcloth for the husband of her youth.
 
 9 The meat offering and the drink offering is cut off from the house of the Lord; the priests, the Lord's ministers, mourn.
 
@@ -26,7 +26,7 @@
 
 12 The vine is dried up, and the fig tree languishs; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.
 
-13 Gird yourselves, and lament, you priests: howl, you ministers of the altar: come, lie all night in sackcloth, you ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
+13 Gird yourselves, and mourn, you priests: howl, you ministers of the altar: come, lie all night in sackcloth, you ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
 
 14 Sanctify you a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord your God, and cry to the Lord,
 
@@ -34,7 +34,7 @@
 
 16 Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?
 
-17 The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.
+17 The seed is rotten under their clods, the storehouses are laid desolate, the barns are broken down; for the corn is withered.
 
 18 How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.
 
@@ -76,11 +76,11 @@
 
 16 Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.
 
-17 Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare your people, O Lord, and give not your heritage to reproach, that the heathen should rule over them: therefore should they say among the people, Where is their God?
+17 Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare your people, O Lord, and give not your heritage to disgrace, that the heathen should rule over them: therefore should they say among the people, Where is their God?
 
 18 Then will the Lord be jealous for his land, and pity his people.
 
-19 Yea, the Lord will answer and say to his people, Look, I will send you corn, and wine, and oil, and you will be satisfied with it: and I will no more make you a reproach among the heathen:
+19 Yea, the Lord will answer and say to his people, Look, I will send you corn, and wine, and oil, and you will be satisfied with it: and I will no more make you a disgrace among the heathen:
 
 20 But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink will come up, and his ill savour will come up, because he has done great things.
 
@@ -100,7 +100,7 @@
 
 28 And it will come to pass afterward, that I will pour out my Holy Spirit upon all flesh; and your sons and your daughters will prophesy, your old men will dream dreams, your young men will see visions:
 
-29 And also upon the servants and upon the handmaids in those days will I pour out my Holy Spirit.
+29 And also upon the servants and upon the female servants in those days will I pour out my Holy Spirit.
 
 30 And I will show wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
 
@@ -114,7 +114,7 @@
 
 2 I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
 
-3 And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
+3 And they have cast lots for my people; and have given a boy for an prostitute, and sold a girl for wine, that they might drink.
 
 4 Yea, and what have you to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will you render me a recompence? and if you repay me, swiftly and speedily will I return your recompence upon your own head;
 

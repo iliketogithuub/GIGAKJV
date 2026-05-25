@@ -16,7 +16,7 @@
 
 7 Hold your peace at the presence of the Lord God: for the day of the Lord is at hand: for the Lord has prepared a sacrifice, he has bid his guests.
 
-8 And it will come to pass in the day of the Lord's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel.
+8 And it will come to pass in the day of the Lord's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange clothing.
 
 9 In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit.
 
@@ -54,11 +54,11 @@
 
 7 And the coast will be for the remnant of the house of Judah; they will feed thereupon: in the houses of Ashkelon will they lie down in the evening: for the Lord their God will visit them, and turn away their captivity.
 
-8 I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.
+8 I have heard the disgrace of Moab, and the insults of the children of Ammon, whereby they have disgraced my people, and magnified themselves against their border.
 
-9 Therefore as I live, says the Lord of hosts, the God of Israel, Surely Moab will be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people will spoil them, and the remnant of my people will possess them.
+9 Therefore as I live, says the Lord of hosts, the God of Israel, Surely Moab will be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the rest of my people will spoil them, and the remnant of my people will possess them.
 
-10 This will they have for their pride, because they have reproached and magnified themselves against the people of the Lord of hosts.
+10 This will they have for their pride, because they have disgraced and magnified themselves against the people of the Lord of hosts.
 
 11 The Lord will be terrible to them: for he will famish all the gods of the earth; and men will worship him, every one from his place, even all the isles of the heathen.
 
@@ -80,7 +80,7 @@
 
 4 Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.
 
-5 The just Lord is in the midst of it; he will not do iniquity: every morning does he bring his judgment to light, he fails not; but the unjust knows no shame.
+5 The just Lord is in the midst of it; he will not do wickedness: every morning does he bring his judgment to light, he fails not; but the unjust knows no shame.
 
 6 I have cut off the nations: their towers are desolate; I made their streets waste, that none passes by: their cities are destroyed, so that there is no man, that there is none inhabitant.
 
@@ -96,7 +96,7 @@
 
 12 I will also leave in the midst of you an afflicted and poor people, and they will trust in the name of the Lord.
 
-13 The remnant of Israel will not do iniquity, nor speak lies; neither will a deceitful tongue be found in their mouth: for they will feed and lie down, and none will make them afraid.
+13 The remnant of Israel will not do wickedness, nor speak lies; neither will a deceitful tongue be found in their mouth: for they will feed and lie down, and none will make them afraid.
 
 14 Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
 
@@ -106,7 +106,7 @@
 
 17 The Lord your God in the midst of you is mighty; he will save, he will rejoice over you with joy; he will rest in his love, he will joy over you with singing.
 
-18 I will gather them that are sorrowful for the solemn assembly, who are of you, to whom the reproach of it was a burden.
+18 I will gather them that are sorrowful for the solemn assembly, who are of you, to whom the disgrace of it was a burden.
 
 19 Look, at that time I will undo all that afflict you: and I will save her that halts, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 

@@ -42,7 +42,7 @@
 
 20 For the wrath of man works not the righteousness of God.
 
-21 therefore lay apart all filthiness and excess of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
+21 therefore lay apart all filthiness and excess of naughtiness, and receive with meekness the planted word, which is able to save your souls.
 
 22 But be you doers of the word, and not hearers only, deceiving your own selves.
 
@@ -52,7 +52,7 @@
 
 25 But whoso looks into the perfect law of liberty, and continus in it, he being not a forgetful hearer, but a doer of the work, this man will be blessed in his deed.
 
-26 If any man among you seem to be religious, and bridls not his tongue, but deceivs his own heart, this man's religion is vain.
+26 If any man among you seem to be religious, and bridls not his tongue, but deceivs his own heart, this man's religion is empty.
 
 27 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
 
@@ -60,7 +60,7 @@
 
 1 My brothers, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
 
-2 For if there come to your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile clothing;
+2 For if there come to your assembly a man with a gold ring, in goodly clothing, and there come in also a poor man in vile clothing;
 
 3 And you have respect to him that wears the gay clothing, and say to him, Sit you here in a good place; and say to the poor, Stand you there, or sit here under my footstool:
 
@@ -96,7 +96,7 @@
 
 19 you believ that there is one God; you do well: the devils also believe, and tremble.
 
-20 But will you know, O vain man, that faith without works is dead?
+20 But will you know, O empty man, that faith without works is dead?
 
 21 Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
 
@@ -106,7 +106,7 @@
 
 24 you see then how that by works a man is justified, and not by faith only.
 
-25 Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?
+25 Likewise also was not Rahab the prostitute justified by works, when she had received the messengers, and had sent them out another way?
 
 26 For as the body without the human spirit is dead, so faith without works is dead also.
 
@@ -122,7 +122,7 @@
 
 5 Even so the tongue is a little member, and boasts great things. Look, how great a matter a little fire kindls!
 
-6 And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defiles the whole body, and sets on fire the course of nature; and it is set on fire of hell.
+6 And the tongue is a fire, a world of wickedness: so is the tongue among our members, that it defiles the whole body, and sets on fire the course of nature; and it is set on fire of hell.
 
 7 For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and has been tamed of mankind:
 
@@ -158,7 +158,7 @@
 
 4 you adulterers and adulteresses, know you not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 
-5 Do you think that the scripture says in vain, The spirit that dwells in us lusts to envy?
+5 Do you think that the scripture says for nothing, The spirit that dwells in us lusts to envy?
 
 6 But he gives more grace. therefore he says, God resists the proud, but gives grace to the humble.
 
@@ -194,7 +194,7 @@
 
 4 Look, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
 
-5 you have lived in pleasure on the earth, and been wanton; you have nourished your hearts, as in a day of slaughter.
+5 you have lived in pleasure on the earth, and been lustful; you have nourished your hearts, as in a day of slaughter.
 
 6 you have condemned and killed the just; and he does not resist you.
 

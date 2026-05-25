@@ -24,7 +24,7 @@
 
 11 For from the rising of the sun even to the going down of the same my name will be great among the Gentiles; and in every place incense will be offered to my name, and a pure offering: for my name will be great among the heathen, says the Lord of hosts.
 
-12 But you have profaned it, in that you say, The table of the Lord is polluted; and the fruit of it, even his meat, is contemptible.
+12 But you have defiled it, in that you say, The table of the Lord is polluted; and the fruit of it, even his meat, is contemptible.
 
 13 you said also, Look, what a weariness is it! and you have snuffed at it, says the Lord of hosts; and you brought that which was torn, and the lame, and the sick; thus you brought an offering: should I accept this of your hand? says the Lord.
 
@@ -42,7 +42,7 @@
 
 5 My covenant was with him of life and peace; and I gave them to him for the fear with what he feared me, and was afraid before my name.
 
-6 The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.
+6 The law of truth was in his mouth, and wickedness was not found in his lips: he walked with me in peace and equity, and did turn many away from wickedness.
 
 7 For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts.
 
@@ -52,7 +52,7 @@
 
 10 Have we not all one father? has not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?
 
-11 Judah has dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah has profaned the holiness of the Lord which he loved, and has married the daughter of a strange god.
+11 Judah has dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah has defiled the holiness of the Lord which he loved, and has married the daughter of a strange god.
 
 12 The Lord will cut off the man that does this, the master and the scholar, out of the tabernacles of Jacob, and him that offers an offering to the Lord of hosts.
 
@@ -60,7 +60,7 @@
 
 14 Yet you say, therefore? Because the Lord has been witness between you and the wife of your youth, against whom you have dealt treacherously: yet is she your companion, and the wife of your covenant.
 
-15 And did not he make one? Yet had he the residue of the spirit. And therefore one? That he might seek a godly seed. Therefore take heed to your human spirit, and let none deal treacherously against the wife of his youth.
+15 And did not he make one? Yet had he the rest of the spirit. And therefore one? That he might seek a godly seed. Therefore take heed to your human spirit, and let none deal treacherously against the wife of his youth.
 
 16 For the Lord, the God of Israel, says that he hates putting away: for one covers violence with his garment, says the Lord of hosts: therefore take heed to your human spirit, that you deal not treacherously.
 
@@ -94,7 +94,7 @@
 
 13 Your words have been stout against me, says the Lord. Yet you say, What have we spoken so much against you?
 
-14 you have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the Lord of hosts?
+14 you have said, It is empty to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the Lord of hosts?
 
 15 And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.
 
@@ -102,7 +102,7 @@
 
 17 And they will be mine, says the Lord of hosts, in that day when I make up my jewels; and I will spare them, as a man spars his own son that serves him.
 
-18 Then will you return, and discern between the righteous and the wicked, between him that serves God and him that serves him not.
+18 Then will you return, and recognize between the righteous and the wicked, between him that serves God and him that serves him not.
 
 ## Malachi Chapter 4
 

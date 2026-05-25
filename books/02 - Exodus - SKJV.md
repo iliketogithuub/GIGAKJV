@@ -172,7 +172,7 @@
 
 13 And he said, O my Lord, send, I pray you, by the hand of him whom you will send.
 
-14 And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite your brother? I know that he can speak well. And also, look, he comes forth to meet you: and when he sees you, he will be glad in his heart.
+14 And the anger of the Lord was burned against Moses, and he said, Is not Aaron the Levite your brother? I know that he can speak well. And also, look, he comes forth to meet you: and when he sees you, he will be glad in his heart.
 
 15 And you will speak to him, and put words in his mouth: and I will be with your mouth, and with his mouth, and will teach you what you will do.
 
@@ -214,7 +214,7 @@
 
 2 And Pharaoh said, Who is the Lord, that I should obey his voice to let Israel go? I know not the Lord, neither will I let Israel go.
 
-3 And they said, The God of the Hebrews has met with us: let us go, we pray you, three days' journey into the desert, and sacrifice to the Lord our God; otherwise he fall upon us with pestilence, or with the sword.
+3 And they said, The God of the Hebrews has met with us: let us go, we pray you, three days' journey into the desert, and sacrifice to the Lord our God; otherwise he fall upon us with plague, or with the sword.
 
 4 And the king of Egypt said to them, therefore do you, Moses and Aaron, let the people from their works? get you to your burdens.
 
@@ -226,7 +226,7 @@
 
 8 And the tale of the bricks, which they did make previously, you will lay upon them; you will not diminish ought of it: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.
 
-9 Let there more work be laid upon the men, that they may labour in it; and let them not regard vain words.
+9 Let there more work be laid upon the men, that they may labour in it; and let them not regard empty words.
 
 10 And the taskmasters of the people went out, and their officers, and they spoke to the people, saying, Thus says Pharaoh, I will not give you straw.
 
@@ -466,7 +466,7 @@
 
 14 For I will at this time send all my plagues upon your heart, and upon your servants, and upon your people; that you may know that there is none like me in all the earth.
 
-15 For now I will stretch out my hand, that I may smite you and your people with pestilence; and you will be cut off from the earth.
+15 For now I will stretch out my hand, that I may smite you and your people with plague; and you will be cut off from the earth.
 
 16 And in very deed for this cause have I raised you up, for to show in you my power; and that my name may be declared throughout all the earth.
 
@@ -518,7 +518,7 @@
 
 4 Else, if you refuse to let my people go, look, to morrow will I bring the locusts into your coast:
 
-5 And they will cover the face of the earth, that one cannot be able to see the earth: and they will eat the residue of that which is escaped, which remains to you from the hail, and will eat every tree which grows for you out of the field:
+5 And they will cover the face of the earth, that one cannot be able to see the earth: and they will eat the rest of that which is escaped, which remains to you from the hail, and will eat every tree which grows for you out of the field:
 
 6 And they will fill your houses, and the houses of all your servants, and the houses of all the Egyptians; which neither your fathers, nor your fathers' fathers have seen, since the day that they were upon the earth to this day. And he turned himself, and went out from Pharaoh.
 
@@ -668,9 +668,9 @@
 
 38 And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.
 
-39 And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
+39 And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any food.
 
-40 Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.
+40 Now the living temporarily of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.
 
 41 And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord went out from the land of Egypt.
 
@@ -686,7 +686,7 @@
 
 47 All the congregation of Israel will keep it.
 
-48 And when a stranger will sojourn with you, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he will be as one that is born in the land: for no uncircumcised person will eat of it.
+48 And when a stranger will live temporarily with you, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he will be as one that is born in the land: for no uncircumcised person will eat of it.
 
 49 One law will be to him that is homeborn, and to the stranger that sojourns among you.
 
@@ -896,7 +896,7 @@
 
 17 And the children of Israel did so, and gathered, some more, some less.
 
-18 And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
+18 And when they did measure it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
 
 19 And Moses said, Let no man leave of it till the morning.
 
@@ -1010,7 +1010,7 @@
 
 20 And you will teach them ordinances and laws, and will show them the way in which they must walk, and the work that they must do.
 
-21 Moreover you will provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
+21 Moreover you will provide out of all the people able men, such as fear God, men of truth, hating greed; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
 
 22 And let them judge the people at all seasons: and it will be, that every great matter they will bring to you, but every small matter they will judge: so will it be easier for thyself, and they will bear the burden with you.
 
@@ -1086,11 +1086,11 @@
 
 4 you will not make to you any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
 
-5 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of them that hate me;
+5 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the wickedness of the fathers upon the children to the third and fourth generation of them that hate me;
 
 6 And showing mercy to thousands of them that love me, and keep my commandments.
 
-7 you will not take the name of the Lord your God in vain; for the Lord will not hold him guiltless that takes his name in vain.
+7 you will not take the name of the Lord your God for nothing; for the Lord will not hold him guiltless that takes his name for nothing.
 
 8 Remember the sabbath day, to keep it holy.
 
@@ -1098,7 +1098,7 @@
 
 10 But the seventh day is the sabbath of the Lord your God: in it you will not do any work, you, nor your son, nor your daughter, your manservant, nor your maidservant, nor your cattle, nor your stranger that is within your gates:
 
-11 For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: therefore the Lord blessed the sabbath day, and hallowed it.
+11 For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: therefore the Lord blessed the sabbath day, and made it holy.
 
 12 Honour your father and your mother: that your days may be long upon the land which the Lord your God gives you.
 
@@ -1146,9 +1146,9 @@
 
 7 And if a man sell his daughter to be a maidservant, she will not go out as the menservants do.
 
-8 If she please not her master, who has betrothed her to himself, then will he let her be redeemed: to sell her to a strange nation he will have no power, seeing he has dealt deceitfully with her.
+8 If she please not her master, who has engaged her to himself, then will he let her be redeemed: to sell her to a strange nation he will have no power, seeing he has dealt deceitfully with her.
 
-9 And if he have betrothed her to his son, he will deal with her after the manner of daughters.
+9 And if he have engaged her to his son, he will deal with her after the manner of daughters.
 
 10 If he take him another wife; her food, her clothing, and her duty of marriage, will he not diminish.
 
@@ -1210,13 +1210,13 @@
 
 2 If a thief be found breaking up, and be smitten that he die, there will no blood be shed for him.
 
-3 If the sun be risen upon him, there will be blood shed for him; for he should make full restitution; if he have nothing, then he will be sold for his theft.
+3 If the sun be risen upon him, there will be blood shed for him; for he should make full restoration; if he have nothing, then he will be sold for his theft.
 
 4 If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he will restore double.
 
-5 If a man will cause a field or vineyard to be eaten, and will put in his beast, and will feed in another man's field; of the best of his own field, and of the best of his own vineyard, will he make restitution.
+5 If a man will cause a field or vineyard to be eaten, and will put in his beast, and will feed in another man's field; of the best of his own field, and of the best of his own vineyard, will he make restoration.
 
-6 If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed with it; he that kindled the fire will surely make restitution.
+6 If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed with it; he that burned the fire will surely make restoration.
 
 7 If a man will deliver to his neighbour money or stuff to keep, and it be stolen out of the man's house; if the thief be found, let him pay double.
 
@@ -1228,7 +1228,7 @@
 
 11 Then will an oath of the Lord be between them both, that he has not put his hand to his neighbour's goods; and the owner of it will accept of it, and he will not make it good.
 
-12 And if it be stolen from him, he will make restitution to the owner of it.
+12 And if it be stolen from him, he will make restoration to the owner of it.
 
 13 If it be torn in pieces, then let him bring it for witness, and he will not make good that which was torn.
 
@@ -1236,7 +1236,7 @@
 
 15 But if the owner of it be with it, he will not make it good: if it be an hired thing, it came for his hire.
 
-16 And if a man entice a maid that is not betrothed, and lie with her, he will surely endow her to be his wife.
+16 And if a man entice a maid that is not engaged, and lie with her, he will surely endow her to be his wife.
 
 17 If her father utterly refuse to give her to him, he will pay money according to the dowry of virgins.
 
@@ -1254,13 +1254,13 @@
 
 24 And my wrath will wax hot, and I will kill you with the sword; and your wives will be widows, and your children fatherless.
 
-25 If you lend money to any of my people that is poor by you, you will not be to him as an usurer, neither will you lay upon him usury.
+25 If you lend money to any of my people that is poor by you, you will not be to him as an moneylender, neither will you lay upon him interest.
 
 26 If you at all take your neighbour's clothing to pledge, you will deliver it to him by that the sun goes down:
 
 27 For that is his covering only, it is his clothing for his skin: in which will he sleep? and it will come to pass, when he cries to me, that I will hear; for I am gracious.
 
-28 you will not revile the gods, nor curse the ruler of your people.
+28 you will not insult the gods, nor curse the ruler of your people.
 
 29 you will not delay to offer the first of your ripe fruits, and of your liquors: the firstborn of your sons will you give to me.
 
@@ -1274,11 +1274,11 @@
 
 2 you will not follow a multitude to do evil; neither will you speak in a cause to decline after many to wrest judgment:
 
-3 Neither will you countenance a poor man in his cause.
+3 Neither will you face a poor man in his cause.
 
 4 If you meet your enemy's ox or his ass going astray, you will surely bring it back to him again.
 
-5 If you see the ass of him that hates you lying under his burden, and would forbear to help him, you will surely help with him.
+5 If you see the ass of him that hates you lying under his burden, and would hold back to help him, you will surely help with him.
 
 6 you will not wrest the judgment of your poor in his cause.
 
@@ -1292,7 +1292,7 @@
 
 11 But the seventh year you will let it rest and lie still; that the poor of your people may eat: and what they leave the beasts of the field will eat. In like manner you will deal with your vineyard, and with your oliveyard.
 
-12 Six days you will do your work, and on the seventh day you will rest: that your ox and your ass may rest, and the son of your handmaid, and the stranger, may be refreshed.
+12 Six days you will do your work, and on the seventh day you will rest: that your ox and your ass may rest, and the son of your female servant, and the stranger, may be refreshed.
 
 13 And in all things that I have said to you be careful: and make no mention of the name of other gods, neither let it be heard out of your mouth.
 
@@ -1582,7 +1582,7 @@
 
 2 And you will make holy garments for Aaron your brother for glory and for beauty.
 
-3 And you will speak to all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister to me in the priest's office.
+3 And you will speak to all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to set apart him, that he may minister to me in the priest's office.
 
 4 And these are the garments which they will make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a belt: and they will make holy garments for Aaron your brother, and his sons, that he may minister to me in the priest's office.
 
@@ -1652,17 +1652,17 @@
 
 37 And you will put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it will be.
 
-38 And it will be upon Aaron's forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel will hallow in all their holy gifts; and it will be always upon his forehead, that they may be accepted before the Lord.
+38 And it will be upon Aaron's forehead, that Aaron may bear the wickedness of the holy things, which the children of Israel will hallow in all their holy gifts; and it will be always upon his forehead, that they may be accepted before the Lord.
 
 39 And you will embroider the coat of fine linen, and you will make the mitre of fine linen, and you will make the belt of needlework.
 
 40 And for Aaron's sons you will make coats, and you will make for them girdles, and bonnets will you make for them, for glory and for beauty.
 
-41 And you will put them upon Aaron your brother, and his sons with him; and will anoint them, and consecrate them, and sanctify them, that they may minister to me in the priest's office.
+41 And you will put them upon Aaron your brother, and his sons with him; and will anoint them, and set apart them, and sanctify them, that they may minister to me in the priest's office.
 
 42 And you will make them linen breeches to cover their nakedness; from the loins even to the thighs they will reach:
 
-43 And they will be upon Aaron, and upon his sons, when they come in to the tabernacle of the congregation, or when they come near to the altar to minister in the holy place; that they bear not iniquity, and die: it will be a statute for ever to him and his seed after him.
+43 And they will be upon Aaron, and upon his sons, when they come in to the tabernacle of the congregation, or when they come near to the altar to minister in the holy place; that they bear not wickedness, and die: it will be a statute for ever to him and his seed after him.
 
 ## Exodus Chapter 29
 
@@ -1682,7 +1682,7 @@
 
 8 And you will bring his sons, and put coats upon them.
 
-9 And you will gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office will be theirs for a perpetual statute: and you will consecrate Aaron and his sons.
+9 And you will gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office will be theirs for a perpetual statute: and you will set apart Aaron and his sons.
 
 10 And you will cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons will put their hands upon the head of the bullock.
 
@@ -1706,9 +1706,9 @@
 
 20 Then will you kill the ram, and take of his blood, and put it upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.
 
-21 And you will take of the blood that is upon the altar, and of the anointing oil, and sprinkle it upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he will be hallowed, and his garments, and his sons, and his sons' garments with him.
+21 And you will take of the blood that is upon the altar, and of the anointing oil, and sprinkle it upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he will be made holy, and his garments, and his sons, and his sons' garments with him.
 
-22 Also you will take of the ram the fat and the rump, and the fat that covers the inwards, and the caul above the liver, and the two kidneys, and the fat that is upon them, and the right shoulder; for it is a ram of consecration:
+22 Also you will take of the ram the fat and the rump, and the fat that covers the inwards, and the caul above the liver, and the two kidneys, and the fat that is upon them, and the right shoulder; for it is a ram of setting apart:
 
 23 And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that is before the Lord:
 
@@ -1716,25 +1716,25 @@
 
 25 And you will receive them of their hands, and burn them upon the altar for a burnt offering, for a sweet savour before the Lord: it is an offering made by fire to the Lord.
 
-26 And you will take the breast of the ram of Aaron's consecration, and wave it for a wave offering before the Lord: and it will be your part.
+26 And you will take the breast of the ram of Aaron's setting apart, and wave it for a wave offering before the Lord: and it will be your part.
 
-27 And you will sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the consecration, even of that which is for Aaron, and of that which is for his sons:
+27 And you will sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the setting apart, even of that which is for Aaron, and of that which is for his sons:
 
 28 And it will be Aaron's and his sons' by a statute for ever from the children of Israel: for it is an heave offering: and it will be an heave offering from the children of Israel of the sacrifice of their peace offerings, even their heave offering to the Lord.
 
-29 And the holy garments of Aaron will be his sons' after him, to be anointed in it, and to be consecrated in them.
+29 And the holy garments of Aaron will be his sons' after him, to be anointed in it, and to be set apart in them.
 
 30 And that son that is priest in his stead will put them on seven days, when he comes into the tabernacle of the congregation to minister in the holy place.
 
-31 And you will take the ram of the consecration, and seethe his flesh in the holy place.
+31 And you will take the ram of the setting apart, and seethe his flesh in the holy place.
 
 32 And Aaron and his sons will eat the flesh of the ram, and the bread that is in the basket by the door of the tabernacle of the congregation.
 
-33 And they will eat those things with what the atonement was made, to consecrate and to sanctify them: but a stranger will not eat of it, because they are holy.
+33 And they will eat those things with what the atonement was made, to set apart and to sanctify them: but a stranger will not eat of it, because they are holy.
 
 34 And if ought of the flesh of the consecrations, or of the bread, remain to the morning, then you will burn the remainder with fire: it will not be eaten, because it is holy.
 
-35 And thus will you do to Aaron, and to his sons, according to all things which I have commanded you: seven days will you consecrate them.
+35 And thus will you do to Aaron, and to his sons, according to all things which I have commanded you: seven days will you set apart them.
 
 36 And you will offer every day a bullock for a sin offering for atonement: and you will cleanse the altar, when you have made an atonement for it, and you will anoint it, to sanctify it.
 
@@ -1818,7 +1818,7 @@
 
 29 And you will sanctify them, that they may be most holy: whatsoever touchs them will be holy.
 
-30 And you will anoint Aaron and his sons, and consecrate them, that they may minister to me in the priest's office.
+30 And you will anoint Aaron and his sons, and set apart them, that they may minister to me in the priest's office.
 
 31 And you will speak to the children of Israel, saying, This will be an holy anointing oil to me throughout your generations.
 
@@ -1932,7 +1932,7 @@
 
 28 And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.
 
-29 For Moses had said, Consecrate yourselves today to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
+29 For Moses had said, Set apart yourselves today to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
 
 30 And it came to pass on the morrow, that Moses said to the people, you have sinned a great sin: and now I will go up to the Lord; perhaps I will make an atonement for your sin.
 
@@ -2006,13 +2006,13 @@
 
 5 And the Lord descended in the cloud, and stood with him there, and proclaimed the name of the Lord.
 
-6 And the Lord passed by before him, and proclaimed, The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth,
+6 And the Lord passed by before him, and proclaimed, The Lord, The Lord God, merciful and gracious, patience, and abundant in goodness and truth,
 
-7 Keeping mercy for thousands, forgiving iniquity and sin and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, to the third and to the fourth generation.
+7 Keeping mercy for thousands, forgiving wickedness and sin and sin, and that will by no means clear the guilty; visiting the wickedness of the fathers upon the children, and upon the children's children, to the third and to the fourth generation.
 
 8 And Moses made haste, and bowed his head toward the earth, and worshipped.
 
-9 And he said, If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for your inheritance.
+9 And he said, If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us; for it is a stiffnecked people; and pardon our wickedness and our sin, and take us for your inheritance.
 
 10 And he said, Look, I make a covenant: before all your people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which you are will see the work of the Lord: for it is a terrible thing that I will do with you.
 

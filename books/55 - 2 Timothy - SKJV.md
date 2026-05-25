@@ -20,7 +20,7 @@
 
 9 Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
 
-10 But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
+10 But is now made revealed by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
 
 11 Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
 
@@ -70,13 +70,13 @@
 
 15 Study to show thyself approved to God, a workman that needs not to be ashamed, rightly dividing the word of truth.
 
-16 But shun profane and vain babblings: for they will increase to more ungodliness.
+16 But shun defile and empty babblings: for they will increase to more ungodliness.
 
 17 And their word will eat as does a canker: of whom is Hymenaeus and Philetus;
 
 18 Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
 
-19 Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, let every one that nams the name of Christ depart from iniquity.
+19 Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, let every one that nams the name of Christ depart from wickedness.
 
 20 But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
 
@@ -94,7 +94,7 @@
 
 ## 2 Timothy Chapter 3
 
-1 This know also, that in the last days perilous times will come.
+1 This know also, that in the last days dangerous times will come.
 
 2 For men will be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 
@@ -110,9 +110,9 @@
 
 8 Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 
-9 But they will proceed no further: for their folly will be manifest to all men, as their's also was.
+9 But they will proceed no further: for their folly will be revealed to all men, as their's also was.
 
-10 But you have fully known my doctrine, manner of life, purpose, faith, longsuffering, love, patience,
+10 But you have fully known my doctrine, manner of life, purpose, faith, patience, love, patience,
 
 11 Persecutions, afflictions, which came to me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.
 

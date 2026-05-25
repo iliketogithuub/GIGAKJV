@@ -44,13 +44,13 @@
 
 3 And the remnant of the meat offering will be Aaron's and his sons': it is a thing most holy of the offerings of the Lord made by fire.
 
-4 And if you bring an oblation of a meat offering baken in the oven, it will be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+4 And if you bring an offering of a meat offering baken in the oven, it will be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
 
-5 And if your oblation be a meat offering baken in a pan, it will be of fine flour unleavened, mingled with oil.
+5 And if your offering be a meat offering baken in a pan, it will be of fine flour unleavened, mingled with oil.
 
 6 you will part it in pieces, and pour oil thereon: it is a meat offering.
 
-7 And if your oblation be a meat offering baken in the fryingpan, it will be made of fine flour with oil.
+7 And if your offering be a meat offering baken in the fryingpan, it will be made of fine flour with oil.
 
 8 And you will bring the meat offering that is made of these things to the Lord: and when it is presented to the priest, he will bring it to the altar.
 
@@ -60,9 +60,9 @@
 
 11 No meat offering, which you will bring to the Lord, will be made with leaven: for you will burn no leaven, nor any honey, in any offering of the Lord made by fire.
 
-12 As for the oblation of the firstfruits, you will offer them to the Lord: but they will not be burnt on the altar for a sweet savour.
+12 As for the offering of the firstfruits, you will offer them to the Lord: but they will not be burnt on the altar for a sweet savour.
 
-13 And every oblation of your meat offering will you season with salt; neither will you suffer the salt of the covenant of your God to be lacking from your meat offering: with all your offerings you will offer salt.
+13 And every offering of your meat offering will you season with salt; neither will you suffer the salt of the covenant of your God to be lacking from your meat offering: with all your offerings you will offer salt.
 
 14 And if you offer a meat offering of your firstfruits to the Lord, you will offer for the meat offering of your firstfruits green ears of corn dried by the fire, even corn beaten out of full ears.
 
@@ -72,7 +72,7 @@
 
 ## Leviticus Chapter 3
 
-1 And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he will offer it without blemish before the Lord.
+1 And if his offering be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he will offer it without blemish before the Lord.
 
 2 And he will lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron's sons the priests will sprinkle the blood upon the altar round about.
 
@@ -180,7 +180,7 @@
 
 ## Leviticus Chapter 5
 
-1 And if a soul sin, and hear the voice of swearing, and is a witness, whether he has seen or known of it; if he do not utter it, then he will bear his iniquity.
+1 And if a soul sin, and hear the voice of swearing, and is a witness, whether he has seen or known of it; if he do not utter it, then he will bear his wickedness.
 
 2 Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also will be unclean, and guilty.
 
@@ -212,7 +212,7 @@
 
 16 And he will make amends for the harm that he has done in the holy thing, and will add the fifth part to it, and give it to the priest: and the priest will make an atonement for him with the ram of the trespass offering, and it will be forgiven him.
 
-17 And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the Lord; though he knew it not, yet is he guilty, and will bear his iniquity.
+17 And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the Lord; though he knew it not, yet is he guilty, and will bear his wickedness.
 
 18 And he will bring a ram without blemish out of the flock, with your estimation, for a trespass offering, to the priest: and the priest will make an atonement for him concerning his ignorance in which he erred and knew it not, and it will be forgiven him.
 
@@ -308,7 +308,7 @@
 
 13 Besides the cakes, he will offer for his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.
 
-14 And of it he will offer one out of the whole oblation for an heave offering to the Lord, and it will be the priest's that sprinkls the blood of the peace offerings.
+14 And of it he will offer one out of the whole offering for an heave offering to the Lord, and it will be the priest's that sprinkls the blood of the peace offerings.
 
 15 And the flesh of the sacrifice of his peace offerings for thanksgiving will be eaten the same day that it is offered; he will not leave any of it until the morning.
 
@@ -316,7 +316,7 @@
 
 17 But the remainder of the flesh of the sacrifice on the third day will be burnt with fire.
 
-18 And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it will not be accepted, neither will it be credited to him that offers it: it will be an abomination, and the soul that eats of it will bear his iniquity.
+18 And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it will not be accepted, neither will it be credited to him that offers it: it will be an abomination, and the soul that eats of it will bear his wickedness.
 
 19 And the flesh that touchs any unclean thing will not be eaten; it will be burnt with fire: and as for the flesh, all that be clean will eat of it.
 
@@ -338,7 +338,7 @@
 
 28 And the Lord spoke to Moses, saying,
 
-29 Speak to the children of Israel, saying, He that offers the sacrifice of his peace offerings to the Lord will bring his oblation to the Lord of the sacrifice of his peace offerings.
+29 Speak to the children of Israel, saying, He that offers the sacrifice of his peace offerings to the Lord will bring his offering to the Lord of the sacrifice of his peace offerings.
 
 30 His own hands will bring the offerings of the Lord made by fire, the fat with the breast, it will he bring, that the breast may be waved for a wave offering before the Lord.
 
@@ -356,7 +356,7 @@
 
 37 This is the law of the burnt offering, of the meat offering, and of the sin offering, and of the trespass offering, and of the consecrations, and of the sacrifice of the peace offerings;
 
-38 Which the Lord commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations to the Lord, in the wilderness of Sinai.
+38 Which the Lord commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their offerings to the Lord, in the wilderness of Sinai.
 
 ## Leviticus Chapter 8
 
@@ -388,7 +388,7 @@
 
 14 And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.
 
-15 And he killed it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.
+15 And he killed it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make peace-making upon it.
 
 16 And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar.
 
@@ -402,7 +402,7 @@
 
 21 And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire to the Lord; as the Lord commanded Moses.
 
-22 And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.
+22 And he brought the other ram, the ram of setting apart: and Aaron and his sons laid their hands upon the head of the ram.
 
 23 And he killed it; and Moses took of the blood of it, and put it upon the tip of Aaron's right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.
 
@@ -416,7 +416,7 @@
 
 28 And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire to the Lord.
 
-29 And Moses took the breast, and waved it for a wave offering before the Lord: for of the ram of consecration it was Moses' part; as the Lord commanded Moses.
+29 And Moses took the breast, and waved it for a wave offering before the Lord: for of the ram of setting apart it was Moses' part; as the Lord commanded Moses.
 
 30 And Moses took of the anointing oil, and of the blood which was upon the altar, and sprinkled it upon Aaron, and upon his garments, and upon his sons, and upon his sons' garments with him; and sanctified Aaron, and his garments, and his sons, and his sons' garments with him.
 
@@ -424,7 +424,7 @@
 
 32 And that which remains of the flesh and of the bread will you burn with fire.
 
-33 And you will not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days will he consecrate you.
+33 And you will not go out of the door of the tabernacle of the congregation in seven days, until the days of your setting apart be at an end: for seven days will he set apart you.
 
 34 As he has done this day, so the Lord has commanded to do, to make an atonement for you.
 
@@ -494,7 +494,7 @@
 
 5 So they went near, and carried them in their coats out of the camp; as Moses had said.
 
-6 And Moses said to Aaron, and to Eleazar and to Ithamar, his sons, Uncover not your heads, neither rend your clothes; otherwise you die, and otherwise wrath come upon all the people: but let your brothers, the whole house of Israel, bewail the burning which the Lord has kindled.
+6 And Moses said to Aaron, and to Eleazar and to Ithamar, his sons, Uncover not your heads, neither rend your clothes; otherwise you die, and otherwise wrath come upon all the people: but let your brothers, the whole house of Israel, bewail the burning which the Lord has burned.
 
 7 And you will not go out from the door of the tabernacle of the congregation, otherwise you die: for the anointing oil of the Lord is upon you. And they did according to the word of Moses.
 
@@ -516,7 +516,7 @@
 
 16 And Moses diligently sought the goat of the sin offering, and, look, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron which were left alive, saying,
 
-17 therefore have you not eaten the sin offering in the holy place, seeing it is most holy, and God has given it you to bear the iniquity of the congregation, to make atonement for them before the Lord?
+17 therefore have you not eaten the sin offering in the holy place, seeing it is most holy, and God has given it you to bear the wickedness of the congregation, to make atonement for them before the Lord?
 
 18 Look, the blood of it was not brought in within the holy place: you should indeed have eaten it in the holy place, as I commanded.
 
@@ -628,7 +628,7 @@
 
 3 And in the eighth day the flesh of his foreskin will be circumcised.
 
-4 And she will then continue in the blood of her purifying three and thirty days; she will touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
+4 And she will then continue in the blood of her purifying three and thirty days; she will touch no holy thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
 
 5 But if she bear a maid child, then she will be unclean two weeks, as in her separation: and she will continue in the blood of her purifying threescore and six days.
 
@@ -984,9 +984,9 @@
 
 20 And when he has made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he will bring the live goat:
 
-21 And Aaron will lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their sins in all their sins, putting them upon the head of the goat, and will send him away by the hand of a fit man into the wilderness:
+21 And Aaron will lay both his hands upon the head of the live goat, and confess over him all the wickedness of the children of Israel, and all their sins in all their sins, putting them upon the head of the goat, and will send him away by the hand of a fit man into the wilderness:
 
-22 And the goat will bear upon him all their iniquities to a land not inhabited: and he will let go the goat in the wilderness.
+22 And the goat will bear upon him all their wickedness to a land not inhabited: and he will let go the goat in the wilderness.
 
 23 And Aaron will come into the tabernacle of the congregation, and will put off the linen garments, which he put on when he went into the holy place, and will leave them there:
 
@@ -1006,7 +1006,7 @@
 
 31 It will be a sabbath of rest to you, and you will afflict your souls, by a statute for ever.
 
-32 And the priest, whom he will anoint, and whom he will consecrate to minister in the priest's office in his father's stead, will make the atonement, and will put on the linen clothes, even the holy garments:
+32 And the priest, whom he will anoint, and whom he will set apart to minister in the priest's office in his father's stead, will make the atonement, and will put on the linen clothes, even the holy garments:
 
 33 And he will make an atonement for the holy sanctuary, and he will make an atonement for the tabernacle of the congregation, and for the altar, and he will make an atonement for the priests, and for all the people of the congregation.
 
@@ -1028,23 +1028,23 @@
 
 7 And they will no more offer their sacrifices to devils, after whom they have gone a whoring. This will be a statute for ever to them throughout their generations.
 
-8 And you will say to them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offers a burnt offering or sacrifice,
+8 And you will say to them, Whatsoever man there be of the house of Israel, or of the strangers which live temporarily among you, that offers a burnt offering or sacrifice,
 
 9 And brings it not to the door of the tabernacle of the congregation, to offer it to the Lord; even that man will be cut off from among his people.
 
-10 And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eats any manner of blood; I will even set my face against that soul that eats blood, and will cut him off from among his people.
+10 And whatsoever man there be of the house of Israel, or of the strangers that live temporarily among you, that eats any manner of blood; I will even set my face against that soul that eats blood, and will cut him off from among his people.
 
 11 For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that makes an atonement for the soul.
 
 12 Therefore I said to the children of Israel, No soul of you will eat blood, neither will any stranger that sojourns among you eat blood.
 
-13 And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunts and catchs any beast or fowl that may be eaten; he will even pour out the blood of it, and cover it with dust.
+13 And whatsoever man there be of the children of Israel, or of the strangers that live temporarily among you, which hunts and catchs any beast or fowl that may be eaten; he will even pour out the blood of it, and cover it with dust.
 
 14 For it is the life of all flesh; the blood of it is for the life of it: therefore I said to the children of Israel, you will eat the blood of no manner of flesh: for the life of all flesh is the blood of it: whosoever eats it will be cut off.
 
 15 And every soul that eats that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he will both wash his clothes, and bathe himself in water, and be unclean until the even: then will he be clean.
 
-16 But if he wash them not, nor bathe his flesh; then he will bear his iniquity.
+16 But if he wash them not, nor bathe his flesh; then he will bear his wickedness.
 
 ## Leviticus Chapter 18
 
@@ -1088,7 +1088,7 @@
 
 20 Moreover you will not lie carnally with your neighbour's wife, to defile thyself with her.
 
-21 And you will not let any of your seed pass through the fire to Molech, neither will you profane the name of your God: I am the Lord.
+21 And you will not let any of your seed pass through the fire to Molech, neither will you defile the name of your God: I am the Lord.
 
 22 you will not lie with mankind, as with womankind: it is abomination.
 
@@ -1096,7 +1096,7 @@
 
 24 Defile not you yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
 
-25 And the land is defiled: therefore I do visit the iniquity of it upon it, and the land itself vomits out her inhabitants.
+25 And the land is defiled: therefore I do visit the wickedness of it upon it, and the land itself vomits out her inhabitants.
 
 26 you will therefore keep my statutes and my judgments, and will not commit any of these abominations; neither any of your own nation, nor any stranger that sojourns among you:
 
@@ -1124,7 +1124,7 @@
 
 7 And if it be eaten at all on the third day, it is abominable; it will not be accepted.
 
-8 Therefore every one that eats it will bear his iniquity, because he has profaned the hallowed thing of the Lord: and that soul will be cut off from among his people.
+8 Therefore every one that eats it will bear his wickedness, because he has defiled the holy thing of the Lord: and that soul will be cut off from among his people.
 
 9 And when you reap the harvest of your land, you will not wholly reap the corners of your field, neither will you gather the gleanings of your harvest.
 
@@ -1132,7 +1132,7 @@
 
 11 you will not steal, neither deal falsely, neither lie one to another.
 
-12 And you will not swear by my name falsely, neither will you profane the name of your God: I am the Lord.
+12 And you will not swear by my name falsely, neither will you defile the name of your God: I am the Lord.
 
 13 you will not defraud your neighbour, neither rob him: the wages of him that is hired will not abide with you all night until the morning.
 
@@ -1144,11 +1144,11 @@
 
 17 you will not hate your brother in your heart: you will in any wise rebuke your neighbour, and not suffer sin upon him.
 
-18 you will not avenge, nor bear any grudge against the children of your people, but you will love your neighbour as thyself: I am the Lord.
+18 you will not bring justice, nor bear any grudge against the children of your people, but you will love your neighbour as thyself: I am the Lord.
 
 19 you will keep my statutes. you will not let your cattle gender with a diverse kind: you will not sow your field with mingled seed: neither will a garment mingled of linen and woollen come upon you.
 
-20 And whosoever lies carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she will be scourged; they will not be put to death, because she was not free.
+20 And whosoever lies carnally with a woman, that is a female slave, engaged to an husband, and not at all redeemed, nor freedom given her; she will be whipped; they will not be put to death, because she was not free.
 
 21 And he will bring his trespass offering to the Lord, to the door of the tabernacle of the congregation, even a ram for a trespass offering.
 
@@ -1174,7 +1174,7 @@
 
 32 you will rise up before the hoary head, and honour the face of the old man, and fear your God: I am the Lord.
 
-33 And if a stranger sojourn with you in your land, you will not vex him.
+33 And if a stranger live temporarily with you in your land, you will not vex him.
 
 34 But the stranger that dwells with you will be to you as one born among you, and you will love him as thyself; for you were strangers in the land of Egypt: I am the Lord your God.
 
@@ -1188,9 +1188,9 @@
 
 1 And the Lord spoke to Moses, saying,
 
-2 Again, you will say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that gives any of his seed to Molech; he will surely be put to death: the people of the land will stone him with stones.
+2 Again, you will say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that live temporarily in Israel, that gives any of his seed to Molech; he will surely be put to death: the people of the land will stone him with stones.
 
-3 And I will set my face against that man, and will cut him off from among his people; because he has given of his seed to Molech, to defile my sanctuary, and to profane my holy name.
+3 And I will set my face against that man, and will cut him off from among his people; because he has given of his seed to Molech, to defile my sanctuary, and to defile my holy name.
 
 4 And if the people of the land do any ways hide their eyes from the man, when he gives of his seed to Molech, and kill him not:
 
@@ -1218,11 +1218,11 @@
 
 16 And if a woman approach to any beast, and lie down to it, you will kill the woman, and the beast: they will surely be put to death; their blood will be upon them.
 
-17 And if a man will take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they will be cut off in the sight of their people: he has uncovered his sister's nakedness; he will bear his iniquity.
+17 And if a man will take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they will be cut off in the sight of their people: he has uncovered his sister's nakedness; he will bear his wickedness.
 
 18 And if a man will lie with a woman having her sickness, and will uncover her nakedness; he has discovered her fountain, and she has uncovered the fountain of her blood: and both of them will be cut off from among their people.
 
-19 And you will not uncover the nakedness of your mother's sister, nor of your father's sister: for he uncovers his near kin: they will bear their iniquity.
+19 And you will not uncover the nakedness of your mother's sister, nor of your father's sister: for he uncovers his near kin: they will bear their wickedness.
 
 20 And if a man will lie with his uncle's wife, he has uncovered his uncle's nakedness: they will bear their sin; they will die childless.
 
@@ -1248,29 +1248,29 @@
 
 3 And for his sister a virgin, that is near to him, which has had no husband; for her may he be defiled.
 
-4 But he will not defile himself, being a chief man among his people, to profane himself.
+4 But he will not defile himself, being a chief man among his people, to defile himself.
 
 5 They will not make baldness upon their head, neither will they shave off the corner of their beard, nor make any cuttings in their flesh.
 
-6 They will be holy to their God, and not profane the name of their God: for the offerings of the Lord made by fire, and the bread of their God, they do offer: therefore they will be holy.
+6 They will be holy to their God, and not defile the name of their God: for the offerings of the Lord made by fire, and the bread of their God, they do offer: therefore they will be holy.
 
-7 They will not take a wife that is a whore, or profane; neither will they take a woman put away from her husband: for he is holy to his God.
+7 They will not take a wife that is a whore, or defile; neither will they take a woman put away from her husband: for he is holy to his God.
 
 8 you will sanctify him therefore; for he offers the bread of your God: he will be holy to you: for I the Lord, which sanctify you, am holy.
 
-9 And the daughter of any priest, if she profane herself by playing the whore, she profans her father: she will be burnt with fire.
+9 And the daughter of any priest, if she defile herself by playing the whore, she profans her father: she will be burnt with fire.
 
-10 And he that is the high priest among his brothers, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, will not uncover his head, nor rend his clothes;
+10 And he that is the high priest among his brothers, upon whose head the anointing oil was poured, and that is set apart to put on the garments, will not uncover his head, nor rend his clothes;
 
 11 Neither will he go in to any dead body, nor defile himself for his father, or for his mother;
 
-12 Neither will he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the Lord.
+12 Neither will he go out of the sanctuary, nor defile the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the Lord.
 
 13 And he will take a wife in her virginity.
 
-14 A widow, or a divorced woman, or profane, or an harlot, these will he not take: but he will take a virgin of his own people to wife.
+14 A widow, or a divorced woman, or defile, or an prostitute, these will he not take: but he will take a virgin of his own people to wife.
 
-15 Neither will he profane his seed among his people: for I the Lord do sanctify him.
+15 Neither will he defile his seed among his people: for I the Lord do sanctify him.
 
 16 And the Lord spoke to Moses, saying,
 
@@ -1286,7 +1286,7 @@
 
 22 He will eat the bread of his God, both of the most holy, and of the holy.
 
-23 Only he will not go in to the vail, nor come near to the altar, because he has a blemish; that he profane not my sanctuaries: for I the Lord do sanctify them.
+23 Only he will not go in to the vail, nor come near to the altar, because he has a blemish; that he defile not my sanctuaries: for I the Lord do sanctify them.
 
 24 And Moses told it to Aaron, and to his sons, and to all the children of Israel.
 
@@ -1294,7 +1294,7 @@
 
 1 And the Lord spoke to Moses, saying,
 
-2 Speak to Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow to me: I am the Lord.
+2 Speak to Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they defile not my holy name in those things which they hallow to me: I am the Lord.
 
 3 Say to them, Whosoever he be of all your seed among your generations, that goes to the holy things, which the children of Israel hallow to the Lord, having his uncleanness upon him, that soul will be cut off from my presence: I am the Lord.
 
@@ -1308,9 +1308,9 @@
 
 8 That which dies of itself, or is torn with beasts, he will not eat to defile himself with it; I am the Lord.
 
-9 They will therefore keep mine ordinance, otherwise they bear sin for it, and die therefore, if they profane it: I the Lord do sanctify them.
+9 They will therefore keep mine ordinance, otherwise they bear sin for it, and die therefore, if they defile it: I the Lord do sanctify them.
 
-10 There will no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, will not eat of the holy thing.
+10 There will no stranger eat of the holy thing: a foreigner of the priest, or an hired servant, will not eat of the holy thing.
 
 11 But if the priest buy any soul with his money, he will eat of it, and he that is born in his house: they will eat of his meat.
 
@@ -1320,13 +1320,13 @@
 
 14 And if a man eat of the holy thing unwittingly, then he will put the fifth part of it to it, and will give it to the priest with the holy thing.
 
-15 And they will not profane the holy things of the children of Israel, which they offer to the Lord;
+15 And they will not defile the holy things of the children of Israel, which they offer to the Lord;
 
-16 Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the Lord do sanctify them.
+16 Or suffer them to bear the wickedness of trespass, when they eat their holy things: for I the Lord do sanctify them.
 
 17 And the Lord spoke to Moses, saying,
 
-18 Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer to the Lord for a burnt offering;
+18 Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his offering for all his vows, and for all his freewill offerings, which they will offer to the Lord for a burnt offering;
 
 19 you will offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats.
 
@@ -1354,7 +1354,7 @@
 
 31 Therefore will you keep my commandments, and do them: I am the Lord.
 
-32 Neither will you profane my holy name; but I will be hallowed among the children of Israel: I am the Lord which hallow you,
+32 Neither will you defile my holy name; but I will be made holy among the children of Israel: I am the Lord which hallow you,
 
 33 That brought you out of the land of Egypt, to be your God: I am the Lord.
 
@@ -1542,7 +1542,7 @@
 
 22 And you will sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in you will eat of the old store.
 
-23 The land will not be sold for ever: for the land is mine, for you are strangers and sojourners with me.
+23 The land will not be sold for ever: for the land is mine, for you are strangers and foreigners with me.
 
 24 And in all the land of your possession you will grant a redemption for the land.
 
@@ -1566,31 +1566,31 @@
 
 34 But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.
 
-35 And if your brother be waxen poor, and fallen in decay with you; then you will relieve him: yea, though he be a stranger, or a sojourner; that he may live with you.
+35 And if your brother be waxen poor, and fallen in decay with you; then you will relieve him: yea, though he be a stranger, or a foreigner; that he may live with you.
 
-36 Take you no usury of him, or increase: but fear your God; that your brother may live with you.
+36 Take you no interest of him, or increase: but fear your God; that your brother may live with you.
 
-37 you will not give him your money upon usury, nor lend him your victuals for increase.
+37 you will not give him your money upon interest, nor lend him your food for increase.
 
 38 I am the Lord your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God.
 
-39 And if your brother that dwells by you be waxen poor, and be sold to you; you will not compel him to serve as a bondservant:
+39 And if your brother that dwells by you be waxen poor, and be sold to you; you will not force him to serve as a bondservant:
 
-40 But as an hired servant, and as a sojourner, he will be with you, and will serve you to the year of jubile.
+40 But as an hired servant, and as a foreigner, he will be with you, and will serve you to the year of jubile.
 
 41 And then will he depart from you, both he and his children with him, and will return to his own family, and to the possession of his fathers will he return.
 
-42 For they are my servants, which I brought forth out of the land of Egypt: they will not be sold as bondmen.
+42 For they are my servants, which I brought forth out of the land of Egypt: they will not be sold as slaves.
 
 43 you will not rule over him with rigour; but will fear your God.
 
-44 Both your bondmen, and your bondmaids, which you will have, will be of the heathen that are round about you; of them will you buy bondmen and bondmaids.
+44 Both your slaves, and your female slaves, which you will have, will be of the heathen that are round about you; of them will you buy slaves and female slaves.
 
-45 Moreover of the children of the strangers that do sojourn among you, of them will you buy, and of their families that are with you, which they fathered in your land: and they will be your possession.
+45 Moreover of the children of the strangers that do live temporarily among you, of them will you buy, and of their families that are with you, which they fathered in your land: and they will be your possession.
 
-46 And you will take them as an inheritance for your children after you, to inherit them for a possession; they will be your bondmen for ever: but over your brothers the children of Israel, you will not rule one over another with rigour.
+46 And you will take them as an inheritance for your children after you, to inherit them for a possession; they will be your slaves for ever: but over your brothers the children of Israel, you will not rule one over another with rigour.
 
-47 And if a sojourner or stranger wax rich by you, and your brother that dwells by him wax poor, and sell himself to the stranger or sojourner by you, or to the stock of the stranger's family:
+47 And if a foreigner or stranger wax rich by you, and your brother that dwells by him wax poor, and sell himself to the stranger or foreigner by you, or to the stock of the stranger's family:
 
 48 After that he is sold he may be redeemed again; one of his brothers may redeem him:
 
@@ -1634,13 +1634,13 @@
 
 12 And I will walk among you, and will be your God, and you will be my people.
 
-13 I am the Lord your God, which brought you forth out of the land of Egypt, that you should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.
+13 I am the Lord your God, which brought you forth out of the land of Egypt, that you should not be their slaves; and I have broken the bands of your yoke, and made you go upright.
 
 14 But if you will not listen to me, and will not do all these commandments;
 
 15 And if you will despise my statutes, or if your soul despise my judgments, so that you will not do all my commandments, but that you break my covenant:
 
-16 I also will do this to you; I will even appoint over you terror, consumption, and the burning ague, that will consume the eyes, and cause sorrow of heart: and you will sow your seed in vain, for your enemies will eat it.
+16 I also will do this to you; I will even appoint over you terror, consumption, and the burning ague, that will consume the eyes, and cause sorrow of heart: and you will sow your seed for nothing, for your enemies will eat it.
 
 17 And I will set my face against you, and you will be slain before your enemies: they that hate you will reign over you; and you will flee when none pursus you.
 
@@ -1648,7 +1648,7 @@
 
 19 And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:
 
-20 And your strength will be spent in vain: for your land will not yield her increase, neither will the trees of the land yield their fruits.
+20 And your strength will be spent for nothing: for your land will not yield her increase, neither will the trees of the land yield their fruits.
 
 21 And if you walk contrary to me, and will not listen to me; I will bring seven times more plagues upon you according to your sins.
 
@@ -1658,7 +1658,7 @@
 
 24 Then will I also walk contrary to you, and will punish you yet seven times for your sins.
 
-25 And I will bring a sword upon you, that will avenge the quarrel of my covenant: and when you are gathered together within your cities, I will send the pestilence among you; and you will be delivered into the hand of the enemy.
+25 And I will bring a sword upon you, that will bring justice the quarrel of my covenant: and when you are gathered together within your cities, I will send the plague among you; and you will be delivered into the hand of the enemy.
 
 26 And when I have broken the staff of your bread, ten women will bake your bread in one oven, and they will deliver you your bread again by weight: and you will eat, and not be satisfied.
 
@@ -1672,7 +1672,7 @@
 
 31 And I will make your cities waste, and bring your sanctuaries to desolation, and I will not smell the savour of your sweet odours.
 
-32 And I will bring the land into desolation: and your enemies which dwell in it will be astonished at it.
+32 And I will bring the land into desolation: and your enemies which dwell in it will be amazed at it.
 
 33 And I will scatter you among the heathen, and will draw out a sword after you: and your land will be desolate, and your cities waste.
 
@@ -1686,15 +1686,15 @@
 
 38 And you will perish among the heathen, and the land of your enemies will eat you up.
 
-39 And they that are left of you will pine away in their iniquity in your enemies' lands; and also in the iniquities of their fathers will they pine away with them.
+39 And they that are left of you will pine away in their wickedness in your enemies' lands; and also in the wickedness of their fathers will they pine away with them.
 
-40 If they will confess their iniquity, and the iniquity of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary to me;
+40 If they will confess their wickedness, and the wickedness of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary to me;
 
-41 And that I also have walked contrary to them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:
+41 And that I also have walked contrary to them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their wickedness:
 
 42 Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.
 
-43 The land also will be left of them, and will enjoy her sabbaths, while she lies desolate without them: and they will accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul despised my statutes.
+43 The land also will be left of them, and will enjoy her sabbaths, while she lies desolate without them: and they will accept of the punishment of their wickedness: because, even because they despised my judgments, and because their soul despised my statutes.
 
 44 And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I despise them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God.
 

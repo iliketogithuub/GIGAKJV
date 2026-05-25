@@ -6,7 +6,7 @@
 
 2 That Hanani, one of my brothers, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
 
-3 And they said to me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates of it are burned with fire.
+3 And they said to me, The remnant that are left of the captivity there in the province are in great affliction and disgrace: the wall of Jerusalem also is broken down, and the gates of it are burned with fire.
 
 4 And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,
 
@@ -28,9 +28,9 @@
 
 1 And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it to the king. Now I had not been beforetime sad in his presence.
 
-2 therefore the king said to me, Why is your countenance sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
+2 therefore the king said to me, Why is your face sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
 
-3 And said to the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' tombs, lies waste, and the gates of it are consumed with fire?
+3 And said to the king, Let the king live for ever: why should not my face be sad, when the city, the place of my fathers' tombs, lies waste, and the gates of it are consumed with fire?
 
 4 Then the king said to me, For what do you make request? So I prayed to the God of heaven.
 
@@ -58,7 +58,7 @@
 
 16 And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
 
-17 Then said I to them, you see the distress that we are in, how Jerusalem lies waste, and the gates of it are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
+17 Then said I to them, you see the distress that we are in, how Jerusalem lies waste, and the gates of it are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a disgrace.
 
 18 Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken to me. And they said, Let us rise up and build. So they strengthened their hands for this good work.
 
@@ -140,9 +140,9 @@
 
 3 Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he will even break down their stone wall.
 
-4 Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:
+4 Hear, O our God; for we are despised: and turn their disgrace upon their own head, and give them for a prey in the land of captivity:
 
-5 And cover not their iniquity, and let not their sin be blotted out from before you: for they have provoked you to anger before the builders.
+5 And cover not their wickedness, and let not their sin be blotted out from before you: for they have angered you to anger before the builders.
 
 6 So built we the wall; and all the wall was joined together to the half of it: for the people had a mind to work.
 
@@ -194,13 +194,13 @@
 
 6 And I was very angry when I heard their cry and these words.
 
-7 Then I consulted with myself, and I rebuked the nobles, and the rulers, and said to them, you exact usury, every one of his brother. And I set a great assembly against them.
+7 Then I consulted with myself, and I rebuked the nobles, and the rulers, and said to them, you exact interest, every one of his brother. And I set a great assembly against them.
 
 8 And I said to them, We after our ability have redeemed our brothers the Jews, which were sold to the heathen; and will you even sell your brothers? or will they be sold to us? Then held they their peace, and found nothing to answer.
 
-9 Also I said, It is not good that you do: ought you not to walk in the fear of our God because of the reproach of the heathen our enemies?
+9 Also I said, It is not good that you do: ought you not to walk in the fear of our God because of the disgrace of the heathen our enemies?
 
-10 I likewise, and my brothers, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.
+10 I likewise, and my brothers, and my servants, might exact of them money and corn: I pray you, let us leave off this interest.
 
 11 Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that you exact of them.
 
@@ -246,7 +246,7 @@
 
 12 And, look, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him.
 
-13 Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.
+13 Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might disgrace me.
 
 14 My God, think you upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.
 
@@ -450,7 +450,7 @@
 
 1 Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.
 
-2 And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
+2 And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the wickedness of their fathers.
 
 3 And they stood up in their place, and read in the book of the law of the Lord their God one fourth part of the day; and another fourth part they confessed, and worshipped the Lord their God.
 
@@ -474,7 +474,7 @@
 
 13 you cam down also upon mount Sinai, and spak with them from heaven, and gav them right judgments, and true laws, good statutes and commandments:
 
-14 And mad known to them your holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses your servant:
+14 And mad known to them your holy sabbath, and commandedst them commands, statutes, and laws, by the hand of Moses your servant:
 
 15 And gav them bread from heaven for their hunger, and brought forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which you had sworn to give them.
 
@@ -506,7 +506,7 @@
 
 29 And testifiedst against them, that you might bring them again to your law: yet they dealt proudly, and listened not to your commandments, but sinned against your judgments, (which if a man do, he will live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 
-30 Yet many years did you forbear them, and testifiedst against them by your Holy Spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
+30 Yet many years did you hold back them, and testifiedst against them by your Holy Spirit in your prophets: yet would they not give ear: therefore gav you them into the hand of the people of the lands.
 
 31 Nevertheless for your great mercies' sake you did not utterly consume them, nor forsake them; for you are a gracious and merciful God.
 
@@ -586,7 +586,7 @@
 
 30 And that we would not give our daughters to the people of the land, not take their daughters for our sons:
 
-31 And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.
+31 And if the people of the land bring ware or any food on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.
 
 32 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;
 
@@ -644,7 +644,7 @@
 
 19 Moreover the porters, Akkub, Talmon, and their brothers that kept the gates, were an hundred seventy and two.
 
-20 And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.
+20 And the rest of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.
 
 21 But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.
 
@@ -804,11 +804,11 @@
 
 14 Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices of it.
 
-15 In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day in which they sold victuals.
+15 In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day in which they sold food.
 
 16 There dwelt men of Tyre also in it, which brought fish, and all manner of ware, and sold on the sabbath to the children of Judah, and in Jerusalem.
 
-17 Then I contended with the nobles of Judah, and said to them, What evil thing is this that you do, and profane the sabbath day?
+17 Then I contended with the nobles of Judah, and said to them, What evil thing is this that you do, and defile the sabbath day?
 
 18 Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet you bring more wrath upon Israel by profaning the sabbath.
 

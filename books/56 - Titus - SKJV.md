@@ -6,7 +6,7 @@
 
 2 In hope of eternal life, which God, that cannot lie, promised before the world began;
 
-3 But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Saviour;
+3 But has in due times revealed his word through preaching, which is committed to me according to the commandment of God our Saviour;
 
 4 To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
 
@@ -14,15 +14,15 @@
 
 6 If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
 
-7 For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;
+7 For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy money;
 
-8 But a lover of hospitality, a lover of good men, sober, just, holy, temperate;
+8 But a lover of hospitality, a lover of good men, sober, just, holy, self-controlled;
 
-9 Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to encourage and to convince the gainsayers.
+9 Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to encourage and to convince the opponents.
 
-10 For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
+10 For there are many unruly and empty talkers and deceivers, specially they of the circumcision:
 
-11 Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.
+11 Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy money's sake.
 
 12 One of themselves, even a prophet of their own, said, the Cretians are alway liars, evil beasts, slow bellies.
 
@@ -38,7 +38,7 @@
 
 1 But speak you the things which become sound doctrine:
 
-2 That the aged men be sober, grave, temperate, sound in faith, in love, in patience.
+2 That the aged men be sober, grave, self-controlled, sound in faith, in love, in patience.
 
 3 The aged women likewise, that they be in behaviour as becomes holiness, not false accusers, not given to much wine, teachers of good things;
 
@@ -62,7 +62,7 @@
 
 13 Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
 
-14 Who gave himself for us, that he might redeem us from all iniquity, and purify to himself a treasured people, zealous of good works.
+14 Who gave himself for us, that he might redeem us from all wickedness, and purify to himself a treasured people, zealous of good works.
 
 15 These things speak, and encourage, and rebuke with all authority. Let no man despise you.
 
@@ -72,11 +72,11 @@
 
 2 To speak evil of no man, to be no brawlers, but gentle, showing all meekness to all men.
 
-3 For we ourselves also were sometimes foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.
+3 For we ourselves also were sometimes foolish, disobedient, deceived, serving various lusts and pleasures, living in ill will and envy, hateful, and hating one another.
 
 4 But after that the kindness and love of God our Saviour toward man appeared,
 
-5 Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Spirit;
+5 Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of new birth, and renewing of the Holy Spirit;
 
 6 Which he shed on us abundantly through Jesus Christ our Saviour;
 
@@ -84,7 +84,7 @@
 
 8 This is a faithful saying, and these things I will that you affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable to men.
 
-9 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.
+9 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and empty.
 
 10 A man that is an heretick after the first and second admonition reject;
 

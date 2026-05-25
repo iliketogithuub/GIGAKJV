@@ -14,7 +14,7 @@
 
 6 And the angels which kept not their first estate, but left their own habitation, he has reserved in everlasting chains under darkness to the judgment of the great day.
 
-7 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+7 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to sexual sin, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
 8 Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 

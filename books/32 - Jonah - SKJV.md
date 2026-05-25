@@ -102,7 +102,7 @@
 
 10 Then said the Lord, you have had pity on the gourd, for the which you have not laboured, neither mad it grow; which came up in a night, and perished in a night:
 
-11 And should not I spare Nineveh, that great city, in which are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?
+11 And should not I spare Nineveh, that great city, in which are more than sixscore thousand persons that cannot recognize between their right hand and their left hand; and also much cattle?
 
 
 ## eof

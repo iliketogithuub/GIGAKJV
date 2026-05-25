@@ -56,13 +56,13 @@
 
 4 He has bent his bow like an enemy: he stood with his right hand as an adversary, and killed all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
 
-5 The Lord was as an enemy: he has swallowed up Israel, he has swallowed up all her palaces: he has destroyed his strong holds, and has increased in the daughter of Judah mourning and lamentation.
+5 The Lord was as an enemy: he has swallowed up Israel, he has swallowed up all her palaces: he has destroyed his strong holds, and has increased in the daughter of Judah mourning and mourning.
 
 6 And he has violently taken away his tabernacle, as if it were of a garden: he has destroyed his places of the assembly: the Lord has caused the solemn feasts and sabbaths to be forgotten in Zion, and has despised in the indignation of his anger the king and the priest.
 
 7 The Lord has cast off his altar, he has despised his sanctuary, he has given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the Lord, as in the day of a solemn feast.
 
-8 The Lord has purposed to destroy the wall of the daughter of Zion: he has stretched out a line, he has not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
+8 The Lord has purposed to destroy the wall of the daughter of Zion: he has stretched out a line, he has not withdrawn his hand from destroying: therefore he made the rampart and the wall to mourn; they grew weak together.
 
 9 Her gates are sunk into the ground; he has destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the Lord.
 
@@ -74,7 +74,7 @@
 
 13 What thing will I take to witness for you? what thing will I liken to you, O daughter of Jerusalem? what will I equal to you, that I may comfort you, O virgin daughter of Zion? for your breach is great like the sea: who can heal you?
 
-14 your prophets have seen vain and foolish things for you: and they have not discovered your iniquity, to turn away your captivity; but have seen for you false burdens and causes of banishment.
+14 your prophets have seen empty and foolish things for you: and they have not discovered your wickedness, to turn away your captivity; but have seen for you false burdens and causes of banishment.
 
 15 All that pass by clap their hands at you; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?
 
@@ -152,7 +152,7 @@
 
 29 He puts his mouth in the dust; if so be there may be hope.
 
-30 He gives his cheek to him that smits him: he is filled full with reproach.
+30 He gives his cheek to him that smits him: he is filled full with disgrace.
 
 31 For the Lord will not cast off for ever:
 
@@ -214,7 +214,7 @@
 
 60 you have seen all their vengeance and all their imaginations against me.
 
-61 you have heard their reproach, O Lord, and all their imaginations against me;
+61 you have heard their disgrace, O Lord, and all their imaginations against me;
 
 62 The lips of those that rose up against me, and their device against me all the day.
 
@@ -238,7 +238,7 @@
 
 5 They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
 
-6 For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
+6 For the punishment of the wickedness of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
 
 7 Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
 
@@ -248,19 +248,19 @@
 
 10 The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
 
-11 The Lord has accomplished his fury; he has poured out his fierce anger, and has kindled a fire in Zion, and it has devoured the foundations of it.
+11 The Lord has accomplished his fury; he has poured out his fierce anger, and has burned a fire in Zion, and it has devoured the foundations of it.
 
 12 The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.
 
-13 For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,
+13 For the sins of her prophets, and the wickedness of her priests, that have shed the blood of the just in the midst of her,
 
 14 They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.
 
-15 They cried to them, Depart you; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They will no more sojourn there.
+15 They cried to them, Depart you; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They will no more live temporarily there.
 
 16 The anger of the Lord has divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.
 
-17 As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
+17 As for us, our eyes as yet failed for our empty help: in our watching we have watched for a nation that could not save us.
 
 18 They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
 
@@ -270,11 +270,11 @@
 
 21 Rejoice and be glad, O daughter of Edom, that dwell in the land of Uz; the cup also will pass through to you: you will be drunken, and will make thyself naked.
 
-22 The punishment of your iniquity is accomplished, O daughter of Zion; he will no more carry you away into captivity: he will visit your iniquity, O daughter of Edom; he will discover your sins.
+22 The punishment of your wickedness is accomplished, O daughter of Zion; he will no more carry you away into captivity: he will visit your wickedness, O daughter of Edom; he will discover your sins.
 
 ## Lamentations Chapter 5
 
-1 Remember, O Lord, what is come upon us: consider, and look at our reproach.
+1 Remember, O Lord, what is come upon us: consider, and look at our disgrace.
 
 2 Our inheritance is turned to strangers, our houses to aliens.
 
@@ -286,7 +286,7 @@
 
 6 We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.
 
-7 Our fathers have sinned, and are not; and we have borne their iniquities.
+7 Our fathers have sinned, and are not; and we have borne their wickedness.
 
 8 Servants have ruled over us: there is none that does deliver us out of their hand.
 

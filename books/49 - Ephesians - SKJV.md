@@ -10,19 +10,19 @@
 
 4 According as he has chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
 
-5 Having predestinated us to the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
+5 Having chosen beforehand us to the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
 
 6 To the praise of the glory of his grace, in which he has made us accepted in the beloved.
 
 7 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
-8 In which he has abounded toward us in all wisdom and prudence;
+8 In which he has abounded toward us in all wisdom and wisdom;
 
 9 Having made known to us the mystery of his will, according to his good pleasure which he has purposed in himself:
 
 10 That in the administration of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 
-11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:
+11 In whom also we have obtained an inheritance, being chosen beforehand according to the purpose of him who works all things after the counsel of his own will:
 
 12 That we should be to the praise of his glory, who first trusted in Christ.
 
@@ -142,7 +142,7 @@
 
 1 I therefore, the prisoner of the Lord, urge you that you walk worthy of the vocation with what you are called,
 
-2 With all lowliness and meekness, with longsuffering, forbearing one another in love;
+2 With all lowliness and meekness, with patience, holding back one another in love;
 
 3 Endeavouring to keep the unity of the Holy Spirit in the bond of peace.
 
@@ -162,7 +162,7 @@
 
 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
 
-12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+12 For the perfecting of the saints, for the work of the ministry, for the building up of the body of Christ:
 
 13 Till we all come in the unity of the faith, and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fulness of Christ:
 
@@ -170,9 +170,9 @@
 
 15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
 
-16 From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the edifying of itself in love.
+16 From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the building up of itself in love.
 
-17 This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the vanity of their mind,
+17 This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the emptiness of their mind,
 
 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
 
@@ -196,11 +196,11 @@
 
 28 Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needs.
 
-29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace to the hearers.
+29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of building up, that it may minister grace to the hearers.
 
 30 And grieve not the holy Holy Spirit of God, whereby you are sealed to the day of redemption.
 
-31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
+31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all ill will:
 
 32 And be you kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake has forgiven you.
 
@@ -210,13 +210,13 @@
 
 2 And walk in love, as Christ also has loved us, and has given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
 
-3 But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becomes saints;
+3 But sexual sin, and all uncleanness, or greed, let it not be once named among you, as becomes saints;
 
 4 Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
 
 5 For this you know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God.
 
-6 Let no man deceive you with vain words: for because of these things comes the wrath of God upon the children of disobedience.
+6 Let no man deceive you with empty words: for because of these things comes the wrath of God upon the children of disobedience.
 
 7 Be not you therefore partakers with them.
 
@@ -230,7 +230,7 @@
 
 12 For it is a shame even to speak of those things which are done of them in secret.
 
-13 But all things that are corrected are made manifest by the light: for whatsoever does make manifest is light.
+13 But all things that are corrected are made revealed by the light: for whatsoever does make revealed is light.
 
 14 therefore he says, Awake you that sleep, and arise from the dead, and Christ will give you light.
 
@@ -290,11 +290,11 @@
 
 8 Knowing that whatsoever good thing any man does, the same will he receive of the Lord, whether he be bond or free.
 
-9 And, you masters, do the same things to them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
+9 And, you masters, do the same things to them, holding back threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 
 10 Finally, my brothers, be strong in the Lord, and in the power of his might.
 
-11 Put on the whole armour of God, that you may be able to stand against the wiles of the devil.
+11 Put on the whole armour of God, that you may be able to stand against the schemes of the devil.
 
 12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
@@ -304,7 +304,7 @@
 
 15 And your feet shod with the preparation of the gospel of peace;
 
-16 Above all, taking the shield of faith, with what you will be able to quench all the fiery darts of the wicked.
+16 Above all, taking the shield of faith, with what you will be able to put out all the fiery darts of the wicked.
 
 17 And take the helmet of salvation, and the sword of the Holy Spirit, which is the word of God:
 

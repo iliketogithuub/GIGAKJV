@@ -176,7 +176,7 @@
 
 4 They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;
 
-5 And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of the Lord that were consecrated, and of every one that willingly offered a freewill offering to the Lord.
+5 And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of the Lord that were set apart, and of every one that willingly offered a freewill offering to the Lord.
 
 6 From the first day of the seventh month began they to offer burnt offerings to the Lord. But the foundation of the temple of the Lord was not yet laid.
 
@@ -186,13 +186,13 @@
 
 9 Then stood Jeshua with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brothers the Levites.
 
-10 And when the builders laid the foundation of the temple of the Lord, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the Lord, after the ordinance of David king of Israel.
+10 And when the builders laid the foundation of the temple of the Lord, they set the priests in their clothing with trumpets, and the Levites the sons of Asaph with cymbals, to praise the Lord, after the ordinance of David king of Israel.
 
 11 And they sang together by course in praising and giving thanks to the Lord; because he is good, for his mercy endures for ever toward Israel. And all the people shouted with a great shout, when they praised the Lord, because the foundation of the house of the Lord was laid.
 
 12 But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
 
-13 So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.
+13 So that the people could not recognize the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.
 
 ## Ezra Chapter 4
 
@@ -224,7 +224,7 @@
 
 14 Now because we have maintenance from the king's palace, and it was not meet for us to see the king's dishonour, therefore have we sent and certified the king;
 
-15 That search may be made in the book of the records of your fathers: so will you find in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed.
+15 That search may be made in the book of the records of your fathers: so will you find in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have moved rebellion within the same of old time: for which cause was this city destroyed.
 
 16 We certify the king that, if this city be builded again, and the walls of it set up, by this means you will have no portion on this side the river.
 
@@ -232,7 +232,7 @@
 
 18 The letter which you sent to us has been plainly read before me.
 
-19 And I commanded, and search has been made, and it is found that this city of old time has made insurrection against kings, and that rebellion and sedition have been made in it.
+19 And I commanded, and search has been made, and it is found that this city of old time has made insurrection against kings, and that rebellion and rebellion have been made in it.
 
 20 There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid to them.
 
@@ -268,7 +268,7 @@
 
 11 And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up.
 
-12 But after that our fathers had provoked the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
+12 But after that our fathers had angered the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
 
 13 But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God.
 
@@ -464,19 +464,19 @@
 
 2 For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers has been chief in this trespass.
 
-3 And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.
+3 And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down stunned.
 
-4 Then were assembled to me every one that trembled at the words of the God of Israel, because of the sin of those that had been carried away; and I sat astonied until the evening sacrifice.
+4 Then were assembled to me every one that trembled at the words of the God of Israel, because of the sin of those that had been carried away; and I sat stunned until the evening sacrifice.
 
 5 And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands to the Lord my God,
 
-6 And said, O my God, I am ashamed and blush to lift up my face to you, my God: for our iniquities are increased over our head, and our trespass is grown up to the heavens.
+6 And said, O my God, I am ashamed and blush to lift up my face to you, my God: for our wickedness are increased over our head, and our trespass is grown up to the heavens.
 
-7 Since the days of our fathers have we been in a great trespass to this day; and for our iniquities have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as it is this day.
+7 Since the days of our fathers have we been in a great trespass to this day; and for our wickedness have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as it is this day.
 
 8 And now for a little space grace has been showed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
 
-9 For we were bondmen; yet our God has not forsaken us in our bondage, but has extended mercy to us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations of it, and to give us a wall in Judah and in Jerusalem.
+9 For we were slaves; yet our God has not forsaken us in our bondage, but has extended mercy to us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations of it, and to give us a wall in Judah and in Jerusalem.
 
 10 And now, O our God, what will we say after this? for we have forsaken your commandments,
 
@@ -484,7 +484,7 @@
 
 12 Now therefore give not your daughters to their sons, neither take their daughters to your sons, nor seek their peace or their wealth for ever: that you may be strong, and eat the good of the land, and leave it for an inheritance to your children for ever.
 
-13 And after all that is come upon us for our evil deeds, and for our great trespass, seeing that you our God have punished us less than our iniquities deserve, and have given us such deliverance as this;
+13 And after all that is come upon us for our evil deeds, and for our great trespass, seeing that you our God have punished us less than our wickedness deserve, and have given us such deliverance as this;
 
 14 Should we again break your commandments, and join in affinity with the people of these abominations? would not you be angry with us till you had consumed us, so that there should be no remnant nor escaping?
 

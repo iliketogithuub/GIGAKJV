@@ -298,7 +298,7 @@
 
 33 Did ever people hear the voice of God speaking out of the midst of the fire, as you have heard, and live?
 
-34 Or has God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes?
+34 Or has God attempted to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes?
 
 35 to you it was showed, that you might know that the Lord he is God; there is none else beside him.
 
@@ -348,11 +348,11 @@
 
 8 you will not make you any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:
 
-9 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of them that hate me,
+9 you will not bow down thyself to them, nor serve them: for I the Lord your God am a jealous God, visiting the wickedness of the fathers upon the children to the third and fourth generation of them that hate me,
 
 10 And showing mercy to thousands of them that love me and keep my commandments.
 
-11 you will not take the name of the Lord your God in vain: for the Lord will not hold him guiltless that takes his name in vain.
+11 you will not take the name of the Lord your God for nothing: for the Lord will not hold him guiltless that takes his name for nothing.
 
 12 Keep the sabbath day to sanctify it, as the Lord your God has commanded you.
 
@@ -428,7 +428,7 @@
 
 14 you will not go after other gods, of the gods of the people which are round about you;
 
-15 (For the Lord your God is a jealous God among you) otherwise the anger of the Lord your God be kindled against you, and destroy you from off the face of the earth.
+15 (For the Lord your God is a jealous God among you) otherwise the anger of the Lord your God be burned against you, and destroy you from off the face of the earth.
 
 16 you will not tempt the Lord your God, as you tempted him in Massah.
 
@@ -440,7 +440,7 @@
 
 20 And when your son asks you in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the Lord our God has commanded you?
 
-21 Then you will say to your son, We were Pharaoh's bondmen in Egypt; and the Lord brought us out of Egypt with a mighty hand:
+21 Then you will say to your son, We were Pharaoh's slaves in Egypt; and the Lord brought us out of Egypt with a mighty hand:
 
 22 And the Lord showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
 
@@ -458,7 +458,7 @@
 
 3 Neither will you make marriages with them; your daughter you will not give to his son, nor his daughter will you take to your son.
 
-4 For they will turn away your son from following me, that they may serve other gods: so will the anger of the Lord be kindled against you, and destroy you suddenly.
+4 For they will turn away your son from following me, that they may serve other gods: so will the anger of the Lord be burned against you, and destroy you suddenly.
 
 5 But thus will you deal with them; you will destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire.
 
@@ -466,7 +466,7 @@
 
 7 The Lord did not set his love upon you, nor choose you, because you were more in number than any people; for you were the fewest of all people:
 
-8 But because the Lord loved you, and because he would keep the oath which he had sworn to your fathers, has the Lord brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.
+8 But because the Lord loved you, and because he would keep the oath which he had sworn to your fathers, has the Lord brought you out with a mighty hand, and redeemed you out of the house of slaves, from the hand of Pharaoh king of Egypt.
 
 9 Know therefore that the Lord your God, he is God, the faithful God, which keeps covenant and mercy with them that love him and keep his commandments to a thousand generations;
 
@@ -514,7 +514,7 @@
 
 4 your clothing grew not old upon you, neither did your foot swell, these forty years.
 
-5 you will also consider in your heart, that, as a man chastens his son, so the Lord your God chastens you.
+5 you will also consider in your heart, that, as a man disciplines his son, so the Lord your God disciplines you.
 
 6 Therefore you will keep the commandments of the Lord your God, to walk in his ways, and to fear him.
 
@@ -562,7 +562,7 @@
 
 7 Remember, and forget not, how you provokedst the Lord your God to wrath in the wilderness: from the day that you did depart out of the land of Egypt, until you came to this place, you have been rebellious against the Lord.
 
-8 Also in Horeb you provoked the Lord to wrath, so that the Lord was angry with you to have destroyed you.
+8 Also in Horeb you angered the Lord to wrath, so that the Lord was angry with you to have destroyed you.
 
 9 When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which the Lord made with you, then I stayed in the mount forty days and forty nights, I neither did eat bread nor drink water:
 
@@ -590,7 +590,7 @@
 
 21 And I took your sin, the calf which you had made, and burnt it with fire, and stamped it, and ground it very small, even until it was as small as dust: and I cast the dust of it into the brook that descended out of the mount.
 
-22 And at Taberah, and at Massah, and at Kibrothhattaavah, you provoked the Lord to wrath.
+22 And at Taberah, and at Massah, and at Kibrothhattaavah, you angered the Lord to wrath.
 
 23 Likewise when the Lord sent you from Kadeshbarnea, saying, Go up and possess the land which I have given you; then you rebelled against the commandment of the Lord your God, and you believed him not, nor listened to his voice.
 
@@ -686,7 +686,7 @@
 
 16 Take heed to yourselves, that your heart be not deceived, and you turn aside, and serve other gods, and worship them;
 
-17 And then the Lord's wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and otherwise you perish quickly from off the good land which the Lord gives you.
+17 And then the Lord's wrath be burned against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and otherwise you perish quickly from off the good land which the Lord gives you.
 
 18 Therefore will you lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
 
@@ -912,7 +912,7 @@
 
 14 you will furnish him liberally out of your flock, and out of your floor, and out of your winepress: of that with what the Lord your God has blessed you you will give to him.
 
-15 And you will remember that you wast a bondman in the land of Egypt, and the Lord your God redeemed you: therefore I command you this thing to day.
+15 And you will remember that you wast a slave in the land of Egypt, and the Lord your God redeemed you: therefore I command you this thing to day.
 
 16 And it will be, if he say to you, I will not go away from you; because he loves you and your house, because he is well with you;
 
@@ -954,7 +954,7 @@
 
 11 And you will rejoice before the Lord your God, you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite that is within your gates, and the stranger, and the fatherless, and the widow, that are among you, in the place which the Lord your God has chosen to place his name there.
 
-12 And you will remember that you wast a bondman in Egypt: and you will observe and do these statutes.
+12 And you will remember that you wast a slave in Egypt: and you will observe and do these statutes.
 
 13 you will observe the feast of tabernacles seven days, after that you have gathered in your corn and your wine:
 
@@ -1030,17 +1030,17 @@
 
 5 For the Lord your God has chosen him out of all your tribes, to stand to minister in the name of the Lord, him and his sons for ever.
 
-6 And if a Levite come from any of your gates out of all Israel, where he sojourned, and come with all the desire of his mind to the place which the Lord will choose;
+6 And if a Levite come from any of your gates out of all Israel, where he lived temporarily, and come with all the desire of his mind to the place which the Lord will choose;
 
 7 Then he will minister in the name of the Lord his God, as all his brothers the Levites do, which stand there before the Lord.
 
-8 They will have like portions to eat, beside that which comes of the sale of his patrimony.
+8 They will have like portions to eat, beside that which comes of the sale of his inherited property.
 
 9 When you are come into the land which the Lord your God gives you, you will not learn to do after the abominations of those nations.
 
 10 There will not be found among you any one that makes his son or his daughter to pass through the fire, or that uses divination, or an observer of times, or an enchanter, or a witch.
 
-11 Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.
+11 Or a charmer, or a consulter with familiar spirits, or a wizard, or a one who consults the dead.
 
 12 For all that do these things are an abomination to the Lord: and because of these abominations the Lord your God does drive them out from before you.
 
@@ -1076,7 +1076,7 @@
 
 5 As when a man goes into the wood with his neighbour to hew wood, and his hand fetchs a stroke with the axe to cut down the tree, and the head slips from the helve, and lights upon his neighbour, that he die; he will flee to one of those cities, and live:
 
-6 otherwise the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, since as he hated him not in time past.
+6 otherwise the one who brings justice of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, since as he hated him not in time past.
 
 7 therefore I command you, saying, you will separate three cities for you.
 
@@ -1088,13 +1088,13 @@
 
 11 But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fles into one of these cities:
 
-12 Then the elders of his city will send and fetch him from there, and deliver him into the hand of the avenger of blood, that he may die.
+12 Then the elders of his city will send and fetch him from there, and deliver him into the hand of the one who brings justice of blood, that he may die.
 
 13 your eye will not pity him, but you will put away the guilt of innocent blood from Israel, that it may go well with you.
 
 14 you will not remove your neighbour's landmark, which they of old time have set in your inheritance, which you will inherit in the land that the Lord your God gives you to possess it.
 
-15 One witness will not rise up against a man for any iniquity, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, will the matter be established.
+15 One witness will not rise up against a man for any wickedness, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, will the matter be established.
 
 16 If a false witness rise up against any man to testify against him that which is wrong;
 
@@ -1122,7 +1122,7 @@
 
 6 And what man is he that has planted a vineyard, and has not yet eaten of it? let him also go and return to his house, otherwise he die in the battle, and another man eat of it.
 
-7 And what man is there that has betrothed a wife, and has not taken her? let him go and return to his house, otherwise he die in the battle, and another man take her.
+7 And what man is there that has engaged a wife, and has not taken her? let him go and return to his house, otherwise he die in the battle, and another man take her.
 
 8 And the officers will speak further to the people, and they will say, What man is there that is fearful and fainthearted? let him go and return to his house, otherwise his brothers's heart faint as well as his heart.
 
@@ -1186,7 +1186,7 @@
 
 17 But he will acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he has: for he is the beginning of his strength; the right of the firstborn is his.
 
-18 If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not listen to them:
+18 If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have disciplined him, will not listen to them:
 
 19 Then will his father and his mother lay hold on him, and bring him out to the elders of his city, and to the gate of his place;
 
@@ -1222,7 +1222,7 @@
 
 11 you will not wear a garment of various sorts, as of woollen and linen together.
 
-12 you will make you fringes upon the four quarters of your vesture, with what you cover thyself.
+12 you will make you fringes upon the four quarters of your robe, with what you cover thyself.
 
 13 If any man take a wife, and go in to her, and hate her,
 
@@ -1244,17 +1244,17 @@
 
 22 If a man be found lying with a woman married to an husband, then they will both of them die, both the man that lay with the woman, and the woman: so will you put away evil from Israel.
 
-23 If a young woman that is a virgin be betrothed to an husband, and a man find her in the city, and lie with her;
+23 If a young woman that is a virgin be engaged to an husband, and a man find her in the city, and lie with her;
 
 24 Then you will bring them both out to the gate of that city, and you will stone them with stones that they die; the young woman, because she cried not, being in the city; and the man, because he has humbled his neighbour's wife: so you will put away evil from among you.
 
-25 But if a man find a betrothed young woman in the field, and the man force her, and lie with her: then the man only that lay with her will die.
+25 But if a man find a engaged young woman in the field, and the man force her, and lie with her: then the man only that lay with her will die.
 
 26 But to the young woman you will do nothing; there is in the young woman no sin worthy of death: for as when a man riss against his neighbour, and slays him, even so is this matter:
 
-27 For he found her in the field, and the betrothed young woman cried, and there was none to save her.
+27 For he found her in the field, and the engaged young woman cried, and there was none to save her.
 
-28 If a man find a young woman that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;
+28 If a man find a young woman that is a virgin, which is not engaged, and lay hold on her, and lie with her, and they be found;
 
 29 Then the man that lay with her will give to the young woman's father fifty shekels of silver, and she will be his wife; because he has humbled her, he may not put her away all his days.
 
@@ -1298,13 +1298,13 @@
 
 18 you will not bring the hire of a whore, or the price of a dog, into the house of the Lord your God for any vow: for even both these are abomination to the Lord your God.
 
-19 you will not lend upon usury to your brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
+19 you will not lend upon interest to your brother; interest of money, interest of food, interest of any thing that is lent upon interest:
 
-20 to a stranger you may lend upon usury; but to your brother you will not lend upon usury: that the Lord your God may bless you in all that you sett your hand to in the land where you go to possess it.
+20 to a stranger you may lend upon interest; but to your brother you will not lend upon interest: that the Lord your God may bless you in all that you sett your hand to in the land where you go to possess it.
 
 21 When you will vow a vow to the Lord your God, you will not slack to pay it: for the Lord your God will surely require it of you; and it would be sin in you.
 
-22 But if you will forbear to vow, it will be no sin in you.
+22 But if you will hold back to vow, it will be no sin in you.
 
 23 That which is gone out of your lips you will keep and perform; even a freewill offering, according as you have vowed to the Lord your God, which you have promised with your mouth.
 
@@ -1348,7 +1348,7 @@
 
 17 you will not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's clothing to pledge:
 
-18 But you will remember that you wast a bondman in Egypt, and the Lord your God redeemed you from there: therefore I command you to do this thing.
+18 But you will remember that you wast a slave in Egypt, and the Lord your God redeemed you from there: therefore I command you to do this thing.
 
 19 When you cutt down your harvest in your field, and have forgot a sheaf in the field, you will not go again to fetch it: it will be for the stranger, for the fatherless, and for the widow: that the Lord your God may bless you in all the work of your hands.
 
@@ -1356,7 +1356,7 @@
 
 21 When you gather the grapes of your vineyard, you will not glean it afterward: it will be for the stranger, for the fatherless, and for the widow.
 
-22 And you will remember that you wast a bondman in the land of Egypt: therefore I command you to do this thing.
+22 And you will remember that you wast a slave in the land of Egypt: therefore I command you to do this thing.
 
 ## Deuteronomy Chapter 25
 
@@ -1408,7 +1408,7 @@
 
 4 And the priest will take the basket out of your hand, and set it down before the altar of the Lord your God.
 
-5 And you will speak and say before the Lord your God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
+5 And you will speak and say before the Lord your God, A Syrian ready to perish was my father, and he went down into Egypt, and lived temporarily there with a few, and became there a nation, great, mighty, and populous:
 
 6 And the Egyptians mistreated us, and afflicted us, and laid upon us hard bondage:
 
@@ -1424,7 +1424,7 @@
 
 12 When you have made an end of tithing all the tithes of your increase the third year, which is the year of tithing, and have given it to the Levite, the stranger, the fatherless, and the widow, that they may eat within your gates, and be filled;
 
-13 Then you will say before the Lord your God, I have brought away the hallowed things out of mine house, and also have given them to the Levite, and to the stranger, to the fatherless, and to the widow, according to all your commandments which you have commanded me: I have not sinned your commandments, neither have I forgotten them.
+13 Then you will say before the Lord your God, I have brought away the holy things out of mine house, and also have given them to the Levite, and to the stranger, to the fatherless, and to the widow, according to all your commandments which you have commanded me: I have not sinned your commandments, neither have I forgotten them.
 
 14 I have not eaten of it in my mourning, neither have I taken away ought of it for any unclean use, nor given ought of it for the dead: but I have listened to the voice of the Lord my God, and have done according to all that you have commanded me.
 
@@ -1534,7 +1534,7 @@
 
 20 The Lord will send upon you cursing, vexation, and rebuke, in all that you sett your hand to for to do, until you be destroyed, and until you perish quickly; because of the wickedness of your doings, whereby you have forsaken me.
 
-21 The Lord will make the pestilence cleave to you, until he have consumed you from off the land, where you go to possess it.
+21 The Lord will make the plague cleave to you, until he have consumed you from off the land, where you go to possess it.
 
 22 The Lord will smite you with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they will pursue you until you perish.
 
@@ -1548,7 +1548,7 @@
 
 27 The Lord will smite you with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof you can not be healed.
 
-28 The Lord will smite you with madness, and blindness, and astonishment of heart:
+28 The Lord will smite you with madness, and blindness, and amazement of heart:
 
 29 And you will grope at noonday, as the blind grops in darkness, and you will not prosper in your ways: and you will be only oppressed and spoiled evermore, and no man will save you.
 
@@ -1566,7 +1566,7 @@
 
 36 The Lord will bring you, and your king which you will set over you, to a nation which neither you nor your fathers have known; and there will you serve other gods, wood and stone.
 
-37 And you will become an astonishment, a proverb, and a byword, among all nations where the Lord will lead you.
+37 And you will become an amazement, a proverb, and a byword, among all nations where the Lord will lead you.
 
 38 you will carry much seed out into the field, and will gather but little in; for the locust will consume it.
 
@@ -1592,7 +1592,7 @@
 
 49 The Lord will bring a nation against you from far, from the end of the earth, as swift as the eagle flies; a nation whose tongue you will not understand;
 
-50 A nation of fierce countenance, which will not regard the person of the old, nor show favour to the young:
+50 A nation of fierce face, which will not regard the person of the old, nor show favour to the young:
 
 51 And he will eat the fruit of your cattle, and the fruit of your land, until you be destroyed: which also will not leave you either corn, wine, or oil, or the increase of your kine, or flocks of your sheep, until he have destroyed you.
 
@@ -1628,7 +1628,7 @@
 
 67 In the morning you will say, Would God it were even! and at even you will say, Would God it were morning! for the fear of your heart with what you will fear, and for the sight of your eyes which you will see.
 
-68 And the Lord will bring you into Egypt again with ships, by the way whereof I spoke to you, you will see it no more again: and there you will be sold to your enemies for bondmen and bondwomen, and no man will buy you.
+68 And the Lord will bring you into Egypt again with ships, by the way whereof I spoke to you, you will see it no more again: and there you will be sold to your enemies for slaves and bondwomen, and no man will buy you.
 
 ## Deuteronomy Chapter 29
 
@@ -1684,7 +1684,7 @@
 
 26 For they went and served other gods, and worshipped them, gods whom they knew not, and whom he had not given to them:
 
-27 And the anger of the Lord was kindled against this land, to bring upon it all the curses that are written in this book:
+27 And the anger of the Lord was burned against this land, to bring upon it all the curses that are written in this book:
 
 28 And the Lord rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as it is this day.
 
@@ -1766,7 +1766,7 @@
 
 16 And the Lord said to Moses, Look, you will sleep with your fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, where they go to be among them, and will forsake me, and break my covenant which I have made with them.
 
-17 Then my anger will be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they will be devoured, and many evils and troubles will befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?
+17 Then my anger will be burned against them in that day, and I will forsake them, and I will hide my face from them, and they will be devoured, and many evils and troubles will befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?
 
 18 And I will surely hide my face in that day for all the evils which they will have done, in that they are turned to other gods.
 
@@ -1802,11 +1802,11 @@
 
 3 Because I will publish the name of the Lord: ascribe you greatness to our God.
 
-4 He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he.
+4 He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without wickedness, just and right is he.
 
 5 They have corrupted themselves, their spot is not the spot of his children: they are a perverse and crooked generation.
 
-6 Do you thus requite the Lord, O foolish people and unwise? is not he your father that has bought you? has he not made you, and established you?
+6 Do you thus repay the Lord, O foolish people and unwise? is not he your father that has bought you? has he not made you, and established you?
 
 7 Remember the days of old, consider the years of many generations: ask your father, and he will show you; your elders, and they will tell you.
 
@@ -1826,7 +1826,7 @@
 
 15 But Jeshurun grew fat, and kicked: you are waxen fat, you are grown thick, you are covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation.
 
-16 They provoked him to jealousy with strange gods, with abominations provoked they him to anger.
+16 They angered him to jealousy with strange gods, with abominations angered they him to anger.
 
 17 They sacrificed to devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
 
@@ -1836,9 +1836,9 @@
 
 20 And he said, I will hide my face from them, I will see what their end will be: for they are a very stubborn generation, children in whom is no faith.
 
-21 They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.
+21 They have moved me to jealousy with that which is not God; they have angered me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.
 
-22 For a fire is kindled in mine anger, and will burn to the lowest hell, and will consume the earth with her increase, and set on fire the foundations of the mountains.
+22 For a fire is burned in mine anger, and will burn to the lowest hell, and will consume the earth with her increase, and set on fire the foundations of the mountains.
 
 23 I will heap mischiefs upon them; I will spend mine arrows upon them.
 
@@ -1880,7 +1880,7 @@
 
 42 I will make mine arrows drunk with blood, and my sword will devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.
 
-43 Rejoice, O you nations, with his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful to his land, and to his people.
+43 Rejoice, O you nations, with his people: for he will bring justice the blood of his servants, and will render vengeance to his adversaries, and will be merciful to his land, and to his people.
 
 44 And Moses came and spoke all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
 
@@ -1888,7 +1888,7 @@
 
 46 And he said to them, Set your hearts to all the words which I testify among you this day, which you will command your children to observe to do, all the words of this law.
 
-47 For it is not a vain thing for you; because it is your life: and through this thing you will prolong your days in the land, where you go over Jordan to possess it.
+47 For it is not a empty thing for you; because it is your life: and through this thing you will prolong your days in the land, where you go over Jordan to possess it.
 
 48 And the Lord spoke to Moses that selfsame day, saying,
 

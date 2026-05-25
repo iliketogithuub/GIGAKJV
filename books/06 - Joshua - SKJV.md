@@ -22,7 +22,7 @@
 
 10 Then Joshua commanded the officers of the people, saying,
 
-11 Pass through the host, and command the people, saying, Prepare you victuals; for within three days you will pass over this Jordan, to go in to possess the land, which the Lord your God gives you to possess it.
+11 Pass through the host, and command the people, saying, Prepare you food; for within three days you will pass over this Jordan, to go in to possess the land, which the Lord your God gives you to possess it.
 
 12 And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spoke Joshua, saying,
 
@@ -40,7 +40,7 @@
 
 ## Joshua Chapter 2
 
-1 And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.
+1 And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an prostitute's house, named Rahab, and lodged there.
 
 2 And it was told the king of Jericho, saying, Look, there came men in here to night of the children of Israel to search out the country.
 
@@ -192,7 +192,7 @@
 
 8 And it came to pass, when they had done circumcising all the people, that they stayed in their places in the camp, till they were whole.
 
-9 And the Lord said to Joshua, This day have I rolled away the reproach of Egypt from off you. therefore the name of the place is called Gilgal to this day.
+9 And the Lord said to Joshua, This day have I rolled away the disgrace of Egypt from off you. therefore the name of the place is called Gilgal to this day.
 
 10 And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho.
 
@@ -240,31 +240,31 @@
 
 16 And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said to the people, Shout; for the Lord has given you the city.
 
-17 And the city will be accursed, even it, and all that are in it, to the Lord: only Rahab the harlot will live, she and all that are with her in the house, because she hid the messengers that we sent.
+17 And the city will be accursed, even it, and all that are in it, to the Lord: only Rahab the prostitute will live, she and all that are with her in the house, because she hid the messengers that we sent.
 
 18 And you, in any wise keep yourselves from the accursed thing, otherwise you make yourselves accursed, when you take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 
-19 But all the silver, and gold, and vessels of brass and iron, are consecrated to the Lord: they will come into the treasury of the Lord.
+19 But all the silver, and gold, and vessels of brass and iron, are set apart to the Lord: they will come into the treasury of the Lord.
 
 20 So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 
 21 And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 
-22 But Joshua had said to the two men that had spied out the country, Go into the harlot's house, and bring out from there the woman, and all that she has, as you sware to her.
+22 But Joshua had said to the two men that had spied out the country, Go into the prostitute's house, and bring out from there the woman, and all that she has, as you sware to her.
 
-23 And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brothers, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
+23 And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brothers, and all that she had; and they brought out all her relatives, and left them without the camp of Israel.
 
 24 And they burnt the city with fire, and all that was in it: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the Lord.
 
-25 And Joshua saved Rahab the harlot alive, and her father's household, and all that she had; and she dwells in Israel even to this day; because she hid the messengers, which Joshua sent to spy out Jericho.
+25 And Joshua saved Rahab the prostitute alive, and her father's household, and all that she had; and she dwells in Israel even to this day; because she hid the messengers, which Joshua sent to spy out Jericho.
 
-26 And Joshua adjured them at that time, saying, Cursed be the man before the Lord, that riss up and builds this city Jericho: he will lay the foundation of it in his firstborn, and in his youngest son will he set up the gates of it.
+26 And Joshua commanded under oath them at that time, saying, Cursed be the man before the Lord, that riss up and builds this city Jericho: he will lay the foundation of it in his firstborn, and in his youngest son will he set up the gates of it.
 
 27 So the Lord was with Joshua; and his fame was noised throughout all the country.
 
 ## Joshua Chapter 7
 
-1 But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.
+1 But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was burned against the children of Israel.
 
 2 And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east of Bethel, and spoke to them, saying, Go up and view the country. And the men went up and viewed Ai.
 
@@ -410,13 +410,13 @@
 
 10 And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.
 
-11 therefore our elders and all the inhabitants of our country spoke to us, saying, Take victuals with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
+11 therefore our elders and all the inhabitants of our country spoke to us, saying, Take food with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
 
 12 This our bread we took hot for our provision out of our houses on the day we came forth to go to you; but now, look, it is dry, and it is mouldy:
 
 13 And these bottles of wine, which we filled, were new; and, look, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
 
-14 And the men took of their victuals, and asked not counsel at the mouth of the Lord.
+14 And the men took of their food, and asked not counsel at the mouth of the Lord.
 
 15 And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware to them.
 
@@ -434,7 +434,7 @@
 
 22 And Joshua called for them, and he spoke to them, saying, therefore have you beguiled us, saying, We are very far from you; when you dwell among us?
 
-23 Now therefore you are cursed, and there will none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.
+23 Now therefore you are cursed, and there will none of you be freed from being slaves, and hewers of wood and drawers of water for the house of my God.
 
 24 And they answered Joshua, and said, Because it was certainly told your servants, how that the Lord your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.
 
@@ -470,7 +470,7 @@
 
 12 Then spoke Joshua to the Lord in the day when the Lord delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand you still upon Gibeon; and you, Moon, in the valley of Ajalon.
 
-13 And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
+13 And the sun stood still, and the moon stayed, until the people had brought justice themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 
 14 And there was no day like that before it or after it, that the Lord listened to the voice of a man: for the Lord fought for Israel.
 
@@ -1086,11 +1086,11 @@
 
 2 Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spoke to you by the hand of Moses:
 
-3 That the slayer that kills any person unawares and unwittingly may flee there: and they will be your refuge from the avenger of blood.
+3 That the slayer that kills any person unawares and unwittingly may flee there: and they will be your refuge from the one who brings justice of blood.
 
 4 And when he that does flee to one of those cities will stand at the entering of the gate of the city, and will declare his cause in the ears of the elders of that city, they will take him into the city to them, and give him a place, that he may dwell among them.
 
-5 And if the avenger of blood pursue after him, then they will not deliver the slayer up into his hand; because he struck his neighbour unwittingly, and hated him not beforetime.
+5 And if the one who brings justice of blood pursue after him, then they will not deliver the slayer up into his hand; because he struck his neighbour unwittingly, and hated him not beforetime.
 
 6 And he will dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that will be in those days: then will the slayer return, and come to his own city, and to his own house, to the city from from where he fled.
 
@@ -1098,7 +1098,7 @@
 
 8 And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 
-9 These were the cities appointed for all the children of Israel, and for the stranger that sojourns among them, that whosoever kills any person at unawares might flee there, and not die by the hand of the avenger of blood, until he stood before the congregation.
+9 These were the cities appointed for all the children of Israel, and for the stranger that sojourns among them, that whosoever kills any person at unawares might flee there, and not die by the hand of the one who brings justice of blood, until he stood before the congregation.
 
 ## Joshua Chapter 21
 
@@ -1226,13 +1226,13 @@
 
 16 Thus says the whole congregation of the Lord, What trespass is this that you have committed against the God of Israel, to turn away this day from following the Lord, in that you have builded you an altar, that you might rebel this day against the Lord?
 
-17 Is the iniquity of Peor too little for us, from which we are not cleansed until this day, although there was a plague in the congregation of the Lord,
+17 Is the wickedness of Peor too little for us, from which we are not cleansed until this day, although there was a plague in the congregation of the Lord,
 
 18 But that you must turn away this day from following the Lord? and it will be, seeing you rebel to day against the Lord, that to morrow he will be furious with the whole congregation of Israel.
 
 19 Nevertheless, if the land of your possession be unclean, then pass you over to the land of the possession of the Lord, in which the Lord's tabernacle dwells, and take possession among us: but rebel not against the Lord, nor rebel against us, in building you an altar beside the altar of the Lord our God.
 
-20 Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his iniquity.
+20 Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his wickedness.
 
 21 Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said to the heads of the thousands of Israel,
 
@@ -1294,7 +1294,7 @@
 
 15 Therefore it will come to pass, that as all good things are come upon you, which the Lord your God promised you; so will the Lord bring upon you all evil things, until he have destroyed you from off this good land which the Lord your God has given you.
 
-16 When you have sinned the covenant of the Lord your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then will the anger of the Lord be kindled against you, and you will perish quickly from off the good land which he has given to you.
+16 When you have sinned the covenant of the Lord your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then will the anger of the Lord be burned against you, and you will perish quickly from off the good land which he has given to you.
 
 ## Joshua Chapter 24
 

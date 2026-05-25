@@ -4,7 +4,7 @@
 
 1 The words of the Preacher, the son of David, king in Jerusalem.
 
-2 Vanity of vanities, says the Preacher, vanity of vanities; all is vanity.
+2 Emptiness of vanities, says the Preacher, emptiness of vanities; all is emptiness.
 
 3 What profit has a man of all his labour which he takes under the sun?
 
@@ -28,7 +28,7 @@
 
 13 And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this difficult labor has God given to the sons of man to be exercised with it.
 
-14 I have seen all the works that are done under the sun; and, look, all is vanity and vexation of spirit.
+14 I have seen all the works that are done under the sun; and, look, all is emptiness and vexation of spirit.
 
 15 That which is crooked cannot be made straight: and that which is wanting cannot be numbered.
 
@@ -40,7 +40,7 @@
 
 ## Ecclesiastes Chapter 2
 
-1 I said in mine heart, Go to now, I will prove you with mirth, therefore enjoy pleasure: and, look, this also is vanity.
+1 I said in mine heart, Go to now, I will prove you with mirth, therefore enjoy pleasure: and, look, this also is emptiness.
 
 2 I said of laughter, It is mad: and of mirth, What does it?
 
@@ -60,7 +60,7 @@
 
 10 And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.
 
-11 Then I looked on all the works that my hands had done, and on the labour that I had laboured to do: and, look, all was vanity and vexation of spirit, and there was no profit under the sun.
+11 Then I looked on all the works that my hands had done, and on the labour that I had laboured to do: and, look, all was emptiness and vexation of spirit, and there was no profit under the sun.
 
 12 And I turned myself to see wisdom, and madness, and folly: for what can the man do that comes after the king? even that which has been already done.
 
@@ -68,29 +68,29 @@
 
 14 The wise man's eyes are in his head; but the fool walks in darkness: and I myself perceived also that one event happens to them all.
 
-15 Then said I in my heart, As it happens to the fool, so it happens even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.
+15 Then said I in my heart, As it happens to the fool, so it happens even to me; and why was I then more wise? Then I said in my heart, that this also is emptiness.
 
 16 For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come will all be forgotten. And how dies the wise man? as the fool.
 
-17 Therefore I hated life; because the work that is worked under the sun is grievous to me: for all is vanity and vexation of spirit.
+17 Therefore I hated life; because the work that is worked under the sun is grievous to me: for all is emptiness and vexation of spirit.
 
 18 Yea, I hated all my labour which I had taken under the sun: because I should leave it to the man that will be after me.
 
-19 And who knows whether he will be a wise man or a fool? yet will he have rule over all my labour in which I have laboured, and in which I have showed myself wise under the sun. This is also vanity.
+19 And who knows whether he will be a wise man or a fool? yet will he have rule over all my labour in which I have laboured, and in which I have showed myself wise under the sun. This is also emptiness.
 
 20 Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
 
-21 For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that has not laboured in it will he leave it for his portion. This also is vanity and a great evil.
+21 For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that has not laboured in it will he leave it for his portion. This also is emptiness and a great evil.
 
 22 For what has man of all his labour, and of the vexation of his heart, in which he has laboured under the sun?
 
-23 For all his days are sorrows, and his labor grief; yea, his heart takes not rest in the night. This is also vanity.
+23 For all his days are sorrows, and his labor grief; yea, his heart takes not rest in the night. This is also emptiness.
 
 24 There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
 
 25 For who can eat, or who else can hasten for this purpose, more than I?
 
-26 For God gives to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he gives labor, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.
+26 For God gives to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he gives labor, to gather and to heap up, that he may give to him that is good before God. This also is emptiness and vexation of spirit.
 
 ## Ecclesiastes Chapter 3
 
@@ -124,13 +124,13 @@
 
 15 That which has been is now; and that which is to be has already been; and God requires that which is past.
 
-16 And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.
+16 And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that wickedness was there.
 
 17 I said in mine heart, God will judge the righteous and the wicked: for there is a time there for every purpose and for every work.
 
-18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
+18 I said in mine heart concerning the estate of the sons of men, that God might revealed them, and that they might see that they themselves are beasts.
 
-19 For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is vanity.
+19 For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is emptiness.
 
 20 All go to one place; all are of the dust, and all turn to dust again.
 
@@ -146,15 +146,15 @@
 
 3 Yea, better is he than both they, which has not yet been, who has not seen the evil work that is done under the sun.
 
-4 Again, I considered all labor, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
+4 Again, I considered all labor, and every right work, that for this a man is envied of his neighbour. This is also emptiness and vexation of spirit.
 
 5 The fool folds his hands together, and eats his own flesh.
 
 6 Better is an handful with quietness, than both the hands full with labor and vexation of spirit.
 
-7 Then I returned, and I saw vanity under the sun.
+7 Then I returned, and I saw emptiness under the sun.
 
-8 There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a difficult labor.
+8 There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also emptiness, yea, it is a difficult labor.
 
 9 Two are better than one; because they have a good reward for their labour.
 
@@ -170,7 +170,7 @@
 
 15 I considered all the living which walk under the sun, with the second child that will stand up in his stead.
 
-16 There is no end of all the people, even of all that have been before them: they also that come after will not rejoice in him. Surely this also is vanity and vexation of spirit.
+16 There is no end of all the people, even of all that have been before them: they also that come after will not rejoice in him. Surely this also is emptiness and vexation of spirit.
 
 ## Ecclesiastes Chapter 5
 
@@ -192,7 +192,7 @@
 
 9 Moreover the profit of the earth is for all: the king himself is served by the field.
 
-10 He that loves silver will not be satisfied with silver; nor he that loves abundance with increase: this is also vanity.
+10 He that loves silver will not be satisfied with silver; nor he that loves abundance with increase: this is also emptiness.
 
 11 When goods increase, they are increased that eat them: and what good is there to the owners of it, saving the looking of them with their eyes?
 
@@ -218,11 +218,11 @@
 
 1 There is an evil which I have seen under the sun, and it is common among men:
 
-2 A man to whom God has given riches, wealth, and honour, so that he wants nothing for his soul of all that he desires, yet God gives him not power to eat of it, but a stranger eats it: this is vanity, and it is an evil disease.
+2 A man to whom God has given riches, wealth, and honour, so that he wants nothing for his soul of all that he desires, yet God gives him not power to eat of it, but a stranger eats it: this is emptiness, and it is an evil disease.
 
 3 If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.
 
-4 For he comes in with vanity, and departs in darkness, and his name will be covered with darkness.
+4 For he comes in with emptiness, and departs in darkness, and his name will be covered with darkness.
 
 5 Moreover he has not seen the sun, nor known any thing: this has more rest than the other.
 
@@ -232,13 +232,13 @@
 
 8 For what has the wise more than the fool? what has the poor, that knows to walk before the living?
 
-9 Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
+9 Better is the sight of the eyes than the wandering of the desire: this is also emptiness and vexation of spirit.
 
 10 That which has been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
 
-11 Seeing there be many things that increase vanity, what is man the better?
+11 Seeing there be many things that increase emptiness, what is man the better?
 
-12 For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what will be after him under the sun?
+12 For who knows what is good for man in this life, all the days of his empty life which he spends as a shadow? for who can tell a man what will be after him under the sun?
 
 ## Ecclesiastes Chapter 7
 
@@ -246,13 +246,13 @@
 
 2 It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
 
-3 Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.
+3 Sorrow is better than laughter: for by the sadness of the face the heart is made better.
 
 4 The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
 
 5 It is better to hear the rebuke of the wise, than for a man to hear the song of fools.
 
-6 For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.
+6 For as the crackling of thorns under a pot, so is the laughter of the fool: this also is emptiness.
 
 7 Surely oppression makes a wise man mad; and a gift destroys the heart.
 
@@ -270,7 +270,7 @@
 
 14 In the day of prosperity be joyful, but in the day of adversity consider: God also has set the one over against the other, to the end that man should find nothing after him.
 
-15 All things have I seen in the days of my vanity: there is a just man that perishs in his righteousness, and there is a wicked man that prolongs his life in his wickedness.
+15 All things have I seen in the days of my emptiness: there is a just man that perishs in his righteousness, and there is a wicked man that prolongs his life in his wickedness.
 
 16 Be not righteous over much; neither make thyself over wise: why should you destroy thyself ?
 
@@ -320,7 +320,7 @@
 
 9 All this have I seen, and applied my heart to every work that is done under the sun: there is a time in which one man rules over another to his own hurt.
 
-10 And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.
+10 And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also emptiness.
 
 11 Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
 
@@ -328,9 +328,9 @@
 
 13 But it will not be well with the wicked, neither will he prolong his days, which are as a shadow; because he fears not before God.
 
-14 There is a vanity which is done upon the earth; that there be just men, to whom it happens according to the work of the wicked; again, there be wicked men, to whom it happens according to the work of the righteous: I said that this also is vanity.
+14 There is a emptiness which is done upon the earth; that there be just men, to whom it happens according to the work of the wicked; again, there be wicked men, to whom it happens according to the work of the righteous: I said that this also is emptiness.
 
-15 Then I commended mirth, because a man has no better thing under the sun, than to eat, and to drink, and to be merry: for that will abide with him of his labour the days of his life, which God gives him under the sun.
+15 Then I praised mirth, because a man has no better thing under the sun, than to eat, and to drink, and to be merry: for that will abide with him of his labour the days of his life, which God gives him under the sun.
 
 16 When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night sees sleep with his eyes:)
 
@@ -354,7 +354,7 @@
 
 8 Let your garments be always white; and let your head lack no ointment.
 
-9 Live joyfully with the wife whom you lov all the days of the life of your vanity, which he has given you under the sun, all the days of your vanity: for that is your portion in this life, and in your labour which you tak under the sun.
+9 Live joyfully with the wife whom you lov all the days of the life of your emptiness, which he has given you under the sun, all the days of your emptiness: for that is your portion in this life, and in your labour which you tak under the sun.
 
 10 Whatsoever your hand finds to do, do it with your might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, where you go.
 
@@ -432,11 +432,11 @@
 
 7 Truly the light is sweet, and a pleasant thing it is for the eyes to see the sun:
 
-8 But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they will be many. All that comes is vanity.
+8 But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they will be many. All that comes is emptiness.
 
 9 Rejoice, O young man, in your youth; and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes: but know you, that for all these things God will bring you into judgment.
 
-10 Therefore remove sorrow from your heart, and put away evil from your flesh: for childhood and youth are vanity.
+10 Therefore remove sorrow from your heart, and put away evil from your flesh: for childhood and youth are emptiness.
 
 ## Ecclesiastes Chapter 12
 
@@ -454,7 +454,7 @@
 
 7 Then will the dust return to the earth as it was: and the spirit will return to God who gave it.
 
-8 Vanity of vanities, says the preacher; all is vanity.
+8 Emptiness of vanities, says the preacher; all is emptiness.
 
 9 And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.
 

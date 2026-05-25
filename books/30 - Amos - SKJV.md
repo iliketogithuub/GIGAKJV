@@ -46,7 +46,7 @@
 
 6 Thus says the Lord; For three sins of Israel, and for four, I will not turn away the punishment of it; because they sold the righteous for silver, and the poor for a pair of shoes;
 
-7 That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in to the same maid, to profane my holy name:
+7 That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in to the same maid, to defile my holy name:
 
 8 And they lay themselves down upon clothes laid to pledge by every altar, and they drink the wine of the condemned in the house of their god.
 
@@ -70,7 +70,7 @@
 
 1 Hear this word that the Lord has spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 
-2 You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.
+2 You only have I known of all the families of the earth: therefore I will punish you for all your wickedness.
 
 3 Can two walk together, except they be agreed?
 
@@ -84,7 +84,7 @@
 
 8 The lion has roared, who will not fear? the Lord God has spoken, who can but prophesy?
 
-9 Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and look at the great tumults in the midst of it, and the oppressed in the midst of it.
+9 Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and look at the great uproars in the midst of it, and the oppressed in the midst of it.
 
 10 For they know not to do right, says the Lord, who store up violence and robbery in their palaces.
 
@@ -102,7 +102,7 @@
 
 1 Hear this word, you kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.
 
-2 The Lord God has sworn by his holiness, that, look, the days will come upon you, that he will take you away with hooks, and your posterity with fishhooks.
+2 The Lord God has sworn by his holiness, that, look, the days will come upon you, that he will take you away with hooks, and your descendants with fishhooks.
 
 3 And you will go out at the breaches, every cow at that which is before her; and you will cast them into the palace, says the Lord.
 
@@ -118,7 +118,7 @@
 
 9 I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured them: yet have you not returned to me, says the Lord.
 
-10 I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up to your nostrils: yet have you not returned to me, says the Lord.
+10 I have sent among you the plague after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up to your nostrils: yet have you not returned to me, says the Lord.
 
 11 I have overthrown some of you, as God overthrew Sodom and Gomorrah, and you were as a firebrand plucked out of the burning: yet have you not returned to me, says the Lord.
 
@@ -128,7 +128,7 @@
 
 ## Amos Chapter 5
 
-1 Hear you this word which I take up against you, even a lamentation, O house of Israel.
+1 Hear you this word which I take up against you, even a mourning, O house of Israel.
 
 2 The virgin of Israel is fallen; she will no more rise: she is forsaken upon her land; there is none to raise her up.
 
@@ -138,7 +138,7 @@
 
 5 But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal will surely go into captivity, and Bethel will come to nothing.
 
-6 Seek the Lord, and you will live; otherwise he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Bethel.
+6 Seek the Lord, and you will live; otherwise he break out like fire in the house of Joseph, and devour it, and there be none to put out it in Bethel.
 
 7 you who turn judgment to wormwood, and leave off righteousness in the earth,
 
@@ -152,13 +152,13 @@
 
 12 For I know your manifold sins and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right.
 
-13 Therefore the prudent will keep silence in that time; for it is an evil time.
+13 Therefore the wise will keep silence in that time; for it is an evil time.
 
 14 Seek good, and not evil, that you may live: and so the Lord, the God of hosts, will be with you, as you have spoken.
 
 15 Hate the evil, and love the good, and establish judgment in the gate: it may be that the Lord God of hosts will be gracious to the remnant of Joseph.
 
-16 Therefore the Lord, the God of hosts, the Lord, says thus; Wailing will be in all streets; and they will say in all the highways, Alas! alas! and they will call the farmer to mourning, and such as are skilful of lamentation to wailing.
+16 Therefore the Lord, the God of hosts, the Lord, says thus; Wailing will be in all streets; and they will say in all the highways, Alas! alas! and they will call the farmer to mourning, and such as are skilful of mourning to wailing.
 
 17 And in all vineyards will be wailing: for I will pass through you, says the Lord.
 
@@ -246,7 +246,7 @@
 
 16 Now therefore hear you the word of the Lord: you say, Prophesy not against Israel, and drop not your word against the house of Isaac.
 
-17 Therefore thus says the Lord; your wife will be an harlot in the city, and your sons and your daughters will fall by the sword, and your land will be divided by line; and you will die in a polluted land: and Israel will surely go into captivity forth of his land.
+17 Therefore thus says the Lord; your wife will be an prostitute in the city, and your sons and your daughters will fall by the sword, and your land will be divided by line; and you will die in a polluted land: and Israel will surely go into captivity forth of his land.
 
 ## Amos Chapter 8
 
@@ -268,7 +268,7 @@
 
 9 And it will come to pass in that day, says the Lord God, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:
 
-10 And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end of it as a bitter day.
+10 And I will turn your feasts into mourning, and all your songs into mourning; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end of it as a bitter day.
 
 11 Look, the days come, says the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:
 

@@ -132,7 +132,7 @@
 
 1 Then Eliphaz the Temanite answered and said,
 
-2 If we assay to commune with you, will you be grieved? but who can withhold himself from speaking?
+2 If we attempt to commune with you, will you be grieved? but who can withhold himself from speaking?
 
 3 Look, you have instructed many, and you have strengthened the weak hands.
 
@@ -144,7 +144,7 @@
 
 7 Remember, I pray you, who ever perished, being innocent? or where were the righteous cut off?
 
-8 Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.
+8 Even as I have seen, they that plow wickedness, and sow wickedness, reap the same.
 
 9 By the blast of God they perish, and by the breath of his nostrils are they consumed.
 
@@ -160,7 +160,7 @@
 
 15 Then a spirit passed before my face; the hair of my flesh stood up:
 
-16 It stood still, but I could not discern the form of it: an image was before mine eyes, there was silence, and I heard a voice, saying,
+16 It stood still, but I could not recognize the form of it: an image was before mine eyes, there was silence, and I heard a voice, saying,
 
 17 will mortal man be more just than God? will a man be more pure than his maker?
 
@@ -204,9 +204,9 @@
 
 15 But he saves the poor from the sword, from their mouth, and from the hand of the mighty.
 
-16 So the poor has hope, and iniquity stops her mouth.
+16 So the poor has hope, and wickedness stops her mouth.
 
-17 Look, happy is the man whom God corrects: therefore despise not you the chastening of the Almighty:
+17 Look, happy is the man whom God corrects: therefore despise not you the discipline of the Almighty:
 
 18 For he makes sore, and binds up: he wounds, and his hands make whole.
 
@@ -214,7 +214,7 @@
 
 20 In famine he will redeem you from death: and in war from the power of the sword.
 
-21 you will be hid from the scourge of the tongue: neither will you be afraid of destruction when it comes.
+21 you will be hid from the whip of the tongue: neither will you be afraid of destruction when it comes.
 
 22 At destruction and famine you will laugh: neither will you be afraid of the beasts of the earth.
 
@@ -286,9 +286,9 @@
 
 28 Now therefore be content, look upon me; for it is evident to you if I lie.
 
-29 Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.
+29 Return, I pray you, let it not be wickedness; yea, return again, my righteousness is in it.
 
-30 Is there iniquity in my tongue? cannot my taste discern perverse things?
+30 Is there wickedness in my tongue? cannot my taste recognize perverse things?
 
 ## Job Chapter 7
 
@@ -296,7 +296,7 @@
 
 2 As a servant earnestly desires the shadow, and as an hireling looks for the reward of his work:
 
-3 So am I made to possess months of vanity, and wearisome nights are appointed to me.
+3 So am I made to possess months of emptiness, and wearisome nights are appointed to me.
 
 4 When I lie down, I say, When will I arise, and the night be gone? and I am full of tossings to and fro to the dawning of the day.
 
@@ -322,7 +322,7 @@
 
 15 So that my soul chooss strangling, and death rather than my life.
 
-16 I loathe it; I would not live alway: let me alone; for my days are vanity.
+16 I loathe it; I would not live alway: let me alone; for my days are emptiness.
 
 17 What is man, that you should magnify him? and that you should set your heart upon him?
 
@@ -332,7 +332,7 @@
 
 20 I have sinned; what will I do to you, O you preserver of men? why have you set me as a mark against you, so that I am a burden to myself?
 
-21 And why do you not pardon my sin, and take away my iniquity? for now will I sleep in the dust; and you will seek me in the morning, but I will not be.
+21 And why do you not pardon my sin, and take away my wickedness? for now will I sleep in the dust; and you will seek me in the morning, but I will not be.
 
 ## Job Chapter 8
 
@@ -356,7 +356,7 @@
 
 10 will not they teach you, and tell you, and utter words out of their heart?
 
-11 Can the rush grow up without mire? can the flag grow without water?
+11 Can the rush grow up without mud? can the flag grow without water?
 
 12 Whilst it is yet in his greenness, and not cut down, it withers before any other herb.
 
@@ -426,7 +426,7 @@
 
 22 This is one thing, therefore I said it, He destroys the perfect and the wicked.
 
-23 If the scourge slay suddenly, he will laugh at the trial of the innocent.
+23 If the whip slay suddenly, he will laugh at the trial of the innocent.
 
 24 The earth is given into the hand of the wicked: he covers the faces of the judges of it; if not, where, and who is he?
 
@@ -438,7 +438,7 @@
 
 28 I am afraid of all my sorrows, I know that you will not hold me innocent.
 
-29 If I be wicked, why then labour I in vain?
+29 If I be wicked, why then labour I for nothing?
 
 30 If I wash myself with snow water, and make my hands never so clean;
 
@@ -464,7 +464,7 @@
 
 5 Are your days as the days of man? are your years as man's days,
 
-6 That you enquir after mine iniquity, and search after my sin?
+6 That you enquir after mine wickedness, and search after my sin?
 
 7 you know that I am not wicked; and there is none that can deliver out of your hand.
 
@@ -480,7 +480,7 @@
 
 13 And these things have you hid in your heart: I know that this is with you.
 
-14 If I sin, then you mark me, and you will not acquit me from mine iniquity.
+14 If I sin, then you mark me, and you will not acquit me from mine wickedness.
 
 15 If I be wicked, woe to me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see you mine affliction;
 
@@ -510,7 +510,7 @@
 
 5 But oh that God would speak, and open his lips against you;
 
-6 And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than your iniquity deserves.
+6 And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than your wickedness deserves.
 
 7 Can you by searching find out God? can you find out the Almighty to perfection?
 
@@ -520,13 +520,13 @@
 
 10 If he cut off, and shut up, or gather together, then who can hinder him?
 
-11 For he knows vain men: he sees wickedness also; will he not then consider it?
+11 For he knows empty men: he sees wickedness also; will he not then consider it?
 
-12 For vain men would be wise, though man be born like a wild ass's colt.
+12 For empty men would be wise, though man be born like a wild ass's colt.
 
 13 If you prepare your heart, and stretch out your hands toward him;
 
-14 If iniquity be in your hand, put it far away, and let not wickedness dwell in your tabernacles.
+14 If wickedness be in your hand, put it far away, and let not wickedness dwell in your tabernacles.
 
 15 For then will you lift up your face without spot; yea, you will be stedfast, and will not fear:
 
@@ -638,13 +638,13 @@
 
 22 Then call you, and I will answer: or let me speak, and answer you me.
 
-23 How many are mine iniquities and sins? make me to know my sin and my sin.
+23 How many are mine wickedness and sins? make me to know my sin and my sin.
 
 24 therefore hid you your face, and hold me for your enemy?
 
 25 will you break a leaf driven to and fro? and will you pursue the dry stubble?
 
-26 For you writ bitter things against me, and mak me to possess the iniquities of my youth.
+26 For you writ bitter things against me, and mak me to possess the wickedness of my youth.
 
 27 you putt my feet also in the stocks, and look narrowly to all my paths; you sett a print upon the heels of my feet.
 
@@ -684,13 +684,13 @@
 
 16 For now you number my steps: do you not watch over my sin?
 
-17 My sin is sealed up in a bag, and you sew up mine iniquity.
+17 My sin is sealed up in a bag, and you sew up mine wickedness.
 
 18 And surely the mountains falling comes to nothing, and the rock is removed out of his place.
 
 19 The waters wear the stones: you wash away the things which grow out of the dust of the earth; and you destroy the hope of man.
 
-20 you prevail for ever against him, and he passes: you chang his countenance, and send him away.
+20 you prevail for ever against him, and he passes: you chang his face, and send him away.
 
 21 His sons come to honour, and he knows it not; and they are brought low, but he perceives it not of them.
 
@@ -700,13 +700,13 @@
 
 1 Then answered Eliphaz the Temanite, and said,
 
-2 Should a wise man utter vain knowledge, and fill his belly with the east wind?
+2 Should a wise man utter empty knowledge, and fill his belly with the east wind?
 
 3 Should he reason with unprofitable talk? or with speeches with what he can do no good?
 
 4 Yea, you cast off fear, and restrain prayer before God.
 
-5 For your mouth utters your iniquity, and you chooses the tongue of the crafty.
+5 For your mouth utters your wickedness, and you chooses the tongue of the crafty.
 
 6 your own mouth condemns you, and not I: yea, your own lips testify against you.
 
@@ -728,7 +728,7 @@
 
 15 Look, he puts no trust in his saints; yea, the heavens are not clean in his sight.
 
-16 How much more abominable and filthy is man, which drinks iniquity like water?
+16 How much more abominable and filthy is man, which drinks wickedness like water?
 
 17 I will show you, hear me; and that which I have seen I will declare;
 
@@ -758,7 +758,7 @@
 
 30 He will not depart out of darkness; the flame will dry up his branches, and by the breath of his mouth will he go away.
 
-31 Let not him that is deceived trust in vanity: for vanity will be his recompence.
+31 Let not him that is deceived trust in emptiness: for emptiness will be his recompence.
 
 32 It will be accomplished before his time, and his branch will not be green.
 
@@ -766,7 +766,7 @@
 
 34 For the congregation of hypocrites will be desolate, and fire will consume the tabernacles of bribery.
 
-35 They conceive mischief, and bring forth vanity, and their belly prepars deceit.
+35 They conceive mischief, and bring forth emptiness, and their belly prepars deceit.
 
 ## Job Chapter 16
 
@@ -774,13 +774,13 @@
 
 2 I have heard many such things: miserable comforters are you all.
 
-3 will vain words have an end? or what emboldens you that you answer?
+3 will empty words have an end? or what emboldens you that you answer?
 
 4 I also could speak as you do: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you.
 
 5 But I would strengthen you with my mouth, and the moving of my lips should asswage your grief.
 
-6 Though I speak, my grief is not asswaged: and though I forbear, what am I eased?
+6 Though I speak, my grief is not asswaged: and though I hold back, what am I eased?
 
 7 But now he has made me weary: you have made desolate all my company.
 
@@ -788,7 +788,7 @@
 
 9 He tears me in his wrath, who hates me: he gnashs upon me with his tes; mine enemy sharpens his eyes upon me.
 
-10 They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
+10 They have gaped upon me with their mouth; they have smitten me upon the cheek disgracefully; they have gathered themselves together against me.
 
 11 God has delivered me to the ungodly, and turned me over into the hands of the wicked.
 
@@ -820,7 +820,7 @@
 
 2 Are there not mockers with me? and does not mine eye continue in their rebellion?
 
-3 Lay down now, put me in a surety with you; who is he that will strike hands with me?
+3 Lay down now, put me in a guarantee with you; who is he that will strike hands with me?
 
 4 For you have hid their heart from understanding: therefore will you not exalt them.
 
@@ -830,7 +830,7 @@
 
 7 Mine eye also is dim by reason of sorrow, and all my members are as a shadow.
 
-8 Upright men will be astonied at this, and the innocent will stir up himself against the hypocrite.
+8 Upright men will be stunned at this, and the innocent will stir up himself against the hypocrite.
 
 9 The righteous also will hold on his way, and he that has clean hands will be stronger and stronger.
 
@@ -888,7 +888,7 @@
 
 19 He will neither have son nor nephew among his people, nor any remaining in his dwellings.
 
-20 They that come after him will be astonied at his day, as they that went before were affrighted.
+20 They that come after him will be stunned at his day, as they that went before were affrighted.
 
 21 Surely such are the dwellings of the wicked, and this is the place of him that knows not God.
 
@@ -898,11 +898,11 @@
 
 2 How long will you vex my soul, and break me in pieces with words?
 
-3 These ten times have you reproached me: you are not ashamed that you make yourselves strange to me.
+3 These ten times have you disgraced me: you are not ashamed that you make yourselves strange to me.
 
 4 And be it indeed that I have erred, mine error remains with myself.
 
-5 If indeed you will magnify yourselves against me, and plead against me my reproach:
+5 If indeed you will magnify yourselves against me, and plead against me my disgrace:
 
 6 Know now that God has overthrown me, and has compassed me with his net.
 
@@ -914,7 +914,7 @@
 
 10 He has destroyed me on every side, and I am gone: and mine hope has he removed like a tree.
 
-11 He has also kindled his wrath against me, and he counts me to him as one of his enemies.
+11 He has also burned his wrath against me, and he counts me to him as one of his enemies.
 
 12 His troops come together, and raise up their way against me, and encamp round about my tabernacle.
 
@@ -958,7 +958,7 @@
 
 2 Therefore do my thoughts cause me to answer, and for this I make haste.
 
-3 I have heard the check of my reproach, and the spirit of my understanding causes me to answer.
+3 I have heard the check of my disgrace, and the spirit of my understanding causes me to answer.
 
 4 Know you not this of old, since man was placed upon earth,
 
@@ -988,7 +988,7 @@
 
 17 He will not see the rivers, the floods, the brooks of honey and butter.
 
-18 That which he laboured for will he restore, and will not swallow it down: according to his substance will the restitution be, and he will not rejoice in it.
+18 That which he laboured for will he restore, and will not swallow it down: according to his substance will the restoration be, and he will not rejoice in it.
 
 19 Because he has oppressed and has forsaken the poor; because he has violently taken away an house which he builded not;
 
@@ -1006,7 +1006,7 @@
 
 26 All darkness will be hid in his secret places: a fire not blown will consume him; it will go ill with him that is left in his tabernacle.
 
-27 The heaven will reveal his iniquity; and the earth will rise up against him.
+27 The heaven will reveal his wickedness; and the earth will rise up against him.
 
 28 The increase of his house will depart, and his goods will flow away in the day of his wrath.
 
@@ -1022,7 +1022,7 @@
 
 4 As for me, is my complaint to man? and if it were so, why should not my human spirit be troubled?
 
-5 Mark me, and be astonished, and lay your hand upon your mouth.
+5 Mark me, and be amazed, and lay your hand upon your mouth.
 
 6 Even when I remember I am afraid, and trembling takes hold on my flesh.
 
@@ -1050,7 +1050,7 @@
 
 18 They are as stubble before the wind, and as chaff that the storm carries away.
 
-19 God lays up his iniquity for his children: he rewards him, and he will know it.
+19 God lays up his wickedness for his children: he rewards him, and he will know it.
 
 20 His eyes will see his destruction, and he will drink of the wrath of the Almighty.
 
@@ -1080,7 +1080,7 @@
 
 33 The clods of the valley will be sweet to him, and every man will draw after him, as there are innumerable before him.
 
-34 How then comfort you me in vain, seeing in your answers there remains falsehood?
+34 How then comfort you me for nothing, seeing in your answers there remains falsehood?
 
 ## Job Chapter 22
 
@@ -1092,7 +1092,7 @@
 
 4 Will he correct you for fear of you? will he enter with you into judgment?
 
-5 Is not your wickedness great? and your iniquities infinite?
+5 Is not your wickedness great? and your wickedness infinite?
 
 6 For you have taken a pledge from your brother for nothing, and stripped the naked of their clothing.
 
@@ -1128,7 +1128,7 @@
 
 22 Receive, I pray you, the law from his mouth, and lay up his words in your heart.
 
-23 If you return to the Almighty, you will be built up, you will put away iniquity far from your tabernacles.
+23 If you return to the Almighty, you will be built up, you will put away wickedness far from your tabernacles.
 
 24 Then will you lay up gold as dust, and the gold of Ophir as the stones of the brooks.
 
@@ -1268,7 +1268,7 @@
 
 10 He has compassed the waters with bounds, until the day and night come to an end.
 
-11 The pillars of heaven tremble and are astonished at his reproof.
+11 The pillars of heaven tremble and are amazed at his reproof.
 
 12 He divids the sea with his power, and by his understanding he smits through the proud.
 
@@ -1288,7 +1288,7 @@
 
 5 God forbid that I should justify you: till I die I will not remove mine integrity from me.
 
-6 My righteousness I hold fast, and will not let it go: my heart will not reproach me so long as I live.
+6 My righteousness I hold fast, and will not let it go: my heart will not disgrace me so long as I live.
 
 7 Let mine enemy be as the wicked, and he that riss up against me as the unrighteous.
 
@@ -1300,7 +1300,7 @@
 
 11 I will teach you by the hand of God: that which is with the Almighty will I not conceal.
 
-12 Look, all you yourselves have seen it; why then are you thus altogether vain?
+12 Look, all you yourselves have seen it; why then are you thus altogether empty?
 
 13 This is the portion of a wicked man with God, and the heritage of oppressors, which they will receive of the Almighty.
 
@@ -1430,7 +1430,7 @@
 
 23 And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.
 
-24 If I laughed on them, they believed it not; and the light of my countenance they cast not down.
+24 If I laughed on them, they believed it not; and the light of my face they cast not down.
 
 25 I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforts the mourners.
 
@@ -1472,7 +1472,7 @@
 
 18 By the great force of my disease is my garment changed: it binds me about as the collar of my coat.
 
-19 He has cast me into the mire, and I am become like dust and ashes.
+19 He has cast me into the mud, and I am become like dust and ashes.
 
 20 I cry to you, and you do not hear me: I stand up, and you regard me not.
 
@@ -1504,11 +1504,11 @@
 
 2 For what portion of God is there from above? and what inheritance of the Almighty from on high?
 
-3 Is not destruction to the wicked? and a strange punishment to the workers of iniquity?
+3 Is not destruction to the wicked? and a strange punishment to the workers of wickedness?
 
 4 does not he see my ways, and count all my steps?
 
-5 If I have walked with vanity, or if my foot has hasted to deceit;
+5 If I have walked with emptiness, or if my foot has hasted to deceit;
 
 6 Let me be weighed in an even balance that God may know mine integrity.
 
@@ -1520,7 +1520,7 @@
 
 10 Then let my wife grind to another, and let others bow down upon her.
 
-11 For this is an heinous crime; yea, it is an iniquity to be punished by the judges.
+11 For this is an heinous crime; yea, it is an wickedness to be punished by the judges.
 
 12 For it is a fire that consums to destruction, and would root out all mine increase.
 
@@ -1554,7 +1554,7 @@
 
 27 And my heart has been secretly enticed, or my mouth has kissed my hand:
 
-28 This also were an iniquity to be punished by the judge: for I should have denied the God that is above.
+28 This also were an wickedness to be punished by the judge: for I should have denied the God that is above.
 
 29 If I rejoice at the destruction of him that hated me, or lifted up myself when evil found him:
 
@@ -1564,7 +1564,7 @@
 
 32 The stranger did not lodge in the street: but I opened my doors to the traveller.
 
-33 If I covered my sins as Adam, by hiding mine iniquity in my bosom:
+33 If I covered my sins as Adam, by hiding mine wickedness in my bosom:
 
 34 Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?
 
@@ -1584,13 +1584,13 @@
 
 1 So these three men ceased to answer Job, because he was righteous in his own eyes.
 
-2 Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.
+2 Then was burned the wrath of Elihu the son of Barachel the Buzite, of the relatives of Ram: against Job was his wrath burned, because he justified himself rather than God.
 
-3 Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.
+3 Also against his three friends was his wrath burned, because they had found no answer, and yet had condemned Job.
 
 4 Now Elihu had waited till Job had spoken, because they were elder than he.
 
-5 When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.
+5 When Elihu saw that there was no answer in the mouth of these three men, then his wrath was burned.
 
 6 And Elihu the son of Barachel the Buzite answered and said, I am young, and you are very old; therefore I was afraid, and dared not show you mine opinion.
 
@@ -1616,7 +1616,7 @@
 
 17 I said, I will answer also my part, I also will show mine opinion.
 
-18 For I am full of matter, the spirit within me constrains me.
+18 For I am full of matter, the spirit within me urges me.
 
 19 Look, my belly is as wine which has no vent; it is ready to burst like new bottles.
 
@@ -1644,7 +1644,7 @@
 
 8 Surely you have spoken in mine hearing, and I have heard the voice of your words, saying,
 
-9 I am clean without sin, I am innocent; neither is there iniquity in me.
+9 I am clean without sin, I am innocent; neither is there wickedness in me.
 
 10 Look, he finds occasions against me, he counts me for his enemy,
 
@@ -1664,7 +1664,7 @@
 
 18 He keeps back his soul from the pit, and his life from perishing by the sword.
 
-19 He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:
+19 He is disciplined also with pain upon his bed, and the multitude of his bones with strong pain:
 
 20 So that his life abhors bread, and his soul dainty meat.
 
@@ -1710,11 +1710,11 @@
 
 7 What man is like Job, who drinks up scorning like water?
 
-8 Which goes in company with the workers of iniquity, and walks with wicked men.
+8 Which goes in company with the workers of wickedness, and walks with wicked men.
 
 9 For he has said, It profits a man nothing that he should delight himself with God.
 
-10 Therefore listen to me you men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity.
+10 Therefore listen to me you men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit wickedness.
 
 11 For the work of a man will he render to him, and cause every man to find according to his ways.
 
@@ -1738,7 +1738,7 @@
 
 21 For his eyes are upon the ways of man, and he sees all his goings.
 
-22 There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves.
+22 There is no darkness, nor shadow of death, where the workers of wickedness may hide themselves.
 
 23 For he will not lay upon man more than right; that he should enter into judgment with God.
 
@@ -1758,7 +1758,7 @@
 
 31 Surely it is meet to be said to God, I have borne punishment, I will not offend any more:
 
-32 That which I see not teach you me: if I have done iniquity, I will do no more.
+32 That which I see not teach you me: if I have done wickedness, I will do no more.
 
 33 Should it be according to your mind? he will repay it, whether you refuse, or whether you choose; and not I: therefore speak what you know.
 
@@ -1796,13 +1796,13 @@
 
 12 There they cry, but none gives answer, because of the pride of evil men.
 
-13 Surely God will not hear vanity, neither will the Almighty regard it.
+13 Surely God will not hear emptiness, neither will the Almighty regard it.
 
 14 Although you say you will not see him, yet judgment is before him; therefore trust you in him.
 
 15 But now, because it is not so, he has visited in his anger; yet he knows it not in great extremity:
 
-16 Therefore does Job open his mouth in vain; he multiplies words without knowledge.
+16 Therefore does Job open his mouth for nothing; he multiplies words without knowledge.
 
 ## Job Chapter 36
 
@@ -1824,7 +1824,7 @@
 
 9 Then he shews them their work, and their sins that they have exceeded.
 
-10 He opens also their ear to discipline, and commands that they return from iniquity.
+10 He opens also their ear to discipline, and commands that they return from wickedness.
 
 11 If they obey and serve him, they will spend their days in prosperity, and their years in pleasures.
 
@@ -1846,11 +1846,11 @@
 
 20 Desire not the night, when people are cut off in their place.
 
-21 Take heed, regard not iniquity: for this have you chosen rather than affliction.
+21 Take heed, regard not wickedness: for this have you chosen rather than affliction.
 
 22 Look, God exalts by his power: who teachs like him?
 
-23 Who has enjoined him his way? or who can say, you have done iniquity?
+23 Who has enjoined him his way? or who can say, you have done wickedness?
 
 24 Remember that you magnify his work, which men look.
 
@@ -2038,7 +2038,7 @@
 
 15 And forgets that the foot may crush them, or that the wild beast may break them.
 
-16 She is hardened against her young ones, as though they were not her's: her labour is in vain without fear;
+16 She is hardened against her young ones, as though they were not her's: her labour is for nothing without fear;
 
 17 Because God has deprived her of wisdom, neither has he imparted to her understanding.
 
@@ -2136,7 +2136,7 @@
 
 8 Lay your hand upon him, remember the battle, do no more.
 
-9 Look, the hope of him is in vain: will not one be cast down even at the sight of him?
+9 Look, the hope of him is for nothing: will not one be cast down even at the sight of him?
 
 10 None is so fierce that dare stir him up: who then is able to stand before me?
 
@@ -2178,7 +2178,7 @@
 
 29 Darts are counted as stubble: he laughs at the shaking of a spear.
 
-30 Sharp stones are under him: he spreads sharp pointed things upon the mire.
+30 Sharp stones are under him: he spreads sharp pointed things upon the mud.
 
 31 He makes the deep to boil like a pot: he makes the sea like a pot of ointment.
 
@@ -2202,7 +2202,7 @@
 
 6 therefore I despise myself, and repent in dust and ashes.
 
-7 And it was so, that after the Lord had spoken these words to Job, the Lord said to Eliphaz the Temanite, My wrath is kindled against you, and against your two friends: for you have not spoken of me the thing that is right, as my servant Job has.
+7 And it was so, that after the Lord had spoken these words to Job, the Lord said to Eliphaz the Temanite, My wrath is burned against you, and against your two friends: for you have not spoken of me the thing that is right, as my servant Job has.
 
 8 Therefore take to you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job will pray for you: for him will I accept: otherwise I deal with you after your folly, in that you have not spoken of me the thing which is right, like my servant Job.
 
@@ -2210,7 +2210,7 @@
 
 10 And the Lord turned the captivity of Job, when he prayed for his friends: also the Lord gave Job twice as much as he had before.
 
-11 Then came there to him all his brothers, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
+11 Then came there to him all his brothers, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they grieved for him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
 
 12 So the Lord blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.
 
