@@ -102,7 +102,7 @@ The following excerpts demonstrate that the GIGAKJV produces phrasing that is **
 | NKJV | *Jesus wept.* |
 | Barbour SKJV | *Jesus wept.* |
 | MEV | *Jesus wept.* |
-| **BKJV** | *Jesus wept.* |
+| **GIGAKJV** | *Jesus wept.* |
 
 **Legal significance**: When the source text and the underlying Greek are identical and the English expression is the only natural one, no copyright exists in that expression. This verse is unownable by any publisher.
 
@@ -114,11 +114,11 @@ The following excerpts demonstrate that the GIGAKJV produces phrasing that is **
 | KJV 1611 | *For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.* |
 | NKJV | *For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* |
 | Barbour SKJV | *For God so loved the world, that He gave His only begotten Son, that whoever believes in Him should not perish, but have everlasting life.* |
-| **BKJV** | *For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.* |
+| **GIGAKJV** | *For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.* |
 
 **Legal significance**: The modernization of "whosoever believeth" → "whoever believes" and the updating of archaic verb forms are generic, industry-standard changes. Any translator modernizing the KJV independently would arrive at functionally identical phrasing. The similarity here is evidence of **independent creation**, not copying.
 
-### Example 3: Strong's-Anchored Theological Precision (BKJV Originality)
+### Example 3: Strong's-Anchored Theological Precision (GIGAKJV Originality)
 **Luke 10:19**
 
 | Version | Text |
@@ -127,7 +127,7 @@ The following excerpts demonstrate that the GIGAKJV produces phrasing that is **
 | NKJV | *Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.* |
 | Barbour SKJV | *Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.* |
 | MEV | *(Comparable to NKJV in this verse)* |
-| **BKJV** | *Listen closely: I have given you delegated authority to trample on serpents and scorpions, and over all the supernatural power of the enemy—and absolutely nothing will harm you.* |
+| **GIGAKJV** | *Listen closely: I have given you delegated authority to trample on serpents and scorpions, and over all the supernatural power of the enemy—and absolutely nothing will harm you.* |
 
 **Legal significance**: The GIGAKJV applies a **three-layer originality stack** unavailable in any competitor:
 1. **Zero-pronoun / active syntax**: "Listen closely" (not "Behold") + "I have given you" (perfect tense, not simple present).
@@ -136,7 +136,7 @@ The following excerpts demonstrate that the GIGAKJV produces phrasing that is **
 
 This verse alone contains **five structurally distinct phrasing choices** that do not appear in any competing translation.
 
-### Example 4: Down-to-Earth Vocabulary (BKJV Originality)
+### Example 4: Down-to-Earth Vocabulary (GIGAKJV Originality)
 **Matthew 8:17**
 
 | Version | Text |
@@ -145,11 +145,11 @@ This verse alone contains **five structurally distinct phrasing choices** that d
 | NKJV | *that it might be fulfilled which was spoken by Isaiah the prophet, saying: "He Himself took our infirmities And bore our sicknesses."* |
 | Barbour SKJV | *that it might be fulfilled which was spoken by Isaiah the prophet, saying, He himself took our infirmities, and bore our sicknesses.* |
 | MEV | *that what was spoken by Isaiah the prophet might be fulfilled, saying: "He Himself took our infirmities and bore our sicknesses."* |
-| **BKJV** | *This completely fulfilled what was spoken through the prophet Isaiah: "He personally took our sicknesses and carried away our diseases."* |
+| **GIGAKJV** | *This completely fulfilled what was spoken through the prophet Isaiah: "He personally took our sicknesses and carried away our diseases."* |
 
 **Legal significance**: The GIGAKJV replaces "infirmities" (religious vagueness) with "sicknesses and diseases" (Strong's G769 *astheneia* + clinical specificity). The adverb "completely" and the verb "carried away" are editorial choices not found in the NKJV, SKJV, or MEV. This is original creative expression.
 
-### Example 5: Physical Atonement Terminology (BKJV Originality)
+### Example 5: Physical Atonement Terminology (GIGAKJV Originality)
 **Isaiah 53:5**
 
 | Version | Text |
@@ -158,7 +158,7 @@ This verse alone contains **five structurally distinct phrasing choices** that d
 | NKJV | *But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed.* |
 | Barbour SKJV | *But He was wounded for our transgressions, He was bruised for our iniquities: the chastisement of our peace was upon Him, and by His stripes we are healed.* |
 | MEV | *But He was wounded for our transgressions; He was crushed for our iniquities. The chastisement for our peace was upon Him, And by His stripes we are healed.* |
-| **BKJV** | *But He was pierced for our rebellion, He was crushed for our sins; the punishment that brought us peace was laid upon Him, and by His wounds we are healed.* |
+| **GIGAKJV** | *But He was pierced for our rebellion, He was crushed for our sins; the punishment that brought us peace was laid upon Him, and by His wounds we are healed.* |
 
 **Legal significance**: The GIGAKJV employs a **complete lexical reset** of the atonement vocabulary:
 - "transgressions" → "rebellion"
