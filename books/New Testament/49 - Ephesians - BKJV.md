@@ -14,7 +14,7 @@
 
 6 To the praise of the glory of his grace, in which he has made us accepted in the beloved.
 
-7 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+7 In who we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
 8 In which he has abounded toward us in all wisdom and wisdom;
 
@@ -22,11 +22,11 @@
 
 10 That in the administration of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
 
-11 In whom also we have obtained an inheritance, being chosen beforehand according to the purpose of him who works all things after the counsel of his own will:
+11 In who also we have obtained an inheritance, being chosen beforehand according to the purpose of him who works all things after the counsel of his own will:
 
 12 That we should be to the praise of his glory, who first trusted in Christ.
 
-13 In whom you also trusted, after that you heard the word of truth, the gospel of your salvation: in whom also after that you believed, you were sealed with that holy Holy Spirit of promise,
+13 In who you also trusted, after that you heard the word of truth, the gospel of your salvation: in who also after that you believed, you were sealed with that holy Holy Spirit of promise,
 
 14 Which is the earnest of our inheritance until the redemption of the purchased possession, to the praise of his glory.
 
@@ -54,7 +54,7 @@
 
 2 In which in time past you walked according to the course of this world, according to the prince of the power of the air, the Holy Spirit that now works in the children of disobedience:
 
-3 Among whom also we all conducted ourselves in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+3 Among who also we all conducted ourselves in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 
 4 But God, who is rich in mercy, for his great love with what he loved us,
 
@@ -90,9 +90,9 @@
 
 20 And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
 
-21 In whom all the building fitly framed together grows to an holy temple in the Lord:
+21 In who all the building fitly framed together grows to an holy temple in the Lord:
 
-22 In whom you also are builded together for an habitation of God through the Holy Spirit.
+22 In who you also are builded together for an habitation of God through the Holy Spirit.
 
 ## Ephesians Chapter 3
 
@@ -102,13 +102,13 @@
 
 3 How that by revelation he made known to me the mystery; (as I wrote before in few words,
 
-4 Whereby, when you read, you may understand my knowledge in the mystery of Christ)
+4 by which, when you read, you may understand my knowledge in the mystery of Christ)
 
 5 Which in other ages was not made known to the sons of men, as it is now revealed to his holy apostles and prophets by the Holy Spirit;
 
 6 That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
 
-7 Whereof I was made a minister, according to the gift of the grace of God given to me by the effective working of his power.
+7 of which I was made a minister, according to the gift of the grace of God given to me by the effective working of his power.
 
 8 to me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;
 
@@ -118,13 +118,13 @@
 
 11 According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
-12 In whom we have boldness and access with confidence by the faith of him.
+12 In who we have boldness and access with confidence by the faith of him.
 
 13 therefore I desire that you faint not at my sufferings for you, which is your glory.
 
 14 For this cause I bow my knees to the Father of our Lord Jesus Christ,
 
-15 Of whom the whole family in heaven and earth is named,
+15 Of who the whole family in heaven and earth is named,
 
 16 That he would grant you, according to the riches of his glory, to be strengthened with might by His Holy Spirit in the inner man;
 
@@ -166,11 +166,11 @@
 
 13 Till we all come in the unity of the faith, and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fulness of Christ:
 
-14 That we from now on be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
+14 That we from now on be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, by which they lie in wait to deceive;
 
 15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
 
-16 From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the building up of itself in love.
+16 From who the whole body fitly joined together and compacted by that which every joint supplies, according to the effective working in the measure of every part, makes increase of the body to the building up of itself in love.
 
 17 This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the emptiness of their mind,
 
@@ -198,7 +198,7 @@
 
 29 Let no rotten speech (harmful words) proceed out of your mouth, but that which is good to the use of building up, that it may minister grace to the hearers.
 
-30 And grieve not the holy Holy Spirit of God, whereby you are sealed to the day of redemption.
+30 And grieve not the holy Holy Spirit of God, by which you are sealed to the day of redemption.
 
 31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all ill will:
 
@@ -316,7 +316,7 @@
 
 21 But that you also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, will make known to you all things:
 
-22 Whom I have sent to you for the same purpose, that you might know our affairs, and that he might comfort your hearts.
+22 who I have sent to you for the same purpose, that you might know our affairs, and that he might comfort your hearts.
 
 23 Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.
 

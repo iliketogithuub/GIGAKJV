@@ -58,9 +58,9 @@
 
 5 Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;
 
-6 Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
+6 Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, who Nebuchadnezzar the king of Babylon had carried away.
 
-7 And he brought up Hadassah, that is, Esther, his uncle's daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.
+7 And he brought up Hadassah, that is, Esther, his uncle's daughter: for she had neither father nor mother, and the maid was fair and beautiful; who Mordecai, when her father and mother were dead, took for his own daughter.
 
 8 So it came to pass, when the king's commandment and his decree was heard, and when many maidens were gathered together to Shushan the palace, to the custody of Hegai, that Esther was brought also to the king's house, to the custody of Hegai, keeper of the women.
 
@@ -136,7 +136,7 @@
 
 4 So Esther's maids and her chamberlains came and told it her. Then was the queen exceedingly grieved; and she sent clothing to clothe Mordecai, and to take away his sackcloth from him: but he received it not.
 
-5 Then called Esther for Hatach, one of the king's chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it was, and why it was.
+5 Then called Esther for Hatach, one of the king's chamberlains, who he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it was, and why it was.
 
 6 So Hatach went forth to Mordecai to the street of the city, which was before the king's gate.
 
@@ -148,7 +148,7 @@
 
 10 Again Esther spoke to Hatach, and gave him commandment to Mordecai;
 
-11 All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or women, will come to the king into the inner court, who is not called, there is one law of his to put him to death, except such to whom the king will hold out the golden sceptre, that he may live: but I have not been called to come in to the king these thirty days.
+11 All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or women, will come to the king into the inner court, who is not called, there is one law of his to put him to death, except such to who the king will hold out the golden sceptre, that he may live: but I have not been called to come in to the king these thirty days.
 
 12 And they told to Mordecai Esther's words.
 
@@ -204,21 +204,21 @@
 
 5 And the king's servants said to him, Look, Haman stands in the court. And the king said, Let him come in.
 
-6 So Haman came in. And the king said to him, What will be done to the man whom the king delights to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?
+6 So Haman came in. And the king said to him, What will be done to the man who the king delights to honour? Now Haman thought in his heart, To who would the king delight to do honour more than to myself?
 
-7 And Haman answered the king, For the man whom the king delights to honour,
+7 And Haman answered the king, For the man who the king delights to honour,
 
 8 Let the royal clothing be brought which the king uses to wear, and the horse that the king rids upon, and the crown royal which is set upon his head:
 
-9 And let this clothing and horse be delivered to the hand of one of the king's most noble princes, that they may array the man also whom the king delights to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus will it be done to the man whom the king delights to honour.
+9 And let this clothing and horse be delivered to the hand of one of the king's most noble princes, that they may array the man also who the king delights to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus will it be done to the man who the king delights to honour.
 
 10 Then the king said to Haman, Make haste, and take the clothing and the horse, as you have said, and do even so to Mordecai the Jew, that sits at the king's gate: let nothing fail of all that you have spoken.
 
-11 Then took Haman the clothing and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus will it be done to the man whom the king delights to honour.
+11 Then took Haman the clothing and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus will it be done to the man who the king delights to honour.
 
 12 And Mordecai came again to the king's gate. But Haman hasted to his house mourning, and having his head covered.
 
-13 And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife to him, If Mordecai be of the seed of the Jews, before whom you have begun to fall, you will not prevail against him, but will surely fall before him.
+13 And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife to him, If Mordecai be of the seed of the Jews, before who you have begun to fall, you will not prevail against him, but will surely fall before him.
 
 14 And while they were yet talking with him, came the king's chamberlains, and hasted to bring Haman to the banquet that Esther had prepared.
 
@@ -238,7 +238,7 @@
 
 7 And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
 
-8 Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of king's mouth, they covered Haman's face.
+8 Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed on which Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of king's mouth, they covered Haman's face.
 
 9 And Harbonah, one of the chamberlains, said before the king, Look also, the gallows fifty cubits high, which Haman had made for Mordecai, who spoken good for the king, stands in the house of Haman. Then the king said, Hang him thereon.
 
@@ -350,7 +350,7 @@
 
 1 And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.
 
-2 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
+2 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, to which the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
 
 3 For Mordecai the Jew was next to king Ahasuerus, and great among the Jews, and accepted of the multitude of his brothers, seeking the wealth of his people, and speaking peace to all his seed.
 

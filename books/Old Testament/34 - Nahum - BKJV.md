@@ -98,7 +98,7 @@
 
 18 your shepherds slumber, O king of Assyria: your nobles will dwell in the dust: your people is scattered upon the mountains, and no man gathers them.
 
-19 There is no healing of your bruise; your wound is grievous: all that hear the bruit of you will clap the hands over you: for upon whom has not your wickedness passed continually?
+19 There is no healing of your bruise; your wound is grievous: all that hear the bruit of you will clap the hands over you: for upon who has not your wickedness passed continually?
 
 
 ## eof

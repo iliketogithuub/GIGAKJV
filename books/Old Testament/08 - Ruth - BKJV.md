@@ -84,7 +84,7 @@
 
 18 And she took it up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.
 
-19 And her mother in law said to her, Where have you gleaned to day? and where worked you? blessed be he that did take knowledge of you. And she showed her mother in law with whom she had done, and said, The man's name with whom I worked to day is Boaz.
+19 And her mother in law said to her, Where have you gleaned to day? and where worked you? blessed be he that did take knowledge of you. And she showed her mother in law with who she had done, and said, The man's name with who I worked to day is Boaz.
 
 20 And Naomi said to her daughter in law, Blessed be he of the Lord, who has not left off his kindness to the living and to the dead. And Naomi said to her, The man is near of kin to us, one of our next kinsmen.
 
@@ -134,7 +134,7 @@
 
 ## Ruth Chapter 4
 
-1 Then went Boaz up to the gate, and sat him down there: and, look, the kinsman of whom Boaz spoke came by; to whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
+1 Then went Boaz up to the gate, and sat him down there: and, look, the kinsman of who Boaz spoke came by; to who he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.
 
 2 And he took ten men of the elders of the city, and said, Sit you down here. And they sat down.
 
@@ -156,7 +156,7 @@
 
 11 And all the people that were in the gate, and the elders, said, We are witnesses. The Lord make the woman that is come into your house like Rachel and like Leah, which two did build the house of Israel: and do you worthily in Ephratah, and be famous in Bethlehem:
 
-12 And let your house be like the house of Pharez, whom Tamar bare to Judah, of the seed which the Lord will give you of this young woman.
+12 And let your house be like the house of Pharez, who Tamar bare to Judah, of the seed which the Lord will give you of this young woman.
 
 13 So Boaz took Ruth, and she was his wife: and when he went in to her, the Lord gave her conception, and she bare a son.
 

@@ -42,7 +42,7 @@
 
 7 For the mystery of wickedness does already work: only he who now lets will let, until he be taken out of the way.
 
-8 And then will that Wicked be revealed, whom the Lord will consume with the Holy Spirit of his mouth, and will destroy with the brightness of his coming:
+8 And then will that Wicked be revealed, who the Lord will consume with the Holy Spirit of his mouth, and will destroy with the brightness of his coming:
 
 9 Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
 
@@ -54,7 +54,7 @@
 
 13 But we are bound to give thanks alway to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through being made holy of the Holy Spirit and belief of the truth:
 
-14 Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
+14 to which he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
 15 Therefore, brothers, stand fast, and hold the traditions which you have been taught, whether by word, or our letter.
 

@@ -118,7 +118,7 @@
 
 13 And Elisha said to the king of Israel, What have I to do with you? get you to the prophets of your father, and to the prophets of your mother. And the king of Israel said to him, Nay: for the Lord has called these three kings together, to deliver them into the hand of Moab.
 
-14 And Elisha said, As the Lord of hosts lives, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you, nor see you.
+14 And Elisha said, As the Lord of hosts lives, before who I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you, nor see you.
 
 15 But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the Lord came upon him.
 
@@ -268,7 +268,7 @@
 
 15 And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Look, now I know that there is no God in all the earth, but in Israel: now therefore, I pray you, take a blessing of your servant.
 
-16 But he said, As the Lord lives, before whom I stand, I will receive none. And he urged him to take it; but he refused.
+16 But he said, As the Lord lives, before who I stand, I will receive none. And he urged him to take it; but he refused.
 
 17 And Naaman said, will there not then, I pray you, be given to your servant two mules' burden of earth? for your servant will from now on offer neither burnt offering nor sacrifice to other gods, but to the Lord.
 
@@ -330,13 +330,13 @@
 
 18 And when they came down to him, Elisha prayed to the Lord, and said, Smite this people, I pray you, with blindness. And he struck them with blindness according to the word of Elisha.
 
-19 And Elisha said to them, This is not the way, neither is this the city: follow me, and I will bring you to the man whom you seek. But he led them to Samaria.
+19 And Elisha said to them, This is not the way, neither is this the city: follow me, and I will bring you to the man who you seek. But he led them to Samaria.
 
 20 And it came to pass, when they were come into Samaria, that Elisha said, Lord, open the eyes of these men, that they may see. And the Lord opened their eyes, and they saw; and, look, they were in the midst of Samaria.
 
 21 And the king of Israel said to Elisha, when he saw them, My father, will I smite them? will I smite them?
 
-22 And he answered, you will not smite them: would you smite those whom you have taken captive with your sword and with your bow? set bread and water before them, that they may eat and drink, and go to their master.
+22 And he answered, you will not smite them: would you smite those who you have taken captive with your sword and with your bow? set bread and water before them, that they may eat and drink, and go to their master.
 
 23 And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.
 
@@ -412,7 +412,7 @@
 
 4 And the king talked with Gehazi the servant of the man of God, saying, Tell me, I pray you, all the great things that Elisha has done.
 
-5 And it came to pass, as he was telling the king how he had restored a dead body to life, that, look, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life.
+5 And it came to pass, as he was telling the king how he had restored a dead body to life, that, look, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, who Elisha restored to life.
 
 6 And when the king asked the woman, she told him. So the king appointed to her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now.
 
@@ -586,7 +586,7 @@
 
 23 And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said to the worshippers of Baal, Search, and look that there be here with you none of the servants of the Lord, but the worshippers of Baal only.
 
-24 And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, If any of the men whom I have brought into your hands escape, he that lets him go, his life will be for the life of him.
+24 And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, If any of the men who I have brought into your hands escape, he that lets him go, his life will be for the life of him.
 
 25 And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, and slay them; let none come forth. And they struck them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal.
 
@@ -728,7 +728,7 @@
 
 13 And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel.
 
-14 Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down to him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen of it.
+14 Now Elisha was fallen sick of his sickness of which he died. And Joash the king of Israel came down to him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen of it.
 
 15 And Elisha said to him, Take bow and arrows. And he took to him bow and arrows.
 
@@ -896,7 +896,7 @@
 
 2 Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the Lord his God, like David his father.
 
-3 But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the Lord cast out from before the children of Israel.
+3 But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, who the Lord cast out from before the children of Israel.
 
 4 And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree.
 
@@ -948,21 +948,21 @@
 
 7 For so it was, that the children of Israel had sinned against the Lord their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,
 
-8 And walked in the statutes of the heathen, whom the Lord cast out from before the children of Israel, and of the kings of Israel, which they had made.
+8 And walked in the statutes of the heathen, who the Lord cast out from before the children of Israel, and of the kings of Israel, which they had made.
 
 9 And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
 
 10 And they set them up images and groves in every high hill, and under every green tree:
 
-11 And there they burnt incense in all the high places, as did the heathen whom the Lord carried away before them; and worked wicked things to provoke the Lord to anger:
+11 And there they burnt incense in all the high places, as did the heathen who the Lord carried away before them; and worked wicked things to provoke the Lord to anger:
 
-12 For they served idols, whereof the Lord had said to them, you will not do this thing.
+12 For they served idols, of which the Lord had said to them, you will not do this thing.
 
 13 Yet the Lord testified against Israel, and against Judah, by all the prophets, and by all the seers, saying, Turn you from your evil ways, and keep my commandments and my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets.
 
 14 Nevertheless they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the Lord their God.
 
-15 And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed emptiness, and became empty, and went after the heathen that were round about them, concerning whom the Lord had charged them, that they should not do like them.
+15 And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed emptiness, and became empty, and went after the heathen that were round about them, concerning who the Lord had charged them, that they should not do like them.
 
 16 And they left all the commandments of the Lord their God, and made them melted images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal.
 
@@ -986,9 +986,9 @@
 
 26 therefore they spoke to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he has sent lions among them, and, look, they slay them, because they know not the manner of the God of the land.
 
-27 Then the king of Assyria commanded, saying, Carry there one of the priests whom you brought from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
+27 Then the king of Assyria commanded, saying, Carry there one of the priests who you brought from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
 
-28 Then one of the priests whom they had carried away from Samaria came and dwelt in Bethel, and taught them how they should fear the Lord.
+28 Then one of the priests who they had carried away from Samaria came and dwelt in Bethel, and taught them how they should fear the Lord.
 
 29 However every nation made gods of their own, and put them in the houses of the high places which the Samaritans had made, every nation in their cities in which they dwelt.
 
@@ -998,11 +998,11 @@
 
 32 So they feared the Lord, and made to themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places.
 
-33 They feared the Lord, and served their own gods, after the manner of the nations whom they carried away from there.
+33 They feared the Lord, and served their own gods, after the manner of the nations who they carried away from there.
 
-34 to this day they do after the former manners: they fear not the Lord, neither do they after their statutes, or after their ordinances, or after the law and commandment which the Lord commanded the children of Jacob, whom he named Israel;
+34 to this day they do after the former manners: they fear not the Lord, neither do they after their statutes, or after their ordinances, or after the law and commandment which the Lord commanded the children of Jacob, who he named Israel;
 
-35 With whom the Lord had made a covenant, and charged them, saying, you will not fear other gods, nor bow yourselves to them, nor serve them, nor sacrifice to them:
+35 With who the Lord had made a covenant, and charged them, saying, you will not fear other gods, nor bow yourselves to them, nor serve them, nor sacrifice to them:
 
 36 But the Lord, who brought you up out of the land of Egypt with great power and a stretched out arm, him will you fear, and him will you worship, and to him will you do sacrifice.
 
@@ -1056,7 +1056,7 @@
 
 19 And Rabshakeh said to them, Speak you now to Hezekiah, Thus says the great king, the king of Assyria, What confidence is this in which you trust?
 
-20 you say, (but they are but empty words,) I have counsel and strength for the war. Now on whom do you trust, that you rebell against me?
+20 you say, (but they are but empty words,) I have counsel and strength for the war. Now on who do you trust, that you rebell against me?
 
 21 Now, look, you trust upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust on him.
 
@@ -1100,7 +1100,7 @@
 
 3 And they said to him, Thus says Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy; for the children are come to the birth, and there is not strength to bring forth.
 
-4 It may be the Lord your God will hear all the words of Rabshakeh, whom the king of Assyria his master has sent to disgrace the living God; and will correct the words which the Lord your God has heard: therefore lift up your prayer for the remnant that are left.
+4 It may be the Lord your God will hear all the words of Rabshakeh, who the king of Assyria his master has sent to disgrace the living God; and will correct the words which the Lord your God has heard: therefore lift up your prayer for the remnant that are left.
 
 5 So the servants of king Hezekiah came to Isaiah.
 
@@ -1112,7 +1112,7 @@
 
 9 And when he heard say of Tirhakah king of Ethiopia, Look, he is come out to fight against you: he sent messengers again to Hezekiah, saying,
 
-10 Thus will you speak to Hezekiah king of Judah, saying, Let not your God in whom you trust deceive you, saying, Jerusalem will not be delivered into the hand of the king of Assyria.
+10 Thus will you speak to Hezekiah king of Judah, saying, Let not your God in who you trust deceive you, saying, Jerusalem will not be delivered into the hand of the king of Assyria.
 
 11 Look, you have heard what the kings of Assyria have done to all lands, by destroying them utterly: and will you be delivered?
 
@@ -1136,7 +1136,7 @@
 
 21 This is the word that the Lord has spoken concerning him; The virgin the daughter of Zion has despised you, and laughed you to scorn; the daughter of Jerusalem has shaken her head at you.
 
-22 Whom have you disgraced and blasphemed? and against whom have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
+22 who have you disgraced and blasphemed? and against who have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
 
 23 By your messengers you have disgraced the Lord, and have said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees of it, and the choice fir trees of it: and I will enter into the lodgings of his borders, and into the forest of his Carmel.
 
@@ -1216,7 +1216,7 @@
 
 1 Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother's name was Hephzibah.
 
-2 And he did that which was evil in the sight of the Lord, after the abominations of the heathen, whom the Lord cast out before the children of Israel.
+2 And he did that which was evil in the sight of the Lord, after the abominations of the heathen, who the Lord cast out before the children of Israel.
 
 3 For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.
 
@@ -1230,7 +1230,7 @@
 
 8 Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
 
-9 But they listened not: and Manasseh seduced them to do more evil than did the nations whom the Lord destroyed before the children of Israel.
+9 But they listened not: and Manasseh seduced them to do more evil than did the nations who the Lord destroyed before the children of Israel.
 
 10 And the Lord spoke by his servants the prophets, saying,
 
@@ -1318,7 +1318,7 @@
 
 4 And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the Lord all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them to Bethel.
 
-5 And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense to Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.
+5 And he put down the idolatrous priests, who the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense to Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.
 
 6 And he brought out the grove from the house of the Lord, without Jerusalem, to the brook Kidron, and burned it at the brook Kidron, and stamped it small to powder, and cast the powder of it upon the graves of the children of the people.
 
@@ -1470,7 +1470,7 @@
 
 21 And the king of Babylon struck them, and killed them at Riblah in the land of Hamath. So Judah was carried away out of their land.
 
-22 And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
+22 And as for the people that remained in the land of Judah, who Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
 
 23 And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhums the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
 

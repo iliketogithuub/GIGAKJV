@@ -16,7 +16,7 @@
 
 7 That the trial of your faith, being much more precious than of gold that perishs, though it be tried with fire, might be found to praise and honour and glory at the appearing of Jesus Christ:
 
-8 Whom having not seen, you love; in whom, though now you see him not, yet believing, you rejoice with joy unspeakable and full of glory:
+8 who having not seen, you love; in who, though now you see him not, yet believing, you rejoice with joy unspeakable and full of glory:
 
 9 Receiving the end of your faith, even the salvation of your souls.
 
@@ -24,7 +24,7 @@
 
 11 Searching what, or what manner of time the Holy Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
-12 to whom it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
+12 to who it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the Holy Spirit sent down from heaven; which things the angels desire to look into.
 
 13 therefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought to you at the revelation of Jesus Christ;
 
@@ -60,7 +60,7 @@
 
 3 If so be you have tasted that the Lord is gracious.
 
-4 To whom coming, as to a living stone, disallowed indeed of men, but chosen of God, and precious,
+4 To who coming, as to a living stone, disallowed indeed of men, but chosen of God, and precious,
 
 5 you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
@@ -68,7 +68,7 @@
 
 7 to you therefore which believe he is precious: but to them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
 
-8 And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.
+8 And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: to which also they were appointed.
 
 9 But you are a chosen generation, a royal priesthood, an holy nation, a treasured people; that you should show forth the praises of him who has called you out of darkness into his marvellous light;
 
@@ -148,7 +148,7 @@
 
 20 Which sometime were disobedient, when once the patience of God waited in the days of Noah, while the ark was a preparing, in which few, that is, eight souls were saved by water.
 
-21 The like figure whereunto even baptism does also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
+21 The like figure to which even baptism does also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 
 22 Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject to him.
 
@@ -174,7 +174,7 @@
 
 10 As every man has received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
 
-11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
+11 If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to who be praise and dominion for ever and ever. Amen.
 
 12 Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened to you:
 
@@ -208,9 +208,9 @@
 
 7 Casting all your care upon him; for he cars for you.
 
-8 Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour:
+8 Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking who he may devour:
 
-9 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brothers that are in the world.
+9 who resist stedfast in the faith, knowing that the same afflictions are accomplished in your brothers that are in the world.
 
 10 But the God of all grace, who has called us to his eternal glory by Christ Jesus, after that you have suffered a while, make you perfect, stablish, strengthen, settle you.
 

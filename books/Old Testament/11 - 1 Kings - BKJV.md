@@ -118,7 +118,7 @@
 
 4 That the Lord may continue his word which he spoke concerning me, saying, If your children take heed to their way, to walk before me in truth with all their heart and with all their soul, there will not fail you (said he) a man on the throne of Israel.
 
-5 Moreover you know also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, to Abner the son of Ner, and to Amasa the son of Jether, whom he killed, and shed the blood of war in peace, and put the blood of war upon his belt that was about his loins, and in his shoes that were on his feet.
+5 Moreover you know also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, to Abner the son of Ner, and to Amasa the son of Jether, who he killed, and shed the blood of war in peace, and put the blood of war upon his belt that was about his loins, and in his shoes that were on his feet.
 
 6 Do therefore according to your wisdom, and let not his hoar head go down to the grave in peace.
 
@@ -340,7 +340,7 @@
 
 4 But now the Lord my God has given me rest on every side, so that there is neither adversary nor evil occurrent.
 
-5 And, look, I purpose to build an house to the name of the Lord my God, as the Lord spoke to David my father, saying, your son, whom I will set upon your throne in your room, he will build an house to my name.
+5 And, look, I purpose to build an house to the name of the Lord my God, as the Lord spoke to David my father, saying, your son, who I will set upon your throne in your room, he will build an house to my name.
 
 6 Now therefore command you that they hew me cedar trees out of Lebanon; and my servants will be with your servants: and to you will I give hire for your servants according to all that you will appoint: for you know that there is not among us any that can skill to hew timber like to the Sidonians.
 
@@ -462,7 +462,7 @@
 
 7 Then he made a porch for the throne where he might judge, even the porch of judgment: and it was covered with cedar from one side of the floor to the other.
 
-8 And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh's daughter, whom he had taken to wife, like to this porch.
+8 And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh's daughter, who he had taken to wife, like to this porch.
 
 9 All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation to the coping, and so on the outside toward the great court.
 
@@ -726,7 +726,7 @@
 
 20 And all the people that were left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which were not of the children of Israel,
 
-21 Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice to this day.
+21 Their children that were left after them in the land, who the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice to this day.
 
 22 But of the children of Israel did Solomon make no slaves: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
 
@@ -794,7 +794,7 @@
 
 25 And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year.
 
-26 And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.
+26 And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, who he bestowed in the cities for chariots, and with the king at Jerusalem.
 
 27 And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore trees that are in the vale, for abundance.
 
@@ -842,7 +842,7 @@
 
 19 And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.
 
-20 And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh's house: and Genubath was in Pharaoh's household among the sons of Pharaoh.
+20 And the sister of Tahpenes bare him Genubath his son, who Tahpenes weaned in Pharaoh's house: and Genubath was in Pharaoh's household among the sons of Pharaoh.
 
 21 And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
 
@@ -870,7 +870,7 @@
 
 33 Because that they have forsaken me, and have worshipped Ashtors the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father.
 
-34 However I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant's sake, whom I chose, because he kept my commandments and my statutes:
+34 However I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant's sake, who I chose, because he kept my commandments and my statutes:
 
 35 But I will take the kingdom out of his son's hand, and will give it to you, even ten tribes.
 
@@ -1004,7 +1004,7 @@
 
 22 But cam back, and have eaten bread and drunk water in the place, of the which the Lord did say to you, Eat no bread, and drink no water; your carcase will not come to the tomb of your fathers.
 
-23 And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, to wit, for the prophet whom he had brought back.
+23 And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, to wit, for the prophet who he had brought back.
 
 24 And when he was gone, a lion met him by the way, and killed him: and his carcase was cast in the way, and the ass stood by it, the lion also stood by the carcase.
 
@@ -1234,7 +1234,7 @@
 
 ## 1 Kings Chapter 17
 
-1 And Elijah the Tishbite, who was of the inhabitants of Gilead, said to Ahab, As the Lord God of Israel lives, before whom I stand, there will not be dew nor rain these years, but according to my word.
+1 And Elijah the Tishbite, who was of the inhabitants of Gilead, said to Ahab, As the Lord God of Israel lives, before who I stand, there will not be dew nor rain these years, but according to my word.
 
 2 And the word of the Lord came to him, saying,
 
@@ -1272,7 +1272,7 @@
 
 19 And he said to her, Give me your son. And he took him out of her bosom, and carried him up into a loft, where he stayed, and laid him upon his own bed.
 
-20 And he cried to the Lord, and said, O Lord my God, have you also brought evil upon the widow with whom I live temporarily, by slaying her son?
+20 And he cried to the Lord, and said, O Lord my God, have you also brought evil upon the widow with who I live temporarily, by slaying her son?
 
 21 And he stretched himself upon the child three times, and cried to the Lord, and said, O Lord my God, I pray you, let this child's soul come into him again.
 
@@ -1312,7 +1312,7 @@
 
 14 And now you say, Go, tell your lord, Look, Elijah is here: and he will slay me.
 
-15 And Elijah said, As the Lord of hosts lives, before whom I stand, I will surely show myself to him to day.
+15 And Elijah said, As the Lord of hosts lives, before who I stand, I will surely show myself to him to day.
 
 16 So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.
 
@@ -1344,7 +1344,7 @@
 
 30 And Elijah said to all the people, Come near to me. And all the people came near to him. And he repaired the altar of the Lord that was broken down.
 
-31 And Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom the word of the Lord came, saying, Israel will be your name:
+31 And Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to who the word of the Lord came, saying, Israel will be your name:
 
 32 And with the stones he built an altar in the name of the Lord: and he made a trench about the altar, as great as would contain two measures of seed.
 
@@ -1448,7 +1448,7 @@
 
 13 And, look, there came a prophet to Ahab king of Israel, saying, Thus says the Lord, have you seen all this great multitude? look, I will deliver it into your hand this day; and you will know that I am the Lord.
 
-14 And Ahab said, By whom? And he said, Thus says the Lord, Even by the young men of the princes of the provinces. Then he said, Who will order the battle? And he answered, you.
+14 And Ahab said, By who? And he said, Thus says the Lord, Even by the young men of the princes of the provinces. Then he said, Who will order the battle? And he answered, you.
 
 15 Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand.
 
@@ -1504,7 +1504,7 @@
 
 41 And he hasted, and took the ashes away from his face; and the king of Israel recognized him that he was of the prophets.
 
-42 And he said to him, Thus says the Lord, Because you have let go out of your hand a man whom I appointed to utter destruction, therefore your life will go for his life, and your people for his people.
+42 And he said to him, Thus says the Lord, Because you have let go out of your hand a man who I appointed to utter destruction, therefore your life will go for his life, and your people for his people.
 
 43 And the king of Israel went to his house heavy and displeased, and came to Samaria.
 
@@ -1558,9 +1558,9 @@
 
 24 Him that dies of Ahab in the city the dogs will eat; and him that dies in the field will the fowls of the air eat.
 
-25 But there was none like to Ahab, which did sell himself to work wickedness in the sight of the Lord, whom Jezebel his wife stirred up.
+25 But there was none like to Ahab, which did sell himself to work wickedness in the sight of the Lord, who Jezebel his wife stirred up.
 
-26 And he did very abominably in following idols, according to all things as did the Amorites, whom the Lord cast out before the children of Israel.
+26 And he did very abominably in following idols, according to all things as did the Amorites, who the Lord cast out before the children of Israel.
 
 27 And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
 
@@ -1584,7 +1584,7 @@
 
 7 And Jehoshaphat said, Is there not here a prophet of the Lord besides, that we might enquire of him?
 
-8 And the king of Israel said to Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the Lord: but I hate him; for he does not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
+8 And the king of Israel said to Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by who we may enquire of the Lord: but I hate him; for he does not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
 
 9 Then the king of Israel called an officer, and said, Hasten here Micaiah the son of Imlah.
 

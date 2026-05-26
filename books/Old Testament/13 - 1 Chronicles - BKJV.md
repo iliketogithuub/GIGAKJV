@@ -24,7 +24,7 @@
 
 11 And Mizraim fathered Ludim, and Anamim, and Lehabim, and Naphtuhim,
 
-12 And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.
+12 And Pathrusim, and Casluhim, (of who came the Philistines,) and Caphthorim.
 
 13 And Canaan fathered Zidon his firstborn, and Hs,
 
@@ -152,7 +152,7 @@
 
 20 And Hur fathered Uri, and Uri fathered Bezaleel.
 
-21 And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub.
+21 And afterward Hezron went in to the daughter of Machir the father of Gilead, who he married when he was threescore years old; and she bare him Segub.
 
 22 And Segub fathered Jair, who had three and twenty cities in the land of Gilead.
 
@@ -372,7 +372,7 @@
 
 5 Micah his son, Reaia his son, Baal his son,
 
-6 Beerah his son, whom Tilgathpilneser king of Assyria carried away captive: he was prince of the Reubenites.
+6 Beerah his son, who Tilgathpilneser king of Assyria carried away captive: he was prince of the Reubenites.
 
 7 And his brothers by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,
 
@@ -410,7 +410,7 @@
 
 24 And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers.
 
-25 And they sinned against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.
+25 And they sinned against the God of their fathers, and went a whoring after the gods of the people of the land, who God destroyed before them.
 
 26 And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them to Halah, and Habor, and Hara, and to the river Gozan, to this day.
 
@@ -476,7 +476,7 @@
 
 30 Shimea his son, Haggiah his son, Asaiah his son.
 
-31 And these are they whom David set over the service of song in the house of the Lord, after that the ark had rest.
+31 And these are they who David set over the service of song in the house of the Lord, after that the ark had rest.
 
 32 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the Lord in Jerusalem: and then they waited on their office according to their order.
 
@@ -606,7 +606,7 @@
 
 13 The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 
-14 The sons of Manasseh; Ashriel, whom she bare: (but his secondary wife the Aramitess bare Machir the father of Gilead:
+14 The sons of Manasseh; Ashriel, who she bare: (but his secondary wife the Aramitess bare Machir the father of Gilead:
 
 15 And Machir took to wife the sister of Huppim and Shuppim, whose sister's name was Maachah;) and the name of the second was Zelophehad: and Zelophehad had daughters.
 
@@ -620,7 +620,7 @@
 
 20 And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,
 
-21 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land killed, because they came down to take away their cattle.
+21 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, who the men of Gath that were born in that land killed, because they came down to take away their cattle.
 
 22 And Ephraim their father mourned many days, and his brothers came to comfort him.
 
@@ -786,7 +786,7 @@
 
 21 And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation.
 
-22 All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
+22 All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, who David and Samuel the seer did ordain in their set office.
 
 23 So they and their children had the oversight of the gates of the house of the Lord, namely, the house of the tabernacle, by wards.
 
@@ -882,9 +882,9 @@
 
 9 So David grew greater and greater: for the Lord of hosts was with him.
 
-10 These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the Lord concerning Israel.
+10 These also are the chief of the mighty men who David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the Lord concerning Israel.
 
-11 And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.
+11 And this is the number of the mighty men who David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.
 
 12 And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties.
 
@@ -1266,7 +1266,7 @@
 
 5 For I have not dwelt in an house since the day that I brought up Israel to this day; but have gone from tent to tent, and from one tabernacle to another.
 
-6 Wheresoever I have walked with all Israel, spoke I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have you not built me an house of cedars?
+6 Wheresoever I have walked with all Israel, spoke I a word to any of the judges of Israel, who I commanded to feed my people, saying, Why have you not built me an house of cedars?
 
 7 Now therefore thus will you say to my servant David, Thus says the Lord of hosts, I took you from the sheepcote, even from following the sheep, that you should be ruler over my people Israel:
 
@@ -1296,7 +1296,7 @@
 
 20 O Lord, there is none like you, neither is there any God beside you, according to all that we have heard with our ears.
 
-21 And what one nation in the earth is like your people Israel, whom God went to redeem to be his own people, to make you a name of greatness and terribleness, by driving out nations from before your people whom you have redeemed out of Egypt?
+21 And what one nation in the earth is like your people Israel, who God went to redeem to be his own people, to make you a name of greatness and terribleness, by driving out nations from before your people who you have redeemed out of Egypt?
 
 22 For your people Israel did you make your own people for ever; and you, Lord, becam their God.
 
@@ -1764,7 +1764,7 @@
 
 31 Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 
-32 And his brothers, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
+32 And his brothers, men of valour, were two thousand and seven hundred chief fathers, who king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
 
 ## 1 Chronicles Chapter 27
 
@@ -1882,7 +1882,7 @@
 
 ## 1 Chronicles Chapter 29
 
-1 Furthermore David the king said to all the congregation, Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the Lord God.
+1 Furthermore David the king said to all the congregation, Solomon my son, who alone God has chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the Lord God.
 
 2 Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of various colours, and all manner of precious stones, and marble stones in abundance.
 
@@ -1896,7 +1896,7 @@
 
 7 And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron.
 
-8 And they with whom precious stones were found gave them to the treasure of the house of the Lord, by the hand of Jehiel the Gershonite.
+8 And they with who precious stones were found gave them to the treasure of the house of the Lord, by the hand of Jehiel the Gershonite.
 
 9 Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the Lord: and David the king also rejoiced with great joy.
 

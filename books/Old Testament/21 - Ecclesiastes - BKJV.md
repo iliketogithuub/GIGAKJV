@@ -20,7 +20,7 @@
 
 9 The thing that has been, it is that which will be; and that which is done is that which will be done: and there is no new thing under the sun.
 
-10 Is there any thing whereof it may be said, See, this is new? it has been already of old time, which was before us.
+10 Is there any thing of which it may be said, See, this is new? it has been already of old time, which was before us.
 
 11 There is no remembrance of former things; neither will there be any remembrance of things that are to come with those that will come after.
 
@@ -154,7 +154,7 @@
 
 7 Then I returned, and I saw emptiness under the sun.
 
-8 There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also emptiness, yea, it is a difficult labor.
+8 There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For who do I labour, and bereave my soul of good? This is also emptiness, yea, it is a difficult labor.
 
 9 Two are better than one; because they have a good reward for their labour.
 
@@ -210,7 +210,7 @@
 
 18 Look that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he takes under the sun all the days of his life, which God gives him: for it is his portion.
 
-19 Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labour; this is the gift of God.
+19 Every man also to who God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labour; this is the gift of God.
 
 20 For he will not much remember the days of his life; because God answers him in the joy of his heart.
 
@@ -218,7 +218,7 @@
 
 1 There is an evil which I have seen under the sun, and it is common among men:
 
-2 A man to whom God has given riches, wealth, and honour, so that he wants nothing for his soul of all that he desires, yet God gives him not power to eat of it, but a stranger eats it: this is emptiness, and it is an evil disease.
+2 A man to who God has given riches, wealth, and honour, so that he wants nothing for his soul of all that he desires, yet God gives him not power to eat of it, but a stranger eats it: this is emptiness, and it is an evil disease.
 
 3 If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.
 
@@ -328,7 +328,7 @@
 
 13 But it will not be well with the wicked, neither will he prolong his days, which are as a shadow; because he fears not before God.
 
-14 There is a emptiness which is done upon the earth; that there be just men, to whom it happens according to the work of the wicked; again, there be wicked men, to whom it happens according to the work of the righteous: I said that this also is emptiness.
+14 There is a emptiness which is done upon the earth; that there be just men, to who it happens according to the work of the wicked; again, there be wicked men, to who it happens according to the work of the righteous: I said that this also is emptiness.
 
 15 Then I praised mirth, because a man has no better thing under the sun, than to eat, and to drink, and to be merry: for that will abide with him of his labour the days of his life, which God gives him under the sun.
 
@@ -354,7 +354,7 @@
 
 8 Let your garments be always white; and let your head lack no ointment.
 
-9 Live joyfully with the wife whom you lov all the days of the life of your emptiness, which he has given you under the sun, all the days of your emptiness: for that is your portion in this life, and in your labour which you tak under the sun.
+9 Live joyfully with the wife who you lov all the days of the life of your emptiness, which he has given you under the sun, all the days of your emptiness: for that is your portion in this life, and in your labour which you tak under the sun.
 
 10 Whatsoever your hand finds to do, do it with your might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, where you go.
 

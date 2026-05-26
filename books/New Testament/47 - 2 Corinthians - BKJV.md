@@ -20,7 +20,7 @@
 
 9 But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiss the dead:
 
-10 Who delivered us from so great a death, and does deliver: in whom we trust that he will yet deliver us;
+10 Who delivered us from so great a death, and does deliver: in who we trust that he will yet deliver us;
 
 11 you also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.
 
@@ -56,7 +56,7 @@
 
 2 For if I make you sorry, who is he then that makes me glad, but the same which is made sorry by me?
 
-3 And I wrote this same to you, otherwise, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.
+3 And I wrote this same to you, otherwise, when I came, I should have sorrow from them of who I ought to rejoice; having confidence in you all, that my joy is the joy of you all.
 
 4 For out of much affliction and anguish of heart I wrote to you with many tears; not that you should be grieved, but that you might know the love which I have more abundantly to you.
 
@@ -70,7 +70,7 @@
 
 9 For to this end also did I write, that I might know the proof of you, whether you be obedient in all things.
 
-10 To whom you forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;
+10 To who you forgive any thing, I forgive also: for if I forgave any thing, to who I forgave it, for your sakes forgave I it in the person of Christ;
 
 11 otherwise Satan should get an advantage of us: for we are not ignorant of his devices.
 
@@ -132,7 +132,7 @@
 
 3 But if our gospel be hid, it is hid to them that are lost:
 
-4 In whom the god of this world has blinded the minds of them which believe not, otherwise the light of the glorious gospel of Christ, who is the image of God, should shine to them.
+4 In who the god of this world has blinded the minds of them which believe not, otherwise the light of the glorious gospel of Christ, who is the image of God, should shine to them.
 
 5 For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
 
@@ -322,7 +322,7 @@
 
 21 Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
 
-22 And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.
+22 And we have sent with them our brother, who we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.
 
 23 Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brothers be enquired of, they are the messengers of the churches, and the glory of Christ.
 
@@ -338,7 +338,7 @@
 
 4 otherwise perhaps if they of Macedonia come with me, and find you unprepared, we (that we say not, you) should be ashamed in this same confident boasting.
 
-5 Therefore I thought it necessary to encourage the brothers, that they would go before to you, and make up beforehand your bounty, whereof you had notice before, that the same might be ready, as a matter of bounty, and not as of greed.
+5 Therefore I thought it necessary to encourage the brothers, that they would go before to you, and make up beforehand your bounty, of which you had notice before, that the same might be ready, as a matter of bounty, and not as of greed.
 
 6 But this I say, He which sows sparingly will reap also sparingly; and he which sows bountifully will reap also bountifully.
 
@@ -396,7 +396,7 @@
 
 17 But he that glories, let him glory in the Lord.
 
-18 For not he that commends himself is approved, but whom the Lord commends.
+18 For not he that commends himself is approved, but who the Lord commends.
 
 ## 2 Corinthians Chapter 11
 
@@ -406,7 +406,7 @@
 
 3 But I fear, otherwise by any means, as the serpent beguiled Eve through his cunning, so your minds should be corrupted from the simplicity that is in Christ.
 
-4 For if he that comes preachs another Jesus, whom we have not preached, or if you receive another spirit, which you have not received, or another gospel, which you have not accepted, you might well bear with him.
+4 For if he that comes preachs another Jesus, who we have not preached, or if you receive another spirit, which you have not received, or another gospel, which you have not accepted, you might well bear with him.
 
 5 For I suppose I was not a whit behind the very chiefest apostles.
 
@@ -440,7 +440,7 @@
 
 20 For you suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.
 
-21 I speak as concerning disgrace, as though we had been weak. However whereinsoever any is bold, (I speak foolishly,) I am bold also.
+21 I speak as concerning disgrace, as though we had been weak. However in whatever way any is bold, (I speak foolishly,) I am bold also.
 
 22 Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
 
@@ -500,7 +500,7 @@
 
 16 But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
 
-17 Did I make a gain of you by any of them whom I sent to you?
+17 Did I make a gain of you by any of them who I sent to you?
 
 18 I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
 

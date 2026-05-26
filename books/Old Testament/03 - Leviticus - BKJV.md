@@ -228,7 +228,7 @@
 
 4 Then it will be, because he has sinned, and is guilty, that he will restore that which he took violently away, or the thing which he has deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,
 
-5 Or all that about which he has sworn falsely; he will even restore it in the principal, and will add the fifth part more to it, and give it to him to whom it appertains, in the day of his trespass offering.
+5 Or all that about which he has sworn falsely; he will even restore it in the principal, and will add the fifth part more to it, and give it to him to who it appertains, in the day of his trespass offering.
 
 6 And he will bring his trespass offering to the Lord, a ram without blemish out of the flock, with your estimation, for a trespass offering, to the priest:
 
@@ -272,13 +272,13 @@
 
 26 The priest that offers it for sin will eat it: in the holy place will it be eaten, in the court of the tabernacle of the congregation.
 
-27 Whatsoever will touch the flesh of it will be holy: and when there is sprinkled of the blood of it upon any garment, you will wash that whereon it was sprinkled in the holy place.
+27 Whatsoever will touch the flesh of it will be holy: and when there is sprinkled of the blood of it upon any garment, you will wash that on which it was sprinkled in the holy place.
 
 28 But the earthen vessel in which it is sodden will be broken: and if it be sodden in a brasen pot, it will be both scoured, and rinsed in water.
 
 29 All the males among the priests will eat of it: it is most holy.
 
-30 And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile also in the holy place, will be eaten: it will be burnt in the fire.
+30 And no sin offering, of which any of the blood is brought into the tabernacle of the congregation to reconcile also in the holy place, will be eaten: it will be burnt in the fire.
 
 ## Leviticus Chapter 7
 
@@ -590,7 +590,7 @@
 
 32 And upon whatsoever any of them, when they are dead, does fall, it will be unclean; whether it be any vessel of wood, or clothing, or skin, or sack, whatsoever vessel it be, in which any work is done, it must be put into water, and it will be unclean until the even; so it will be cleansed.
 
-33 And every earthen vessel, whereinto any of them falls, whatsoever is in it will be unclean; and you will break it.
+33 And every earthen vessel, into which any of them falls, whatsoever is in it will be unclean; and you will break it.
 
 34 Of all meat which may be eaten, that on which such water comes will be unclean: and all drink that may be drunk in every such vessel will be unclean.
 
@@ -686,7 +686,7 @@
 
 23 But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest will pronounce him clean.
 
-24 Or if there be any flesh, in the skin whereof there is a hot burning, and the living flesh that burns have a white bright spot, somewhat reddish, or white;
+24 Or if there be any flesh, in the skin of which there is a hot burning, and the living flesh that burns have a white bright spot, somewhat reddish, or white;
 
 25 Then the priest will look upon it: and, look, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: therefore the priest will pronounce him unclean: it is the plague of leprosy.
 
@@ -728,7 +728,7 @@
 
 44 He is a leprous man, he is unclean: the priest will pronounce him utterly unclean; his plague is in his head.
 
-45 And the leper in whom the plague is, his clothes will be rent, and his head bare, and he will put a covering upon his upper lip, and will cry, Unclean, unclean.
+45 And the leper in who the plague is, his clothes will be rent, and his head bare, and he will put a covering upon his upper lip, and will cry, Unclean, unclean.
 
 46 All the days in which the plague will be in him he will be defiled; he is unclean: he will dwell alone; without the camp will his habitation be.
 
@@ -822,7 +822,7 @@
 
 31 Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest will make an atonement for him that is to be cleansed before the Lord.
 
-32 This is the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertains to his cleansing.
+32 This is the law of him in who is the plague of leprosy, whose hand is not able to get that which pertains to his cleansing.
 
 33 And the Lord spoke to Moses and to Aaron, saying,
 
@@ -882,11 +882,11 @@
 
 3 And this will be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness.
 
-4 Every bed, whereon he lies that has the issue, is unclean: and every thing, whereon he sits, will be unclean.
+4 Every bed, on which he lies that has the issue, is unclean: and every thing, on which he sits, will be unclean.
 
 5 And whosoever touchs his bed will wash his clothes, and bathe himself in water, and be unclean until the even.
 
-6 And he that sits on any thing whereon he sat that has the issue will wash his clothes, and bathe himself in water, and be unclean until the even.
+6 And he that sits on any thing on which he sat that has the issue will wash his clothes, and bathe himself in water, and be unclean until the even.
 
 7 And he that touchs the flesh of him that has the issue will wash his clothes, and bathe himself in water, and be unclean until the even.
 
@@ -896,7 +896,7 @@
 
 10 And whosoever touchs any thing that was under him will be unclean until the even: and he that bears any of those things will wash his clothes, and bathe himself in water, and be unclean until the even.
 
-11 And whomsoever he touchs that has the issue, and has not rinsed his hands in water, he will wash his clothes, and bathe himself in water, and be unclean until the even.
+11 And whoever he touchs that has the issue, and has not rinsed his hands in water, he will wash his clothes, and bathe himself in water, and be unclean until the even.
 
 12 And the vessel of earth, that he touchs which has the issue, will be broken: and every vessel of wood will be rinsed in water.
 
@@ -908,9 +908,9 @@
 
 16 And if any man's seed of copulation go out from him, then he will wash all his flesh in water, and be unclean until the even.
 
-17 And every garment, and every skin, whereon is the seed of copulation, will be washed with water, and be unclean until the even.
+17 And every garment, and every skin, on which is the seed of copulation, will be washed with water, and be unclean until the even.
 
-18 The woman also with whom man will lie with seed of copulation, they will both bathe themselves in water, and be unclean until the even.
+18 The woman also with who man will lie with seed of copulation, they will both bathe themselves in water, and be unclean until the even.
 
 19 And if a woman have an issue, and her issue in her flesh be blood, she will be put apart seven days: and whosoever touchs her will be unclean until the even.
 
@@ -920,13 +920,13 @@
 
 22 And whosoever touchs any thing that she sat upon will wash his clothes, and bathe himself in water, and be unclean until the even.
 
-23 And if it be on her bed, or on any thing whereon she sits, when he touchs it, he will be unclean until the even.
+23 And if it be on her bed, or on any thing on which she sits, when he touchs it, he will be unclean until the even.
 
-24 And if any man lie with her at all, and her flowers be upon him, he will be unclean seven days; and all the bed whereon he lies will be unclean.
+24 And if any man lie with her at all, and her flowers be upon him, he will be unclean seven days; and all the bed on which he lies will be unclean.
 
 25 And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness will be as the days of her separation: she will be unclean.
 
-26 Every bed whereon she lies all the days of her issue will be to her as the bed of her separation: and whatsoever she sits upon will be unclean, as the uncleanness of her separation.
+26 Every bed on which she lies all the days of her issue will be to her as the bed of her separation: and whatsoever she sits upon will be unclean, as the uncleanness of her separation.
 
 27 And whosoever touchs those things will be unclean, and will wash his clothes, and bathe himself in water, and be unclean until the even.
 
@@ -1006,7 +1006,7 @@
 
 31 It will be a sabbath of rest to you, and you will afflict your souls, by a statute for ever.
 
-32 And the priest, whom he will anoint, and whom he will set apart to minister in the priest's office in his father's stead, will make the atonement, and will put on the linen clothes, even the holy garments:
+32 And the priest, who he will anoint, and who he will set apart to minister in the priest's office in his father's stead, will make the atonement, and will put on the linen clothes, even the holy garments:
 
 33 And he will make an atonement for the holy sanctuary, and he will make an atonement for the tabernacle of the congregation, and for the altar, and he will make an atonement for the priests, and for all the people of the congregation.
 
@@ -1026,7 +1026,7 @@
 
 6 And the priest will sprinkle the blood upon the altar of the Lord at the door of the tabernacle of the congregation, and burn the fat for a sweet savour to the Lord.
 
-7 And they will no more offer their sacrifices to devils, after whom they have gone a whoring. This will be a statute for ever to them throughout their generations.
+7 And they will no more offer their sacrifices to devils, after who they have gone a whoring. This will be a statute for ever to them throughout their generations.
 
 8 And you will say to them, Whatsoever man there be of the house of Israel, or of the strangers which live temporarily among you, that offers a burnt offering or sacrifice,
 
@@ -1300,7 +1300,7 @@
 
 4 What man soever of the seed of Aaron is a leper, or has a running issue; he will not eat of the holy things, until he be clean. And whoso touchs any thing that is unclean by the dead, or a man whose seed goes from him;
 
-5 Or whosoever touchs any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he has;
+5 Or whosoever touchs any creeping thing, by which he may be made unclean, or a man of who he may take uncleanness, whatsoever uncleanness he has;
 
 6 The soul which has touched any such will be unclean until even, and will not eat of the holy things, unless he wash his flesh with water.
 
@@ -1550,7 +1550,7 @@
 
 26 And if the man have none to redeem it, and himself be able to redeem it;
 
-27 Then let him count the years of the sale of it, and restore the overplus to the man to whom he sold it; that he may return to his possession.
+27 Then let him count the years of the sale of it, and restore the overplus to the man to who he sold it; that he may return to his possession.
 
 28 But if he be not able to restore it to him, then that which is sold will remain in the hand of him that has bought it until the year of jubile: and in the jubile it will go out, and he will return to his possession.
 
@@ -1606,7 +1606,7 @@
 
 54 And if he be not redeemed in these years, then he will go out in the year of jubile, both he, and his children with him.
 
-55 For to me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the Lord your God.
+55 For to me the children of Israel are servants; they are my servants who I brought forth out of the land of Egypt: I am the Lord your God.
 
 ## Leviticus Chapter 26
 
@@ -1698,7 +1698,7 @@
 
 44 And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I despise them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God.
 
-45 But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the Lord.
+45 But I will for their sakes remember the covenant of their ancestors, who I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the Lord.
 
 46 These are the statutes and judgments and laws, which the Lord made between him and the children of Israel in mount Sinai by the hand of Moses.
 
@@ -1720,7 +1720,7 @@
 
 8 But if he be poorer than your estimation, then he will present himself before the priest, and the priest will value him; according to his ability that vowed will the priest value him.
 
-9 And if it be a beast, whereof men bring an offering to the Lord, all that any man gives of such to the Lord will be holy.
+9 And if it be a beast, of which men bring an offering to the Lord, all that any man gives of such to the Lord will be holy.
 
 10 He will not alter it, nor change it, a good for a bad, or a bad for a good: and if he will at all change beast for beast, then it and the exchange of it will be holy.
 
@@ -1750,7 +1750,7 @@
 
 23 Then the priest will reckon to him the worth of your estimation, even to the year of the jubile: and he will give your estimation in that day, as a holy thing to the Lord.
 
-24 In the year of the jubile the field will return to him of whom it was bought, even to him to whom the possession of the land did belong.
+24 In the year of the jubile the field will return to him of who it was bought, even to him to who the possession of the land did belong.
 
 25 And all your estimations will be according to the shekel of the sanctuary: twenty gerahs will be the shekel.
 

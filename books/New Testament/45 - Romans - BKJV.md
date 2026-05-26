@@ -10,15 +10,15 @@
 
 4 And declared to be the Son of God with power, according to the Holy Spirit of holiness, by the resurrection from the dead:
 
-5 By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
+5 By who we have received grace and apostleship, for obedience to the faith among all nations, for his name:
 
-6 Among whom are you also the called of Jesus Christ:
+6 Among who are you also the called of Jesus Christ:
 
 7 To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.
 
 8 First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
 
-9 For God is my witness, whom I serve with my human spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
+9 For God is my witness, who I serve with my human spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
 
 10 Making request, if by any means now at length I might have a prosperous journey by the will of God to come to you.
 
@@ -176,7 +176,7 @@
 
 24 Being justified freely by his grace through the redemption that is in Christ Jesus:
 
-25 Whom God has set forth to be a atoning sacrifice through faith in his blood, to declare his righteousness for the forgiveness of sins that are past, through the patience of God;
+25 who God has set forth to be a atoning sacrifice through faith in his blood, to declare his righteousness for the forgiveness of sins that are past, through the patience of God;
 
 26 To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believes in Jesus.
 
@@ -194,7 +194,7 @@
 
 1 What will we say then that Abraham our father, as pertaining to the flesh, has found?
 
-2 For if Abraham were justified by works, he has whereof to glory; but not before God.
+2 For if Abraham were justified by works, he has of which to glory; but not before God.
 
 3 For what says the scripture? Abraham believed God, and it was counted to him for righteousness.
 
@@ -202,11 +202,11 @@
 
 5 But to him that works not, but believes on him that justifies the ungodly, his faith is counted for righteousness.
 
-6 Even as David also describs the blessedness of the man, to whom God imputs righteousness without works,
+6 Even as David also describs the blessedness of the man, to who God imputs righteousness without works,
 
 7 Saying, Blessed are they whose wickedness are forgiven, and whose sins are covered.
 
-8 Blessed is the man to whom the Lord will not credit sin.
+8 Blessed is the man to who the Lord will not credit sin.
 
 9 comes this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
 
@@ -224,7 +224,7 @@
 
 16 Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
 
-17 (As it is written, I have made you a father of many nations,) before him whom he believed, even God, who gives life to the dead, and calls those things which be not as though they were.
+17 (As it is written, I have made you a father of many nations,) before him who he believed, even God, who gives life to the dead, and calls those things which be not as though they were.
 
 18 Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So will your seed be.
 
@@ -238,7 +238,7 @@
 
 23 Now it was not written for his sake alone, that it was credited to him;
 
-24 But for us also, to whom it will be credited, if we believe on him that raised up Jesus our Lord from the dead;
+24 But for us also, to who it will be credited, if we believe on him that raised up Jesus our Lord from the dead;
 
 25 Who was delivered for our offences, and was raised again for our being made right.
 
@@ -246,7 +246,7 @@
 
 1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 
-2 By whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
+2 By who also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
 
 3 And not only so, but we glory in sufferings also: knowing that suffering works patience;
 
@@ -264,7 +264,7 @@
 
 10 For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we will be saved by his life.
 
-11 And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.
+11 And not only so, but we also joy in God through our Lord Jesus Christ, by who we have now received the atonement.
 
 12 therefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
 
@@ -318,7 +318,7 @@
 
 15 What then? will we sin, because we are not under the law, but under grace? God forbid.
 
-16 Know you not, that to whom you yield yourselves servants to obey, his servants you are to whom you obey; whether of sin to death, or of obedience to righteousness?
+16 Know you not, that to who you yield yourselves servants to obey, his servants you are to who you obey; whether of sin to death, or of obedience to righteousness?
 
 17 But God be thanked, that you were the servants of sin, but you have obeyed from the heart that form of doctrine which was delivered you.
 
@@ -328,7 +328,7 @@
 
 20 For when you were the servants of sin, you were free from righteousness.
 
-21 What fruit had you then in those things whereof you are now ashamed? for the end of those things is death.
+21 What fruit had you then in those things of which you are now ashamed? for the end of those things is death.
 
 22 But now being made free from sin, and become servants to God, you have your fruit to holiness, and the end everlasting life.
 
@@ -416,7 +416,7 @@
 
 14 For as many as are led by the Holy Spirit of God, they are the sons of God.
 
-15 For you have not received the Holy Spirit of bondage again to fear; but you have received the Holy Spirit of adoption, whereby we cry, Abba, Father.
+15 For you have not received the Holy Spirit of bondage again to fear; but you have received the Holy Spirit of adoption, by which we cry, Abba, Father.
 
 16 The Spirit itself bears witness with our human spirit, that we are the children of God:
 
@@ -444,9 +444,9 @@
 
 28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
-29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brothers.
+29 For who he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brothers.
 
-30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
+30 Moreover who he did predestinate, them he also called: and who he called, them he also justified: and who he justified, them he also glorified.
 
 31 What will we then say to these things? If God be for us, who can be against us?
 
@@ -474,9 +474,9 @@
 
 3 For I could wish that myself were accursed from Christ for my brothers, my kinsmen according to the flesh:
 
-4 Who are Israelites; to whom pertains the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
+4 Who are Israelites; to who pertains the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 
-5 Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
+5 Whose are the fathers, and of who as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
 
 6 Not as though the word of God has taken none effect. For they are not all Israel, which are of Israel:
 
@@ -496,13 +496,13 @@
 
 14 What will we say then? Is there unrighteousness with God? God forbid.
 
-15 For he says to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+15 For he says to Moses, I will have mercy on who I will have mercy, and I will have compassion on who I will have compassion.
 
 16 So then it is not of him that wills, nor of him that runs, but of God that shews mercy.
 
 17 For the scripture says to Pharaoh, Even for this same purpose have I raised you up, that I might show my power in you, and that my name might be declared throughout all the earth.
 
-18 Therefore has he mercy on whom he will have mercy, and whom he will he hardens.
+18 Therefore has he mercy on who he will have mercy, and who he will he hardens.
 
 19 you will say then to me, Why does he yet find fault? For who has resisted his will?
 
@@ -514,7 +514,7 @@
 
 23 And that he might make known the riches of his glory on the vessels of mercy, which he had before prepared to glory,
 
-24 Even us, whom he has called, not of the Jews only, but also of the Gentiles?
+24 Even us, who he has called, not of the Jews only, but also of the Gentiles?
 
 25 As he says also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 
@@ -562,7 +562,7 @@
 
 13 For whosoever will call upon the name of the Lord will be saved.
 
-14 How then will they call on him in whom they have not believed? and how will they believe in him of whom they have not heard? and how will they hear without a preacher?
+14 How then will they call on him in who they have not believed? and how will they believe in him of who they have not heard? and how will they hear without a preacher?
 
 15 And how will they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 
@@ -650,7 +650,7 @@
 
 35 Or who has first given to him, and it will be rewarded to him again?
 
-36 For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
+36 For of him, and through him, and to him, are all things: to who be glory for ever. Amen.
 
 ## Romans Chapter 12
 
@@ -710,7 +710,7 @@
 
 6 For for this cause pay you tribute also: for they are God's ministers, attending continually upon this very thing.
 
-7 Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
+7 Render therefore to all their dues: tribute to who tribute is due; custom to who custom; fear to who fear; honour to who honour.
 
 8 Owe no man any thing, but to love one another: for he that loves another has fulfilled the law.
 
@@ -756,7 +756,7 @@
 
 14 I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteems any thing to be unclean, to him it is unclean.
 
-15 But if your brother be grieved with your meat, now walk you not charitably. Destroy not him with your meat, for whom Christ died.
+15 But if your brother be grieved with your meat, now walk you not charitably. Destroy not him with your meat, for who Christ died.
 
 16 Let not then your good be evil spoken of:
 
@@ -768,7 +768,7 @@
 
 20 For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eats with offence.
 
-21 It is good neither to eat flesh, nor to drink wine, nor any thing whereby your brother stumbls, or is offended, or is made weak.
+21 It is good neither to eat flesh, nor to drink wine, nor any thing by which your brother stumbls, or is offended, or is made weak.
 
 22 have you faith? have it to yourself before God. Happy is he that condemns not himself in that thing which he allows.
 
@@ -808,7 +808,7 @@
 
 16 That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit.
 
-17 I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.
+17 I have therefore of which I may glory through Jesus Christ in those things which pertain to God.
 
 18 For I will not dare to speak of any of those things which Christ has not worked by me, to make the Gentiles obedient, by word and deed,
 
@@ -816,7 +816,7 @@
 
 20 Yea, so have I strived to preach the gospel, not where Christ was named, otherwise I should build upon another man's foundation:
 
-21 But as it is written, To whom he was not spoken of, they will see: and they that have not heard will understand.
+21 But as it is written, To who he was not spoken of, they will see: and they that have not heard will understand.
 
 22 For which cause also I have been much hindered from coming to you.
 
@@ -850,7 +850,7 @@
 
 3 Greet Priscilla and Aquila my helpers in Christ Jesus:
 
-4 Who have for my life laid down their own necks: to whom not only I give thanks, but also all the churches of the Gentiles.
+4 Who have for my life laid down their own necks: to who not only I give thanks, but also all the churches of the Gentiles.
 
 5 Likewise greet the church that is in their house. Greet my well-beloved Epaenetus, who is the firstfruits of Achaia to Christ.
 

@@ -10,7 +10,7 @@
 
 4 Since we heard of your faith in Christ Jesus, and of the love which you have to all the saints,
 
-5 For the hope which is laid up for you in heaven, whereof you heard before in the word of the truth of the gospel;
+5 For the hope which is laid up for you in heaven, of which you heard before in the word of the truth of the gospel;
 
 6 Which is come to you, as it is in all the world; and brings forth fruit, as it does also in you, since the day you heard of it, and knew the grace of God in truth:
 
@@ -28,7 +28,7 @@
 
 13 Who has delivered us from the power of darkness, and has transferred us into the kingdom of his dear Son:
 
-14 In whom we have redemption through his blood, even the forgiveness of sins:
+14 In who we have redemption through his blood, even the forgiveness of sins:
 
 15 Who is the image of the invisible God, the firstborn of every creature:
 
@@ -46,19 +46,19 @@
 
 22 In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
 
-23 If you continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which you have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
+23 If you continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which you have heard, and which was preached to every creature which is under heaven; of which I Paul am made a minister;
 
 24 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:
 
-25 Whereof I am made a minister, according to the administration of God which is given to me for you, to fulfil the word of God;
+25 of which I am made a minister, according to the administration of God which is given to me for you, to fulfil the word of God;
 
 26 Even the mystery which has been hid from ages and from generations, but now is made manifest to his saints:
 
-27 To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+27 To who God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 
-28 Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
+28 who we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
 
-29 Whereunto I also labour, striving according to his working, which works in me mightily.
+29 to which I also labour, striving according to his working, which works in me mightily.
 
 ## Colossians Chapter 2
 
@@ -66,7 +66,7 @@
 
 2 That their hearts might be comforted, being knit together in love, and to all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 
-3 In whom are hid all the treasures of wisdom and knowledge.
+3 In who are hid all the treasures of wisdom and knowledge.
 
 4 And this I say, otherwise any man should beguile you with enticing words.
 
@@ -82,7 +82,7 @@
 
 10 And you are complete in him, which is the head of all principality and power:
 
-11 In whom also you are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
+11 In who also you are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 
 12 Buried with him in baptism, in which also you are risen with him through the faith of the operation of God, who has raised him from the dead.
 
@@ -176,11 +176,11 @@
 
 7 All my state will Tychicus declare to you, who is a beloved brother, and a faithful minister and fellowservant in the Lord:
 
-8 Whom I have sent to you for the same purpose, that he might know your estate, and comfort your hearts;
+8 who I have sent to you for the same purpose, that he might know your estate, and comfort your hearts;
 
 9 With Onesimus, a faithful and beloved brother, who is one of you. They will make known to you all things which are done here.
 
-10 Aristarchus my fellow prisoner saluts you, and Marcus, sister's son to Barnabas, (touching whom you received commandments: if he come to you, receive him;)
+10 Aristarchus my fellow prisoner saluts you, and Marcus, sister's son to Barnabas, (touching who you received commandments: if he come to you, receive him;)
 
 11 And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers to the kingdom of God, which have been a comfort to me.
 

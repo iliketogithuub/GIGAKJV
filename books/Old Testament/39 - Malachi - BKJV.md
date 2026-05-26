@@ -8,7 +8,7 @@
 
 3 And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
 
-4 Whereas Edom says, We are impoverished, but we will return and build the desolate places; thus says the Lord of hosts, They will build, but I will throw down; and they will call them, The border of wickedness, and, The people against whom the Lord has indignation for ever.
+4 Whereas Edom says, We are impoverished, but we will return and build the desolate places; thus says the Lord of hosts, They will build, but I will throw down; and they will call them, The border of wickedness, and, The people against who the Lord has indignation for ever.
 
 5 And your eyes will see, and you will say, The Lord will be magnified from the border of Israel.
 
@@ -58,7 +58,7 @@
 
 13 And this have you done again, covering the altar of the Lord with tears, with weeping, and with crying out, so much so that he regards not the offering any more, or receives it with good will at your hand.
 
-14 Yet you say, therefore? Because the Lord has been witness between you and the wife of your youth, against whom you have dealt treacherously: yet is she your companion, and the wife of your covenant.
+14 Yet you say, therefore? Because the Lord has been witness between you and the wife of your youth, against who you have dealt treacherously: yet is she your companion, and the wife of your covenant.
 
 15 And did not he make one? Yet had he the rest of the spirit. And therefore one? That he might seek a godly seed. Therefore take heed to your human spirit, and let none deal treacherously against the wife of his youth.
 
@@ -68,7 +68,7 @@
 
 ## Malachi Chapter 3
 
-1 Look, I will send my messenger, and he will prepare the way before me: and the Lord, whom you seek, will suddenly come to his temple, even the messenger of the covenant, whom you delight in: look, he will come, says the Lord of hosts.
+1 Look, I will send my messenger, and he will prepare the way before me: and the Lord, who you seek, will suddenly come to his temple, even the messenger of the covenant, who you delight in: look, he will come, says the Lord of hosts.
 
 2 But who may abide the day of his coming? and who will stand when he appears? for he is like a refiner's fire, and like fullers' soap:
 

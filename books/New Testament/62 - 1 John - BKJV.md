@@ -58,7 +58,7 @@
 
 17 And the world passes away, and the lust of it: but he that does the will of God abides for ever.
 
-18 Little children, it is the last time: and as you have heard that antichrist will come, even now are there many antichrists; whereby we know that it is the last time.
+18 Little children, it is the last time: and as you have heard that antichrist will come, even now are there many antichrists; by which we know that it is the last time.
 
 19 They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
@@ -138,7 +138,7 @@
 
 2 Hereby know you the Holy Spirit of God: Every spirit that confesses that Jesus Christ is come in the flesh is of God:
 
-3 And every spirit that confesses not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof you have heard that it should come; and even now already is it in the world.
+3 And every spirit that confesses not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, of which you have heard that it should come; and even now already is it in the world.
 
 4 you are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 
@@ -172,7 +172,7 @@
 
 19 We love him, because he first loved us.
 
-20 If a man say, I love God, and hates his brother, he is a liar: for he that loves not his brother whom he has seen, how can he love God whom he has not seen?
+20 If a man say, I love God, and hates his brother, he is a liar: for he that loves not his brother who he has seen, how can he love God who he has not seen?
 
 21 And this commandment have we from him, That he who loves God love his brother also.
 

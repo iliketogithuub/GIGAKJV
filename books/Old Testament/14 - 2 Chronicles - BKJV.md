@@ -22,7 +22,7 @@
 
 10 Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this your people, that is so great?
 
-11 And God said to Solomon, Because this was in your heart, and you have not asked riches, wealth, or honour, nor the life of your enemies, neither yet have asked long life; but have asked wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king:
+11 And God said to Solomon, Because this was in your heart, and you have not asked riches, wealth, or honour, nor the life of your enemies, neither yet have asked long life; but have asked wisdom and knowledge for yourself, that you may judge my people, over who I have made you king:
 
 12 Wisdom and knowledge is granted to you; and I will give you riches, and wealth, and honour, such as none of the kings have had that have been before you, neither will there any after you have the like.
 
@@ -50,7 +50,7 @@
 
 6 But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who am I then, that I should build him an house, save only to burn sacrifice before him?
 
-7 Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that are with me in Judah and in Jerusalem, whom David my father did provide.
+7 Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that are with me in Judah and in Jerusalem, who David my father did provide.
 
 8 Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that your servants can skill to cut timber in Lebanon; and, look, my servants will be with your servants,
 
@@ -90,7 +90,7 @@
 
 7 He overlaid also the house, the beams, the posts, and the walls of it, and the doors of it, with gold; and graved cherubims on the walls.
 
-8 And he made the most holy house, the length whereof was according to the breadth of the house, twenty cubits, and the breadth of it twenty cubits: and he overlaid it with fine gold, amounting to six hundred talents.
+8 And he made the most holy house, the length of which was according to the breadth of the house, twenty cubits, and the breadth of it twenty cubits: and he overlaid it with fine gold, amounting to six hundred talents.
 
 9 And the weight of the nails was fifty shekels of gold. And he overlaid the upper chambers with gold.
 
@@ -148,7 +148,7 @@
 
 18 Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out.
 
-19 And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables whereon the showbread was set;
+19 And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables on which the showbread was set;
 
 20 Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;
 
@@ -226,7 +226,7 @@
 
 19 Have respect therefore to the prayer of your servant, and to his prayer, O Lord my God, to listen to the cry and the prayer which your servant prays before you:
 
-20 That your eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to listen to the prayer which your servant prays toward this place.
+20 That your eyes may be open upon this house day and night, upon the place of which you have said that you would put your name there; to listen to the prayer which your servant prays toward this place.
 
 21 Listen therefore to the prayers of your servant, and of your people Israel, which they will make toward this place: hear you from your dwelling place, even from heaven; and when you hear, forgive.
 
@@ -334,13 +334,13 @@
 
 7 As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not of Israel,
 
-8 But of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day.
+8 But of their children, who were left after them in the land, who the children of Israel consumed not, them did Solomon make to pay tribute until this day.
 
 9 But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains, and captains of his chariots and horsemen.
 
 10 And these were the chief of king Solomon's officers, even two hundred and fifty, that bare rule over the people.
 
-11 And Solomon brought up the daughter of Pharaoh out of the city of David to the house that he had built for her: for he said, My wife will not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of the Lord has come.
+11 And Solomon brought up the daughter of Pharaoh out of the city of David to the house that he had built for her: for he said, My wife will not dwell in the house of David king of Israel, because the places are holy, to which the ark of the Lord has come.
 
 12 Then Solomon offered burnt offerings to the Lord on the altar of the Lord, which he had built before the porch,
 
@@ -406,7 +406,7 @@
 
 24 And they brought every man his present, vessels of silver, and vessels of gold, and clothing, harness, and spices, horses, and mules, a rate year by year.
 
-25 And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem.
+25 And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; who he bestowed in the chariot cities, and with the king at Jerusalem.
 
 26 And he reigned over all the kings from the river even to the land of the Philistines, and to the border of Egypt.
 
@@ -728,7 +728,7 @@
 
 18 And next him was Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war.
 
-19 These waited on the king, beside those whom the king put in the fenced cities throughout all Judah.
+19 These waited on the king, beside those who the king put in the fenced cities throughout all Judah.
 
 ## 2 Chronicles Chapter 18
 
@@ -744,7 +744,7 @@
 
 6 But Jehoshaphat said, Is there not here a prophet of the Lord besides, that we might enquire of him?
 
-7 And the king of Israel said to Jehoshaphat, There is yet one man, by whom we may enquire of the Lord: but I hate him; for he never prophesied good to me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.
+7 And the king of Israel said to Jehoshaphat, There is yet one man, by who we may enquire of the Lord: but I hate him; for he never prophesied good to me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.
 
 8 And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla.
 
@@ -844,7 +844,7 @@
 
 9 If, when evil comes upon us, as the sword, judgment, or plague, or famine, we stand before this house, and in your presence, (for your name is in this house,) and cry to you in our affliction, then you will hear and help.
 
-10 And now, look, the children of Ammon and Moab and mount Seir, whom you would not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
+10 And now, look, the children of Ammon and Moab and mount Seir, who you would not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
 
 11 Look, I say, how they reward us, to come to cast us out of your possession, which you have given us to inherit.
 
@@ -956,7 +956,7 @@
 
 6 And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.
 
-7 And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the Lord had anointed to cut off the house of Ahab.
+7 And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, who the Lord had anointed to cut off the house of Ahab.
 
 8 And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brothers of Ahaziah, that ministered to Ahaziah, he killed them.
 
@@ -1004,7 +1004,7 @@
 
 17 Then all the people went to the house of Baal, and broke it down, and broke his altars and his images in pieces, and killed Mattan the priest of Baal before the altars.
 
-18 Also Jehoiada appointed the offices of the house of the Lord by the hand of the priests the Levites, whom David had distributed in the house of the Lord, to offer the burnt offerings of the Lord, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
+18 Also Jehoiada appointed the offices of the house of the Lord by the hand of the priests the Levites, who David had distributed in the house of the Lord, to offer the burnt offerings of the Lord, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
 
 19 And he set the porters at the gates of the house of the Lord, that none which was unclean in any thing should enter in.
 
@@ -1040,7 +1040,7 @@
 
 13 So the workmen worked, and the work was perfected by them, and they set the house of God in his state, and strengthened it.
 
-14 And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the Lord, even vessels to minister, and to offer also, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the Lord continually all the days of Jehoiada.
+14 And when they had finished it, they brought the rest of the money before the king and Jehoiada, of which were made vessels for the house of the Lord, even vessels to minister, and to offer also, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the Lord continually all the days of Jehoiada.
 
 15 But Jehoiada grew old, and was full of days when he died; an hundred and thirty years old was he when he died.
 
@@ -1200,7 +1200,7 @@
 
 2 For he walked in the ways of the kings of Israel, and made also melted images for Baalim.
 
-3 Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the Lord had cast out before the children of Israel.
+3 Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen who the Lord had cast out before the children of Israel.
 
 4 He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.
 
@@ -1444,7 +1444,7 @@
 
 9 After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he himself laid siege against Lachish, and all his power with him,) to Hezekiah king of Judah, and to all Judah that were at Jerusalem, saying,
 
-10 Thus says Sennacherib king of Assyria, Whereon do you trust, that you abide in the siege in Jerusalem?
+10 Thus says Sennacherib king of Assyria, on which do you trust, that you abide in the siege in Jerusalem?
 
 11 does not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The Lord our God will deliver us out of the hand of the king of Assyria?
 
@@ -1496,11 +1496,11 @@
 
 1 Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 
-2 But did that which was evil in the sight of the Lord, like to the abominations of the heathen, whom the Lord had cast out before the children of Israel.
+2 But did that which was evil in the sight of the Lord, like to the abominations of the heathen, who the Lord had cast out before the children of Israel.
 
 3 For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.
 
-4 Also he built altars in the house of the Lord, whereof the Lord had said, In Jerusalem will my name be for ever.
+4 Also he built altars in the house of the Lord, of which the Lord had said, In Jerusalem will my name be for ever.
 
 5 And he built altars for all the host of heaven in the two courts of the house of the Lord.
 
@@ -1510,7 +1510,7 @@
 
 8 Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses.
 
-9 So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the Lord had destroyed before the children of Israel.
+9 So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, who the Lord had destroyed before the children of Israel.
 
 10 And the Lord spoke to Manasseh, and to his people: but they would not listen.
 

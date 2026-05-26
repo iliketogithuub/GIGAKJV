@@ -14,7 +14,7 @@
 
 6 Look not upon me, because I am black, because the sun has looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.
 
-7 Tell me, O you whom my soul loves, where you feed, where you mak your flock to rest at noon: for why should I be as one that turns aside by the flocks of your companions?
+7 Tell me, O you who my soul loves, where you feed, where you mak your flock to rest at noon: for why should I be as one that turns aside by the flocks of your companions?
 
 8 If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
 
@@ -74,13 +74,13 @@
 
 ## Song of Solomon Chapter 3
 
-1 By night on my bed I sought him whom my soul loves: I sought him, but I found him not.
+1 By night on my bed I sought him who my soul loves: I sought him, but I found him not.
 
-2 I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loves: I sought him, but I found him not.
+2 I will rise now, and go about the city in the streets, and in the broad ways I will seek him who my soul loves: I sought him, but I found him not.
 
-3 The watchmen that go about the city found me: to whom I said, Saw you him whom my soul loves?
+3 The watchmen that go about the city found me: to who I said, Saw you him who my soul loves?
 
-4 It was but a little that I passed from them, but I found him whom my soul loves: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.
+4 It was but a little that I passed from them, but I found him who my soul loves: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.
 
 5 I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my love, till he please.
 
@@ -100,11 +100,11 @@
 
 1 Look, you are fair, my love; look, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.
 
-2 your teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
+2 your teeth are like a flock of sheep that are even shorn, which came up from the washing; of which every one bear twins, and none is barren among them.
 
 3 your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks.
 
-4 your neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
+4 your neck is like the tower of David builded for an armoury, on which there hang a thousand bucklers, all shields of mighty men.
 
 5 your two breasts are like two young roes that are twins, which feed among the lilies.
 
@@ -176,7 +176,7 @@
 
 5 Turn away your eyes from me, for they have overcome me: your hair is as a flock of goats that appear from Gilead.
 
-6 your teeth are as a flock of sheep which go up from the washing, whereof every one bears twins, and there is not one barren among them.
+6 your teeth are as a flock of sheep which go up from the washing, of which every one bears twins, and there is not one barren among them.
 
 7 As a piece of a pomegranate are your temples within your locks.
 

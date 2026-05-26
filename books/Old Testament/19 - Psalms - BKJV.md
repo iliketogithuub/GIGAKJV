@@ -228,7 +228,7 @@
 
 2 The wicked in his pride does persecute the poor: let them be taken in the devices that they have imagined.
 
-3 For the wicked boasts of his heart's desire, and blesses the covetous, whom the Lord abhors.
+3 For the wicked boasts of his heart's desire, and blesses the covetous, who the Lord abhors.
 
 4 The wicked, through the pride of his face, will not seek after God: God is not in all his thoughts.
 
@@ -342,7 +342,7 @@
 
 2 O my soul, you have said to the Lord, you are my Lord: my goodness extends not to you;
 
-3 But to the saints that are in the earth, and to the excellent, in whom is all my delight.
+3 But to the saints that are in the earth, and to the excellent, in who is all my delight.
 
 4 Their sorrows will be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.
 
@@ -396,7 +396,7 @@
 
 1 I will love you, O Lord, my strength.
 
-2 The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.
+2 The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in who I will trust; my buckler, and the horn of my salvation, and my high tower.
 
 3 I will call upon the Lord, who is worthy to be praised: so will I be saved from mine enemies.
 
@@ -478,7 +478,7 @@
 
 42 Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.
 
-43 you have delivered me from the strivings of the people; and you have made me the head of the heathen: a people whom I have not known will serve me.
+43 you have delivered me from the strivings of the people; and you have made me the head of the heathen: a people who I have not known will serve me.
 
 44 As soon as they hear of me, they will obey me: the strangers will submit themselves to me.
 
@@ -746,7 +746,7 @@
 
 ## Psalm Chapter 27
 
-1 The Lord is my light and my salvation; whom will I fear? the Lord is the strength of my life; of whom will I be afraid?
+1 The Lord is my light and my salvation; who will I fear? the Lord is the strength of my life; of who will I be afraid?
 
 2 When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.
 
@@ -898,7 +898,7 @@
 
 1 Blessed is he whose sin is forgiven, whose sin is covered.
 
-2 Blessed is the man to whom the Lord imputs not wickedness, and in whose spirit there is no guile.
+2 Blessed is the man to who the Lord imputs not wickedness, and in whose spirit there is no guile.
 
 3 When I kept silence, my bones grew old through my roaring all the day long.
 
@@ -942,7 +942,7 @@
 
 11 The counsel of the Lord stands for ever, the thoughts of his heart to all generations.
 
-12 Blessed is the nation whose God is the Lord; and the people whom he has chosen for his own inheritance.
+12 Blessed is the nation whose God is the Lord; and the people who he has chosen for his own inheritance.
 
 13 The Lord looks from heaven; he beholds all the sons of men.
 
@@ -1304,7 +1304,7 @@
 
 8 An evil disease, say they, cleavs fast to him: and now that he lies he will rise up no more.
 
-9 Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, has lifted up his heel against me.
+9 Yea, mine own familiar friend, in who I trusted, which did eat of my bread, has lifted up his heel against me.
 
 10 But you, O Lord, be merciful to me, and raise me up, that I may repay them.
 
@@ -1414,13 +1414,13 @@
 
 4 And in your majesty ride prosperously because of truth and meekness and righteousness; and your right hand will teach you terrible things.
 
-5 your arrows are sharp in the heart of the king's enemies; whereby the people fall under you.
+5 your arrows are sharp in the heart of the king's enemies; by which the people fall under you.
 
 6 your throne, O God, is for ever and ever: the sceptre of your kingdom is a right sceptre.
 
 7 you lov righteousness, and hat wickedness: therefore God, your God, has anointed you with the oil of gladness above your fellows.
 
-8 All your garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made you glad.
+8 All your garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, by which they have made you glad.
 
 9 Kings' daughters were among your honourable women: upon your right hand did stand the queen in gold of Ophir.
 
@@ -1436,7 +1436,7 @@
 
 15 With gladness and rejoicing will they be brought: they will enter into the king's palace.
 
-16 Instead of your fathers will be your children, whom you may make princes in all the earth.
+16 Instead of your fathers will be your children, who you may make princes in all the earth.
 
 17 I will make your name to be remembered in all generations: therefore will the people praise you for ever and ever.
 
@@ -1448,7 +1448,7 @@
 
 3 Though the waters of it roar and be troubled, though the mountains shake with the swelling of it. [Pause and reflect].
 
-4 There is a river, the streams whereof will make glad the city of God, the holy place of the tabernacles of the most High.
+4 There is a river, the streams of which will make glad the city of God, the holy place of the tabernacles of the most High.
 
 5 God is in the midst of her; she will not be moved: God will help her, and that right early.
 
@@ -1472,7 +1472,7 @@
 
 3 He will subdue the people under us, and the nations under our feet.
 
-4 He will choose our inheritance for us, the excellency of Jacob whom he loved. [Pause and reflect].
+4 He will choose our inheritance for us, the excellency of Jacob who he loved. [Pause and reflect].
 
 5 God is gone up with a shout, the Lord with the sound of a trumpet.
 
@@ -1782,7 +1782,7 @@
 
 5 Be you exalted, O God, above the heavens; let your glory be above all the earth.
 
-6 They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. [Pause and reflect].
+6 They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst of which they are fallen themselves. [Pause and reflect].
 
 7 My heart is fixed, O God, my heart is fixed: I will sing and give praise.
 
@@ -1978,7 +1978,7 @@
 
 3 Wickedness prevail against me: as for our sins, you will purge them away.
 
-4 Blessed is the man whom you choose, and cause to approach to you, that he may dwell in your courts: we will be satisfied with the goodness of your house, even of your holy temple.
+4 Blessed is the man who you choose, and cause to approach to you, that he may dwell in your courts: we will be satisfied with the goodness of your house, even of your holy temple.
 
 5 By terrible things in righteousness will you answer us, O God of our salvation; who are the confidence of all the ends of the earth, and of them that are afar off upon the sea:
 
@@ -2074,7 +2074,7 @@
 
 8 The earth shook, the heavens also dropped at the presence of God: even Sinai itself was moved at the presence of God, the God of Israel.
 
-9 you, O God, did send a plentiful rain, whereby you did confirm your inheritance, when it was weary.
+9 you, O God, did send a plentiful rain, by which you did confirm your inheritance, when it was weary.
 
 10 your congregation has dwelt in it: you, O God, have prepared of your goodness for the poor.
 
@@ -2180,7 +2180,7 @@
 
 25 Let their habitation be desolate; and let none dwell in their tents.
 
-26 For they persecute him whom you have smitten; and they talk to the grief of those whom you have wounded.
+26 For they persecute him who you have smitten; and they talk to the grief of those who you have wounded.
 
 27 Add wickedness to their wickedness: and let them not come into your righteousness.
 
@@ -2220,7 +2220,7 @@
 
 2 Deliver me in your righteousness, and cause me to escape: incline your ear to me, and save me.
 
-3 Be you my strong habitation, whereunto I may continually resort: you have given commandment to save me; for you are my rock and my fortress.
+3 Be you my strong habitation, to which I may continually resort: you have given commandment to save me; for you are my rock and my fortress.
 
 4 Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.
 
@@ -2356,7 +2356,7 @@
 
 24 you will guide me with your counsel, and afterward receive me to glory.
 
-25 Whom have I in heaven but you? and there is none upon earth that I desire beside you.
+25 who have I in heaven but you? and there is none upon earth that I desire beside you.
 
 26 My flesh and my heart fails: but God is the strength of my heart, and my portion for ever.
 
@@ -2710,7 +2710,7 @@
 
 16 It is burned with fire, it is cut down: they perish at the rebuke of your face.
 
-17 Let your hand be upon the man of your right hand, upon the son of man whom you mad strong for yourself.
+17 Let your hand be upon the man of your right hand, upon the son of man who you mad strong for yourself.
 
 18 So will not we go back from you: revive us, and we will call upon your name.
 
@@ -2878,7 +2878,7 @@
 
 8 Among the gods there is none like to you, O Lord; neither are there any works like to your works.
 
-9 All nations whom you have made will come and worship before you, O Lord; and will glorify your name.
+9 All nations who you have made will come and worship before you, O Lord; and will glorify your name.
 
 10 For you are great, and do wondrous things: you are God alone.
 
@@ -2922,7 +2922,7 @@
 
 4 I am counted with them that go down into the pit: I am as a man that has no strength:
 
-5 Free among the dead, like the slain that lie in the grave, whom you remember no more: and they are cut off from your hand.
+5 Free among the dead, like the slain that lie in the grave, who you remember no more: and they are cut off from your hand.
 
 6 you have laid me in the lowest pit, in darkness, in the deeps.
 
@@ -2992,7 +2992,7 @@
 
 20 I have found David my servant; with my holy oil have I anointed him:
 
-21 With whom my hand will be established: mine arm also will strengthen him.
+21 With who my hand will be established: mine arm also will strengthen him.
 
 22 The enemy will not exact upon him; nor the son of wickedness afflict him.
 
@@ -3172,7 +3172,7 @@
 
 ## Psalm Chapter 94
 
-1 O Lord God, to whom vengeance belongs; O God, to whom vengeance belongs, show yourself.
+1 O Lord God, to who vengeance belongs; O God, to who vengeance belongs, show yourself.
 
 2 Lift up yourself, you judge of the earth: render a reward to the proud.
 
@@ -3194,7 +3194,7 @@
 
 11 The Lord knows the thoughts of man, that they are emptiness.
 
-12 Blessed is the man whom you discipline, O Lord, and teach him out of your law;
+12 Blessed is the man who you discipline, O Lord, and teach him out of your law;
 
 13 That you may give him rest from the days of adversity, until the pit be digged for the wicked.
 
@@ -3240,7 +3240,7 @@
 
 10 Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:
 
-11 to whom I sware in my wrath that they should not enter into my rest.
+11 to who I sware in my wrath that they should not enter into my rest.
 
 ## Psalm Chapter 96
 
@@ -3522,7 +3522,7 @@
 
 25 So is this great and wide sea, in which are things creeping innumerable, both small and great beasts.
 
-26 There go the ships: there is that leviathan, whom you have made to play in it.
+26 There go the ships: there is that leviathan, who you have made to play in it.
 
 27 These wait all upon you; that you may give them their meat in due season.
 
@@ -3594,7 +3594,7 @@
 
 25 He turned their heart to hate his people, to deal subtilly with his servants.
 
-26 He sent Moses his servant; and Aaron whom he had chosen.
+26 He sent Moses his servant; and Aaron who he had chosen.
 
 27 They showed his signs among them, and wonders in the land of Ham.
 
@@ -3702,7 +3702,7 @@
 
 33 Because they angered his human spirit, so that he spoke unadvisedly with his lips.
 
-34 They did not destroy the nations, concerning whom the Lord commanded them:
+34 They did not destroy the nations, concerning who the Lord commanded them:
 
 35 But were mingled among the heathen, and learned their works.
 
@@ -3710,7 +3710,7 @@
 
 37 Yea, they sacrificed their sons and their daughters to devils,
 
-38 And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed to the idols of Canaan: and the land was polluted with blood.
+38 And shed innocent blood, even the blood of their sons and of their daughters, who they sacrificed to the idols of Canaan: and the land was polluted with blood.
 
 39 Thus were they defiled with their own works, and went a whoring with their own inventions.
 
@@ -3736,7 +3736,7 @@
 
 1 O give thanks to the Lord, for he is good: for his mercy endures for ever.
 
-2 Let the redeemed of the Lord say so, whom he has redeemed from the hand of the enemy;
+2 Let the redeemed of the Lord say so, who he has redeemed from the hand of the enemy;
 
 3 And gathered them out of the lands, from the east, and from the west, from the north, and from the south.
 
@@ -4172,7 +4172,7 @@
 
 8 I will keep your statutes: O forsake me not utterly.
 
-9 Wherewithal will a young man cleanse his way? by taking heed to it according to your word.
+9 by what means will a young man cleanse his way? by taking heed to it according to your word.
 
 10 With my whole heart have I sought you: O let me not wander from your commandments.
 
@@ -4608,7 +4608,7 @@
 
 2 Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord has done great things for them.
 
-3 The Lord has done great things for us; whereof we are glad.
+3 The Lord has done great things for us; of which we are glad.
 
 4 Turn again our captivity, O Lord, as the streams in the south.
 
@@ -5022,7 +5022,7 @@
 
 1 Blessed be the Lord my strength which teachs my hands to war, and my fingers to fight:
 
-2 My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdus my people under me.
+2 My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in who I trust; who subdus my people under me.
 
 3 Lord, what is man, that you tak knowledge of him! or the son of man, that you mak account of him!
 
@@ -5100,7 +5100,7 @@
 
 2 While I live will I praise the Lord: I will sing praises to my God while I have any being.
 
-3 Put not your trust in princes, nor in the son of man, in whom there is no help.
+3 Put not your trust in princes, nor in the son of man, in who there is no help.
 
 4 His breath goes forth, he returns to his earth; in that very day his thoughts perish.
 

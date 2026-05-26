@@ -138,7 +138,7 @@
 
 11 My son, despise not the discipline of the Lord; neither be weary of his correction:
 
-12 For whom the Lord loves he corrects; even as a father the son in whom he delights.
+12 For who the Lord loves he corrects; even as a father the son in who he delights.
 
 13 Happy is the man that finds wisdom, and the man that gets understanding.
 
@@ -168,7 +168,7 @@
 
 26 For the Lord will be your confidence, and will keep your foot from being taken.
 
-27 Withhold not good from them to whom it is due, when it is in the power of your hand to do it.
+27 Withhold not good from them to who it is due, when it is in the power of your hand to do it.
 
 28 Say not to your neighbour, Go, and come again, and to morrow I will give; when you have it by you.
 
@@ -1488,7 +1488,7 @@
 
 6 Put not forth yourself in the presence of the king, and stand not in the place of great men:
 
-7 For better it is that it be said to you, Come up here; than that you should be put lower in the presence of the prince whom your eyes have seen.
+7 For better it is that it be said to you, Come up here; than that you should be put lower in the presence of the prince who your eyes have seen.
 
 8 Go not forth hastily to strive, otherwise you know not what to do in the end of it, when your neighbour has put you to shame.
 
@@ -1822,7 +1822,7 @@
 
 30 A lion which is strongest among beasts, and turns not away for any;
 
-31 A greyhound; an he goat also; and a king, against whom there is no rising up.
+31 A greyhound; an he goat also; and a king, against who there is no rising up.
 
 32 If you have done foolishly in lifting up yourself, or if you have thought evil, lay your hand upon your mouth.
 

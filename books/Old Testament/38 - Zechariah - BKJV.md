@@ -8,7 +8,7 @@
 
 3 Therefore say you to them, Thus says the Lord of hosts; Turn you to me, says the Lord of hosts, and I will turn to you, says the Lord of hosts.
 
-4 Be you not as your fathers, to whom the former prophets have cried, saying, Thus says the Lord of hosts; Turn you now from your evil ways, and from your evil doings: but they did not hear, nor listen to me, says the Lord.
+4 Be you not as your fathers, to who the former prophets have cried, saying, Thus says the Lord of hosts; Turn you now from your evil ways, and from your evil doings: but they did not hear, nor listen to me, says the Lord.
 
 5 Your fathers, where are they? and the prophets, do they live for ever?
 
@@ -20,7 +20,7 @@
 
 9 Then said I, O my lord, what are these? And the angel that talked with me said to me, I will show you what these be.
 
-10 And the man that stood among the myrtle trees answered and said, These are they whom the Lord has sent to walk to and fro through the earth.
+10 And the man that stood among the myrtle trees answered and said, These are they who the Lord has sent to walk to and fro through the earth.
 
 11 And they answered the angel of the Lord that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, look, all the earth sits still, and is at rest.
 
@@ -208,7 +208,7 @@
 
 13 Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, says the Lord of hosts:
 
-14 But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
+14 But I scattered them with a whirlwind among all the nations who they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
 
 ## Zechariah Chapter 8
 
@@ -376,7 +376,7 @@
 
 9 And it will come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.
 
-10 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of prayers: and they will look upon me whom they have pierced, and they will mourn for him, as one mourns for his only son, and will be in bitterness for him, as one that is in bitterness for his firstborn.
+10 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of prayers: and they will look upon me who they have pierced, and they will mourn for him, as one mourns for his only son, and will be in bitterness for him, as one that is in bitterness for his firstborn.
 
 11 In that day will there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 

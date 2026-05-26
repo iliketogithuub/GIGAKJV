@@ -20,7 +20,7 @@
 
 9 But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from there, and will bring them to the place that I have chosen to set my name there.
 
-10 Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand.
+10 Now these are your servants and your people, who you have redeemed by your great power, and by your strong hand.
 
 11 O Lord, I urge you, let now your ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.
 
@@ -272,7 +272,7 @@
 
 5 And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written in it,
 
-6 These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one to his city;
+6 These are the children of the province, that went up out of the captivity, of those that had been carried away, who Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one to his city;
 
 7 Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispers, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;
 
@@ -394,7 +394,7 @@
 
 66 The whole congregation together was forty and two thousand three hundred and threescore,
 
-67 Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
+67 Beside their manservants and their maidservants, of who there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
 
 68 Their horses, seven hundred thirty and six: their mules, two hundred forty and five:
 
@@ -428,7 +428,7 @@
 
 9 And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said to all the people, This day is holy to the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 
-10 Then he said to them, Go your way, eat the fat, and drink the sweet, and send portions to them for whom nothing is prepared: for this day is holy to our Lord: neither be you sorry; for the joy of the Lord is your strength.
+10 Then he said to them, Go your way, eat the fat, and drink the sweet, and send portions to them for who nothing is prepared: for this day is holy to our Lord: neither be you sorry; for the joy of the Lord is your strength.
 
 11 So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be you grieved.
 
@@ -520,7 +520,7 @@
 
 36 Look, we are servants this day, and for the land that you gav to our fathers to eat the fruit of it and the good of it, look, we are servants in it:
 
-37 And it yields much increase to the kings whom you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
+37 And it yields much increase to the kings who you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
 
 38 And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal to it.
 
@@ -740,7 +740,7 @@
 
 30 And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.
 
-31 Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:
+31 Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, of which one went on the right hand upon the wall toward the dung gate:
 
 32 And after them went Hoshaiah, and half of the princes of Judah,
 

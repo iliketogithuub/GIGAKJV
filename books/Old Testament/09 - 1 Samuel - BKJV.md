@@ -124,7 +124,7 @@
 
 32 And you will see an enemy in my habitation, in all the wealth which God will give Israel: and there will not be an old man in your house for ever.
 
-33 And the man of your, whom I will not cut off from mine altar, will be to consume your eyes, and to grieve your heart: and all the increase of your house will die in the flower of their age.
+33 And the man of your, who I will not cut off from mine altar, will be to consume your eyes, and to grieve your heart: and all the increase of your house will die in the flower of their age.
 
 34 And this will be a sign to you, that will come upon your two sons, on Hophni and Phinehas; in one day they will die both of them.
 
@@ -284,11 +284,11 @@
 
 17 And these are the golden emerods which the Philistines returned for a trespass offering to the Lord; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;
 
-18 And the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fenced cities, and of country villages, even to the great stone of Abel, whereon they set down the ark of the Lord: which stone remains to this day in the field of Joshua, the Bethshemite.
+18 And the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fenced cities, and of country villages, even to the great stone of Abel, on which they set down the ark of the Lord: which stone remains to this day in the field of Joshua, the Bethshemite.
 
 19 And he struck the men of Bethshemesh, because they had looked into the ark of the Lord, even he struck of the people fifty thousand and threescore and ten men: and the people mourned, because the Lord had smitten many of the people with a great slaughter.
 
-20 And the men of Bethshemesh said, Who is able to stand before this holy Lord God? and to whom will he go up from us?
+20 And the men of Bethshemesh said, Who is able to stand before this holy Lord God? and to who will he go up from us?
 
 21 And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the Lord; come you down, and fetch it up to you.
 
@@ -408,13 +408,13 @@
 
 16 To morrow about this time I will send you a man out of the land of Benjamin, and you will anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come to me.
 
-17 And when Samuel saw Saul, the Lord said to him, Look at the man whom I spoke to you of! this same will reign over my people.
+17 And when Samuel saw Saul, the Lord said to him, Look at the man who I spoke to you of! this same will reign over my people.
 
 18 Then Saul drew near to Samuel in the gate, and said, Tell me, I pray you, where the seer's house is.
 
 19 And Samuel answered Saul, and said, I am the seer: go up before me to the high place; for you will eat with me to day, and to morrow I will let you go, and will tell you all that is in your heart.
 
-20 And as for your asses that were lost three days ago, set not your mind on them; for they are found. And on whom is all the desire of Israel? Is it not on you, and on all your father's house?
+20 And as for your asses that were lost three days ago, set not your mind on them; for they are found. And on who is all the desire of Israel? Is it not on you, and on all your father's house?
 
 21 And Saul answered and said, Am not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? therefore then speak you so to me?
 
@@ -462,7 +462,7 @@
 
 15 And Saul's uncle said, Tell me, I pray you, what Samuel said to you.
 
-16 And Saul said to his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spoke, he told him not.
+16 And Saul said to his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, of which Samuel spoke, he told him not.
 
 17 And Samuel called the people together to the Lord to Mizpeh;
 
@@ -478,7 +478,7 @@
 
 23 And they ran and fetched him from there: and when he stood among the people, he was higher than any of the people from his shoulders and upward.
 
-24 And Samuel said to all the people, See you him whom the Lord has chosen, that there is none like him among all the people? And all the people shouted, and said, God save the king.
+24 And Samuel said to all the people, See you him who the Lord has chosen, that there is none like him among all the people? And all the people shouted, and said, God save the king.
 
 25 Then Samuel told the people the manner of the kingdom, and wrote it in a book, and laid it up before the Lord. And Samuel sent all the people away, every man to his house.
 
@@ -524,7 +524,7 @@
 
 2 And now, look, the king walks before you: and I am old and grayheaded; and, look, my sons are with you: and I have walked before you from my childhood to this day.
 
-3 Look, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes with it? and I will restore it you.
+3 Look, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or who have I defrauded? who have I oppressed? or of whose hand have I received any bribe to blind mine eyes with it? and I will restore it you.
 
 4 And they said, you have not defrauded us, nor oppressed us, neither have you taken ought of any man's hand.
 
@@ -544,7 +544,7 @@
 
 12 And when you saw that Nahash the king of the children of Ammon came against you, you said to me, Nay; but a king will reign over us: when the Lord your God was your king.
 
-13 Now therefore look at the king whom you have chosen, and whom you have desired! and, look, the Lord has set a king over you.
+13 Now therefore look at the king who you have chosen, and who you have desired! and, look, the Lord has set a king over you.
 
 14 If you will fear the Lord, and serve him, and obey his voice, and not rebel against the commandment of the Lord, then will both you and also the king that reigns over you continue following the Lord your God:
 
@@ -574,7 +574,7 @@
 
 1 Saul reigned one year; and when he had reigned two years over Israel,
 
-2 Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
+2 Saul chose him three thousand men of Israel; of which two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
 
 3 And Jonathan struck the military post of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.
 
@@ -802,7 +802,7 @@
 
 2 And Samuel said, How can I go? if Saul hear it, he will kill me. And the Lord said, Take an heifer with you, and say, I am come to sacrifice to the Lord.
 
-3 And call Jesse to the sacrifice, and I will show you what you will do: and you will anoint to me him whom I name to you.
+3 And call Jesse to the sacrifice, and I will show you what you will do: and you will anoint to me him who I name to you.
 
 4 And Samuel did that which the Lord spoke, and came to Bethlehem. And the elders of the town trembled at his coming, and said, Com you peaceably?
 
@@ -900,7 +900,7 @@
 
 27 And the people answered him after this manner, saying, So will it be done to the man that kills him.
 
-28 And Eliab his eldest brother heard when he spoke to the men; and Eliab's anger was burned against David, and he said, Why cam you down here? and with whom have you left those few sheep in the wilderness? I know your pride, and the naughtiness of your heart; for you are come down that you might see the battle.
+28 And Eliab his eldest brother heard when he spoke to the men; and Eliab's anger was burned against David, and he said, Why cam you down here? and with who have you left those few sheep in the wilderness? I know your pride, and the naughtiness of your heart; for you are come down that you might see the battle.
 
 29 And David said, What have I now done? Is there not a cause?
 
@@ -934,7 +934,7 @@
 
 44 And the Philistine said to David, Come to me, and I will give your flesh to the fowls of the air, and to the beasts of the field.
 
-45 Then said David to the Philistine, you com to me with a sword, and with a spear, and with a shield: but I come to you in the name of the Lord of hosts, the God of the armies of Israel, whom you have defied.
+45 Then said David to the Philistine, you com to me with a sword, and with a spear, and with a shield: but I come to you in the name of the Lord of hosts, the God of the armies of Israel, who you have defied.
 
 46 This day will the Lord deliver you into mine hand; and I will smite you, and take your head from you; and I will give the carcases of the host of the Philistines this day to the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.
 
@@ -1140,7 +1140,7 @@
 
 32 And Jonathan answered Saul his father, and said to him, therefore will he be slain? what has he done?
 
-33 And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David.
+33 And Saul cast a javelin at him to smite him: by which Jonathan knew that it was determined of his father to slay David.
 
 34 So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame.
 
@@ -1178,7 +1178,7 @@
 
 8 And David said to Ahimelech, And is there not here under your hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste.
 
-9 And the priest said, The sword of Goliath the Philistine, whom you killed in the valley of Elah, look, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
+9 And the priest said, The sword of Goliath the Philistine, who you killed in the valley of Elah, look, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
 
 10 And David arose and fled that day for fear of Saul, and went to Achish the king of Gath.
 
@@ -1328,7 +1328,7 @@
 
 13 As says the proverb of the ancients, Wickedness proceeds from the wicked: but mine hand will not be upon you.
 
-14 After whom is the king of Israel come out? after whom do you pursue? after a dead dog, after a flea.
+14 After who is the king of Israel come out? after who do you pursue? after a dead dog, after a flea.
 
 15 The Lord therefore be judge, and judge between me and you, and see, and plead my cause, and deliver me out of your hand.
 
@@ -1368,7 +1368,7 @@
 
 10 And Nabal answered David's servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master.
 
-11 will I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it to men, whom I know not from where they be?
+11 will I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it to men, who I know not from where they be?
 
 12 So David's young men turned their way, and went again, and came and told him all those sayings.
 
@@ -1396,7 +1396,7 @@
 
 24 And fell at his feet, and said, Upon me, my lord, upon me let this wickedness be: and let your female servant, I pray you, speak in your audience, and hear the words of your female servant.
 
-25 Let not my lord, I pray you, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I your female servant saw not the young men of my lord, whom you did send.
+25 Let not my lord, I pray you, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I your female servant saw not the young men of my lord, who you did send.
 
 26 Now therefore, my lord, as the Lord lives, and as your soul lives, seeing the Lord has withholden you from coming to shed blood, and from avenging yourself with your own hand, now let your enemies, and they that seek evil to my lord, be as Nabal.
 
@@ -1530,13 +1530,13 @@
 
 7 Then said Saul to his servants, Seek me a woman that has a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Look, there is a woman that has a familiar spirit at Endor.
 
-8 And Saul disguised himself, and put on other clothing, and he went, and two men with him, and they came to the woman by night: and he said, I pray you, divine to me by the familiar spirit, and bring me him up, whom I will name to you.
+8 And Saul disguised himself, and put on other clothing, and he went, and two men with him, and they came to the woman by night: and he said, I pray you, divine to me by the familiar spirit, and bring me him up, who I will name to you.
 
 9 And the woman said to him, Look, you know what Saul has done, how he has cut off those that have familiar spirits, and the wizards, out of the land: therefore then lay you a snare for my life, to cause me to die?
 
 10 And Saul sware to her by the Lord, saying, As the Lord lives, there will no punishment happen to you for this thing.
 
-11 Then said the woman, Whom will I bring up to you? And he said, Bring me up Samuel.
+11 Then said the woman, who will I bring up to you? And he said, Bring me up Samuel.
 
 12 And when the woman saw Samuel, she cried with a loud voice: and the woman spoke to Saul, saying, Why have you deceived me? for you are Saul.
 
@@ -1576,7 +1576,7 @@
 
 4 And the princes of the Philistines were furious with him; and the princes of the Philistines said to him, Make this fellow return, that he may go again to his place which you have appointed him, and let him not go down with us to battle, otherwise in the battle he be an adversary to us: for with what should he reconcile himself to his master? should it not be with the heads of these men?
 
-5 Is not this David, of whom they sang one to another in dances, saying, Saul killed his thousands, and David his ten thousands?
+5 Is not this David, of who they sang one to another in dances, saying, Saul killed his thousands, and David his ten thousands?
 
 6 Then Achish called David, and said to him, Surely, as the Lord lives, you have been upright, and your going out and your coming in with me in the host is good in my sight: for I have not found evil in you since the day of your coming to me to this day: nevertheless the lords favour you not.
 
@@ -1616,7 +1616,7 @@
 
 12 And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his human spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights.
 
-13 And David said to him, To whom belong you? and from where are you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
+13 And David said to him, To who belong you? and from where are you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
 
 14 We made an invasion upon the south of the Cherethites, and upon the coast which belongs to Judah, and upon the south of Caleb; and we burned Ziklag with fire.
 
@@ -1632,7 +1632,7 @@
 
 20 And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David's spoil.
 
-21 And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that were with him: and when David came near to the people, he greeted them.
+21 And David came to the two hundred men, which were so faint that they could not follow David, who they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that were with him: and when David came near to the people, he greeted them.
 
 22 Then answered all the wicked men and men of Belial, of those that went with David, and said, Because they went not with us, we will not give them ought of the spoil that we have recovered, save to every man his wife and his children, that they may lead them away, and depart.
 

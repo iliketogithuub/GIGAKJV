@@ -184,7 +184,7 @@
 
 ## Amos Chapter 6
 
-1 Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!
+1 Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to who the house of Israel came!
 
 2 Pass you to Calneh, and see; and from there go you to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?
 
@@ -216,13 +216,13 @@
 
 1 Thus has the Lord God showed to me; and, look, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, look, it was the latter growth after the king's mowings.
 
-2 And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord God, forgive, I urge you: by whom will Jacob arise? for he is small.
+2 And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord God, forgive, I urge you: by who will Jacob arise? for he is small.
 
 3 The Lord repented for this: It will not be, says the Lord.
 
 4 Thus has the Lord God showed to me: and, look, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part.
 
-5 Then said I, O Lord God, cease, I urge you: by whom will Jacob arise? for he is small.
+5 Then said I, O Lord God, cease, I urge you: by who will Jacob arise? for he is small.
 
 6 The Lord repented for this: This also will not be, says the Lord God.
 

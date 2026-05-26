@@ -22,7 +22,7 @@
 
 10 And immediately coming up out of the water, he saw the heavens opened, and the Holy Spirit like a dove descending upon him:
 
-11 And there came a voice from heaven, saying, you are my beloved Son, in whom I am well pleased.
+11 And there came a voice from heaven, saying, you are my beloved Son, in who I am well pleased.
 
 12 And immediately the Holy Spirit drives him into the wilderness.
 
@@ -176,7 +176,7 @@
 
 12 And he straitly charged them that they should not make him known.
 
-13 And he goes up into a mountain, and calls to him whom he would: and they came to him.
+13 And he goes up into a mountain, and calls to him who he would: and they came to him.
 
 14 And he ordained twelve, that they should be with him, and that he might send them forth to preach,
 
@@ -282,7 +282,7 @@
 
 29 But when the fruit is brought forth, immediately he puts in the sickle, because the harvest is come.
 
-30 And he said, Whereunto will we liken the kingdom of God? or with what comparison will we compare it?
+30 And he said, to which will we liken the kingdom of God? or with what comparison will we compare it?
 
 31 It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:
 
@@ -426,7 +426,7 @@
 
 15 Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.
 
-16 But when Herod heard of it, he said, It is John, whom I beheaded: he is risen from the dead.
+16 But when Herod heard of it, he said, It is John, who I beheaded: he is risen from the dead.
 
 17 For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias' sake, his brother Philip's wife: for he had married her.
 
@@ -638,11 +638,11 @@
 
 26 And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.
 
-27 And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying to them, Whom do men say that I am?
+27 And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying to them, who do men say that I am?
 
 28 And they answered, John the Baptist; but some say, Elias; and others, One of the prophets.
 
-29 And he says to them, But whom say you that I am? And Peter answers and says to him, you are the Christ.
+29 And he says to them, But who say you that I am? And Peter answers and says to him, you are the Christ.
 
 30 And he charged them that they should tell no man of him.
 
@@ -844,7 +844,7 @@
 
 39 And they said to him, We can. And Jesus said to them, you will indeed drink of the cup that I drink of; and with the baptism that I am baptized also will you be baptized:
 
-40 But to sit on my right hand and on my left hand is not mine to give; but it will be given to them for whom it is prepared.
+40 But to sit on my right hand and on my left hand is not mine to give; but it will be given to them for who it is prepared.
 
 41 And when the ten heard it, they began to be much displeased with James and John.
 
@@ -874,7 +874,7 @@
 
 1 And when they came near to Jerusalem, to Bethphage and Bethany, at the mount of Olives, he sends forth two of his disciples,
 
-2 And says to them, Go your way into the village over against you: and as soon as you be entered into it, you will find a colt tied, whereon never man sat; loose him, and bring him.
+2 And says to them, Go your way into the village over against you: and as soon as you be entered into it, you will find a colt tied, on which never man sat; loose him, and bring him.
 
 3 And if any man say to you, Why do you this? say you that the Lord has need of him; and immediately he will send him here.
 
@@ -1070,7 +1070,7 @@
 
 19 For in those days will be affliction, such as was not from the beginning of the creation which God created to this time, neither will be.
 
-20 And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he has chosen, he has shortened the days.
+20 And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, who he has chosen, he has shortened the days.
 
 21 And then if any man will say to you, Look, here is Christ; or, look, he is there; believe him not:
 
@@ -1148,7 +1148,7 @@
 
 20 And he answered and said to them, It is one of the twelve, that dips with me in the dish.
 
-21 The Son of man indeed goes, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.
+21 The Son of man indeed goes, as it is written of him: but woe to that man by who the Son of man is betrayed! good were it for that man if he had never been born.
 
 22 And as they did eat, Jesus took bread, and blessed, and broke it, and gave to them, and said, Take, eat: this is my body.
 
@@ -1194,7 +1194,7 @@
 
 43 And immediately, while he yet spoke, comes Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.
 
-44 And he that betrayed him had given them a token, saying, Whomsoever I will kiss, that same is he; take him, and lead him away safely.
+44 And he that betrayed him had given them a token, saying, whoever I will kiss, that same is he; take him, and lead him away safely.
 
 45 And as soon as he was come, he goes immediately to him, and says, Master, master; and kissed him.
 
@@ -1248,7 +1248,7 @@
 
 70 And he denied it again. And a little after, they that stood by said again to Peter, Surely you are one of them: for you are a Galilaean, and your speech agres to it.
 
-71 But he began to curse and to swear, saying, I know not this man of whom you speak.
+71 But he began to curse and to swear, saying, I know not this man of who you speak.
 
 72 And the second time the cock crew. And Peter called to mind the word that Jesus said to him, Before the cock crow twice, you will deny me thrice. And when he thought thereon, he wept.
 
@@ -1264,7 +1264,7 @@
 
 5 But Jesus yet answered nothing; so that Pilate marvelled.
 
-6 Now at that feast he released to them one prisoner, whomsoever they desired.
+6 Now at that feast he released to them one prisoner, whoever they desired.
 
 7 And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection.
 
@@ -1276,7 +1276,7 @@
 
 11 But the chief priests moved the people, that he should rather release Barabbas to them.
 
-12 And Pilate answered and said again to them, What will you then that I will do to him whom you call the King of the Jews?
+12 And Pilate answered and said again to them, What will you then that I will do to him who you call the King of the Jews?
 
 13 And they cried out again, Crucify him.
 
@@ -1332,7 +1332,7 @@
 
 39 And when the centurion, which stood over against him, saw that he so cried out, and gave up the Holy Spirit, he said, Truly this man was the Son of God.
 
-40 There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;
+40 There were also women looking on afar off: among who was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;
 
 41 (Who also, when he was in Galilee, followed him, and ministered to him;) and many other women which came up with him to Jerusalem.
 
@@ -1366,7 +1366,7 @@
 
 8 And they went out quickly, and fled from the tomb; for they trembled and were amazed: neither said they any thing to any man; for they were afraid.
 
-9 Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
+9 Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of who he had cast seven devils.
 
 10 And she went and told them that had been with him, as they mourned and wept.
 

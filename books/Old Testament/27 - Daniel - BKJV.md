@@ -8,13 +8,13 @@
 
 3 And the king spoke to Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes;
 
-4 Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king's palace, and whom they might teach the learning and the tongue of the Chaldeans.
+4 Children in who was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king's palace, and who they might teach the learning and the tongue of the Chaldeans.
 
 5 And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end of it they might stand before the king.
 
 6 Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
 
-7 to whom the prince of the eunuchs gave names: for he gave to Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
+7 to who the prince of the eunuchs gave names: for he gave to Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
 
 8 But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
 
@@ -22,7 +22,7 @@
 
 10 And the prince of the eunuchs said to Daniel, I fear my lord the king, who has appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then will you make me endanger my head to the king.
 
-11 Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
+11 Then said Daniel to Melzar, who the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 
 12 Prove your servants, I urge you, ten days; and let them give us pulse to eat, and water to drink.
 
@@ -92,7 +92,7 @@
 
 23 I thank you, and praise you, O you God of my fathers, who have given me wisdom and might, and have made known to me now what we desired of you: for you have now made known to us the king's matter.
 
-24 Therefore Daniel went in to Arioch, whom the king had ordained to destroy the wise men of Babylon: he went and said thus to him; Destroy not the wise men of Babylon: bring me in before the king, and I will show to the king the interpretation.
+24 Therefore Daniel went in to Arioch, who the king had ordained to destroy the wise men of Babylon: he went and said thus to him; Destroy not the wise men of Babylon: bring me in before the king, and I will show to the king the interpretation.
 
 25 Then Arioch brought in Daniel before the king in haste, and said thus to him, I have found a man of the captives of Judah, that will make known to the king the interpretation.
 
@@ -168,7 +168,7 @@
 
 11 And whoso falls not down and worships, that he should be cast into the midst of a burning fiery furnace.
 
-12 There are certain Jews whom you have set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded you: they serve not your gods, nor worship the golden image which you have set up.
+12 There are certain Jews who you have set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded you: they serve not your gods, nor worship the golden image which you have set up.
 
 13 Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.
 
@@ -178,7 +178,7 @@
 
 16 Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer you in this matter.
 
-17 If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king.
+17 If it be so, our God who we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king.
 
 18 But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.
 
@@ -222,7 +222,7 @@
 
 7 Then came in the magicians, the astrologers, the Chaldeans, and the fortune-tellers: and I told the dream before them; but they did not make known to me the interpretation of it.
 
-8 But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my God, and in whom is the spirit of the holy gods: and before him I told the dream, saying,
+8 But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my God, and in who is the spirit of the holy gods: and before him I told the dream, saying,
 
 9 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret troubles you, tell me the visions of my dream that I have seen, and the interpretation of it.
 
@@ -240,7 +240,7 @@
 
 16 Let his heart be changed from man's, and let a beast's heart be given to him; and let seven times pass over him.
 
-17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whomsoever he will, and sets up over it the basest of men.
+17 This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High rules in the kingdom of men, and gives it to whoever he will, and sets up over it the basest of men.
 
 18 This dream I king Nebuchadnezzar have seen. Now you, O Belteshazzar, declare the interpretation of it, since as all the wise men of my kingdom are not able to make known to me the interpretation: but you are able; for the spirit of the holy gods is in you.
 
@@ -256,7 +256,7 @@
 
 24 This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:
 
-25 That they will drive you from men, and your dwelling will be with the beasts of the field, and they will make you to eat grass as oxen, and they will wet you with the dew of heaven, and seven times will pass over you, till you know that the most High rules in the kingdom of men, and gives it to whomsoever he will.
+25 That they will drive you from men, and your dwelling will be with the beasts of the field, and they will make you to eat grass as oxen, and they will wet you with the dew of heaven, and seven times will pass over you, till you know that the most High rules in the kingdom of men, and gives it to whoever he will.
 
 26 And whereas they commanded to leave the stump of the tree roots; your kingdom will be sure to you, after that you will have known that the heavens do rule.
 
@@ -270,7 +270,7 @@
 
 31 While the word was in the king's mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to you it is spoken; The kingdom is departed from you.
 
-32 And they will drive you from men, and your dwelling will be with the beasts of the field: they will make you to eat grass as oxen, and seven times will pass over you, until you know that the most High rules in the kingdom of men, and gives it to whomsoever he will.
+32 And they will drive you from men, and your dwelling will be with the beasts of the field: they will make you to eat grass as oxen, and seven times will pass over you, until you know that the most High rules in the kingdom of men, and gives it to whoever he will.
 
 33 The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles' feathers, and his nails like birds' claws.
 
@@ -304,11 +304,11 @@
 
 10 Now the queen by reason of the words of the king and his lords came into the banquet house: and the queen spoke and said, O king, live for ever: let not your thoughts trouble you, nor let your face be changed:
 
-11 There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar your father, the king, I say, your father, made master of the magicians, astrologers, Chaldeans, and fortune-tellers;
+11 There is a man in your kingdom, in who is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, was found in him; who the king Nebuchadnezzar your father, the king, I say, your father, made master of the magicians, astrologers, Chaldeans, and fortune-tellers;
 
-12 Since as an excellent human spirit, and knowledge, and understanding, interpreting of dreams, and showing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will show the interpretation.
+12 Since as an excellent human spirit, and knowledge, and understanding, interpreting of dreams, and showing of hard sentences, and dissolving of doubts, were found in the same Daniel, who the king named Belteshazzar: now let Daniel be called, and he will show the interpretation.
 
-13 Then was Daniel brought in before the king. And the king spoke and said to Daniel, are you that Daniel, which are of the children of the captivity of Judah, whom the king my father brought out of Jewry?
+13 Then was Daniel brought in before the king. And the king spoke and said to Daniel, are you that Daniel, which are of the children of the captivity of Judah, who the king my father brought out of Jewry?
 
 14 I have even heard of you, that the spirit of the gods is in you, and that light and understanding and excellent wisdom is found in you.
 
@@ -320,11 +320,11 @@
 
 18 O you king, the most high God gave Nebuchadnezzar your father a kingdom, and majesty, and glory, and honour:
 
-19 And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he killed; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
+19 And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: who he would he killed; and who he would he kept alive; and who he would he set up; and who he would he put down.
 
 20 But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
 
-21 And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appoints over it whomsoever he will.
+21 And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appoints over it whoever he will.
 
 22 And you his son, O Belshazzar, have not humbled your heart, though you knew all this;
 
@@ -350,7 +350,7 @@
 
 1 It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 
-2 And over these three presidents; of whom Daniel was first: that the princes might give accounts to them, and the king should have no damage.
+2 And over these three presidents; of who Daniel was first: that the princes might give accounts to them, and the king should have no damage.
 
 3 Then this Daniel was preferred above the presidents and princes, because an excellent human spirit was in him; and the king thought to set him over the whole realm.
 
@@ -378,7 +378,7 @@
 
 15 Then these men assembled to the king, and said to the king, Know, O king, that the law of the Medes and Persians is, That no decree nor statute which the king establishs may be changed.
 
-16 Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spoke and said to Daniel, your God whom you serv continually, he will deliver you.
+16 Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spoke and said to Daniel, your God who you serv continually, he will deliver you.
 
 17 And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.
 
@@ -386,7 +386,7 @@
 
 19 Then the king arose very early in the morning, and went in haste to the den of lions.
 
-20 And when he came to the den, he cried with a lamentable voice to Daniel: and the king spoke and said to Daniel, O Daniel, servant of the living God, is your God, whom you serv continually, able to deliver you from the lions?
+20 And when he came to the den, he cried with a lamentable voice to Daniel: and the king spoke and said to Daniel, O Daniel, servant of the living God, is your God, who you serv continually, able to deliver you from the lions?
 
 21 Then said Daniel to the king, O king, live for ever.
 
@@ -420,7 +420,7 @@
 
 7 After this I saw in the night visions, and look, a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and broke in pieces, and stamped the rest with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
-8 I considered the horns, and, look, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, look, in this horn were eyes like the eyes of man, and a mouth speaking great things.
+8 I considered the horns, and, look, there came up among them another little horn, before who there were three of the first horns plucked up by the roots: and, look, in this horn were eyes like the eyes of man, and a mouth speaking great things.
 
 9 I looked until the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.
 
@@ -444,7 +444,7 @@
 
 19 Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, broke in pieces, and stamped the rest with his feet;
 
-20 And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spoke very great things, whose look was more stout than his fellows.
+20 And of the ten horns that were in his head, and of the other which came up, and before who three fell; even of that horn that had eyes, and a mouth that spoke very great things, whose look was more stout than his fellows.
 
 21 I looked, and the same horn made war with the saints, and prevailed against them;
 
@@ -522,7 +522,7 @@
 
 1 In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 
-2 In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
+2 In the first year of his reign I Daniel understood by books the number of the years, of which the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
 
 3 And I set my face to the Lord God, to seek by prayer and prayers, with fasting, and sackcloth, and ashes:
 
@@ -560,7 +560,7 @@
 
 20 And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my prayer before the Lord my God for the holy mountain of my God;
 
-21 Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering.
+21 Yea, whiles I was speaking in prayer, even the man Gabriel, who I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering.
 
 22 And he informed me, and talked with me, and said, O Daniel, I am now come forth to give you skill and understanding.
 
@@ -660,7 +660,7 @@
 
 20 Then will stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he will be destroyed, neither in anger, nor in battle.
 
-21 And in his estate will stand up a vile person, to whom they will not give the honour of the kingdom: but he will come in peaceably, and obtain the kingdom by flatteries.
+21 And in his estate will stand up a vile person, to who they will not give the honour of the kingdom: but he will come in peaceably, and obtain the kingdom by flatteries.
 
 22 And with the arms of a flood will they be overflown from before him, and will be broken; yea, also the prince of the covenant.
 
@@ -694,9 +694,9 @@
 
 37 Neither will he regard the God of his fathers, nor the desire of women, nor regard any god: for he will magnify himself above all.
 
-38 But in his estate will he honour the God of forces: and a god whom his fathers knew not will he honour with gold, and silver, and with precious stones, and pleasant things.
+38 But in his estate will he honour the God of forces: and a god who his fathers knew not will he honour with gold, and silver, and with precious stones, and pleasant things.
 
-39 Thus will he do in the most strong holds with a strange god, whom he will acknowledge and increase with glory: and he will cause them to rule over many, and will divide the land for gain.
+39 Thus will he do in the most strong holds with a strange god, who he will acknowledge and increase with glory: and he will cause them to rule over many, and will divide the land for gain.
 
 40 And at the time of the end will the king of the south push at him: and the king of the north will come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he will enter into the countries, and will overflow and pass over.
 

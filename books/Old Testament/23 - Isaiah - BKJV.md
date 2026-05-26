@@ -256,7 +256,7 @@
 
 7 And he laid it upon my mouth, and said, Look, this has touched your lips; and your wickedness is taken away, and your sin purged.
 
-8 Also I heard the voice of the Lord, saying, Whom will I send, and who will go for us? Then said I, Here am I; send me.
+8 Also I heard the voice of the Lord, saying, who will I send, and who will go for us? Then said I, Here am I; send me.
 
 9 And he said, Go, and tell this people, Hear you indeed, but understand not; and see you indeed, but perceive not.
 
@@ -344,7 +344,7 @@
 
 11 For the Lord spoke thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
 
-12 Say you not, A confederacy, to all them to whom this people will say, A confederacy; neither fear you their fear, nor be afraid.
+12 Say you not, A confederacy, to all them to who this people will say, A confederacy; neither fear you their fear, nor be afraid.
 
 13 Sanctify the Lord of hosts himself; and let him be your fear, and let him be your dread.
 
@@ -356,7 +356,7 @@
 
 17 And I will wait upon the Lord, that hides his face from the house of Jacob, and I will look for him.
 
-18 Look, I and the children whom the Lord has given me are for signs and for wonders in Israel from the Lord of hosts, which dwells in mount Zion.
+18 Look, I and the children who the Lord has given me are for signs and for wonders in Israel from the Lord of hosts, which dwells in mount Zion.
 
 19 And when they will say to you, Seek to them that have familiar spirits, and to wizards that peep, and that mutter: should not a people seek to their God? for the living to the dead?
 
@@ -416,7 +416,7 @@
 
 2 To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!
 
-3 And what will you do in the day of visitation, and in the desolation which will come from far? to whom will you flee for help? and where will you leave your glory?
+3 And what will you do in the day of visitation, and in the desolation which will come from far? to who will you flee for help? and where will you leave your glory?
 
 4 Without me they will bow down under the prisoners, and they will fall under the slain. For all this his anger is not turned away, but his hand is stretched out still.
 
@@ -786,7 +786,7 @@
 
 24 In that day will Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:
 
-25 Whom the Lord of hosts will bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
+25 who the Lord of hosts will bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
 
 ## Isaiah Chapter 20
 
@@ -870,7 +870,7 @@
 
 15 Thus says the Lord God of hosts, Go, get you to this treasurer, even to Shebna, which is over the house, and say,
 
-16 What have you here? and whom have you here, that you have hewed you out a tomb here, as he that hews him out a tomb on high, and that gravs an habitation for himself in a rock?
+16 What have you here? and who have you here, that you have hewed you out a tomb here, as he that hews him out a tomb on high, and that gravs an habitation for himself in a rock?
 
 17 Look, the Lord will carry you away with a mighty captivity, and will surely cover you.
 
@@ -894,7 +894,7 @@
 
 1 The burden of Tyre. Howl, you ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.
 
-2 Be still, you inhabitants of the isle; you whom the merchants of Zidon, that pass over the sea, have replenished.
+2 Be still, you inhabitants of the isle; you who the merchants of Zidon, that pass over the sea, have replenished.
 
 3 And by great waters the seed of Sihor, the harvest of the river, is her revenue; and she is a mart of nations.
 
@@ -1092,13 +1092,13 @@
 
 8 For all tables are full of vomit and filthiness, so that there is no place clean.
 
-9 Whom will he teach knowledge? and whom will he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
+9 who will he teach knowledge? and who will he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
 
 10 For command must be upon command, command upon command; line upon line, line upon line; here a little, and there a little:
 
 11 For with stammering lips and another tongue will he speak to this people.
 
-12 To whom he said, This is the rest with what you may cause the weary to rest; and this is the refreshing: yet they would not hear.
+12 To who he said, This is the rest with what you may cause the weary to rest; and this is the refreshing: yet they would not hear.
 
 13 But the word of the Lord was to them command upon command, command upon command; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.
 
@@ -1264,7 +1264,7 @@
 
 5 As birds flying, so will the Lord of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.
 
-6 Turn you to him from whom the children of Israel have deeply revolted.
+6 Turn you to him from who the children of Israel have deeply revolted.
 
 7 For in that day every man will cast away his idols of silver, and his idols of gold, which your own hands have made to you for a sin.
 
@@ -1432,9 +1432,9 @@
 
 4 And Rabshakeh said to them, Say you now to Hezekiah, Thus says the great king, the king of Assyria, What confidence is this in which you trust?
 
-5 I say, say you, (but they are but empty words) I have counsel and strength for war: now on whom do you trust, that you rebell against me?
+5 I say, say you, (but they are but empty words) I have counsel and strength for war: now on who do you trust, that you rebell against me?
 
-6 Look, you trust in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him.
+6 Look, you trust in the staff of this broken reed, on Egypt; on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him.
 
 7 But if you say to me, We trust in the Lord our God: is it not he, whose high places and whose altars Hezekiah has taken away, and said to Judah and to Jerusalem, you will worship before this altar?
 
@@ -1476,7 +1476,7 @@
 
 3 And they said to him, Thus says Hezekiah, This day is a day of trouble, and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.
 
-4 It may be the Lord your God will hear the words of Rabshakeh, whom the king of Assyria his master has sent to disgrace the living God, and will correct the words which the Lord your God has heard: therefore lift up your prayer for the remnant that is left.
+4 It may be the Lord your God will hear the words of Rabshakeh, who the king of Assyria his master has sent to disgrace the living God, and will correct the words which the Lord your God has heard: therefore lift up your prayer for the remnant that is left.
 
 5 So the servants of king Hezekiah came to Isaiah.
 
@@ -1488,7 +1488,7 @@
 
 9 And he heard say concerning Tirhakah king of Ethiopia, He is come forth to make war with you. And when he heard it, he sent messengers to Hezekiah, saying,
 
-10 Thus will you speak to Hezekiah king of Judah, saying, Let not your God, in whom you trust, deceive you, saying, Jerusalem will not be given into the hand of the king of Assyria.
+10 Thus will you speak to Hezekiah king of Judah, saying, Let not your God, in who you trust, deceive you, saying, Jerusalem will not be given into the hand of the king of Assyria.
 
 11 Look, you have heard what the kings of Assyria have done to all lands by destroying them utterly; and will you be delivered?
 
@@ -1514,7 +1514,7 @@
 
 22 This is the word which the Lord has spoken concerning him; The virgin, the daughter of Zion, has despised you, and laughed you to scorn; the daughter of Jerusalem has shaken her head at you.
 
-23 Whom have you disgraced and blasphemed? and against whom have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
+23 who have you disgraced and blasphemed? and against who have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
 
 24 By your servants have you disgraced the Lord, and have said, By the multitude of my chariots am I come up to the height of the mountains, to the sides of Lebanon; and I will cut down the tall cedars of it, and the choice fir trees of it: and I will enter into the height of his border, and the forest of his Carmel.
 
@@ -1638,7 +1638,7 @@
 
 13 Who has directed the Holy Spirit of the Lord, or being his counsellor has taught him?
 
-14 With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and showed to him the way of understanding?
+14 With who took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and showed to him the way of understanding?
 
 15 Look, the nations are as a drop of a bucket, and are counted as the small dust of the balance: look, he takes up the isles as a very little thing.
 
@@ -1646,7 +1646,7 @@
 
 17 All nations before him are as nothing; and they are counted to him less than nothing, and emptiness.
 
-18 To whom then will you liken God? or what likeness will you compare to him?
+18 To who then will you liken God? or what likeness will you compare to him?
 
 19 The workman melts a graven image, and the goldsmith spreads it over with gold, and casts silver chains.
 
@@ -1660,7 +1660,7 @@
 
 24 Yea, they will not be planted; yea, they will not be sown: yea, their stock will not take root in the earth: and he will also blow upon them, and they will wither, and the whirlwind will take them away as stubble.
 
-25 To whom then will you liken me, or will I be equal? says the Holy One.
+25 To who then will you liken me, or will I be equal? says the Holy One.
 
 26 Lift up your eyes on high, and look who has created these things, that brings out their host by number: he calls them all by names by the greatness of his might, for that he is strong in power; not one fails.
 
@@ -1690,9 +1690,9 @@
 
 7 So the carpenter encouraged the goldsmith, and he that smooths with the hammer him that struck the anvil, saying, It is ready for the sodering: and he fastened it with nails, that it should not be moved.
 
-8 But you, Israel, are my servant, Jacob whom I have chosen, the seed of Abraham my friend.
+8 But you, Israel, are my servant, Jacob who I have chosen, the seed of Abraham my friend.
 
-9 you whom I have taken from the ends of the earth, and called you from the chief men of it, and said to you, you are my servant; I have chosen you, and not cast you away.
+9 you who I have taken from the ends of the earth, and called you from the chief men of it, and said to you, you are my servant; I have chosen you, and not cast you away.
 
 10 Fear you not; for I am with you: be not dismayed; for I am your God: I will strengthen you; yea, I will help you; yea, I will uphold you with the right hand of my righteousness.
 
@@ -1736,7 +1736,7 @@
 
 ## Isaiah Chapter 42
 
-1 Look at my servant, whom I uphold; mine elect, in whom my soul delights; I have put my Holy Spirit upon him: he will bring forth judgment to the Gentiles.
+1 Look at my servant, who I uphold; mine elect, in who my soul delights; I have put my Holy Spirit upon him: he will bring forth judgment to the Gentiles.
 
 2 He will not cry, nor lift up, nor cause his voice to be heard in the street.
 
@@ -1782,7 +1782,7 @@
 
 23 Who among you will give ear to this? who will listen and hear for the time to come?
 
-24 Who gave Jacob for a spoil, and Israel to the robbers? did not the Lord, he against whom we have sinned? for they would not walk in his ways, neither were they obedient to his law.
+24 Who gave Jacob for a spoil, and Israel to the robbers? did not the Lord, he against who we have sinned? for they would not walk in his ways, neither were they obedient to his law.
 
 25 Therefore he has poured upon him the fury of his anger, and the strength of battle: and it has set him on fire round about, yet he knew not; and it burned him, yet he laid it not to heart.
 
@@ -1806,7 +1806,7 @@
 
 9 Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and show us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.
 
-10 you are my witnesses, says the Lord, and my servant whom I have chosen: that you may know and believe me, and understand that I am he: before me there was no God formed, neither will there be after me.
+10 you are my witnesses, says the Lord, and my servant who I have chosen: that you may know and believe me, and understand that I am he: before me there was no God formed, neither will there be after me.
 
 11 I, even I, am the Lord; and beside me there is no saviour.
 
@@ -1846,9 +1846,9 @@
 
 ## Isaiah Chapter 44
 
-1 Yet now hear, O Jacob my servant; and Israel, whom I have chosen:
+1 Yet now hear, O Jacob my servant; and Israel, who I have chosen:
 
-2 Thus says the Lord that made you, and formed you from the womb, which will help you; Fear not, O Jacob, my servant; and you, Jesurun, whom I have chosen.
+2 Thus says the Lord that made you, and formed you from the womb, which will help you; Fear not, O Jacob, my servant; and you, Jesurun, who I have chosen.
 
 3 For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my Holy Spirit upon your seed, and my blessing upon your offspring:
 
@@ -1964,7 +1964,7 @@
 
 4 And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.
 
-5 To whom will you liken me, and make me equal, and compare me, that we may be like?
+5 To who will you liken me, and make me equal, and compare me, that we may be like?
 
 6 They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he makes it a god: they fall down, yea, they worship.
 
@@ -2012,7 +2012,7 @@
 
 14 Look, they will be as stubble; the fire will burn them; they will not deliver themselves from the power of the flame: there will not be a coal to warm at, nor fire to sit before it.
 
-15 Thus will they be to you with whom you have laboured, even your merchants, from your youth: they will wander every one to his quarter; none will save you.
+15 Thus will they be to you with who you have laboured, even your merchants, from your youth: they will wander every one to his quarter; none will save you.
 
 ## Isaiah Chapter 48
 
@@ -2066,7 +2066,7 @@
 
 2 And he has made my mouth like a sharp sword; in the shadow of his hand has he hid me, and made me a polished shaft; in his quiver has he hid me;
 
-3 And said to me, you are my servant, O Israel, in whom I will be glorified.
+3 And said to me, you are my servant, O Israel, in who I will be glorified.
 
 4 Then I said, I have laboured for nothing, I have spent my strength for nothing, and for nothing: yet surely my judgment is with the Lord, and my work with my God.
 
@@ -2074,7 +2074,7 @@
 
 6 And he said, It is a light thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give you for a light to the Gentiles, that you may be my salvation to the end of the earth.
 
-7 Thus says the Lord, the Redeemer of Israel, and his Holy One, to him whom man despiss, to him whom the nation abhors, to a servant of rulers, Kings will see and arise, princes also will worship, because of the Lord that is faithful, and the Holy One of Israel, and he will choose you.
+7 Thus says the Lord, the Redeemer of Israel, and his Holy One, to him who man despiss, to him who the nation abhors, to a servant of rulers, Kings will see and arise, princes also will worship, because of the Lord that is faithful, and the Holy One of Israel, and he will choose you.
 
 8 Thus says the Lord, In an acceptable time have I heard you, and in a day of salvation have I helped you: and I will preserve you, and give you for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
 
@@ -2116,7 +2116,7 @@
 
 ## Isaiah Chapter 50
 
-1 Thus says the Lord, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Look, for your wickedness have you sold yourselves, and for your sins is your mother put away.
+1 Thus says the Lord, Where is the bill of your mother's divorcement, who I have put away? or which of my creditors is it to who I have sold you? Look, for your wickedness have you sold yourselves, and for your sins is your mother put away.
 
 2 therefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? look, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinks, because there is no water, and dies for thirst.
 
@@ -2174,9 +2174,9 @@
 
 17 Awake, awake, stand up, O Jerusalem, which have drunk at the hand of the Lord the cup of his fury; you have drunken the dregs of the cup of trembling, and wrung them out.
 
-18 There is none to guide her among all the sons whom she has brought forth; neither is there any that takes her by the hand of all the sons that she has brought up.
+18 There is none to guide her among all the sons who she has brought forth; neither is there any that takes her by the hand of all the sons that she has brought up.
 
-19 These two things are come to you; who will be sorry for you? desolation, and destruction, and the famine, and the sword: by whom will I comfort you?
+19 These two things are come to you; who will be sorry for you? desolation, and destruction, and the famine, and the sword: by who will I comfort you?
 
 20 your sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of your God.
 
@@ -2220,7 +2220,7 @@
 
 ## Isaiah Chapter 53
 
-1 Who has believed our report? and to whom is the arm of the Lord revealed?
+1 Who has believed our report? and to who is the arm of the Lord revealed?
 
 2 For he will grow up before him as a tender plant, and as a root out of a dry ground: he has no form nor beauty; and when we will see him, there is no beauty that we should desire him.
 
@@ -2344,7 +2344,7 @@
 
 3 But draw near here, you sons of the sorceress, the seed of the adulterer and the whore.
 
-4 Against whom do you sport yourselves? against whom make you a wide mouth, and draw out the tongue? are you not children of sin, a seed of falsehood.
+4 Against who do you sport yourselves? against who make you a wide mouth, and draw out the tongue? are you not children of sin, a seed of falsehood.
 
 5 Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?
 
@@ -2358,7 +2358,7 @@
 
 10 you are wearied in the greatness of your way; yet said you not, There is no hope: you have found the life of your hand; therefore you were not grieved.
 
-11 And of whom have you been afraid or feared, that you have lied, and have not remembered me, nor laid it to your heart? have not I held my peace even of old, and you fear me not?
+11 And of who have you been afraid or feared, that you have lied, and have not remembered me, nor laid it to your heart? have not I held my peace even of old, and you fear me not?
 
 12 I will declare your righteousness, and your works; for they will not profit you.
 
@@ -2694,7 +2694,7 @@
 
 12 For thus says the Lord, Look, I will extend peace to her like a river, and the glory of the Gentiles like a flowing stream: then will you suck, you will be borne upon her sides, and be dandled upon her knees.
 
-13 As one whom his mother comforts, so will I comfort you; and you will be comforted in Jerusalem.
+13 As one who his mother comforts, so will I comfort you; and you will be comforted in Jerusalem.
 
 14 And when you see this, your heart will rejoice, and your bones will flourish like an herb: and the hand of the Lord will be known toward his servants, and his indignation toward his enemies.
 

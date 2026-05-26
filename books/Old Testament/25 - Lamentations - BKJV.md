@@ -20,7 +20,7 @@
 
 9 Her filthiness is in her skirts; she remembers not her last end; therefore she came down wonderfully: she had no comforter. O Lord, look at my affliction: for the enemy has magnified himself.
 
-10 The adversary has spread out his hand upon all her pleasant things: for she has seen that the heathen entered into her sanctuary, whom you did command that they should not enter into your congregation.
+10 The adversary has spread out his hand upon all her pleasant things: for she has seen that the heathen entered into her sanctuary, who you did command that they should not enter into your congregation.
 
 11 All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O Lord, and consider; for I am become vile.
 
@@ -28,7 +28,7 @@
 
 13 From above has he sent fire into my bones, and it prevails against them: he has spread a net for my feet, he has turned me back: he has made me desolate and faint all the day.
 
-14 The yoke of my sins is bound by his hand: they are wreathed, and come up upon my neck: he has made my strength to fall, the Lord has delivered me into their hands, from whom I am not able to rise up.
+14 The yoke of my sins is bound by his hand: they are wreathed, and come up upon my neck: he has made my strength to fall, the Lord has delivered me into their hands, from who I am not able to rise up.
 
 15 The Lord has trodden under foot all my mighty men in the midst of me: he has called an assembly against me to crush my young men: the Lord has trodden the virgin, the daughter of Judah, as in a winepress.
 
@@ -86,7 +86,7 @@
 
 19 Arise, cry out in the night: in the beginning of the watches pour out your heart like water before the face of the Lord: lift up your hands toward him for the life of your young children, that faint for hunger in the top of every street.
 
-20 Look, O Lord, and consider to whom you have done this. will the women eat their fruit, and children of a span long? will the priest and the prophet be slain in the sanctuary of the Lord?
+20 Look, O Lord, and consider to who you have done this. will the women eat their fruit, and children of a span long? will the priest and the prophet be slain in the sanctuary of the Lord?
 
 21 The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; you have slain them in the day of your anger; you have killed, and not pitied.
 
@@ -266,7 +266,7 @@
 
 19 Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
 
-20 The breath of our nostrils, the anointed of the Lord, was taken in their pits, of whom we said, Under his shadow we will live among the heathen.
+20 The breath of our nostrils, the anointed of the Lord, was taken in their pits, of who we said, Under his shadow we will live among the heathen.
 
 21 Rejoice and be glad, O daughter of Edom, that dwell in the land of Uz; the cup also will pass through to you: you will be drunken, and will make yourself naked.
 

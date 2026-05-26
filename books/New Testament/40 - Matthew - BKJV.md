@@ -32,7 +32,7 @@
 
 15 And Eliud fathered Eleazar; and Eleazar fathered Matthan; and Matthan fathered Jacob;
 
-16 And Jacob fathered Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+16 And Jacob fathered Joseph the husband of Mary, of who was born Jesus, who is called Christ.
 
 17 So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon to Christ are fourteen generations.
 
@@ -134,7 +134,7 @@
 
 16 And Jesus, when he was baptized, went up immediately out of the water: and, look, the heavens were opened to him, and he saw the Holy Spirit of God descending like a dove, and lighting upon him:
 
-17 And look, a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
+17 And look, a voice from heaven, saying, This is my beloved Son, in who I am well pleased.
 
 ## Matthew Chapter 4
 
@@ -348,7 +348,7 @@
 
 30 therefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, will he not much more clothe you, O you of little faith?
 
-31 Therefore take no thought, saying, What will we eat? or, What will we drink? or, Wherewithal will we be clothed?
+31 Therefore take no thought, saying, What will we eat? or, What will we drink? or, by what means will we be clothed?
 
 32 (For after all these things do the Gentiles seek:) for your heavenly Father knows that you have need of all these things.
 
@@ -374,7 +374,7 @@
 
 8 For every one that asks receives; and he that seeks finds; and to him that knocks it will be opened.
 
-9 Or what man is there of you, whom if his son ask bread, will he give him a stone?
+9 Or what man is there of you, who if his son ask bread, will he give him a stone?
 
 10 Or if he ask a fish, will he give him a serpent?
 
@@ -672,7 +672,7 @@
 
 9 But what went you out for to see? A prophet? yea, I say to you, and more than a prophet.
 
-10 For this is he, of whom it is written, Look, I send my messenger before your face, which will prepare your way before you.
+10 For this is he, of who it is written, Look, I send my messenger before your face, which will prepare your way before you.
 
 11 Truly I say to you, Among them that are born of women there has not risen a greater than John the Baptist: nevertheless he that is least in the kingdom of heaven is greater than he.
 
@@ -684,7 +684,7 @@
 
 15 He that has ears to hear, let him hear.
 
-16 But whereunto will I liken this generation? It is like to children sitting in the markets, and calling to their fellows,
+16 But to which will I liken this generation? It is like to children sitting in the markets, and calling to their fellows,
 
 17 And saying, We have piped to you, and you have not danced; we have mourned to you, and you have not mourned.
 
@@ -706,7 +706,7 @@
 
 26 Even so, Father: for so it seemed good in your sight.
 
-27 All things are delivered to me of my Father: and no man knows the Son, but the Father; neither knows any man the Father, save the Son, and he to whomsoever the Son will reveal him.
+27 All things are delivered to me of my Father: and no man knows the Son, but the Father; neither knows any man the Father, save the Son, and he to whoever the Son will reveal him.
 
 28 Come to me, all you that labour and are heavy laden, and I will give you rest.
 
@@ -750,7 +750,7 @@
 
 17 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 
-18 Look at my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my Holy Spirit upon him, and he will show judgment to the Gentiles.
+18 Look at my servant, who I have chosen; my beloved, in who my soul is well pleased: I will put my Holy Spirit upon him, and he will show judgment to the Gentiles.
 
 19 He will not strive, nor cry; neither will any man hear his voice in the streets.
 
@@ -768,7 +768,7 @@
 
 26 And if Satan cast out Satan, he is divided against himself; how will then his kingdom stand?
 
-27 And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they will be your judges.
+27 And if I by Beelzebub cast out devils, by who do your children cast them out? therefore they will be your judges.
 
 28 But if I cast out devils by the Holy Spirit of God, then the kingdom of God is come to you.
 
@@ -1114,11 +1114,11 @@
 
 12 Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 
-13 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
+13 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, who do men say that I the Son of man am?
 
 14 And they said, Some say that you are John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.
 
-15 He says to them, But whom say you that I am?
+15 He says to them, But who say you that I am?
 
 16 And Simon Peter answered and said, you are the Christ, the Son of the living God.
 
@@ -1156,7 +1156,7 @@
 
 4 Then answered Peter, and said to Jesus, Lord, it is good for us to be here: if you will, let us make here three tabernacles; one for you, and one for Moses, and one for Elias.
 
-5 While he yet spoke, look, a bright cloud overshadowed them: and look, a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear you him.
+5 While he yet spoke, look, a bright cloud overshadowed them: and look, a voice out of the cloud, which said, This is my beloved Son, in who I am well pleased; hear you him.
 
 6 And when the disciples heard it, they fell on their face, and were sore afraid.
 
@@ -1196,7 +1196,7 @@
 
 24 And when they were come to Capernaum, they that received tribute money came to Peter, and said, does not your master pay tribute?
 
-25 He says, Yes. And when he was come into the house, Jesus prevented him, saying, What think you, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
+25 He says, Yes. And when he was come into the house, Jesus prevented him, saying, What think you, Simon? of who do the kings of the earth take custom or tribute? of their own children, or of strangers?
 
 26 Peter says to him, Of strangers. Jesus says to him, Then are the children free.
 
@@ -1216,7 +1216,7 @@
 
 6 But whoso will offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
 
-7 Woe to the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence comes!
+7 Woe to the world because of offences! for it must needs be that offences come; but woe to that man by who the offence comes!
 
 8 therefore if your hand or your foot offend you, cut them off, and cast them from you: it is better for you to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.
 
@@ -1296,7 +1296,7 @@
 
 10 His disciples say to him, If the case of the man be so with his wife, it is not good to marry.
 
-11 But he said to them, All men cannot receive this saying, save they to whom it is given.
+11 But he said to them, All men cannot receive this saying, save they to who it is given.
 
 12 For there are some eunuchs, which were so born from their mother's womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven's sake. He that is able to receive it, let him receive it.
 
@@ -1382,7 +1382,7 @@
 
 22 But Jesus answered and said, you know not what you ask. Are you able to drink of the cup that I will drink of, and to be baptized with the baptism that I am baptized with? They say to him, We are able.
 
-23 And he says to them, you will drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it will be given to them for whom it is prepared of my Father.
+23 And he says to them, you will drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it will be given to them for who it is prepared of my Father.
 
 24 And when the ten heard it, they were moved with indignation against the two brothers.
 
@@ -1494,7 +1494,7 @@
 
 43 Therefore say I to you, The kingdom of God will be taken from you, and given to a nation bringing forth the fruits of it.
 
-44 And whosoever will fall on this stone will be broken: but on whomsoever it will fall, it will grind him to powder.
+44 And whosoever will fall on this stone will be broken: but on whoever it will fall, it will grind him to powder.
 
 45 And when the chief priests and Pharisees had heard his parables, they perceived that he spoke of them.
 
@@ -1664,7 +1664,7 @@
 
 34 therefore, look, I send to you prophets, and wise men, and scribes: and some of them you will kill and crucify; and some of them will you whip in your synagogues, and persecute them from city to city:
 
-35 That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom you killed between the temple and the altar.
+35 That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, who you killed between the temple and the altar.
 
 36 Truly I say to you, All these things will come upon this generation.
 
@@ -1764,9 +1764,9 @@
 
 44 Therefore be you also ready: for in such an hour as you think not the Son of man comes.
 
-45 Who then is a faithful and wise servant, whom his lord has made ruler over his household, to give them meat in due season?
+45 Who then is a faithful and wise servant, who his lord has made ruler over his household, to give them meat in due season?
 
-46 Blessed is that servant, whom his lord when he comes will find so doing.
+46 Blessed is that servant, who his lord when he comes will find so doing.
 
 47 Truly I say to you, That he will make him ruler over all his goods.
 
@@ -1920,7 +1920,7 @@
 
 23 And he answered and said, He that dips his hand with me in the dish, the same will betray me.
 
-24 The Son of man goes as it is written of him: but woe to that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
+24 The Son of man goes as it is written of him: but woe to that man by who the Son of man is betrayed! it had been good for that man if he had not been born.
 
 25 Then Judas, which betrayed him, answered and said, Master, is it I? He said to him, you have said.
 
@@ -1968,7 +1968,7 @@
 
 47 And while he yet spoke, look, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
 
-48 Now he that betrayed him gave them a sign, saying, Whomsoever I will kiss, that same is he: hold him fast.
+48 Now he that betrayed him gave them a sign, saying, whoever I will kiss, that same is he: hold him fast.
 
 49 And forthwith he came to Jesus, and said, Hail, master; and kissed him.
 
@@ -2042,7 +2042,7 @@
 
 8 therefore that field was called, The field of blood, to this day.
 
-9 Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
+9 Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, who they of the children of Israel did value;
 
 10 And gave them for the potter's field, as the Lord appointed me.
 
@@ -2054,11 +2054,11 @@
 
 14 And he answered him to never a word; so much so that the governor marvelled greatly.
 
-15 Now at that feast the governor was wont to release to the people a prisoner, whom they would.
+15 Now at that feast the governor was wont to release to the people a prisoner, who they would.
 
 16 And they had then a notable prisoner, called Barabbas.
 
-17 Therefore when they were gathered together, Pilate said to them, Whom will you that I release to you? Barabbas, or Jesus which is called Christ?
+17 Therefore when they were gathered together, Pilate said to them, who will you that I release to you? Barabbas, or Jesus which is called Christ?
 
 18 For he knew that for envy they had delivered him.
 

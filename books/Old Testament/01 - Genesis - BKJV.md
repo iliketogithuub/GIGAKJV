@@ -80,7 +80,7 @@
 
 7 And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
-8 And the Lord God planted a garden eastward in Eden; and there he put the man whom he had formed.
+8 And the Lord God planted a garden eastward in Eden; and there he put the man who he had formed.
 
 9 And out of the ground made the Lord God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 
@@ -138,9 +138,9 @@
 
 10 And he said, I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.
 
-11 And he said, Who told you that you were naked? have you eaten of the tree, whereof I commanded you that you should not eat?
+11 And he said, Who told you that you were naked? have you eaten of the tree, of which I commanded you that you should not eat?
 
-12 And the man said, The woman whom you gav to be with me, she gave me of the tree, and I did eat.
+12 And the man said, The woman who you gav to be with me, she gave me of the tree, and I did eat.
 
 13 And the Lord God said to the woman, What is this that you have done? And the woman said, The serpent beguiled me, and I did eat.
 
@@ -216,7 +216,7 @@
 
 24 If Cain will be brought justice sevenfold, truly Lamech seventy and sevenfold.
 
-25 And Adam knew his wife again; and she bare a son, and called his name Ss: For God, said she, has appointed me another seed instead of Abel, whom Cain killed.
+25 And Adam knew his wife again; and she bare a son, and called his name Ss: For God, said she, has appointed me another seed instead of Abel, who Cain killed.
 
 26 And to Ss, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the Lord.
 
@@ -300,7 +300,7 @@
 
 6 And it repented the Lord that he had made man on the earth, and it grieved him at his heart.
 
-7 And the Lord said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repents me that I have made them.
+7 And the Lord said, I will destroy man who I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repents me that I have made them.
 
 8 But Noah found grace in the eyes of the Lord.
 
@@ -516,7 +516,7 @@
 
 13 And Mizraim fathered Ludim, and Anamim, and Lehabim, and Naphtuhim,
 
-14 And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.
+14 And Pathrusim, and Casluhim, (out of who came Philistim,) and Caphtorim.
 
 15 And Canaan fathered Sidon his first born, and Hs,
 
@@ -766,7 +766,7 @@
 
 7 And he said to him, I am the Lord that brought you out of Ur of the Chaldees, to give you this land to inherit it.
 
-8 And he said, Lord God, whereby will I know that I will inherit it?
+8 And he said, Lord God, by which will I know that I will inherit it?
 
 9 And he said to him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.
 
@@ -778,7 +778,7 @@
 
 13 And he said to Abram, Know of a guarantee that your seed will be a stranger in a land that is not theirs, and will serve them; and they will afflict them four hundred years;
 
-14 And also that nation, whom they will serve, will I judge: and afterward will they come out with great substance.
+14 And also that nation, who they will serve, will I judge: and afterward will they come out with great substance.
 
 15 And you will go to your fathers in peace; you will be buried in a good old age.
 
@@ -1074,7 +1074,7 @@
 
 2 For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.
 
-3 And Abraham called the name of his son that was born to him, whom Sarah bare to him, Isaac.
+3 And Abraham called the name of his son that was born to him, who Sarah bare to him, Isaac.
 
 4 And Abraham circumcised his son Isaac being eight days old, as God had commanded him.
 
@@ -1142,7 +1142,7 @@
 
 1 And it came to pass after these things, that God did tempt Abraham, and said to him, Abraham: and he said, Look, here I am.
 
-2 And he said, Take now your son, your only son Isaac, whom you lov, and get you into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell you of.
+2 And he said, Take now your son, your only son Isaac, who you lov, and get you into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell you of.
 
 3 And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and split the wood for the burnt offering, and rose up, and went to the place of which God had told him.
 
@@ -1236,7 +1236,7 @@
 
 2 And Abraham said to his eldest servant of his house, that ruled over all that he had, Put, I pray you, your hand under my thigh:
 
-3 And I will make you swear by the Lord, the God of heaven, and the God of the earth, that you will not take a wife to my son of the daughters of the Canaanites, among whom I dwell:
+3 And I will make you swear by the Lord, the God of heaven, and the God of the earth, that you will not take a wife to my son of the daughters of the Canaanites, among who I dwell:
 
 4 But you will go to my country, and to my relatives, and take a wife to my son Isaac.
 
@@ -1258,7 +1258,7 @@
 
 13 Look, I stand here by the well of water; and the daughters of the men of the city come out to draw water:
 
-14 And let it come to pass, that the young woman to whom I will say, Let down your pitcher, I pray you, that I may drink; and she will say, Drink, and I will give your camels drink also: let the same be she that you have appointed for your servant Isaac; and by that will I know that you have showed kindness to my master.
+14 And let it come to pass, that the young woman to who I will say, Let down your pitcher, I pray you, that I may drink; and she will say, Drink, and I will give your camels drink also: let the same be she that you have appointed for your servant Isaac; and by that will I know that you have showed kindness to my master.
 
 15 And it came to pass, before he had done speaking, that, look, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.
 
@@ -1310,7 +1310,7 @@
 
 39 And I said to my master, Perhaps the woman will not follow me.
 
-40 And he said to me, The Lord, before whom I walk, will send his angel with you, and prosper your way; and you will take a wife for my son of my relatives, and of my father's house:
+40 And he said to me, The Lord, before who I walk, will send his angel with you, and prosper your way; and you will take a wife for my son of my relatives, and of my father's house:
 
 41 Then will you be clear from this my oath, when you come to my relatives; and if they give not you one, you will be clear from my oath.
 
@@ -1318,13 +1318,13 @@
 
 43 Look, I stand by the well of water; and it will come to pass, that when the virgin comes forth to draw water, and I say to her, Give me, I pray you, a little water of your pitcher to drink;
 
-44 And she say to me, Both drink you, and I will also draw for your camels: let the same be the woman whom the Lord has appointed out for my master's son.
+44 And she say to me, Both drink you, and I will also draw for your camels: let the same be the woman who the Lord has appointed out for my master's son.
 
 45 And before I had done speaking in mine heart, look, Rebekah came forth with her pitcher on her shoulder; and she went down to the well, and drew water: and I said to her, Let me drink, I pray you.
 
 46 And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give your camels drink also: so I drank, and she made the camels drink also.
 
-47 And I asked her, and said, Whose daughter are you? And she said, the daughter of Bethuel, Nahor's son, whom Milcah bare to him: and I put the earring upon her face, and the bracelets upon her hands.
+47 And I asked her, and said, Whose daughter are you? And she said, the daughter of Bethuel, Nahor's son, who Milcah bare to him: and I put the earring upon her face, and the bracelets upon her hands.
 
 48 And I bowed down my head, and worshipped the Lord, and blessed the Lord God of my master Abraham, which had led me in the right way to take my master's brother's daughter to his son.
 
@@ -1390,7 +1390,7 @@
 
 11 And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi.
 
-12 Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's female servant, bare to Abraham:
+12 Now these are the generations of Ishmael, Abraham's son, who Hagar the Egyptian, Sarah's female servant, bare to Abraham:
 
 13 And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,
 
@@ -1628,7 +1628,7 @@
 
 12 And he dreamed, and look, a ladder set up on the earth, and the top of it reached to heaven: and look at the angels of God ascending and descending on it.
 
-13 And, look, the Lord stood above it, and said, I am the Lord God of Abraham your father, and the God of Isaac: the land whereon you li, to you will I give it, and to your seed;
+13 And, look, the Lord stood above it, and said, I am the Lord God of Abraham your father, and the God of Isaac: the land on which you li, to you will I give it, and to your seed;
 
 14 And your seed will be as the dust of the earth, and you will spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed will all the families of the earth be blessed.
 
@@ -1772,7 +1772,7 @@
 
 25 And it came to pass, when Rachel had born Joseph, that Jacob said to Laban, Send me away, that I may go to mine own place, and to my country.
 
-26 Give me my wives and my children, for whom I have served you, and let me go: for you know my service which I have done you.
+26 Give me my wives and my children, for who I have served you, and let me go: for you know my service which I have done you.
 
 27 And Laban said to him, I pray you, if I have found favour in your eyes, tarry: for I have learned by experience that the Lord has blessed me for your sake.
 
@@ -1872,7 +1872,7 @@
 
 31 And Jacob answered and said to Laban, Because I was afraid: for I said, Perhaps you would take by force your daughters from me.
 
-32 With whomsoever you find your gods, let him not live: before our brothers recognize you what is your with me, and take it to you. For Jacob knew not that Rachel had stolen them.
+32 With whoever you find your gods, let him not live: before our brothers recognize you what is your with me, and take it to you. For Jacob knew not that Rachel had stolen them.
 
 33 And Laban went into Jacob's tent, and into Leah's tent, and into the two maidservants' tents; but he found them not. Then went he out of Leah's tent, and entered into Rachel's tent.
 
@@ -2548,7 +2548,7 @@
 
 37 And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
 
-38 And Pharaoh said to his servants, Can we find such a one as this is, a man in whom the Holy Spirit of God is?
+38 And Pharaoh said to his servants, Can we find such a one as this is, a man in who the Holy Spirit of God is?
 
 39 And Pharaoh said to Joseph, Since as God has showed you all this, there is none so discreet and wise as you are:
 
@@ -2720,11 +2720,11 @@
 
 26 And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth.
 
-27 And he asked them of their welfare, and said, Is your father well, the old man of whom you spoke? Is he yet alive?
+27 And he asked them of their welfare, and said, Is your father well, the old man of who you spoke? Is he yet alive?
 
 28 And they answered, your servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance.
 
-29 And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom you spoke to me? And he said, God be gracious to you, my son.
+29 And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of who you spoke to me? And he said, God be gracious to you, my son.
 
 30 And Joseph made haste; for his insides did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.
 
@@ -2746,7 +2746,7 @@
 
 4 And when they were gone out of the city, and not yet far off, Joseph said to his steward, Up, follow after the men; and when you do overtake them, say to them, therefore have you rewarded evil for good?
 
-5 Is not this it in which my lord drinks, and whereby indeed he divins? you have done evil in so doing.
+5 Is not this it in which my lord drinks, and by which indeed he divins? you have done evil in so doing.
 
 6 And he overtook them, and he spoke to them these same words.
 
@@ -2754,9 +2754,9 @@
 
 8 Look, the money, which we found in our sacks' mouths, we brought again to you out of the land of Canaan: how then should we steal out of your lord's house silver or gold?
 
-9 With whomsoever of your servants it be found, both let him die, and we also will be my lord's slaves.
+9 With whoever of your servants it be found, both let him die, and we also will be my lord's slaves.
 
-10 And he said, Now also let it be according to your words: he with whom it is found will be my servant; and you will be blameless.
+10 And he said, Now also let it be according to your words: he with who it is found will be my servant; and you will be blameless.
 
 11 Then they speedily took down every man his sack to the ground, and opened every man his sack.
 
@@ -2768,7 +2768,7 @@
 
 15 And Joseph said to them, What deed is this that you have done? know you not that such a man as I can certainly divine?
 
-16 And Judah said, What will we say to my lord? what will we speak? or how will we clear ourselves? God has found out the wickedness of your servants: look, we are my lord's servants, both we, and he also with whom the cup is found.
+16 And Judah said, What will we say to my lord? what will we speak? or how will we clear ourselves? God has found out the wickedness of your servants: look, we are my lord's servants, both we, and he also with who the cup is found.
 
 17 And he said, God forbid that I should do so: but the man in whose hand the cup is found, he will be my servant; and as for you, get you up in peace to your father.
 
@@ -2814,7 +2814,7 @@
 
 3 And Joseph said to his brothers, I am Joseph; does my father yet live? And his brothers could not answer him; for they were troubled at his presence.
 
-4 And Joseph said to his brothers, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom you sold into Egypt.
+4 And Joseph said to his brothers, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, who you sold into Egypt.
 
 5 Now therefore be not grieved, nor angry with yourselves, that you sold me here: for God did send me before you to preserve life.
 
@@ -2900,7 +2900,7 @@
 
 17 And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 
-18 These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare to Jacob, even sixteen souls.
+18 These are the sons of Zilpah, who Laban gave to Leah his daughter, and these she bare to Jacob, even sixteen souls.
 
 19 The sons of Rachel Jacob's wife; Joseph, and Benjamin.
 
@@ -3016,7 +3016,7 @@
 
 8 And Israel saw Joseph's sons, and said, Who are these?
 
-9 And Joseph said to his father, They are my sons, whom God has given me in this place. And he said, Bring them, I pray you, to me, and I will bless them.
+9 And Joseph said to his father, They are my sons, who God has given me in this place. And he said, Bring them, I pray you, to me, and I will bless them.
 
 10 Now the eyes of Israel were dim for age, so that he could not see. And he brought them near to him; and he kissed them, and embraced them.
 
@@ -3028,7 +3028,7 @@
 
 14 And Israel stretched out his right hand, and laid it upon Ephraim's head, who was the younger, and his left hand upon Manasseh's head, guiding his hands wittingly; for Manasseh was the firstborn.
 
-15 And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long to this day,
+15 And he blessed Joseph, and said, God, before who my fathers Abraham and Isaac did walk, the God which fed me all my life long to this day,
 
 16 The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
 
@@ -3060,7 +3060,7 @@
 
 7 Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
 
-8 Judah, you are he whom your brothers will praise: your hand will be in the neck of your enemies; your father's children will bow down before you.
+8 Judah, you are he who your brothers will praise: your hand will be in the neck of your enemies; your father's children will bow down before you.
 
 9 Judah is a lion's whelp: from the prey, my son, you are gone up: he stooped down, he couched as a lion, and as an old lion; who will rouse him up?
 

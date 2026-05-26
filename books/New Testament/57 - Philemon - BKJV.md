@@ -20,13 +20,13 @@
 
 9 Yet for love's sake I rather urge you, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
 
-10 I urge you for my son Onesimus, whom I have begotten in my bonds:
+10 I urge you for my son Onesimus, who I have begotten in my bonds:
 
 11 Which in time past was to you unprofitable, but now profitable to you and to me:
 
-12 Whom I have sent again: you therefore receive him, that is, mine own deep affection:
+12 who I have sent again: you therefore receive him, that is, mine own deep affection:
 
-13 Whom I would have retained with me, that in your stead he might have ministered to me in the bonds of the gospel:
+13 who I would have retained with me, that in your stead he might have ministered to me in the bonds of the gospel:
 
 14 But without your mind would I do nothing; that your benefit should not be as it were of necessity, but willingly.
 

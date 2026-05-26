@@ -14,7 +14,7 @@
 
 6 From which some having swerved have turned aside to empty jangling;
 
-7 Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
+7 Desiring to be teachers of the law; understanding neither what they say, nor of which they affirm.
 
 8 But we know that the law is good, if a man use it lawfully;
 
@@ -30,7 +30,7 @@
 
 14 And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
 
-15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
+15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of who I am chief.
 
 16 However for this cause I obtained mercy, that in me first Jesus Christ might show forth all patience, for a pattern to them which should from now on believe on him to life everlasting.
 
@@ -40,7 +40,7 @@
 
 19 Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
 
-20 Of whom is Hymenaeus and Alexander; whom I have delivered to Satan, that they may learn not to blaspheme.
+20 Of who is Hymenaeus and Alexander; who I have delivered to Satan, that they may learn not to blaspheme.
 
 ## 1 Timothy Chapter 2
 
@@ -56,7 +56,7 @@
 
 6 Who gave himself a ransom for all, to be testified in due time.
 
-7 Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+7 to which I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
 
 8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 
@@ -120,7 +120,7 @@
 
 5 For it is sanctified by the word of God and prayer.
 
-6 If you put the brothers in remembrance of these things, you will be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto you have attained.
+6 If you put the brothers in remembrance of these things, you will be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, to which you have attained.
 
 7 But refuse defile and old wives' fables, and exercise yourself rather to godliness.
 
@@ -202,7 +202,7 @@
 
 3 If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
 
-4 He is proud, knowing nothing, but doting about questions and strifes of words, whereof comes envy, strife, railings, evil surmisings,
+4 He is proud, knowing nothing, but doting about questions and strifes of words, of which comes envy, strife, railings, evil surmisings,
 
 5 Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw yourself.
 
@@ -218,7 +218,7 @@
 
 11 But you, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
 
-12 Fight the good fight of faith, lay hold on eternal life, whereunto you are also called, and have professed a good profession before many witnesses.
+12 Fight the good fight of faith, lay hold on eternal life, to which you are also called, and have professed a good profession before many witnesses.
 
 13 I give you charge in the sight of God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
 
@@ -226,7 +226,7 @@
 
 15 Which in his times he will show, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 
-16 Who only has immortality, dwelling in the light which no man can approach to; whom no man has seen, nor can see: to whom be honour and power everlasting. Amen.
+16 Who only has immortality, dwelling in the light which no man can approach to; who no man has seen, nor can see: to who be honour and power everlasting. Amen.
 
 17 Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;
 

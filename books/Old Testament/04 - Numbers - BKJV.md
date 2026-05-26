@@ -186,7 +186,7 @@
 
 2 And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 
-3 These are the names of the sons of Aaron, the priests which were anointed, whom he set apart to minister in the priest's office.
+3 These are the names of the sons of Aaron, the priests which were anointed, who he set apart to minister in the priest's office.
 
 4 And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
 
@@ -366,7 +366,7 @@
 
 40 Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty.
 
-41 These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the Lord.
+41 These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, who Moses and Aaron did number according to the commandment of the Lord.
 
 42 And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,
 
@@ -374,9 +374,9 @@
 
 44 Even those that were numbered of them after their families, were three thousand and two hundred.
 
-45 These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the Lord by the hand of Moses.
+45 These be those that were numbered of the families of the sons of Merari, who Moses and Aaron numbered according to the word of the Lord by the hand of Moses.
 
-46 All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,
+46 All those that were numbered of the Levites, who Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,
 
 47 From thirty years old and upward even to fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation.
 
@@ -390,7 +390,7 @@
 
 2 Command the children of Israel, that they put out of the camp every leper, and every one that has an issue, and whosoever is defiled by the dead:
 
-3 Both male and female will you put out, without the camp will you put them; that they defile not their camps, in the midst whereof I dwell.
+3 Both male and female will you put out, without the camp will you put them; that they defile not their camps, in the midst of which I dwell.
 
 4 And the children of Israel did so, and put them out without the camp: as the Lord spoke to Moses, so did the children of Israel.
 
@@ -398,9 +398,9 @@
 
 6 Speak to the children of Israel, When a man or woman will commit any sin that men commit, to do a trespass against the Lord, and that person be guilty;
 
-7 Then they will confess their sin which they have done: and he will repay his trespass with the principal of it, and add to it the fifth part of it, and give it to him against whom he has trespassed.
+7 Then they will confess their sin which they have done: and he will repay his trespass with the principal of it, and add to it the fifth part of it, and give it to him against who he has trespassed.
 
-8 But if the man have no kinsman to repay the trespass to, let the trespass be rewarded to the Lord, even to the priest; beside the ram of the atonement, whereby an atonement will be made for him.
+8 But if the man have no kinsman to repay the trespass to, let the trespass be rewarded to the Lord, even to the priest; beside the ram of the atonement, by which an atonement will be made for him.
 
 9 And every offering of all the holy things of the children of Israel, which they bring to the priest, will be his.
 
@@ -542,7 +542,7 @@
 
 18 On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:
 
-19 He offered for his offering one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+19 He offered for his offering one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 20 One spoon of gold of ten shekels, full of incense:
 
@@ -554,7 +554,7 @@
 
 24 On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer:
 
-25 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+25 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 26 One golden spoon of ten shekels, full of incense:
 
@@ -578,7 +578,7 @@
 
 36 On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer:
 
-37 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+37 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 38 One golden spoon of ten shekels, full of incense:
 
@@ -602,7 +602,7 @@
 
 48 On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered:
 
-49 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+49 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 50 One golden spoon of ten shekels, full of incense:
 
@@ -626,7 +626,7 @@
 
 60 On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:
 
-61 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+61 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 62 One golden spoon of ten shekels, full of incense:
 
@@ -638,7 +638,7 @@
 
 66 On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:
 
-67 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+67 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 68 One golden spoon of ten shekels, full of incense:
 
@@ -650,7 +650,7 @@
 
 72 On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:
 
-73 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+73 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 74 One golden spoon of ten shekels, full of incense:
 
@@ -662,7 +662,7 @@
 
 78 On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:
 
-79 His offering was one silver platter, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
+79 His offering was one silver platter, the weight of which was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 
 80 One golden spoon of ten shekels, full of incense:
 
@@ -892,7 +892,7 @@
 
 15 And if you deal thus with me, kill me, I pray you, out of hand, if I have found favour in your sight; and let me not see my wretchedness.
 
-16 And the Lord said to Moses, Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people, and officers over them; and bring them to the tabernacle of the congregation, that they may stand there with you.
+16 And the Lord said to Moses, Gather to me seventy men of the elders of Israel, who you know to be the elders of the people, and officers over them; and bring them to the tabernacle of the congregation, that they may stand there with you.
 
 17 And I will come down and talk with you there: and I will take of the spirit which is upon you, and will put it upon them; and they will bear the burden of the people with you, that you bear it not yourself alone.
 
@@ -902,7 +902,7 @@
 
 20 But even a whole month, until it come out at your nostrils, and it be loathsome to you: because that you have despised the Lord which is among you, and have wept before him, saying, Why came we forth out of Egypt?
 
-21 And Moses said, The people, among whom I am, are six hundred thousand footmen; and you have said, I will give them flesh, that they may eat a whole month.
+21 And Moses said, The people, among who I am, are six hundred thousand footmen; and you have said, I will give them flesh, that they may eat a whole month.
 
 22 will the flocks and the herds be slain for them, to suffice them? or will all the fish of the sea be gathered together for them, to suffice them?
 
@@ -934,7 +934,7 @@
 
 ## Numbers Chapter 12
 
-1 And Miriam and Aaron spoke against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
+1 And Miriam and Aaron spoke against Moses because of the Ethiopian woman who he had married: for he had married an Ethiopian woman.
 
 2 And they said, has the Lord indeed spoken only by Moses? has he not spoken also by us? And the Lord heard it.
 
@@ -956,7 +956,7 @@
 
 11 And Aaron said to Moses, Alas, my lord, I urge you, lay not the sin upon us, in which we have done foolishly, and in which we have sinned.
 
-12 Let her not be as one dead, of whom the flesh is half consumed when he comes out of his mother's womb.
+12 Let her not be as one dead, of who the flesh is half consumed when he comes out of his mother's womb.
 
 13 And Moses cried to the Lord, saying, Heal her now, O God, I urge you.
 
@@ -1082,7 +1082,7 @@
 
 23 Surely they will not see the land which I sware to their fathers, neither will any of them that angered me see it:
 
-24 But my servant Caleb, because he had another spirit with him, and has followed me fully, him will I bring into the land whereinto he went; and his seed will possess it.
+24 But my servant Caleb, because he had another spirit with him, and has followed me fully, him will I bring into the land into which he went; and his seed will possess it.
 
 25 (Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea.
 
@@ -1220,11 +1220,11 @@
 
 4 And when Moses heard it, he fell upon his face:
 
-5 And he spoke to Korah and to all his company, saying, Even to morrow the Lord will show who are his, and who is holy; and will cause him to come near to him: even him whom he has chosen will he cause to come near to him.
+5 And he spoke to Korah and to all his company, saying, Even to morrow the Lord will show who are his, and who is holy; and will cause him to come near to him: even him who he has chosen will he cause to come near to him.
 
 6 This do; Take you censers, Korah, and all his company;
 
-7 And put fire in it, and put incense in them before the Lord to morrow: and it will be that the man whom the Lord does choose, he will be holy: you take too much upon you, you sons of Levi.
+7 And put fire in it, and put incense in them before the Lord to morrow: and it will be that the man who the Lord does choose, he will be holy: you take too much upon you, you sons of Levi.
 
 8 And Moses said to Korah, Hear, I pray you, you sons of Levi:
 
@@ -1322,7 +1322,7 @@
 
 4 And you will lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.
 
-5 And it will come to pass, that the man's rod, whom I will choose, will blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
+5 And it will come to pass, that the man's rod, who I will choose, will blossom: and I will make to cease from me the murmurings of the children of Israel, by which they murmur against you.
 
 6 And Moses spoke to the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods.
 
@@ -1544,7 +1544,7 @@
 
 15 And at the stream of the brooks that goes down to the dwelling of Ar, and lies upon the border of Moab.
 
-16 And from there they went to Beer: that is the well whereof the Lord spoke to Moses, Gather the people together, and I will give them water.
+16 And from there they went to Beer: that is the well of which the Lord spoke to Moses, Gather the people together, and I will give them water.
 
 17 Then Israel sang this song, Spring up, O well; sing you to it:
 
@@ -1596,7 +1596,7 @@
 
 5 He sent messengers therefore to Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Look, there is a people come out from Egypt: look, they cover the face of the earth, and they abide over against me:
 
-6 Come now therefore, I pray you, curse me this people; for they are too mighty for me: perhaps I will prevail, that we may smite them, and that I may drive them out of the land: for I know that he whom you bless is blessed, and he whom you cures is cursed.
+6 Come now therefore, I pray you, curse me this people; for they are too mighty for me: perhaps I will prevail, that we may smite them, and that I may drive them out of the land: for I know that he who you bless is blessed, and he who you cures is cursed.
 
 7 And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came to Balaam, and spoke to him the words of Balak.
 
@@ -1684,7 +1684,7 @@
 
 7 And he took up his parable, and said, Balak the king of Moab has brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.
 
-8 How will I curse, whom God has not cursed? or how will I defy, whom the Lord has not defied?
+8 How will I curse, who God has not cursed? or how will I defy, who the Lord has not defied?
 
 9 For from the top of the rocks I see him, and from the hills I look at him: look, the people will dwell alone, and will not be reckoned among the nations.
 
@@ -1830,7 +1830,7 @@
 
 4 Take the sum of the people, from twenty years old and upward; as the Lord commanded Moses and the children of Israel, which went forth out of the land of Egypt.
 
-5 Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of whom comes the family of the Hanochites: of Pallu, the family of the Palluites:
+5 Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of who comes the family of the Hanochites: of Pallu, the family of the Palluites:
 
 6 Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.
 
@@ -1938,7 +1938,7 @@
 
 58 These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath fathered Amram.
 
-59 And the name of Amram's wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare to Amram Aaron and Moses, and Miriam their sister.
+59 And the name of Amram's wife was Jochebed, the daughter of Levi, who her mother bare to Levi in Egypt: and she bare to Amram Aaron and Moses, and Miriam their sister.
 
 60 And to Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.
 
@@ -1948,7 +1948,7 @@
 
 63 These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho.
 
-64 But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.
+64 But among these there was not a man of them who Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.
 
 65 For the Lord had said of them, They will surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 
@@ -1988,7 +1988,7 @@
 
 17 Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd.
 
-18 And the Lord said to Moses, Take you Joshua the son of Nun, a man in whom is the spirit, and lay your hand upon him;
+18 And the Lord said to Moses, Take you Joshua the son of Nun, a man in who is the spirit, and lay your hand upon him;
 
 19 And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
 
@@ -2548,7 +2548,7 @@
 
 28 And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.
 
-29 These are they whom the Lord commanded to divide the inheritance to the children of Israel in the land of Canaan.
+29 These are they who the Lord commanded to divide the inheritance to the children of Israel in the land of Canaan.
 
 ## Numbers Chapter 35
 
@@ -2626,13 +2626,13 @@
 
 2 And they said, The Lord commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother to his daughters.
 
-3 And if they be married to any of the sons of the other tribes of the children of Israel, then will their inheritance be taken from the inheritance of our fathers, and will be put to the inheritance of the tribe whereunto they are received: so will it be taken from the lot of our inheritance.
+3 And if they be married to any of the sons of the other tribes of the children of Israel, then will their inheritance be taken from the inheritance of our fathers, and will be put to the inheritance of the tribe to which they are received: so will it be taken from the lot of our inheritance.
 
-4 And when the jubile of the children of Israel will be, then will their inheritance be put to the inheritance of the tribe whereunto they are received: so will their inheritance be taken away from the inheritance of the tribe of our fathers.
+4 And when the jubile of the children of Israel will be, then will their inheritance be put to the inheritance of the tribe to which they are received: so will their inheritance be taken away from the inheritance of the tribe of our fathers.
 
 5 And Moses commanded the children of Israel according to the word of the Lord, saying, The tribe of the sons of Joseph has said well.
 
-6 This is the thing which the Lord does command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father will they marry.
+6 This is the thing which the Lord does command concerning the daughters of Zelophehad, saying, Let them marry to who they think best; only to the family of the tribe of their father will they marry.
 
 7 So will not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel will keep himself to the inheritance of the tribe of his fathers.
 

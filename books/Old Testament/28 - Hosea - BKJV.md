@@ -48,7 +48,7 @@
 
 11 I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.
 
-12 And I will destroy her vines and her fig trees, whereof she has said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field will eat them.
+12 And I will destroy her vines and her fig trees, of which she has said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field will eat them.
 
 13 And I will visit upon her the days of Baalim, in which she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, says the Lord.
 
@@ -388,7 +388,7 @@
 
 9 O Israel, you have destroyed yourself; but in me is your help.
 
-10 I will be your king: where is any other that may save you in all your cities? and your judges of whom you said, Give me a king and princes?
+10 I will be your king: where is any other that may save you in all your cities? and your judges of who you said, Give me a king and princes?
 
 11 I gave you a king in mine anger, and took him away in my wrath.
 

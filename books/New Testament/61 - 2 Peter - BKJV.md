@@ -8,7 +8,7 @@
 
 3 According as his divine power has given to us all things that pertain to life and godliness, through the knowledge of him that has called us to glory and virtue:
 
-4 Whereby are given to us exceeding great and precious promises: that by these you might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
+4 by which are given to us exceeding great and precious promises: that by these you might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
 
 5 And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
 
@@ -34,11 +34,11 @@
 
 16 For we have not followed cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
 
-17 For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
+17 For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in who I am well pleased.
 
 18 And this voice which came from heaven we heard, when we were with him in the holy mount.
 
-19 We have also a more sure word of prophecy; whereunto you do well that you take heed, as to a light that shins in a dark place, until the day dawn, and the day star arise in your hearts:
+19 We have also a more sure word of prophecy; to which you do well that you take heed, as to a light that shins in a dark place, until the day dawn, and the day star arise in your hearts:
 
 20 Knowing this first, that no prophecy of the scripture is of any private interpretation.
 
@@ -48,7 +48,7 @@
 
 1 But there were false prophets also among the people, even as there will be false teachers among you, who secretly will bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
-2 And many will follow their pernicious ways; by reason of whom the way of truth will be evil spoken of.
+2 And many will follow their pernicious ways; by reason of who the way of truth will be evil spoken of.
 
 3 And through greed will they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their condemnation slumbers not.
 
@@ -78,11 +78,11 @@
 
 16 But was rebuked for his wickedness: the dumb ass speaking with man's voice forbad the madness of the prophet.
 
-17 These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
+17 These are wells without water, clouds that are carried with a tempest; to who the mist of darkness is reserved for ever.
 
 18 For when they speak great swelling words of emptiness, they allure through the lusts of the flesh, through much lustfulness, those that were clean escaped from them who live in error.
 
-19 While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.
+19 While they promise them liberty, they themselves are the servants of corruption: for of who a man is overcome, of the same is he brought in bondage.
 
 20 For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled in it, and overcome, the latter end is worse with them than the beginning.
 
@@ -104,7 +104,7 @@
 
 5 For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
 
-6 Whereby the world that then was, being overflowed with water, perished:
+6 by which the world that then was, being overflowed with water, perished:
 
 7 But the heavens and the earth, which are now, by the same word are kept in store, reserved to fire against the day of judgment and destruction of ungodly men.
 

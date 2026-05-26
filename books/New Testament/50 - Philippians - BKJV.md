@@ -92,7 +92,7 @@
 
 14 Do all things without murmurings and disputings:
 
-15 That you may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom you shine as lights in the world;
+15 That you may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among who you shine as lights in the world;
 
 16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run for nothing, neither laboured for nothing.
 
@@ -132,7 +132,7 @@
 
 3 For we are the circumcision, which worship God in the Holy Spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.
 
-4 Though I might also have confidence in the flesh. If any other man thinks that he has whereof he might trust in the flesh, I more:
+4 Though I might also have confidence in the flesh. If any other man thinks that he has of which he might trust in the flesh, I more:
 
 5 Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
 
@@ -140,7 +140,7 @@
 
 7 But what things were gain to me, those I counted looses for Christ.
 
-8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the looses of all things, and do count them but dung, that I may win Christ,
+8 Yea doubtless, and I count all things but looses for the excellency of the knowledge of Christ Jesus my Lord: for who I have suffered the looses of all things, and do count them but dung, that I may win Christ,
 
 9 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 
@@ -160,13 +160,13 @@
 
 17 Brothers, be followers together of me, and mark them which walk so as you have us for an example.
 
-18 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+18 (For many walk, of who I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 
 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
 20 For our citizenship is in heaven; from where also we look for the Saviour, the Lord Jesus Christ:
 
-21 Who will change our vile body, that it may be fashioned like to his glorious body, according to the working whereby he is able even to subdue all things to himself.
+21 Who will change our vile body, that it may be fashioned like to his glorious body, according to the working by which he is able even to subdue all things to himself.
 
 ## Philippians Chapter 4
 

@@ -20,7 +20,7 @@
 
 9 For they themselves show of us what manner of entering in we had to you, and how you turned to God from idols to serve the living and true God;
 
-10 And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.
+10 And to wait for his Son from heaven, who he raised from the dead, even Jesus, which delivered us from the wrath to come.
 
 ## 1 Thessalonians Chapter 2
 

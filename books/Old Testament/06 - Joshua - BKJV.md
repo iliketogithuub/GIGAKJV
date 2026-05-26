@@ -58,7 +58,7 @@
 
 9 And she said to the men, I know that the Lord has given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.
 
-10 For we have heard how the Lord dried up the water of the Red sea for you, when you came out of Egypt; and what you did to the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom you utterly destroyed.
+10 For we have heard how the Lord dried up the water of the Red sea for you, when you came out of Egypt; and what you did to the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, who you utterly destroyed.
 
 11 And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
 
@@ -132,7 +132,7 @@
 
 3 And command you them, saying, Take you from here out of the midst of Jordan, out of the place where the priests' feet stood firm, twelve stones, and you will carry them over with you, and leave them in the lodging place, where you will lodge this night.
 
-4 Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:
+4 Then Joshua called the twelve men, who he had prepared of the children of Israel, out of every tribe a man:
 
 5 And Joshua said to them, Pass over before the ark of the Lord your God into the midst of Jordan, and take you up every man of you a stone upon his shoulder, according to the number of the tribes of the children of Israel:
 
@@ -186,9 +186,9 @@
 
 5 Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised.
 
-6 For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: to whom the Lord sware that he would not show them the land, which the Lord sware to their fathers that he would give us, a land that flows with milk and honey.
+6 For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: to who the Lord sware that he would not show them the land, which the Lord sware to their fathers that he would give us, a land that flows with milk and honey.
 
-7 And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
+7 And their children, who he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
 
 8 And it came to pass, when they had done circumcising all the people, that they stayed in their places in the camp, till they were whole.
 
@@ -204,7 +204,7 @@
 
 14 And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said to him, What says my Lord to his servant?
 
-15 And the captain of the Lord's host said to Joshua, Loose your shoe from off your foot; for the place whereon you stand is holy. And Joshua did so.
+15 And the captain of the Lord's host said to Joshua, Loose your shoe from off your foot; for the place on which you stand is holy. And Joshua did so.
 
 ## Joshua Chapter 6
 
@@ -466,7 +466,7 @@
 
 10 And the Lord discomfited them before Israel, and killed them with a great slaughter at Gibeon, and chased them along the way that goes up to Bethhoron, and struck them to Azekah, and to Makkedah.
 
-11 And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the Lord cast down great stones from heaven upon them to Azekah, and they died: they were more which died with hailstones than they whom the children of Israel killed with the sword.
+11 And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the Lord cast down great stones from heaven upon them to Azekah, and they died: they were more which died with hailstones than they who the children of Israel killed with the sword.
 
 12 Then spoke Joshua to the Lord in the day when the Lord delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand you still upon Gibeon; and you, Moon, in the valley of Ajalon.
 
@@ -494,7 +494,7 @@
 
 24 And it came to pass, when they brought out those kings to Joshua, that Joshua called for all the men of Israel, and said to the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them.
 
-25 And Joshua said to them, Fear not, nor be dismayed, be strong and of good courage: for thus will the Lord do to all your enemies against whom you fight.
+25 And Joshua said to them, Fear not, nor be dismayed, be strong and of good courage: for thus will the Lord do to all your enemies against who you fight.
 
 26 And afterward Joshua struck them, and killed them, and hanged them on five trees: and they were hanging upon the trees until the evening.
 
@@ -646,7 +646,7 @@
 
 7 Now therefore divide this land for an inheritance to the nine tribes, and the half tribe of Manasseh,
 
-8 With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the Lord gave them;
+8 With who the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the Lord gave them;
 
 9 From Aroer, that is upon the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba to Dibon;
 
@@ -672,7 +672,7 @@
 
 20 And Bethpeor, and Ashdothpisgah, and Bethjeshimoth,
 
-21 And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses struck with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country.
+21 And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, who Moses struck with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country.
 
 22 Balaam also the son of Beor, the fortune-teller, did the children of Israel slay with the sword among them that were slain by them.
 
@@ -716,13 +716,13 @@
 
 8 Nevertheless my brothers that went up with me made the heart of the people melt: but I wholly followed the Lord my God.
 
-9 And Moses sware on that day, saying, Surely the land whereon your feet have trodden will be your inheritance, and your children's for ever, because you have wholly followed the Lord my God.
+9 And Moses sware on that day, saying, Surely the land on which your feet have trodden will be your inheritance, and your children's for ever, because you have wholly followed the Lord my God.
 
 10 And now, look, the Lord has kept me alive, as he said, these forty and five years, even since the Lord spoke this word to Moses, while the children of Israel wandered in the wilderness: and now, look, I am this day fourscore and five years old.
 
 11 As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
 
-12 Now therefore give me this mountain, whereof the Lord spoke in that day; for you heard in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I will be able to drive them out, as the Lord said.
+12 Now therefore give me this mountain, of which the Lord spoke in that day; for you heard in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I will be able to drive them out, as the Lord said.
 
 13 And Joshua blessed him, and gave to Caleb the son of Jephunneh Hebron for an inheritance.
 
@@ -1084,7 +1084,7 @@
 
 1 The Lord also spoke to Joshua, saying,
 
-2 Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spoke to you by the hand of Moses:
+2 Speak to the children of Israel, saying, Appoint out for you cities of refuge, of which I spoke to you by the hand of Moses:
 
 3 That the slayer that kills any person accidentally and unwittingly may flee there: and they will be your refuge from the one who brings justice of blood.
 
@@ -1210,7 +1210,7 @@
 
 8 And he spoke to them, saying, Return with much riches to your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much clothing: divide the spoil of your enemies with your brothers.
 
-9 And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the Lord by the hand of Moses.
+9 And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the country of Gilead, to the land of their possession, of which they were possessed, according to the word of the Lord by the hand of Moses.
 
 10 And when they came to the borders of Jordan, that are in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.
 
@@ -1326,11 +1326,11 @@
 
 14 Now therefore fear the Lord, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve you the Lord.
 
-15 And if it seem evil to you to serve the Lord, choose you this day whom you will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land you dwell: but as for me and my house, we will serve the Lord.
+15 And if it seem evil to you to serve the Lord, choose you this day who you will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land you dwell: but as for me and my house, we will serve the Lord.
 
 16 And the people answered and said, God forbid that we should forsake the Lord, to serve other gods;
 
-17 For the Lord our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way in which we went, and among all the people through whom we passed:
+17 For the Lord our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way in which we went, and among all the people through who we passed:
 
 18 And the Lord drave out from before us all the people, even the Amorites which dwelt in the land: therefore will we also serve the Lord; for he is our God.
 

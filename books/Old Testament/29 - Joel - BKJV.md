@@ -106,13 +106,13 @@
 
 31 The sun will be turned into darkness, and the moon into blood, before the great and terrible day of the Lord come.
 
-32 And it will come to pass, that whosoever will call on the name of the Lord will be delivered: for in mount Zion and in Jerusalem will be deliverance, as the Lord has said, and in the remnant whom the Lord will call.
+32 And it will come to pass, that whosoever will call on the name of the Lord will be delivered: for in mount Zion and in Jerusalem will be deliverance, as the Lord has said, and in the remnant who the Lord will call.
 
 ## Joel Chapter 3
 
 1 For, look, in those days, and in that time, when I will bring again the captivity of Judah and Jerusalem,
 
-2 I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
+2 I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, who they have scattered among the nations, and parted my land.
 
 3 And they have cast lots for my people; and have given a boy for an prostitute, and sold a girl for wine, that they might drink.
 

@@ -230,7 +230,7 @@
 
 21 Then Jael Heber's wife took a nail of the tent, and took an hammer in her hand, and went softly to him, and struck the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
 
-22 And, look, as Barak pursued Sisera, Jael came out to meet him, and said to him, Come, and I will show you the man whom you seek. And when he came into her tent, look, Sisera lay dead, and the nail was in his temples.
+22 And, look, as Barak pursued Sisera, Jael came out to meet him, and said to him, Come, and I will show you the man who you seek. And when he came into her tent, look, Sisera lay dead, and the nail was in his temples.
 
 23 So God subdued on that day Jabin the king of Canaan before the children of Israel.
 
@@ -390,7 +390,7 @@
 
 3 Now therefore go to, proclaim in the ears of the people, saying, Whosoever is fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand.
 
-4 And the Lord said to Gideon, The people are yet too many; bring them down to the water, and I will try them for you there: and it will be, that of whom I say to you, This will go with you, the same will go with you; and of whomsoever I say to you, This will not go with you, the same will not go.
+4 And the Lord said to Gideon, The people are yet too many; bring them down to the water, and I will try them for you there: and it will be, that of who I say to you, This will go with you, the same will go with you; and of whoever I say to you, This will not go with you, the same will not go.
 
 5 So he brought down the people to the water: and the Lord said to Gideon, Every one that laps of the water with his tongue, as a dog laps, him will you set by himself; likewise every one that bows down upon his knees to drink.
 
@@ -464,13 +464,13 @@
 
 14 And caught a young man of the men of Succoth, and enquired of him: and he described to him the princes of Succoth, and the elders of it, even threescore and seventeen men.
 
-15 And he came to the men of Succoth, and said, Look Zebah and Zalmunna, with whom you did upbraid me, saying, Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your men that are weary?
+15 And he came to the men of Succoth, and said, Look Zebah and Zalmunna, with who you did upbraid me, saying, Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your men that are weary?
 
 16 And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.
 
 17 And he beat down the tower of Penuel, and killed the men of the city.
 
-18 Then said he to Zebah and Zalmunna, What manner of men were they whom you killed at Tabor? And they answered, As you are, so were they; each one resembled the children of a king.
+18 Then said he to Zebah and Zalmunna, What manner of men were they who you killed at Tabor? And they answered, As you are, so were they; each one resembled the children of a king.
 
 19 And he said, They were my brothers, even the sons of my mother: as the Lord lives, if you had saved them alive, I would not slay you.
 
@@ -708,7 +708,7 @@
 
 23 So now the Lord God of Israel has dispossessed the Amorites from before his people Israel, and should you possess it?
 
-24 will not you possess that which Chemosh your god gives you to possess? So whomsoever the Lord our God will drive out from before us, them will we possess.
+24 will not you possess that which Chemosh your god gives you to possess? So whoever the Lord our God will drive out from before us, them will we possess.
 
 25 And now are you any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 
@@ -760,7 +760,7 @@
 
 8 And after him Ibzan of Bethlehem judged Israel.
 
-9 And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
+9 And he had thirty sons, and thirty daughters, who he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
 
 10 Then died Ibzan, and was buried at Bethlehem.
 
@@ -866,7 +866,7 @@
 
 19 And the Holy Spirit of the Lord came upon him, and he went down to Ashkelon, and killed thirty men of them, and took their spoil, and gave change of garments to them which expounded the riddle. And his anger was burned, and he went up to his father's house.
 
-20 But Samson's wife was given to his companion, whom he had used as his friend.
+20 But Samson's wife was given to his companion, who he had used as his friend.
 
 ## Judges Chapter 15
 
@@ -1272,7 +1272,7 @@
 
 22 And it will be, when their fathers or their brothers come to us to complain, that we will say to them, Be favourable to them for our sakes: because we reserved not to each man his wife in the war: for you did not give to them at this time, that you should be guilty.
 
-23 And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned to their inheritance, and repaired the cities, and dwelt in them.
+23 And the children of Benjamin did so, and took them wives, according to their number, of them that danced, who they caught: and they went and returned to their inheritance, and repaired the cities, and dwelt in them.
 
 24 And the children of Israel departed from there at that time, every man to his tribe and to his family, and they went out from there every man to his inheritance.
 

@@ -342,7 +342,7 @@
 
 6 Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 
-7 In all the places in which I have walked with all the children of Israel spoke I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build you not me an house of cedar?
+7 In all the places in which I have walked with all the children of Israel spoke I a word with any of the tribes of Israel, who I commanded to feed my people Israel, saying, Why build you not me an house of cedar?
 
 8 Now therefore so will you say to my servant David, Thus says the Lord of hosts, I took you from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
 
@@ -358,7 +358,7 @@
 
 14 I will be his father, and he will be my son. If he commit wickedness, I will discipline him with the rod of men, and with the stripes of the children of men:
 
-15 But my mercy will not depart away from him, as I took it from Saul, whom I put away before you.
+15 But my mercy will not depart away from him, as I took it from Saul, who I put away before you.
 
 16 And your house and your kingdom will be established for ever before you: your throne will be established for ever.
 
@@ -374,7 +374,7 @@
 
 22 therefore you are great, O Lord God: for there is none like you, neither is there any God beside you, according to all that we have heard with our ears.
 
-23 And what one nation in the earth is like your people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for your land, before your people, which you redeemed to you from Egypt, from the nations and their gods?
+23 And what one nation in the earth is like your people, even like Israel, who God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for your land, before your people, which you redeemed to you from Egypt, from the nations and their gods?
 
 24 For you have confirmed to yourself your people Israel to be a people to you for ever: and you, Lord, are become their God.
 
@@ -610,7 +610,7 @@
 
 29 And David gathered all the people together, and went to Rabbah, and fought against it, and took it.
 
-30 And he took their king's crown from off his head, the weight whereof was a talent of gold with the precious stones: and it was set on David's head. And he brought forth the spoil of the city in great abundance.
+30 And he took their king's crown from off his head, the weight of which was a talent of gold with the precious stones: and it was set on David's head. And he brought forth the spoil of the city in great abundance.
 
 31 And he brought forth the people that were in it, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brick-kiln: and thus did he to all the cities of the children of Ammon. So David and all the people returned to Jerusalem.
 
@@ -708,7 +708,7 @@
 
 6 And your female servant had two sons, and they two strove together in the field, and there was none to part them, but the one struck the other, and killed him.
 
-7 And, look, the whole family is risen against your female servant, and they said, Deliver him that struck his brother, that we may kill him, for the life of his brother whom he killed; and we will destroy the heir also: and so they will put out my coal which is left, and will not leave to my husband neither name nor remainder upon the earth.
+7 And, look, the whole family is risen against your female servant, and they said, Deliver him that struck his brother, that we may kill him, for the life of his brother who he killed; and we will destroy the heir also: and so they will put out my coal which is left, and will not leave to my husband neither name nor remainder upon the earth.
 
 8 And the king said to the woman, Go to your house, and I will give charge concerning you.
 
@@ -828,7 +828,7 @@
 
 32 And it came to pass, that when David was come to the top of the mount, where he worshipped God, look, Hushai the Archite came to meet him with his coat rent, and earth upon his head:
 
-33 to whom David said, If you pass on with me, then you will be a burden to me:
+33 to who David said, If you pass on with me, then you will be a burden to me:
 
 34 But if you return to the city, and say to Absalom, I will be your servant, O king; as I have been your father's servant until now, so will I now also be your servant: then may you for me defeat the counsel of Ahithophel.
 
@@ -874,9 +874,9 @@
 
 17 And Absalom said to Hushai, Is this your kindness to your friend? why went you not with your friend?
 
-18 And Hushai said to Absalom, Nay; but whom the Lord, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.
+18 And Hushai said to Absalom, Nay; but who the Lord, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.
 
-19 And again, whom should I serve? should I not serve in the presence of his son? as I have served in your father's presence, so will I be in your presence.
+19 And again, who should I serve? should I not serve in the presence of his son? as I have served in your father's presence, so will I be in your presence.
 
 20 Then said Absalom to Ahithophel, Give counsel among you what we will do.
 
@@ -892,7 +892,7 @@
 
 2 And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him will flee; and I will smite the king only:
 
-3 And I will bring back all the people to you: the man whom you seek is as if all returned: so all the people will be in peace.
+3 And I will bring back all the people to you: the man who you seek is as if all returned: so all the people will be in peace.
 
 4 And the saying pleased Absalom well, and all the elders of Israel.
 
@@ -1034,7 +1034,7 @@
 
 9 And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom.
 
-10 And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak you not a word of bringing the king back?
+10 And Absalom, who we anointed over us, is dead in battle. Now therefore why speak you not a word of bringing the king back?
 
 11 And king David sent to Zadok and to Abiathar the priests, saying, Speak to the elders of Judah, saying, Why are you the last to bring the king back to his house? seeing the speech of all Israel is come to the king, even to his house.
 
@@ -1108,7 +1108,7 @@
 
 2 So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clung to their king, from Jordan even to Jerusalem.
 
-3 And David came to his house at Jerusalem; and the king took the ten women his secondary wives, whom he had left to keep the house, and put them in ward, and fed them, but went not in to them. So they were shut up to the day of their death, living in widowhood.
+3 And David came to his house at Jerusalem; and the king took the ten women his secondary wives, who he had left to keep the house, and put them in ward, and fed them, but went not in to them. So they were shut up to the day of their death, living in widowhood.
 
 4 Then said the king to Amasa, Assemble me the men of Judah within three days, and be you here present.
 
@@ -1168,11 +1168,11 @@
 
 5 And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel,
 
-6 Let seven men of his sons be delivered to us, and we will hang them up to the Lord in Gibeah of Saul, whom the Lord did choose. And the king said, I will give them.
+6 Let seven men of his sons be delivered to us, and we will hang them up to the Lord in Gibeah of Saul, who the Lord did choose. And the king said, I will give them.
 
 7 But the king spared Mephiboshs, the son of Jonathan the son of Saul, because of the Lord's oath that was between them, between David and Jonathan the son of Saul.
 
-8 But the king took the two sons of Rizpah the daughter of Aiah, whom she bare to Saul, Armoni and Mephiboshs; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite:
+8 But the king took the two sons of Rizpah the daughter of Aiah, who she bare to Saul, Armoni and Mephiboshs; and the five sons of Michal the daughter of Saul, who she brought up for Adriel the son of Barzillai the Meholathite:
 
 9 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the Lord: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest.
 
@@ -1322,7 +1322,7 @@
 
 7 But the man that will touch them must be fenced with iron and the staff of a spear; and they will be utterly burned with fire in the same place.
 
-8 These be the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred, whom he killed at one time.
+8 These be the names of the mighty men who David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred, who he killed at one time.
 
 9 And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:
 

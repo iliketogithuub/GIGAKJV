@@ -108,7 +108,7 @@
 
 4 And when the Lord saw that he turned aside to see, God called to him out of the midst of the bush, and said, Moses, Moses. And he said, Here am I.
 
-5 And he said, Draw not near here: put off your shoes from off your feet, for the place whereon you stand is holy ground.
+5 And he said, Draw not near here: put off your shoes from off your feet, for the place on which you stand is holy ground.
 
 6 Moreover he said, I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.
 
@@ -170,7 +170,7 @@
 
 12 Now therefore go, and I will be with your mouth, and teach you what you will say.
 
-13 And he said, O my Lord, send, I pray you, by the hand of him whom you will send.
+13 And he said, O my Lord, send, I pray you, by the hand of him who you will send.
 
 14 And the anger of the Lord was burned against Moses, and he said, Is not Aaron the Levite your brother? I know that he can speak well. And also, look, he comes forth to meet you: and when he sees you, he will be glad in his heart.
 
@@ -266,7 +266,7 @@
 
 4 And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, in which they were strangers.
 
-5 And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant.
+5 And I have also heard the groaning of the children of Israel, who the Egyptians keep in bondage; and I have remembered my covenant.
 
 6 therefore say to the children of Israel, I am the Lord, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:
 
@@ -308,7 +308,7 @@
 
 25 And Eleazar Aaron's son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families.
 
-26 These are that Aaron and Moses, to whom the Lord said, Bring out the children of Israel from the land of Egypt according to their armies.
+26 These are that Aaron and Moses, to who the Lord said, Bring out the children of Israel from the land of Egypt according to their armies.
 
 27 These are they which spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.
 
@@ -412,7 +412,7 @@
 
 20 And the Lord said to Moses, Rise up early in the morning, and stand before Pharaoh; look, he comes forth to the water; and say to him, Thus says the Lord, Let my people go, that they may serve me.
 
-21 Else, if you will not let my people go, look, I will send swarms of flies upon you, and upon your servants, and upon your people, and into your houses: and the houses of the Egyptians will be full of swarms of flies, and also the ground whereon they are.
+21 Else, if you will not let my people go, look, I will send swarms of flies upon you, and upon your servants, and upon your people, and into your houses: and the houses of the Egyptians will be full of swarms of flies, and also the ground on which they are.
 
 22 And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies will be there; to the end you may know that I am the Lord in the midst of the earth.
 
@@ -766,7 +766,7 @@
 
 12 Is not this the word that we did tell you in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.
 
-13 And Moses said to the people, Fear you not, stand still, and see the salvation of the Lord, which he will show to you to day: for the Egyptians whom you have seen to day, you will see them again no more for ever.
+13 And Moses said to the people, Fear you not, stand still, and see the salvation of the Lord, which he will show to you to day: for the Egyptians who you have seen to day, you will see them again no more for ever.
 
 14 The Lord will fight for you, and you will hold your peace.
 
@@ -986,7 +986,7 @@
 
 8 And Moses told his father in law all that the Lord had done to Pharaoh and to the Egyptians for Israel's sake, and all the labor that had come upon them by the way, and how the Lord delivered them.
 
-9 And Jethro rejoiced for all the goodness which the Lord had done to Israel, whom he had delivered out of the hand of the Egyptians.
+9 And Jethro rejoiced for all the goodness which the Lord had done to Israel, who he had delivered out of the hand of the Egyptians.
 
 10 And Jethro said, Blessed be the Lord, who has delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who has delivered the people from under the hand of the Egyptians.
 
@@ -1222,7 +1222,7 @@
 
 8 If the thief be not found, then the master of the house will be brought to the judges, to see whether he have put his hand to his neighbour's goods.
 
-9 For all manner of trespass, whether it be for ox, for ass, for sheep, for clothing, or for any manner of lost thing which another challengs to be his, the cause of both parties will come before the judges; and whom the judges will condemn, he will pay double to his neighbour.
+9 For all manner of trespass, whether it be for ox, for ass, for sheep, for clothing, or for any manner of lost thing which another challengs to be his, the cause of both parties will come before the judges; and who the judges will condemn, he will pay double to his neighbour.
 
 10 If a man deliver to his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:
 
@@ -1322,7 +1322,7 @@
 
 26 There will nothing cast their young, nor be barren, in your land: the number of your days I will fulfil.
 
-27 I will send my fear before you, and will destroy all the people to whom you will come, and I will make all your enemies turn their backs to you.
+27 I will send my fear before you, and will destroy all the people to who you will come, and I will make all your enemies turn their backs to you.
 
 28 And I will send hornets before you, which will drive out the Hivite, the Canaanite, and the Hittite, from before you.
 
@@ -1582,7 +1582,7 @@
 
 2 And you will make holy garments for Aaron your brother for glory and for beauty.
 
-3 And you will speak to all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to set apart him, that he may minister to me in the priest's office.
+3 And you will speak to all that are wise hearted, who I have filled with the spirit of wisdom, that they may make Aaron's garments to set apart him, that he may minister to me in the priest's office.
 
 4 And these are the garments which they will make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a belt: and they will make holy garments for Aaron your brother, and his sons, that he may minister to me in the priest's office.
 
@@ -1900,7 +1900,7 @@
 
 12 therefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from your fierce wrath, and repent of this evil against your people.
 
-13 Remember Abraham, Isaac, and Israel, your servants, to whom you swar by your own self, and said to them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give to your seed, and they will inherit it for ever.
+13 Remember Abraham, Isaac, and Israel, your servants, to who you swar by your own self, and said to them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give to your seed, and they will inherit it for ever.
 
 14 And the Lord repented of the evil which he thought to do to his people.
 
@@ -1970,7 +1970,7 @@
 
 11 And the Lord spoke to Moses face to face, as a man speaks to his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
 
-12 And Moses said to the Lord, See, you say to me, Bring up this people: and you have not let me know whom you will send with me. Yet you have said, I know you by name, and you have also found grace in my sight.
+12 And Moses said to the Lord, See, you say to me, Bring up this people: and you have not let me know who you will send with me. Yet you have said, I know you by name, and you have also found grace in my sight.
 
 13 Now therefore, I pray you, if I have found grace in your sight, show me now your way, that I may know you, that I may find grace in your sight: and consider that this nation is your people.
 
@@ -1984,7 +1984,7 @@
 
 18 And he said, I urge you, show me your glory.
 
-19 And he said, I will make all my goodness pass before you, and I will proclaim the name of the Lord before you; and will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.
+19 And he said, I will make all my goodness pass before you, and I will proclaim the name of the Lord before you; and will be gracious to who I will be gracious, and will show mercy on who I will show mercy.
 
 20 And he said, you can not see my face: for there will no man see me, and live.
 
@@ -2108,13 +2108,13 @@
 
 20 And all the congregation of the children of Israel departed from the presence of Moses.
 
-21 And they came, every one whose heart stirred him up, and every one whom his human spirit made willing, and they brought the Lord's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
+21 And they came, every one whose heart stirred him up, and every one who his human spirit made willing, and they brought the Lord's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
 
 22 And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold to the Lord.
 
-23 And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' hair, and red skins of rams, and badgers' skins, brought them.
+23 And every man, with who was found blue, and purple, and scarlet, and fine linen, and goats' hair, and red skins of rams, and badgers' skins, brought them.
 
-24 Every one that did offer an offering of silver and brass brought the Lord's offering: and every man, with whom was found shittim wood for any work of the service, brought it.
+24 Every one that did offer an offering of silver and brass brought the Lord's offering: and every man, with who was found shittim wood for any work of the service, brought it.
 
 25 And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.
 
@@ -2140,7 +2140,7 @@
 
 ## Exodus Chapter 36
 
-1 Then worked Bezaleel and Aholiab, and every wise hearted man, in whom the Lord put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the Lord had commanded.
+1 Then worked Bezaleel and Aholiab, and every wise hearted man, in who the Lord put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the Lord had commanded.
 
 2 And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the Lord had put wisdom, even every one whose heart stirred him up to come to the work to do it:
 

@@ -2,7 +2,7 @@
 
 ## 2 John Chapter 1
 
-1 The elder to the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
+1 The elder to the elect lady and her children, who I love in the truth; and not I only, but also all they that have known the truth;
 
 2 For the truth's sake, which dwells in us, and shall be with us for ever.
 

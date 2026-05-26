@@ -54,7 +54,7 @@
 
 7 And the coast will be for the remnant of the house of Judah; they will feed thereupon: in the houses of Ashkelon will they lie down in the evening: for the Lord their God will visit them, and turn away their captivity.
 
-8 I have heard the disgrace of Moab, and the insults of the children of Ammon, whereby they have disgraced my people, and magnified themselves against their border.
+8 I have heard the disgrace of Moab, and the insults of the children of Ammon, by which they have disgraced my people, and magnified themselves against their border.
 
 9 Therefore as I live, says the Lord of hosts, the God of Israel, Surely Moab will be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the rest of my people will spoil them, and the remnant of my people will possess them.
 
@@ -106,7 +106,7 @@
 
 17 The Lord your God in the midst of you is mighty; he will save, he will rejoice over you with joy; he will rest in his love, he will joy over you with singing.
 
-18 I will gather them that are sorrowful for the solemn assembly, who are of you, to whom the disgrace of it was a burden.
+18 I will gather them that are sorrowful for the solemn assembly, who are of you, to who the disgrace of it was a burden.
 
 19 Look, at that time I will undo all that afflict you: and I will save her that halts, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 

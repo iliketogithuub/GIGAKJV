@@ -26,7 +26,7 @@
 
 ## Ezra Chapter 2
 
-1 Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and came again to Jerusalem and Judah, every one to his city;
+1 Now these are the children of the province that went up out of the captivity, of those which had been carried away, who Nebuchadnezzar the king of Babylon had carried away to Babylon, and came again to Jerusalem and Judah, every one to his city;
 
 2 Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
 
@@ -154,7 +154,7 @@
 
 64 The whole congregation together was forty and two thousand three hundred and threescore,
 
-65 Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women.
+65 Beside their servants and their maids, of who there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women.
 
 66 Their horses were seven hundred thirty and six; their mules, two hundred forty and five;
 
@@ -214,7 +214,7 @@
 
 9 Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,
 
-10 And the rest of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time.
+10 And the rest of the nations who the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time.
 
 11 This is the copy of the letter that they sent to him, even to Artaxerxes the king; your servants the men on this side the river, and at such a time.
 
@@ -272,7 +272,7 @@
 
 13 But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God.
 
-14 And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered to one, whose name was Sheshbazzar, whom he had made governor;
+14 And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered to one, whose name was Sheshbazzar, who he had made governor;
 
 15 And said to him, Take these vessels, go, carry them into the temple that is in Jerusalem, and let the house of God be builded in his place.
 
@@ -424,7 +424,7 @@
 
 19 And Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty;
 
-20 Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
+20 Also of the Nethinims, who David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
 
 21 Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.
 
@@ -578,7 +578,7 @@
 
 43 Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.
 
-44 All these had taken strange wives: and some of them had wives by whom they had children.
+44 All these had taken strange wives: and some of them had wives by who they had children.
 
 
 ## eof

@@ -120,7 +120,7 @@
 
 22 Which rejoice exceedingly, and are glad, when they can find the grave?
 
-23 Why is light given to a man whose way is hid, and whom God has hedged in?
+23 Why is light given to a man whose way is hid, and who God has hedged in?
 
 24 For my sighing comes before I eat, and my roarings are poured out like the waters.
 
@@ -206,7 +206,7 @@
 
 16 So the poor has hope, and wickedness stops her mouth.
 
-17 Look, happy is the man whom God corrects: therefore despise not you the discipline of the Almighty:
+17 Look, happy is the man who God corrects: therefore despise not you the discipline of the Almighty:
 
 18 For he makes sore, and binds up: he wounds, and his hands make whole.
 
@@ -236,7 +236,7 @@
 
 3 For now it would be heavier than the sand of the sea: therefore my words are swallowed up.
 
-4 For the arrows of the Almighty are within me, the poison whereof drinks up my human spirit: the terrors of God do set themselves in array against me.
+4 For the arrows of the Almighty are within me, the poison of which drinks up my human spirit: the terrors of God do set themselves in array against me.
 
 5 does the wild ass bray when he has grass? or lows the ox over his fodder?
 
@@ -410,7 +410,7 @@
 
 14 How much less will I answer him, and choose out my words to reason with him?
 
-15 Whom, though I were righteous, yet would I not answer, but I would make prayer to my judge.
+15 who, though I were righteous, yet would I not answer, but I would make prayer to my judge.
 
 16 If I had called, and he had answered me; yet would I not believe that he had listened to my voice.
 
@@ -734,7 +734,7 @@
 
 18 Which wise men have told from their fathers, and have not hid it:
 
-19 to whom alone the earth was given, and no stranger passed among them.
+19 to who alone the earth was given, and no stranger passed among them.
 
 20 The wicked man labors with pain all his days, and the number of years is hidden to the oppressor.
 
@@ -930,7 +930,7 @@
 
 18 Yea, young children despised me; I arose, and they spoke against me.
 
-19 All my inward friends despised me: and they whom I loved are turned against me.
+19 All my inward friends despised me: and they who I loved are turned against me.
 
 20 My bone cleavs to my skin and to my flesh, and I am escaped with the skin of my teeth.
 
@@ -946,7 +946,7 @@
 
 26 And though after my skin worms destroy this body, yet in my flesh will I see God:
 
-27 Whom I will see for myself, and mine eyes will see, and not another; though my reins be consumed within me.
+27 who I will see for myself, and mine eyes will see, and not another; though my reins be consumed within me.
 
 28 But you should say, Why persecute we him, seeing the root of the matter is found in me?
 
@@ -1226,7 +1226,7 @@
 
 22 He draws also the mighty with his power: he riss up, and no man is sure of life.
 
-23 Though it be given him to be in safety, whereon he rests; yet his eyes are upon their ways.
+23 Though it be given him to be in safety, on which he rests; yet his eyes are upon their ways.
 
 24 They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.
 
@@ -1238,7 +1238,7 @@
 
 2 Dominion and fear are with him, he makes peace in his high places.
 
-3 Is there any number of his armies? and upon whom does not his light arise?
+3 Is there any number of his armies? and upon who does not his light arise?
 
 4 How then can man be justified with God? or how can he be clean that is born of a woman?
 
@@ -1254,7 +1254,7 @@
 
 3 How have you counselled him that has no wisdom? and how have you plentifully declared the thing as it is?
 
-4 To whom have you uttered words? and whose spirit came from you?
+4 To who have you uttered words? and whose spirit came from you?
 
 5 Dead things are formed from under the waters, and the inhabitants of it.
 
@@ -1438,7 +1438,7 @@
 
 1 But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 
-2 Yea, whereto might the strength of their hands profit me, in whom old age was perished?
+2 Yea, whereto might the strength of their hands profit me, in who old age was perished?
 
 3 For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.
 

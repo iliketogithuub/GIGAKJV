@@ -2,7 +2,7 @@
 
 ## 3 John Chapter 1
 
-1 The elder to the wellbeloved Gaius, whom I love in the truth.
+1 The elder to the wellbeloved Gaius, who I love in the truth.
 
 2 Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers.
 
@@ -12,7 +12,7 @@
 
 5 Beloved, you do faithfully whatever you do to the brothers, and to strangers;
 
-6 Who have borne witness of your love before the church: whom if you send on their journey in a manner worthy of God, you will do well:
+6 Who have borne witness of your love before the church: who if you send on their journey in a manner worthy of God, you will do well:
 
 7 Because that for his name's sake they went forth, taking nothing of the Gentiles.
 

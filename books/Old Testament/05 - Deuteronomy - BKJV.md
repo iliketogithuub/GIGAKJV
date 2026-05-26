@@ -282,7 +282,7 @@
 
 25 When you will beget children, and children's children, and you will have remained long in the land, and will corrupt yourselves, and make a graven image, or the likeness of any thing, and will do evil in the sight of the Lord your God, to provoke him to anger:
 
-26 I call heaven and earth to witness against you this day, that you will soon utterly perish from off the land whereunto you go over Jordan to possess it; you will not prolong your days upon it, but will utterly be destroyed.
+26 I call heaven and earth to witness against you this day, that you will soon utterly perish from off the land to which you go over Jordan to possess it; you will not prolong your days upon it, but will utterly be destroyed.
 
 27 And the Lord will scatter you among the nations, and you will be left few in number among the heathen, where the Lord will lead you.
 
@@ -322,7 +322,7 @@
 
 45 These are the testimonies, and the statutes, and the judgments, which Moses spoke to the children of Israel, after they came forth out of Egypt.
 
-46 On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel struck, after they were come forth out of Egypt:
+46 On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, who Moses and the children of Israel struck, after they were come forth out of Egypt:
 
 47 And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which were on this side Jordan toward the sunrising;
 
@@ -488,7 +488,7 @@
 
 18 you will not be afraid of them: but will well remember what the Lord your God did to Pharaoh, and to all Egypt;
 
-19 The great temptations which your eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the Lord your God brought you out: so will the Lord your God do to all the people of whom you are afraid.
+19 The great temptations which your eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, by which the Lord your God brought you out: so will the Lord your God do to all the people of who you are afraid.
 
 20 Moreover the Lord your God will send the hornet among them, until they that are left, and hide themselves from you, be destroyed.
 
@@ -550,7 +550,7 @@
 
 1 Hear, O Israel: you are to pass over Jordan this day, to go in to possess nations greater and mightier than yourself, cities great and fenced up to heaven,
 
-2 A people great and tall, the children of the Anakims, whom you know, and of whom you have heard say, Who can stand before the children of Anak!
+2 A people great and tall, the children of the Anakims, who you know, and of who you have heard say, Who can stand before the children of Anak!
 
 3 Understand therefore this day, that the Lord your God is he which goes over before you; as a consuming fire he will destroy them, and he will bring them down before your face: so will you drive them out, and destroy them quickly, as the Lord has said to you.
 
@@ -700,7 +700,7 @@
 
 23 Then will the Lord drive out all these nations from before you, and you will possess greater nations and mightier than yourselves.
 
-24 Every place whereon the soles of your feet will tread will be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even to the uttermost sea will your coast be.
+24 Every place on which the soles of your feet will tread will be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even to the uttermost sea will your coast be.
 
 25 There will no man be able to stand before you: for the Lord your God will lay the fear of you and the dread of you upon all the land that you will tread upon, as he has said to you.
 
@@ -788,7 +788,7 @@
 
 1 If there arise among you a prophet, or a dreamer of dreams, and gives you a sign or a wonder,
 
-2 And the sign or the wonder come to pass, whereof he spoke to you, saying, Let us go after other gods, which you have not known, and let us serve them;
+2 And the sign or the wonder come to pass, of which he spoke to you, saying, Let us go after other gods, which you have not known, and let us serve them;
 
 3 you will not listen to the words of that prophet, or that dreamer of dreams: for the Lord your God proves you, to know whether you love the Lord your God with all your heart and with all your soul.
 
@@ -1006,7 +1006,7 @@
 
 14 When you are come to the land which the Lord your God gives you, and will possess it, and will dwell in it, and will say, I will set a king over me, like as all the nations that are about me;
 
-15 you will in any wise set him king over you, whom the Lord your God will choose: one from among your brothers will you set king over you: you may not set a stranger over you, which is not your brother.
+15 you will in any wise set him king over you, who the Lord your God will choose: one from among your brothers will you set king over you: you may not set a stranger over you, which is not your brother.
 
 16 But he will not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: since as the Lord has said to you, you will from now on return no more that way.
 
@@ -1072,7 +1072,7 @@
 
 3 you will prepare you a way, and divide the coasts of your land, which the Lord your God gives you to inherit, into three parts, that every slayer may flee there.
 
-4 And this is the case of the slayer, which will flee there, that he may live: Whoso kills his neighbour ignorantly, whom he hated not in time past;
+4 And this is the case of the slayer, which will flee there, that he may live: Whoso kills his neighbour ignorantly, who he hated not in time past;
 
 5 As when a man goes into the wood with his neighbour to hew wood, and his hand fetchs a stroke with the axe to cut down the tree, and the head slips from the helve, and lights upon his neighbour, that he die; he will flee to one of those cities, and live:
 
@@ -1098,7 +1098,7 @@
 
 16 If a false witness rise up against any man to testify against him that which is wrong;
 
-17 Then both the men, between whom the controversy is, will stand before the Lord, before the priests and the judges, which will be in those days;
+17 Then both the men, between who the controversy is, will stand before the Lord, before the priests and the judges, which will be in those days;
 
 18 And the judges will make diligent inquisition: and, look, if the witness be a false witness, and has testified falsely against his brother;
 
@@ -1166,7 +1166,7 @@
 
 7 And they will answer and say, Our hands have not shed this blood, neither have our eyes seen it.
 
-8 Be merciful, O Lord, to your people Israel, whom you have redeemed, and lay not innocent blood to your people of Israel's charge. And the blood will be forgiven them.
+8 Be merciful, O Lord, to your people Israel, who you have redeemed, and lay not innocent blood to your people of Israel's charge. And the blood will be forgiven them.
 
 9 So will you put away the guilt of innocent blood from among you, when you will do that which is right in the sight of the Lord.
 
@@ -1334,7 +1334,7 @@
 
 10 When you do lend your brother any thing, you will not go into his house to fetch his pledge.
 
-11 you will stand abroad, and the man to whom you do lend will bring out the pledge abroad to you.
+11 you will stand abroad, and the man to who you do lend will bring out the pledge abroad to you.
 
 12 And if the man be poor, you will not sleep with his pledge:
 
@@ -1532,7 +1532,7 @@
 
 19 Cursed will you be when you come in, and cursed will you be when you go out.
 
-20 The Lord will send upon you cursing, vexation, and rebuke, in all that you sett your hand to for to do, until you be destroyed, and until you perish quickly; because of the wickedness of your doings, whereby you have forsaken me.
+20 The Lord will send upon you cursing, vexation, and rebuke, in all that you sett your hand to for to do, until you be destroyed, and until you perish quickly; because of the wickedness of your doings, by which you have forsaken me.
 
 21 The Lord will make the plague cleave to you, until he have consumed you from off the land, where you go to possess it.
 
@@ -1546,7 +1546,7 @@
 
 26 And your carcase will be meat to all fowls of the air, and to the beasts of the earth, and no man will fray them away.
 
-27 The Lord will smite you with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof you can not be healed.
+27 The Lord will smite you with the botch of Egypt, and with the emerods, and with the scab, and with the itch, of which you can not be healed.
 
 28 The Lord will smite you with madness, and blindness, and amazement of heart:
 
@@ -1602,7 +1602,7 @@
 
 54 So that the man that is tender among you, and very delicate, his eye will be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he will leave:
 
-55 So that he will not give to any of them of the flesh of his children whom he will eat: because he has nothing left him in the siege, and in the straitness, with what your enemies will distress you in all your gates.
+55 So that he will not give to any of them of the flesh of his children who he will eat: because he has nothing left him in the siege, and in the straitness, with what your enemies will distress you in all your gates.
 
 56 The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye will be evil toward the husband of her bosom, and toward her son, and toward her daughter,
 
@@ -1628,7 +1628,7 @@
 
 67 In the morning you will say, Would God it were even! and at even you will say, Would God it were morning! for the fear of your heart with what you will fear, and for the sight of your eyes which you will see.
 
-68 And the Lord will bring you into Egypt again with ships, by the way whereof I spoke to you, you will see it no more again: and there you will be sold to your enemies for slaves and bondwomen, and no man will buy you.
+68 And the Lord will bring you into Egypt again with ships, by the way of which I spoke to you, you will see it no more again: and there you will be sold to your enemies for slaves and bondwomen, and no man will buy you.
 
 ## Deuteronomy Chapter 29
 
@@ -1682,7 +1682,7 @@
 
 25 Then men will say, Because they have forsaken the covenant of the Lord God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
 
-26 For they went and served other gods, and worshipped them, gods whom they knew not, and whom he had not given to them:
+26 For they went and served other gods, and worshipped them, gods who they knew not, and who he had not given to them:
 
 27 And the anger of the Lord was burned against this land, to bring upon it all the curses that are written in this book:
 
@@ -1740,7 +1740,7 @@
 
 3 The Lord your God, he will go over before you, and he will destroy these nations from before you, and you will possess them: and Joshua, he will go over before you, as the Lord has said.
 
-4 And the Lord will do to them as he did to Sihon and to Og, kings of the Amorites, and to the land of them, whom he destroyed.
+4 And the Lord will do to them as he did to Sihon and to Og, kings of the Amorites, and to the land of them, who he destroyed.
 
 5 And the Lord will give them up before your face, that you may do to them according to all the commandments which I have commanded you.
 
@@ -1828,13 +1828,13 @@
 
 16 They angered him to jealousy with strange gods, with abominations angered they him to anger.
 
-17 They sacrificed to devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
+17 They sacrificed to devils, not to God; to gods who they knew not, to new gods that came newly up, who your fathers feared not.
 
 18 Of the Rock that fathered you you are unmindful, and have forgotten God that formed you.
 
 19 And when the Lord saw it, he despised them, because of the provoking of his sons, and of his daughters.
 
-20 And he said, I will hide my face from them, I will see what their end will be: for they are a very stubborn generation, children in whom is no faith.
+20 And he said, I will hide my face from them, I will see what their end will be: for they are a very stubborn generation, children in who is no faith.
 
 21 They have moved me to jealousy with that which is not God; they have angered me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.
 
@@ -1868,7 +1868,7 @@
 
 36 For the Lord will judge his people, and repent himself for his servants, when he sees that their power is gone, and there is none shut up, or left.
 
-37 And he will say, Where are their gods, their rock in whom they trusted,
+37 And he will say, Where are their gods, their rock in who they trusted,
 
 38 Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection.
 
@@ -1916,7 +1916,7 @@
 
 7 And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him to his people: let his hands be sufficient for him; and be you an help to him from his enemies.
 
-8 And of Levi he said, Let your Thummim and your Urim be with your holy one, whom you did prove at Massah, and with whom you did strive at the waters of Meribah;
+8 And of Levi he said, Let your Thummim and your Urim be with your holy one, who you did prove at Massah, and with who you did strive at the waters of Meribah;
 
 9 Who said to his father and to his mother, I have not seen him; neither did he acknowledge his brothers, nor knew his own children: for they have observed your word, and kept your covenant.
 
@@ -1980,7 +1980,7 @@
 
 9 And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel listened to him, and did as the Lord commanded Moses.
 
-10 And there arose not a prophet since in Israel like to Moses, whom the Lord knew face to face,
+10 And there arose not a prophet since in Israel like to Moses, who the Lord knew face to face,
 
 11 In all the signs and the wonders, which the Lord sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 

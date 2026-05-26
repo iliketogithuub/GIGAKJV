@@ -6,7 +6,7 @@
 
 2 To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
 
-3 I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of you in my prayers night and day;
+3 I thank God, who I serve from my forefathers with pure conscience, that without ceasing I have remembrance of you in my prayers night and day;
 
 4 Greatly desiring to see you, being mindful of your tears, that I may be filled with joy;
 
@@ -22,15 +22,15 @@
 
 10 But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the gospel:
 
-11 Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
+11 to which I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
 
-12 For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed to him against that day.
+12 For the which cause I also suffer these things: nevertheless I am not ashamed: for I know who I have believed, and am persuaded that he is able to keep that which I have committed to him against that day.
 
 13 Hold fast the form of sound words, which you have heard of me, in faith and love which is in Christ Jesus.
 
 14 That good thing which was committed to you keep by the Holy Spirit which dwells in us.
 
-15 This you know, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
+15 This you know, that all they which are in Asia be turned away from me; of who are Phygellus and Hermogenes.
 
 16 The Lord give mercy to the house of Onesiphorus; for he often refreshed me, and was not ashamed of my chain:
 
@@ -72,7 +72,7 @@
 
 16 But shun defile and empty babblings: for they will increase to more ungodliness.
 
-17 And their word will eat as does a canker: of whom is Hymenaeus and Philetus;
+17 And their word will eat as does a canker: of who is Hymenaeus and Philetus;
 
 18 Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
 
@@ -120,7 +120,7 @@
 
 13 But evil men and seducers will wax worse and worse, deceiving, and being deceived.
 
-14 But continue you in the things which you have learned and have been assured of, knowing of whom you have learned them;
+14 But continue you in the things which you have learned and have been assured of, knowing of who you have learned them;
 
 15 And that from a child you have known the holy scriptures, which are able to make you wise to salvation through faith which is in Christ Jesus.
 
@@ -158,13 +158,13 @@
 
 14 Alexander the coppersmith did me much evil: the Lord reward him according to his works:
 
-15 Of whom be you ware also; for he has greatly withstood our words.
+15 Of who be you ware also; for he has greatly withstood our words.
 
 16 At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
 
 17 Nevertheless the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
 
-18 And the Lord will deliver me from every evil work, and will preserve me to his heavenly kingdom: to whom be glory for ever and ever. Amen.
+18 And the Lord will deliver me from every evil work, and will preserve me to his heavenly kingdom: to who be glory for ever and ever. Amen.
 
 19 Greet Prisca and Aquila, and the household of Onesiphorus.
 
