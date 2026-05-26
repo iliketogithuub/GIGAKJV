@@ -10,16 +10,24 @@ Thumbs.db
 # Logs
 *.log
 
-# Training Materials
+# Training Materials & Temporary Scratch Work
 Training Material Recycled/
-
-# Local/Internal records (not for GitHub)
-records/internal_improvement_log.md
-internal/
-
-# Scratch & Temporary files
 scratch/
 
-# Large compiled binary files
-*.pdf
+# Local/Internal records (not for GitHub)
+records/
+internal/
 
+# Web App Source Code (not for public repo)
+book_layout/
+
+# Translation and Validation automation scripts
+scripts/
+
+# Collision analysis and competitive research files
+Simplified KJV/
+
+# Private guidelines and discussions
+AI_CONTINUATION_PROMPT.md
+CONTINUATION_INSTRUCTIONS.md
+BKJV discussion - Gemini.md
