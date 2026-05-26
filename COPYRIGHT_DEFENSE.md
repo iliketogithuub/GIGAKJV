@@ -3,12 +3,12 @@
 
 ## Executive Summary
 
-The Giga King James Version (GIGAKJV) Bible project is an independent, algorithmically governed modernization of the public domain 1611 King James Version (KJV). This document establishes the legal basis for theGIGAKJV's creation, ownership, and defense against infringement claims by **any** modern corporate or independent Bible publisher whose work is derived from the same public domain source.
+The Giga King James Version (GIGAKJV) Bible project is an independent, algorithmically governed modernization of the public domain 1611 King James Version (KJV). This document establishes the legal basis for the GIGAKJV's creation, ownership, and defense against infringement claims by **any** modern corporate or independent Bible publisher whose work is derived from the same public domain source.
 
 The GIGAKJV does not merely modernize archaic spellings. It deploys a **systematic, rule-based linguistic overhaul** anchored to Strong's Greek and Hebrew Concordance definitions, producing a translation with structural and theological characteristics that are **mathematically distinguishable** from every other modern KJV derivative, including but not limited to:
 
 - The New King James Version (NKJV, Thomas Nelson)
-- The Simplified King James Version (SKJV /GIGAKJV, Barbour Publishing)
+- The Simplified King James Version (SKJV / BKJV, Barbour Publishing)
 - The Modern English Version (MEV, Charisma House / Passio)
 - The Modern King James Version (MKJV, Jay P. Green)
 - The 21st Century King James Version (KJ21, Deuel Enterprises)
@@ -76,7 +76,7 @@ The following table documents the structural and legal distinctions between the 
 | Translation | Publisher / Author | Year | Copyright Status | Source Text Approach | Key Modernization Method | How GIGAKJV Differs Structurally |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **NKJV** | Thomas Nelson | 1982 | Proprietary | New translation from original Hebrew/Greek (Textus Receptus / BHS) | Formal equivalence with updated vocabulary; retains "thee/thou" in prayer | GIGAKJV is NOT a new translation from originals; it is an English-language modernization. GIGAKJV uses zero-pronoun syntax, bracketed operational insights, and bolded directives—none of which appear in the NKJV. |
-| **SKJV / GIGAKJV (Barbour)** | Barbour Publishing | 2022 | Proprietary | Version (not translation) of the KJV | Updates archaic words, adds quotation marks, capitalizes divine pronouns, breaks sentences with modern punctuation | GIGAKJV does NOT capitalize divine pronouns as a systematic rule. GIGAKJV eliminates pronouns entirely in instruction blocks (zero-pronoun rule). GIGAKJV adds operational insights and power-word precision absent from Barbour's text. |
+| **SKJV / BKJV (Barbour)** | Barbour Publishing | 2022 | Proprietary | Version (not translation) of the KJV | Updates archaic words, adds quotation marks, capitalizes divine pronouns, breaks sentences with modern punctuation | GIGAKJV does NOT capitalize divine pronouns as a systematic rule. GIGAKJV eliminates pronouns entirely in instruction blocks (zero-pronoun rule). GIGAKJV adds operational insights and power-word precision absent from Barbour's text. |
 | **MEV** | Charisma House (Passio) | 2014 | Proprietary | New translation from Textus Receptus | Formal equivalence; modern vocabulary; retains traditional pronoun structure | GIGAKJV does not retranslate from Greek. GIGAKJV uses the zero-pronoun rule and Strong's-anchored vocabulary (e.g., "sicknesses and diseases") that the MEV does not employ. |
 | **MKJV** | Jay P. Green | 1962/1999 | Proprietary | New translation from Textus Receptus | Updated vocabulary while preserving KJV sentence cadence | GIGAKJV deliberately breaks KJV cadence with active-imperative restructuring and zero-pronoun syntax. GIGAKJV also includes editorial commentary (operational insights) foreign to the MKJV. |
 | **KJ21** | Deuel Enterprises | 1994 | Proprietary (claims 2% paraphrase) | Version of the KJV using Webster's unabridged dictionary | Eliminates obsolete vocabulary while keeping historical Biblical English | GIGAKJV eliminates ALL archaic forms, not merely "obsolete" ones. GIGAKJV introduces theological precision (exousia/dunamis) and active syntax that the KJ21 does not attempt. |

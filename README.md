@@ -63,7 +63,7 @@ GIGAKJV/
    - *entreated* → *treated* / *mistreated*
 5. **Copyright safety** — every phrase is structurally distinct from the NKJV and other copyrighted translations, utilizing the **Zero-Pronoun Rule** (substituting third-person pronouns with active targets in instruction blocks) to secure independent derivative originality.
 
-## Quoting theGIGAKJV
+## Quoting the GIGAKJV
 
 You may quote up to **1,000 verses** without written permission, provided the verses do not constitute a complete book or more than 50% of your work. Include the notice:
 
