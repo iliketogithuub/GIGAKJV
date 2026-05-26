@@ -1064,7 +1064,7 @@
 
 27 And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.
 
-28 Then Jesus answered and said to her, O woman, great is your faith: be it to you even as you will. And her daughter was made whole from that very hour.
+28 Then Jesus answered and said to her, O woman, **Giga** is your faith! **Let it be done** for you exactly as you desire. And the daughter was healed from that very hour.
 
 29 And Jesus departed from there, and came near to the sea of Galilee; and went up into a mountain, and sat down there.
 
