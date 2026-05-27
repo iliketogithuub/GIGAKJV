@@ -102,91 +102,91 @@
 
 ## Matthew Chapter 3
 
-1 In those days came John the Baptist, preaching in the wilderness of Judea,
+1 In those days, John the Baptist came preaching in the wilderness of Judea,
 
-2 And saying, Repent you: for the kingdom of heaven is at hand.
+2 saying, Repent, for the kingdom of heaven is near.
 
-3 For this is the one who was spoken of through the prophet Isaiah, saying, The voice of one crying in the wilderness, Prepare you the way of the Lord, make his paths straight.
+3 For this is the one who was spoken of through the prophet Isaiah, saying: The voice of one calling out in the wilderness, Prepare the way of the Lord; make his paths straight.
 
-4 And the same John had his clothing of camel's hair, and a leathern belt about his waist; and his food was locusts and wild honey.
+4 John wore clothing made of camel's hair with a leather belt around his waist, and his food was locusts and wild honey.
 
-5 Then went out to him Jerusalem, and all Judea, and all the region round about Jordan,
+5 Then people from Jerusalem, all of Judea, and the entire region along the Jordan went out to him,
 
-6 And were baptized by him in Jordan, confessing their sins.
+6 and they were baptized by him in the Jordan, confessing their sins.
 
-7 But when he saw many of the Pharisees and Sadducees come to his baptism, he said to them, O generation of vipers, who has warned you to flee from the wrath to come?
+7 But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, You brood of vipers! Who warned you to flee from the coming wrath?
 
-8 Bring forth therefore fruits meet for repentance:
+8 Produce fruit worthy of repentance.
 
-9 And think not to say within yourselves, We have Abraham to our father: for I say to you, that God is able of these stones to raise up children to Abraham.
+9 And do not think you can say to yourselves, We have Abraham as our father. For I tell you that God is able to raise up children for Abraham from these stones.
 
-10 And now also the axe is laid to the root of the trees: therefore every tree which brings not forth good fruit is hewn down, and cast into the fire.
+10 Even now the axe is laid to the root of the trees; therefore, every tree that does not produce good fruit is cut down and thrown into the fire.
 
-11 I indeed baptize you with water to repentance. but the one who comes after me is mightier than I, whose shoes I am not worthy to bear: he will baptize you with the Holy Spirit, and with fire:
+11 I indeed baptize you with water for repentance, but the one who comes after me is mightier than I—I am not even worthy to carry his sandals! He will baptize you with the Holy Spirit and with fire.
 
-12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the storehouse; but he will burn up the chaff with unquenchable fire.
+12 His winnowing fork is in his hand, and he will thoroughly clear his threshing floor, gathering his wheat into the barn, but he will burn up the chaff with unquenchable fire.
 
-13 Then comes Jesus from Galilee to Jordan to John, to be baptized by him.
+13 Then Jesus came from Galilee to the Jordan to be baptized by John.
 
-14 But John tried to prevent him, saying, I have need to be baptized by you, and do you come to me?
+14 But John tried to prevent him, saying, I need to be baptized by you, and do you come to me?
 
-15 And Jesus answering said to him, Suffer it to be so now: for thus it becomes us to fulfil all righteousness. Then he allowed him.
+15 But Jesus answered him, Let it be so for now, for in this way we fulfill all righteousness. Then John allowed him.
 
-16 And Jesus, when he was baptized, went up immediately out of the water: and, look, the heavens were opened to him, and he saw the Holy Spirit of God descending like a dove, and lighting upon him:
+16 After Jesus was baptized, he went up immediately out of the water; and look, the heavens were opened to him, and he saw the Spirit of God descending like a dove and resting on him.
 
-17 And look, a voice from heaven, saying, This is my beloved Son, in Him I am well pleased.
+17 And look, a voice from heaven said, This is my beloved Son, in Him I am well pleased.
 
 ## Matthew Chapter 4
 
-1 Then was Jesus led up of the Holy Spirit into the wilderness to be tempted by the devil.
+1 Then the Holy Spirit led Jesus into the wilderness to be tempted by the devil.
 
-2 And when he had fasted forty days and forty nights, he was afterward hungry.
+2 After fasting forty days and forty nights, he was hungry.
 
-3 And when the tempter came to him, he said, If you be the Son of God, command that these stones be made bread.
+3 The tempter came and said to him, If you are the Son of God, command these stones to become bread.
 
-4 But he answered, It is written, Man will not live by bread alone, but by every word that proceeds out of the mouth of God.
+4 But Jesus answered, It is written: Man will not live by bread alone, but by every word that comes from the mouth of God.
 
-5 Then the devil takes him up into the holy city, and sets him on a pinnacle of the temple,
+5 Then the devil took him into the holy city and stood him on the highest point of the temple,
 
-6 And says to him, If you be the Son of God, cast yourself down: for it is written, He will give his angels charge concerning you: and in their hands they will bear you up, otherwise at any time you dash your foot against a stone.
+6 and said to him, If you are the Son of God, throw yourself down. For it is written: He will command his angels concerning you, and they will support you in their hands, so that you will not strike your foot against a stone.
 
-7 Jesus said to him, It is written again, you will not tempt the Lord your God.
+7 Jesus said to him, It is also written: You must not test the Lord your God.
 
-8 Again, the devil takes him up into an exceeding high mountain, and shews him all the kingdoms of the world, and the glory of them;
+8 Next, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory,
 
-9 And says to him, All these things will I give you, if you will fall down and worship me.
+9 and said to him, I will give you all of this if you will bow down and worship me.
 
-10 Then says Jesus to him, Get you from here, Satan: for it is written, you will worship the Lord your God, and him only will you serve.
+10 Then Jesus said to him, Away from me, Satan! For it is written: You must worship the Lord your God, and serve him only.
 
-11 Then the devil leavs him, and, look, angels came and ministered to him.
+11 Then the devil left him, and look, angels came and cared for him.
 
-12 Now when Jesus had heard that John was cast into prison, he departed into Galilee;
+12 When Jesus heard that John had been put in prison, he withdrew to Galilee.
 
-13 And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
+13 Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali,
 
-14 That it might be fulfilled which was spoken by Isaiah the prophet, saying,
+14 to fulfill what was spoken through the prophet Isaiah:
 
-15 The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
+15 The land of Zebulun and the land of Naphtali, along the road to the sea, beyond the Jordan, Galilee of the Gentiles:
 
-16 The people who sat in darkness saw great light; and to those who sat in the region and shadow of death light is sprung up.
+16 the people living in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.
 
-17 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
+17 From that time on, Jesus began to preach, Repent, for the kingdom of heaven is near.
 
-18 And Jesus, walking by the sea of Galilee, saw two brothers, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
+18 As Jesus was walking by the Sea of Galilee, he saw two brothers, Simon called Peter and Andrew his brother, casting a net into the sea, for they were fishermen.
 
-19 And he says to them, Follow me, and I will make you fishers of men.
+19 He said to them, Follow me, and I will make you fishers of men.
 
-20 And they immediately left their nets, and followed him.
+20 Immediately they left their nets and followed him.
 
-21 And going on from there, he saw other two brothers, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
+21 Going on from there, he saw two other brothers, James the son of Zebedee and John his brother, in a boat with Zebedee their father, mending their nets; and he called them.
 
-22 And they immediately left the ship and their father, and followed him.
+22 And they immediately left the boat and their father and followed him.
 
-23 And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
+23 Jesus traveled throughout all Galilee, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and sickness among the people.
 
-24 And his fame went throughout all Syria: and they brought to him all sick people that were taken with various diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+24 News about him spread throughout all Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed; and he healed them.
 
-25 And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond Jordan.
+25 Large crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and the region across the Jordan.
 
 ## Matthew Chapter 5
 
