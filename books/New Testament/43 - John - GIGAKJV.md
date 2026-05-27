@@ -24,13 +24,13 @@
 
 11 He came to his own, and his own received him not.
 
-12 But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:
+12 But as many as received him, to them gave he power to become the sons of God, even to those who believe on his name:
 
 13 Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
 
 14 And the Word was made flesh, and dwelt among us, (and we saw his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
-15 John bare witness of him, and cried, saying, This was he I spoke of, He that comes after me is preferred before me: for he was before me.
+15 John bare witness of him, and cried, saying, This was he I spoke of, The one who comes after me is preferred before me: for he was before me.
 
 16 And of his fulness have all we received, and grace for grace.
 
@@ -42,15 +42,15 @@
 
 20 And he confessed, and denied not; but confessed, I am not the Christ.
 
-21 And they asked him, What then? are you Elias? And he says, I am not. are you that prophet? And he answered, No.
+21 And they asked him, What then? are you Elijah? And he says, I am not. are you that prophet? And he answered, No.
 
-22 Then said they to him, Who are you? that we may give an answer to them that sent us. What say you of yourself?
+22 Then said they to him, Who are you? that we may give an answer to those who sent us. What say you of yourself?
 
-23 He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
+23 He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Isaiah.
 
-24 And they which were sent were of the Pharisees.
+24 And those who were sent were of the Pharisees.
 
-25 And they asked him, and said to him, Why baptiz you then, if you be not that Christ, nor Elias, neither that prophet?
+25 And they asked him, and said to him, Why baptiz you then, if you be not that Christ, nor Elijah, neither that prophet?
 
 26 John answered them, saying, I baptize with water: but there stands one among you, who you know not;
 
@@ -60,13 +60,13 @@
 
 29 The next day John sees Jesus coming to him, and says, Look at the Lamb of God, which takes away the sin of the world.
 
-30 This is he I spoke of, After me comes a man which is preferred before me: for he was before me.
+30 This is he I spoke of, After me comes a man who is preferred before me: for he was before me.
 
 31 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 
 32 And John bare record, saying, I saw the Holy Spirit descending from heaven like a dove, and it stayed upon him.
 
-33 And I knew him not: but he that sent me to baptize with water, the same said to me, on Him who you will see the Holy Spirit descending and remaining, the same is he which baptizs with the Holy Spirit.
+33 And I knew him not: but the one who sent me to baptize with water, the same said to me, on Him who you will see the Holy Spirit descending and remaining, the same is the one who baptizs with the Holy Spirit.
 
 34 And I saw, and bare record that this is the Son of God.
 
@@ -76,9 +76,9 @@
 
 37 And the two disciples heard him speak, and they followed Jesus.
 
-38 Then Jesus turned, and saw them following, and says to them, What seek you? They said to him, Rabbi, (which is to say, being interpreted, Master,) where dwell you?
+38 Then Jesus turned, and saw them following, and says to them, What seek you? They said to him, Rabbi, (which is to say, being interpreted, Master,) where live you?
 
-39 He says to them, Come and see. They came and saw where he dwelt, and stayed with him that day: for it was about the tenth hour.
+39 He says to them, Come and see. They came and saw where he dwelt, and stayed with the one who day: for it was about the tenth hour.
 
 40 One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.
 
@@ -90,17 +90,17 @@
 
 44 Now Philip was of Bethsaida, the city of Andrew and Peter.
 
-45 Philip finds Nathanael, and says to him, We have found him, who Moses in the law and the prophets wrote of, Jesus of Nazars, the son of Joseph.
+45 Philip finds Nathanael, and says to him, We have found him, who Moses in the law and the prophets wrote of, Jesus of Nazareth, the son of Joseph.
 
-46 And Nathanael said to him, Can there any good thing come out of Nazars? Philip says to him, Come and see.
+46 And Nathanael said to him, Can there any good thing come out of Nazareth? Philip says to him, Come and see.
 
 47 Jesus saw Nathanael coming to him, and says of him, Look an Israelite indeed, who has no deceit in him!
 
-48 Nathanael says to him, From where know you me? Jesus answered and said to him, Before that Philip called you, when you were under the fig tree, I saw you.
+48 Nathanael says to him, From where know you me? Jesus answered him, Before that Philip called you, when you were under the fig tree, I saw you.
 
 49 Nathanael answered and says to him, Rabbi, you are the Son of God; you are the King of Israel.
 
-50 Jesus answered and said to him, Because I said to you, I saw you under the fig tree, believ you? you will see greater things than these.
+50 Jesus answered him, Because I said to you, I saw you under the fig tree, believ you? you will see greater things than these.
 
 51 And he says to him, Truly, truly, I say to you, From now on you will see heaven open, and the angels of God ascending and descending upon the Son of man.
 
@@ -116,13 +116,13 @@
 
 5 His mother says to the servants, Whatsoever he says to you, do it.
 
-6 And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
+6 And there sat down there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
 
 7 Jesus says to them, Fill the waterpots with water. And they filled them up to the brim.
 
 8 And he says to them, Draw out now, and bear to the governor of the feast. And they bare it.
 
-9 When the ruler of the feast had tasted the water that was made wine, and knew not from where it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
+9 When the ruler of the feast had tasted the water that was made wine, and knew not from where it was: (but the servants who drew the water knew;) the governor of the feast called the bridegroom,
 
 10 And says to him, Every man at the beginning does set forth good wine; and when men have well drunk, then that which is worse: but you have kept the good wine until now.
 
@@ -136,13 +136,13 @@
 
 15 And when he had made a whip of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
 
-16 And said to them that sold doves, Take these things from here; make not my Father's house an house of merchandise.
+16 And said to those who sold doves, Take these things from here; make not my Father's house an house of merchandise.
 
 17 And his disciples remembered that it was written, The zeal of your house has eaten me up.
 
 18 Then answered the Jews and said to him, What sign show you to us, seeing that you do these things?
 
-19 Jesus answered and said to them, Destroy this temple, and in three days I will raise it up.
+19 Jesus answered them, Destroy this temple, and in three days I will raise it up.
 
 20 Then said the Jews, Forty and six years was this temple in building, and will you rear it up in three days?
 
@@ -162,7 +162,7 @@
 
 2 The same came to Jesus by night, and said to him, Rabbi, we know that you are a teacher come from God: for no man can do these miracles that you do, except God be with him.
 
-3 Jesus answered and said to him, Truly, truly, I say to you, Except a man be born again, he cannot see the kingdom of God.
+3 Jesus answered him, Truly, truly, I say to you, Except a man be born again, he cannot see the kingdom of God.
 
 4 Nicodemus says to him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?
 
@@ -172,17 +172,17 @@
 
 7 Marvel not that I said to you, you must be born again.
 
-8 The wind blows where it lists, and you hear the sound of it, but can not tell from where it comes, and where it goes: so is every one that is born of the Holy Spirit.
+8 The wind blows where it wishes, and you hear the sound of it, but can not tell from where it comes, and where it goes: so is every one that is born of the Holy Spirit.
 
-9 Nicodemus answered and said to him, How can these things be?
+9 Nicodemus answered him, How can these things be?
 
-10 Jesus answered and said to him, are you a master of Israel, and know not these things?
+10 Jesus answered him, are you a master of Israel, and know not these things?
 
 11 Truly, truly, I say to you, We speak that we do know, and testify that we have seen; and you receive not our witness.
 
 12 If I have told you earthly things, and you believe not, how will you believe, if I tell you of heavenly things?
 
-13 And no man has ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.
+13 And no man has ascended up to heaven, but the one who came down from heaven, even the Son of man who is in heaven.
 
 14 And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
 
@@ -192,15 +192,15 @@
 
 17 For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
 
-18 He that believes on him is not condemned: but he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God.
+18 The one who believes on him is not condemned: but the one who believes not is condemned already, because he has not believed in the name of the only begotten Son of God.
 
-19 And this is the judgment, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
+19 And this is the judgment, that light has come into the world, and men loved darkness rather than light, because their deeds were evil.
 
 20 For every one that does evil hates the light, neither comes to the light, otherwise his deeds should be corrected.
 
-21 But he that does truth comes to the light, that his deeds may be made manifest, that they are worked in God.
+21 But the one who does truth comes to the light, that his deeds may be made manifest, that they are worked in God.
 
-22 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
+22 After these things came Jesus and his disciples into the land of Judea; and there he tarried with them, and baptized.
 
 23 And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.
 
@@ -208,27 +208,27 @@
 
 25 Then there arose a question between some of John's disciples and the Jews about purifying.
 
-26 And they came to John, and said to him, Rabbi, he that was with you beyond Jordan, who you bore witness to, look, the same baptizs, and all men come to him.
+26 And they came to John, and said to him, Rabbi, the one who was with you beyond Jordan, who you bore witness to, look, the same baptizs, and all men come to him.
 
-27 John answered and said, A man can receive nothing, except it be given him from heaven.
+27 John answered, A man can receive nothing, except it be given him from heaven.
 
 28 you yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
 
-29 He that has the bride is the bridegroom: but the friend of the bridegroom, which stands and hears him, rejoics greatly because of the bridegroom's voice: this my joy therefore is fulfilled.
+29 The one who has the bride is the bridegroom: but the friend of the bridegroom, which stands and hears him, rejoics greatly because of the bridegroom's voice: this my joy therefore is fulfilled.
 
 30 He must increase, but I must decrease.
 
-31 He that comes from above is above all: he that is of the earth is earthly, and speaks of the earth: he that comes from heaven is above all.
+31 The one who comes from above is above all: the one who is of the earth is earthly, and speaks of the earth: the one who comes from heaven is above all.
 
 32 And what he has seen and heard, that he testifies; and no man receives his testimony.
 
-33 He that has received his testimony has set to his seal that God is true.
+33 The one who has received his testimony has set to his seal that God is true.
 
 34 For he who God has sent speaks the words of God: for God gives not the Holy Spirit by measure to him.
 
 35 The Father loves the Son, and has given all things into his hand.
 
-36 He that believes on the Son has everlasting life: and he that believes not the Son will not see life; but the wrath of God abides on him.
+36 The one who believes on the Son has everlasting life: and the one who believes not the Son will not see life; but the wrath of God abides on him.
 
 ## John Chapter 4
 
@@ -236,7 +236,7 @@
 
 2 (Though Jesus himself baptized not, but his disciples,)
 
-3 He left Judaea, and departed again into Galilee.
+3 He left Judea, and departed again into Galilee.
 
 4 And he must needs go through Samaria.
 
@@ -246,17 +246,17 @@
 
 7 There comes a woman of Samaria to draw water: Jesus says to her, Give me to drink.
 
-8 (For his disciples were gone away to the city to buy meat.)
+8 (For his disciples were gone away to the city to buy food.)
 
 9 Then says the woman of Samaria to him, How is it that you, being a Jew, ask drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 
-10 Jesus answered and said to her, If you knew the gift of God, and who it is that says to you, Give me to drink; you would have asked of him, and he would have given you living water.
+10 Jesus answered her, If you knew the gift of God, and who it is that says to you, Give me to drink; you would have asked of him, and he would have given you living water.
 
 11 The woman says to him, Sir, you have nothing to draw with, and the well is deep: from where then have you that living water?
 
 12 are you greater than our father Jacob, which gave us the well, and drank of it himself, and his children, and his cattle?
 
-13 Jesus answered and said to her, Whosoever drinks of this water will thirst again:
+13 Jesus answered her, Whosoever drinks of this water will thirst again:
 
 14 But whosoever drinks of the water that I will give him will never thirst; but the water that I will give him will be in him a well of water springing up into everlasting life.
 
@@ -264,7 +264,7 @@
 
 16 Jesus says to her, Go, call your husband, and come here.
 
-17 The woman answered and said, I have no husband. Jesus said to her, you have well said, I have no husband:
+17 The woman answered, I have no husband. Jesus said to her, you have well said, I have no husband:
 
 18 For you have had five husbands; and he who you now have is not your husband: in that said you truly.
 
@@ -278,9 +278,9 @@
 
 23 But the hour comes, and now is, when the true worshippers will worship the Father in spirit and in truth: for the Father seeks such to worship him.
 
-24 God is a Spirit: and they that worship him must worship him in spirit and in truth.
+24 God is a Spirit: and those who worship him must worship him in spirit and in truth.
 
-25 The woman says to him, I know that Messias comes, which is called Christ: when he is come, he will tell us all things.
+25 The woman says to him, I know that Messias comes, which is called Christ: when he has come, he will tell us all things.
 
 26 Jesus says to her, I that speak to you am he.
 
@@ -294,15 +294,15 @@
 
 31 In the mean while his disciples prayed him, saying, Master, eat.
 
-32 But he said to them, I have meat to eat that you know not of.
+32 But he said to them, I have food to eat that you know not of.
 
 33 Therefore said the disciples one to another, has any man brought him ought to eat?
 
-34 Jesus says to them, My meat is to do the will of him that sent me, and to finish his work.
+34 Jesus says to them, My food is to do the will of the one who sent me, and to finish his work.
 
 35 Say not you, There are yet four months, and then comes harvest? look, I say to you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 
-36 And he that reaps receives wages, and gathers fruit to life eternal: that both he that sows and he that reaps may rejoice together.
+36 And the one who reaps receives wages, and gathers fruit to life eternal: that both the one who sows and the one who reaps may rejoice together.
 
 37 And in this is that saying true, One sows, and another reaps.
 
@@ -310,7 +310,7 @@
 
 39 And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
 
-40 So when the Samaritans were come to him, they urged him that he would tarry with them: and he stayed there two days.
+40 So when the Samaritans had come to him, they urged the one who he would tarry with them: and he stayed there two days.
 
 41 And many more believed because of his own word;
 
@@ -320,11 +320,11 @@
 
 44 For Jesus himself testified, that a prophet has no honour in his own country.
 
-45 Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went to the feast.
+45 Then when he had come into Galilee, the Galileans received him, having seen all the things that he did at Jerusalem at the feast: for they also went to the feast.
 
 46 So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
 
-47 When he heard that Jesus was come out of Judaea into Galilee, he went to him, and urged him that he would come down, and heal his son: for he was at the point of death.
+47 When he heard that Jesus had come out of Judea into Galilee, he went to him, and urged the one who he would come down, and heal his son: for he was at the point of death.
 
 48 Then said Jesus to him, Except you see signs and wonders, you will not believe.
 
@@ -338,7 +338,7 @@
 
 53 So the father knew that it was at the same hour, in the which Jesus said to him, your son lives: and himself believed, and his whole house.
 
-54 This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.
+54 This is again the second miracle that Jesus did, when he had come out of Judea into Galilee.
 
 ## John Chapter 5
 
@@ -360,13 +360,13 @@
 
 9 And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.
 
-10 The Jews therefore said to him that was cured, It is the sabbath day: it is not lawful for you to carry your bed.
+10 The Jews therefore said to the one who was cured, It is the sabbath day: it is not lawful for you to carry your bed.
 
-11 He answered them, He that made me whole, the same said to me, Take up your bed, and walk.
+11 He answered them, The one who made me whole, the same said to me, Take up your bed, and walk.
 
 12 Then asked they him, What man is that which said to you, Take up your bed, and walk?
 
-13 And he that was healed knew not who it was: for Jesus had conveyed himself away, a multitude being in that place.
+13 And the one who was healed knew not who it was: for Jesus had conveyed himself away, a multitude being in that place.
 
 14 Afterward Jesus finds him in the temple, and said to him, Look, you are made whole: sin no more, otherwise a worse thing come to you.
 
@@ -386,11 +386,11 @@
 
 22 For the Father judges no man, but has committed all judgment to the Son:
 
-23 That all men should honour the Son, even as they honour the Father. He that honours not the Son honours not the Father which has sent him.
+23 That all men should honour the Son, even as they honour the Father. The one who honours not the Son honours not the Father who has sent him.
 
-24 Truly, truly, I say to you, He that hears my word, and believes on him that sent me, has everlasting life, and will not come into judgment; but is passed from death to life.
+24 Truly, truly, I say to you, The one who hears my word, and believes on the one who sent me, has everlasting life, and will not come into judgment; but is passed from death to life.
 
-25 Truly, truly, I say to you, The hour is coming, and now is, when the dead will hear the voice of the Son of God: and they that hear will live.
+25 Truly, truly, I say to you, The hour is coming, and now is, when the dead will hear the voice of the Son of God: and those who hear will live.
 
 26 For as the Father has life in himself; so has he given to the Son to have life in himself;
 
@@ -398,9 +398,9 @@
 
 28 Marvel not at this: for the hour is coming, in the which all that are in the graves will hear his voice,
 
-29 And will come forth; they that have done good, to the resurrection of life; and they that have done evil, to the resurrection of condemnation.
+29 And will come forth; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of condemnation.
 
-30 I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which has sent me.
+30 I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father who has sent me.
 
 31 If I bear witness of myself, my witness is not true.
 
@@ -418,7 +418,7 @@
 
 38 And you have not his word abiding in you: for you do not believe the one he sent.
 
-39 Search the scriptures; for in them you think you have eternal life: and they are they which testify of me.
+39 Search the scriptures; for in them you think you have eternal life: and they are those who testify of me.
 
 40 And you will not come to me, that you might have life.
 
@@ -440,7 +440,7 @@
 
 1 After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 
-2 And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
+2 And a great multitude followed him, because they saw his miracles which he did on those who were diseased.
 
 3 And Jesus went up into a mountain, and there he sat with his disciples.
 
@@ -458,11 +458,11 @@
 
 10 And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.
 
-11 And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.
+11 And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to those who sat down down; and likewise of the fishes as much as they would.
 
 12 When they were filled, he said to his disciples, Gather up the fragments that remain, that nothing be lost.
 
-13 Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above to them that had eaten.
+13 Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above to those who had eaten.
 
 14 Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.
 
@@ -480,7 +480,7 @@
 
 21 Then they willingly received him into the ship: and immediately the ship was at the land where they went.
 
-22 The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one into which his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
+22 The day following, when the people who stood on the other side of the sea saw that there was none other boat there, save that one into which his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
 
 23 (However there came other boats from Tiberias near to the place where they did eat bread, after that the Lord had given thanks:)
 
@@ -490,11 +490,11 @@
 
 26 Jesus answered them and said, Truly, truly, I say to you, you seek me, not because you saw the miracles, but because you did eat of the loaves, and were filled.
 
-27 Labour not for the meat which perishs, but for that meat which endures to everlasting life, which the Son of man will give to you: for him has God the Father sealed.
+27 Labour not for the food which perishs, but for that food which endures to everlasting life, which the Son of man will give to you: for him has God the Father sealed.
 
 28 Then said they to him, What will we do, that we might work the works of God?
 
-29 Jesus answered and said to them, This is the work of God, that you believe on him who he has sent.
+29 Jesus answered them, This is the work of God, that you believe on him who he has sent.
 
 30 They said therefore to him, What sign show you then, that we may see, and believe you? what do you work?
 
@@ -502,35 +502,35 @@
 
 32 Then Jesus said to them, Truly, truly, I say to you, Moses gave you not that bread from heaven; but my Father gives you the true bread from heaven.
 
-33 For the bread of God is he which comes down from heaven, and gives life to the world.
+33 For the bread of God is the one who comes down from heaven, and gives life to the world.
 
 34 Then said they to him, Lord, evermore give us this bread.
 
-35 And Jesus said to them, I am the bread of life: he that comes to me will never hunger; and he that believes on me will never thirst.
+35 And Jesus said to them, I am the bread of life: the one who comes to me will never hunger; and the one who believes on me will never thirst.
 
 36 But I said to you, That you also have seen me, and believe not.
 
-37 All that the Father gives me will come to me; and him that comes to me I will in no wise cast out.
+37 All that the Father gives me will come to me; and the one who comes to me I will in no wise cast out.
 
-38 For I came down from heaven, not to do mine own will, but the will of him that sent me.
+38 For I came down from heaven, not to do mine own will, but the will of the one who sent me.
 
 39 And this is the Father's will which has sent me, that of all which he has given me I should lose nothing, but should raise it up again at the last day.
 
-40 And this is the will of him that sent me, that every one which sees the Son, and believes on him, may have everlasting life: and I will raise him up at the last day.
+40 And this is the will of the one who sent me, that every one which sees the Son, and believes on him, may have everlasting life: and I will raise him up at the last day.
 
 41 The Jews then murmured at him, because he said, I am the bread which came down from heaven.
 
 42 And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he says, I came down from heaven?
 
-43 Jesus therefore answered and said to them, Murmur not among yourselves.
+43 Jesus therefore answered them, Murmur not among yourselves.
 
-44 No man can come to me, except the Father which has sent me draw him: and I will raise him up at the last day.
+44 No man can come to me, except the Father who has sent me draw him: and I will raise him up at the last day.
 
 45 It is written in the prophets, And they will be all taught of God. Every man therefore that has heard, and has learned of the Father, comes to me.
 
-46 Not that any man has seen the Father, save he which is of God, he has seen the Father.
+46 Not that any man has seen the Father, save the one who is of God, he has seen the Father.
 
-47 Truly, truly, I say to you, He that believes on me has everlasting life.
+47 Truly, truly, I say to you, The one who believes on me has everlasting life.
 
 48 I am that bread of life.
 
@@ -546,13 +546,13 @@
 
 54 Whoso eats my flesh, and drinks my blood, has eternal life; and I will raise him up at the last day.
 
-55 For my flesh is meat indeed, and my blood is drink indeed.
+55 For my flesh is food indeed, and my blood is drink indeed.
 
-56 He that eats my flesh, and drinks my blood, dwells in me, and I in him.
+56 The one who eats my flesh, and drinks my blood, lives in me, and I in him.
 
-57 As the living Father has sent me, and I live by the Father: so he that eats me, even he will live by me.
+57 As the living Father has sent me, and I live by the Father: so the one who eats me, even he will live by me.
 
-58 This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eats of this bread will live for ever.
+58 This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: the one who eats of this bread will live for ever.
 
 59 These things said he in the synagogue, as he taught in Capernaum.
 
@@ -586,7 +586,7 @@
 
 2 Now the Jew's feast of tabernacles was at hand.
 
-3 His brothers therefore said to him, Depart from here, and go into Judaea, that your disciples also may see the works that you do.
+3 His brothers therefore said to him, Depart from here, and go into Judea, that your disciples also may see the works that you do.
 
 4 For there is no man that does any thing in secret, and he himself seeks to be known openly. If you do these things, show yourself to the world.
 
@@ -604,7 +604,7 @@
 
 11 Then the Jews sought him at the feast, and said, Where is he?
 
-12 And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceivs the people.
+12 And there was much murmuring among the people concerning him: for some said, He is a good man: others said, no; but he deceivs the people.
 
 13 However no man spoke openly of him for fear of the Jews.
 
@@ -616,13 +616,13 @@
 
 17 If any man will do his will, he will know of the doctrine, whether it be of God, or whether I speak of myself.
 
-18 He that speaks of himself seeks his own glory: but he that seeks his glory that sent him, the same is true, and no unrighteousness is in him.
+18 The one who speaks of himself seeks his own glory: but the one who seeks his glory that sent him, the same is true, and no unrighteousness is in him.
 
 19 Did not Moses give you the law, and yet none of you keeps the law? Why go you about to kill me?
 
-20 The people answered and said, you have a devil: who goes about to kill you?
+20 The people answered, you have a devil: who goes about to kill you?
 
-21 Jesus answered and said to them, I have done one work, and you all marvel.
+21 Jesus answered them, I have done one work, and you all marvel.
 
 22 Moses therefore gave to you circumcision; (not because it is of Moses, but of the fathers;) and you on the sabbath day circumcise a man.
 
@@ -636,7 +636,7 @@
 
 27 However we know this man from where he is: but when Christ comes, no man knows from where he is.
 
-28 Then cried Jesus in the temple as he taught, saying, you both know me, and you know from where I am: and I am not come of myself, but he that sent me is true, who you know not.
+28 Then cried Jesus in the temple as he taught, saying, you both know me, and you know from where I am: and I am not come of myself, but the one who sent me is true, who you know not.
 
 29 But I know him: for I am from him, and he has sent me.
 
@@ -646,7 +646,7 @@
 
 32 The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
 
-33 Then said Jesus to them, Yet a little while am I with you, and then I go to him that sent me.
+33 Then said Jesus to them, Yet a little while am I with you, and then I go to the one who sent me.
 
 34 you will seek me, and will not find me: and where I am, there you cannot come.
 
@@ -656,9 +656,9 @@
 
 37 In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come to me, and drink.
 
-38 He that believes on me, as the scripture has said, out of his belly will flow rivers of living water.
+38 The one who believes on me, as the scripture has said, out of his belly will flow rivers of living water.
 
-39 (But this spoke he of the Holy Spirit, which they that believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
+39 (But this spoke he of the Holy Spirit, which those who believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
 
 40 Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.
 
@@ -680,11 +680,11 @@
 
 49 But this people who knows not the law are cursed.
 
-50 Nicodemus says to them, (he that came to Jesus by night, being one of them,)
+50 Nicodemus says to them, (the one who came to Jesus by night, being one of them,)
 
 51 does our law judge any man, before it hear him, and know what he does?
 
-52 They answered and said to him, are you also of Galilee? Search, and look: for out of Galilee arises no prophet.
+52 They answered him, are you also of Galilee? Search, and look: for out of Galilee arises no prophet.
 
 53 And every man went to his own house.
 
@@ -702,21 +702,21 @@
 
 6 This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not.
 
-7 So when they continued asking him, he lifted up himself, and said to them, He that is without sin among you, let him first cast a stone at her.
+7 So when they continued asking him, he lifted up himself, and said to them, The one who is without sin among you, let him first cast a stone at her.
 
 8 And again he stooped down, and wrote on the ground.
 
-9 And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even to the last: and Jesus was left alone, and the woman standing in the midst.
+9 And those who heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even to the last: and Jesus was left alone, and the woman standing in the midst.
 
 10 When Jesus had lifted up himself, and saw none but the woman, he said to her, Woman, where are those your accusers? has no man condemned you?
 
 11 She said, No man, Lord. And Jesus said to her, Neither do I condemn you: go, and sin no more.
 
-12 Then spoke Jesus again to them, saying, I am the light of the world: he that follows me will not walk in darkness, but will have the light of life.
+12 Then spoke Jesus again to them, saying, I am the light of the world: the one who follows me will not walk in darkness, but will have the light of life.
 
 13 The Pharisees therefore said to him, you bear record of yourself; your record is not true.
 
-14 Jesus answered and said to them, Though I bear record of myself, yet my record is true: for I know from where I came, and where I go; but you cannot tell from where I come, and where I go.
+14 Jesus answered them, Though I bear record of myself, yet my record is true: for I know from where I came, and where I go; but you cannot tell from where I come, and where I go.
 
 15 you judge after the flesh; I judge no man.
 
@@ -740,13 +740,13 @@
 
 25 Then said they to him, Who are you? And Jesus says to them, Even the same that I said to you from the beginning.
 
-26 I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
+26 I have many things to say and to judge of you: but the one who sent me is true; and I speak to the world those things which I have heard by him.
 
 27 They understood not that he spoke to them of the Father.
 
 28 Then said Jesus to them, When you have lifted up the Son of man, then will you know that I am he, and that I do nothing of myself; but as my Father has taught me, I speak these things.
 
-29 And he that sent me is with me: the Father has not left me alone; for I do always those things that please him.
+29 And the one who sent me is with me: the Father has not left me alone; for I do always those things that please him.
 
 30 As he spoke these words, many believed on him.
 
@@ -766,9 +766,9 @@
 
 38 I speak that which I have seen with my Father: and you do that which you have seen with your father.
 
-39 They answered and said to him, Abraham is our father. Jesus says to them, If you were Abraham's children, you would do the works of Abraham.
+39 They answered him, Abraham is our father. Jesus says to them, If you were Abraham's children, you would do the works of Abraham.
 
-40 But now you seek to kill me, a man that has told you the truth, which I have heard of God: this did not Abraham.
+40 But now you seek to kill me, a man that has told you the truth, which I have heard by God: this did not Abraham.
 
 41 you do the deeds of your father. Then said they to him, We be not born of sexual sin; we have one Father, even God.
 
@@ -782,7 +782,7 @@
 
 46 Which of you convincs me of sin? And if I say the truth, why do you not believe me?
 
-47 He that is of God hears God's words: you therefore hear them not, because you are not of God.
+47 The one who is of God hears God's words: you therefore hear them not, because you are not of God.
 
 48 Then answered the Jews, and said to him, Say we not well that you are a Samaritan, and have a devil?
 
@@ -810,13 +810,13 @@
 
 ## John Chapter 9
 
-1 And as Jesus passed by, he saw a man which was blind from his birth.
+1 And as Jesus passed by, he saw a man who was blind from his birth.
 
 2 And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
 
 3 Jesus answered, Neither has this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
-4 I must work the works of him that sent me, while it is day: the night comes, when no man can work.
+4 I must work the works of the one who sent me, while it is day: the night comes, when no man can work.
 
 5 As long as I am in the world, I am the light of the world.
 
@@ -824,17 +824,17 @@
 
 7 And said to him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.
 
-8 The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?
+8 The neighbours therefore, and those who before had seen the one who he was blind, said, Is not this the one who sat and begged?
 
 9 Some said, This is he: others said, He is like him: but he said, I am he.
 
 10 Therefore said they to him, How were your eyes opened?
 
-11 He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said to me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
+11 He answered, A man that is called Jesus made clay, and anointed mine eyes, and said to me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
 
 12 Then said they to him, Where is he? He said, I know not.
 
-13 They brought to the Pharisees him that before was blind.
+13 They brought to the Pharisees the one who before was blind.
 
 14 And it was the sabbath day when Jesus made the clay, and opened his eyes.
 
@@ -844,7 +844,7 @@
 
 17 They say to the blind man again, What say you of him, that he has opened your eyes? He said, He is a prophet.
 
-18 But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.
+18 But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of the one who had received his sight.
 
 19 And they asked them, saying, Is this your son, who you say was born blind? how then does he now see?
 
@@ -858,7 +858,7 @@
 
 24 Then again called they the man that was blind, and said to him, Give God the praise: we know that this man is a sinner.
 
-25 He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.
+25 He answered, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.
 
 26 Then said they to him again, What did he to you? how opened he your eyes?
 
@@ -868,7 +868,7 @@
 
 29 We know that God spoke to Moses: as for this fellow, we know not from where he is.
 
-30 The man answered and said to them, Why in this is a marvellous thing, that you know not from where he is, and yet he has opened mine eyes.
+30 The man answered them, Why in this is a marvellous thing, that you know not from where he is, and yet he has opened mine eyes.
 
 31 Now we know that God hears not sinners: but if any man be a worshipper of God, and does his will, him he hears.
 
@@ -876,17 +876,17 @@
 
 33 If this man were not of God, he could do nothing.
 
-34 They answered and said to him, you were altogether born in sins, and do you teach us? And they cast him out.
+34 They answered him, you were altogether born in sins, and do you teach us? And they cast him out.
 
 35 Jesus heard that they had cast him out; and when he had found him, he said to him, do you believe on the Son of God?
 
-36 He answered and said, Who is he, Lord, that I might believe on him?
+36 He answered, Who is he, Lord, that I might believe on him?
 
-37 And Jesus said to him, you have both seen him, and it is he that talks with you.
+37 And Jesus said to him, you have both seen him, and it is the one who talks with you.
 
 38 And he said, Lord, I believe. And he worshipped him.
 
-39 And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+39 And Jesus said, For judgment I am come into this world, that those who see not might see; and that those who see might be made blind.
 
 40 And some of the Pharisees which were with him heard these words, and said to him, Are we blind also?
 
@@ -894,9 +894,9 @@
 
 ## John Chapter 10
 
-1 Truly, truly, I say to you, He that enters not by the door into the sheepfold, but climbs up some other way, the same is a thief and a robber.
+1 Truly, truly, I say to you, The one who enters not by the door into the sheepfold, but climbs up some other way, the same is a thief and a robber.
 
-2 But he that enters in by the door is the shepherd of the sheep.
+2 But the one who enters in by the door is the shepherd of the sheep.
 
 3 To him the porter opens; and the sheep hear his voice: and he calls his own sheep by name, and leads them out.
 
@@ -912,11 +912,11 @@
 
 9 I am the door: by me if any man enter in, he will be saved, and will go in and out, and find pasture.
 
-10 The thief comes not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
+10 The thief comes not, but to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
 
 11 I am the good shepherd: the good shepherd gives his life for the sheep.
 
-12 But he that is an hireling, and not the shepherd, whose own the sheep are not, sees the wolf coming, and leavs the sheep, and fles: and the wolf catchs them, and scatters the sheep.
+12 But the one who is an hireling, and not the shepherd, whose own the sheep are not, sees the wolf coming, and leavs the sheep, and fles: and the wolf catchs them, and scatters the sheep.
 
 13 The hireling fles, because he is an hireling, and cars not for the sheep.
 
@@ -934,7 +934,7 @@
 
 20 And many of them said, He has a devil, and is mad; why hear you him?
 
-21 Others said, These are not the words of him that has a devil. Can a devil open the eyes of the blind?
+21 Others said, These are not the words of the one who has a devil. Can a devil open the eyes of the blind?
 
 22 And it was at Jerusalem the feast of the dedication, and it was winter.
 
@@ -992,7 +992,7 @@
 
 6 When he had heard therefore that he was sick, he stayed two days still in the same place where he was.
 
-7 Then after that says he to his disciples, Let us go into Judaea again.
+7 Then after that says he to his disciples, Let us go into Judea again.
 
 8 His disciples say to him, Master, the Jews of late sought to stone you; and go you there again?
 
@@ -1028,13 +1028,13 @@
 
 24 Martha says to him, I know that he will rise again in the resurrection at the last day.
 
-25 Jesus said to her, I am the resurrection, and the life: he that believes in me, though he were dead, yet will he live:
+25 Jesus said to her, I am the resurrection, and the life: the one who believes in me, though he were dead, yet will he live:
 
 26 And whosoever lives and believes in me will never die. Believ you this?
 
-27 She says to him, Yea, Lord: I believe that you are the Christ, the Son of God, which should come into the world.
+27 She says to him, yes, Lord: I believe that you are the Christ, the Son of God, which should come into the world.
 
-28 And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calls for you.
+28 And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master has come, and calls for you.
 
 29 As soon as she heard that, she arose quickly, and came to him.
 
@@ -1042,7 +1042,7 @@
 
 31 The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goes to the grave to weep there.
 
-32 Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying to him, Lord, if you had been here, my brother had not died.
+32 Then when Mary had come where Jesus was, and saw him, she fell down at his feet, saying to him, Lord, if you had been here, my brother had not died.
 
 33 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in His human spirit, and was troubled.
 
@@ -1056,17 +1056,17 @@
 
 38 Jesus therefore again groaning with indignation within Himself comes to the grave. It was a cave, and a stone lay upon it.
 
-39 Jesus said, Take you away the stone. Martha, the sister of him that was dead, says to him, Lord, by this time he stinks: for he has been dead four days.
+39 Jesus said, Take you away the stone. Martha, the sister of the one who was dead, says to him, Lord, by this time he stinks: for he has been dead four days.
 
 40 Jesus says to her, Said I not to you, that, if you would believe, you should see the glory of God?
 
 41 Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank you that you have heard me.
 
-42 And I knew that you hear me always: but because of the people which stand by I said it, that they may believe that you have sent me.
+42 And I knew that you hear me always: but because of the people who stand by I said it, that they may believe that you have sent me.
 
 43 And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.
 
-44 And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus says to them, Loose him, and let him go.
+44 And the one who was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus says to them, Loose him, and let him go.
 
 45 Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
 
@@ -1084,7 +1084,7 @@
 
 52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
-53 Then from that day forth they took counsel together for to put him to death.
+53 Then from that day forth they took counsel together to put him to death.
 
 54 Jesus therefore walked no more openly among the Jews; but went from there to a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
 
@@ -1098,7 +1098,7 @@
 
 1 Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, who he raised from the dead.
 
-2 There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.
+2 There they made him a supper; and Martha served: but Lazarus was one of those who sat at the table with him.
 
 3 Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.
 
@@ -1118,15 +1118,15 @@
 
 11 Because that by reason of him many of the Jews went away, and believed on Jesus.
 
-12 On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,
+12 On the next day much people that had come to the feast, when they heard that Jesus was coming to Jerusalem,
 
 13 Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that comes in the name of the Lord.
 
 14 And Jesus, when he had found a young ass, sat thereon; as it is written,
 
-15 Fear not, daughter of Sion: look, your King comes, sitting on an ass's colt.
+15 Fear not, daughter of Zion: look, your King comes, sitting on an ass's colt.
 
-16 These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things to him.
+16 These things understood not his disciples at the first: but when Jesus was glorified, then remembered those who these things were written of him, and that they had done these things to him.
 
 17 The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.
 
@@ -1134,17 +1134,17 @@
 
 19 The Pharisees therefore said among themselves, Perceive you how you prevail nothing? look, the world is gone after him.
 
-20 And there were certain Greeks among them that came up to worship at the feast:
+20 And there were certain Greeks among those who came up to worship at the feast:
 
 21 The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.
 
 22 Philip comes and tells Andrew: and again Andrew and Philip tell Jesus.
 
-23 And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.
+23 And Jesus answered them, saying, The hour has come, that the Son of man should be glorified.
 
 24 Truly, truly, I say to you, Except a corn of wheat fall into the ground and die, it abides alone: but if it die, it brings forth much fruit.
 
-25 He that loves his life will lose it; and he that hates his life in this world will keep it to life eternal.
+25 The one who loves his life will lose it; and the one who hates his life in this world will keep it to life eternal.
 
 26 If any man serve me, let him follow me; and where I am, there will also my servant be: if any man serve me, him will my Father honour.
 
@@ -1154,7 +1154,7 @@
 
 29 The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spoke to him.
 
-30 Jesus answered and said, This voice came not because of me, but for your sakes.
+30 Jesus answered, This voice came not because of me, but for your sakes.
 
 31 Now is the judgment of this world: now will the prince of this world be cast out.
 
@@ -1164,63 +1164,63 @@
 
 34 The people answered him, We have heard out of the law that Christ abides for ever: and how say you, The Son of man must be lifted up? who is this Son of man?
 
-35 Then Jesus said to them, Yet a little while is the light with you. Walk while you have the light, otherwise darkness come upon you: for he that walks in darkness knows not where he goes.
+35 Then Jesus said to them, Yet a little while is the light with you. Walk while you have the light, otherwise darkness come upon you: for the one who walks in darkness knows not where he goes.
 
 36 While you have light, believe in the light, that you may be the children of light. These things spoke Jesus, and departed, and did hide himself from them.
 
 37 But though he had done so many miracles before them, yet they believed not on him:
 
-38 That the saying of Esaias the prophet might be fulfilled, which he spoke, Lord, who has believed our report? and who has the arm of the Lord been revealed to?
+38 That the saying of Isaiah the prophet might be fulfilled, which he spoke, Lord, who has believed our report? and who has the arm of the Lord been revealed to?
 
-39 Therefore they could not believe, because that Esaias said again,
+39 Therefore they could not believe, because that Isaiah said again,
 
 40 He has blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.
 
-41 These things said Esaias, when he saw his glory, and spoke of him.
+41 These things said Isaiah, when he saw his glory, and spoke of him.
 
 42 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, otherwise they should be put out of the synagogue:
 
 43 For they loved the praise of men more than the praise of God.
 
-44 Jesus cried and said, He that believes on me, believes not on me, but on him that sent me.
+44 Jesus cried and said, The one who believes on me, believes not on me, but on the one who sent me.
 
-45 And he that sees me sees him that sent me.
+45 And the one who sees me sees the one who sent me.
 
 46 I am come a light into the world, that whosoever believes on me should not abide in darkness.
 
 47 And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
 
-48 He that rejects me, and receives not my words, has one that judges him: the word that I have spoken, the same will judge him in the last day.
+48 The one who rejects me, and receives not my words, has one that judges him: the word that I have spoken, the same will judge him in the last day.
 
-49 For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
+49 For I have not spoken of myself; but the Father who sent me, he gave me a commandment, what I should say, and what I should speak.
 
 50 And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said to me, so I speak.
 
 ## John Chapter 13
 
-1 Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world to the Father, having loved his own which were in the world, he loved them to the end.
+1 Now before the feast of the passover, when Jesus knew that his hour had come that he should depart out of this world to the Father, having loved his own which were in the world, he loved them to the end.
 
 2 And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him;
 
-3 Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;
+3 Jesus knowing that the Father had given all things into his hands, and that he had come from God, and went to God;
 
-4 He riss from supper, and laid aside his garments; and took a towel, and girded himself.
+4 He riss from supper, and laid aside his clothing; and took a towel, and girded himself.
 
 5 After that he pours water into a bason, and began to wash the disciples' feet, and to wipe them with the towel with what he was girded.
 
 6 Then comes he to Simon Peter: and Peter says to him, Lord, do you wash my feet?
 
-7 Jesus answered and said to him, What I do you know not now; but you will know from now on.
+7 Jesus answered him, What I do you know not now; but you will know from now on.
 
 8 Peter says to him, you will never wash my feet. Jesus answered him, If I wash you not, you have no part with me.
 
 9 Simon Peter says to him, Lord, not my feet only, but also my hands and my head.
 
-10 Jesus says to him, He that is washed needs not save to wash his feet, but is clean every whit: and you are clean, but not all.
+10 Jesus says to him, The one who is washed needs not save to wash his feet, but is clean every whit: and you are clean, but not all.
 
 11 For he knew who should betray him; therefore said he, you are not all clean.
 
-12 So after he had washed their feet, and had taken his garments, and was set down again, he said to them, Know you what I have done to you?
+12 So after he had washed their feet, and had taken his clothing, and sat down down again, he said to them, Know you what I have done to you?
 
 13 you call me Master and Lord: and you say well; for so I am.
 
@@ -1228,15 +1228,15 @@
 
 15 For I have given you an example, that you should do as I have done to you.
 
-16 Truly, truly, I say to you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.
+16 Truly, truly, I say to you, The servant is not greater than his lord; neither the one who is sent greater than the one who sent him.
 
 17 If you know these things, happy are you if you do them.
 
-18 I speak not of you all: I know who I have chosen: but that the scripture may be fulfilled, He that eats bread with me has lifted up his heel against me.
+18 I speak not of you all: I know who I have chosen: but that the scripture may be fulfilled, The one who eats bread with me has lifted up his heel against me.
 
-19 Now I tell you before it come, that, when it is come to pass, you may believe that I am he.
+19 Now I tell you before it come, that, when it has come to pass, you may believe that I am he.
 
-20 Truly, truly, I say to you, He that receives whoever I send receives me; and he that receives me receives him that sent me.
+20 Truly, truly, I say to you, The one who receives whoever I send receives me; and the one who receives me receives the one who sent me.
 
 21 When Jesus had thus said, he was troubled in spirit, and testified, and said, Truly, truly, I say to you, that one of you will betray me.
 
@@ -1292,13 +1292,13 @@
 
 8 Philip says to him, Lord, show us the Father, and it suffics us.
 
-9 Jesus says to him, Have I been so long time with you, and yet have you not known me, Philip? he that has seen me has seen the Father; and how say you then, Show us the Father?
+9 Jesus says to him, Have I been so long time with you, and yet have you not known me, Philip? the one who has seen me has seen the Father; and how say you then, Show us the Father?
 
-10 Believ you not that I am in the Father, and the Father in me? the words that I speak to you I speak not of myself: but the Father that dwells in me, he does the works.
+10 Believ you not that I am in the Father, and the Father in me? the words that I speak to you I speak not of myself: but the Father that lives in me, he does the works.
 
 11 Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.
 
-12 Truly, truly, I say to you, He that believes on me, the works that I do will he do also; and greater works than these will he do; because I go to my Father.
+12 Truly, truly, I say to you, The one who believes on me, the works that I do will he do also; and greater works than these will he do; because I go to my Father.
 
 13 And whatsoever you will ask in my name, that will I do, that the Father may be glorified in the Son.
 
@@ -1308,7 +1308,7 @@
 
 16 And I will pray the Father, and he will give you another Helper (Advocate), that he may abide with you for ever;
 
-17 Even the Holy Spirit of truth; who the world cannot receive, because it sees him not, neither knows him: but you know him; for he dwells with you, and will be in you.
+17 Even the Holy Spirit of truth; who the world cannot receive, because it sees him not, neither knows him: but you know him; for he lives with you, and will be in you.
 
 18 I will not leave you comfortless: I will come to you.
 
@@ -1316,13 +1316,13 @@
 
 20 At that day you will know that I am in my Father, and you in me, and I in you.
 
-21 He that has my commandments, and keeps them, he it is that loves me: and he that loves me will be loved of my Father, and I will love him, and will manifest myself to him.
+21 The one who has my commandments, and keeps them, he it is that loves me: and the one who loves me will be loved of my Father, and I will love him, and will manifest myself to him.
 
 22 Judas says to him, not Iscariot, Lord, how is it that you will manifest yourself to us, and not to the world?
 
-23 Jesus answered and said to him, If a man love me, he will keep my words: and my Father will love him, and we will come to him, and make our stayed with him.
+23 Jesus answered him, If a man love me, he will keep my words: and my Father will love him, and we will come to him, and make our stayed with him.
 
-24 He that loves me not keeps not my sayings: and the word which you hear is not mine, but the Father's which sent me.
+24 The one who loves me not keeps not my sayings: and the word which you hear is not mine, but the Father's which sent me.
 
 25 These things have I spoken to you, being yet present with you.
 
@@ -1332,7 +1332,7 @@
 
 28 you have heard how I said to you, I go away, and come again to you. If you loved me, you would rejoice, because I said, I go to the Father: for my Father is greater than I.
 
-29 And now I have told you before it come to pass, that, when it is come to pass, you might believe.
+29 And now I have told you before it come to pass, that, when it has come to pass, you might believe.
 
 30 From now on I will not talk much with you: for the prince of this world comes, and has nothing in me.
 
@@ -1348,7 +1348,7 @@
 
 4 Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can you, except you abide in me.
 
-5 I am the vine, you are the branches: He that abides in me, and I in him, the same brings forth much fruit: for without me you can do nothing.
+5 I am the vine, you are the branches: The one who abides in me, and I in him, the same brings forth much fruit: for without me you can do nothing.
 
 6 If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.
 
@@ -1368,7 +1368,7 @@
 
 14 you are my friends, if you do whatsoever I command you.
 
-15 From now on I call you not servants; for the servant knows not what his lord does: but I have called you friends; for all things that I have heard of my Father I have made known to you.
+15 From now on I call you not servants; for the servant knows not what his lord does: but I have called you friends; for all things that I have heard by my Father I have made known to you.
 
 16 you have not chosen me, but I have chosen you, and ordained you, that you should go and bring forth fruit, and that your fruit should remain: that whatsoever you will ask of the Father in my name, he may give it you.
 
@@ -1380,17 +1380,17 @@
 
 20 Remember the word that I said to you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 
-21 But all these things will they do to you for my name's sake, because they know not him that sent me.
+21 But all these things will they do to you for my name's sake, because they know not the one who sent me.
 
 22 If I had not come and spoken to them, they had not had sin: but now they have no cloak for their sin.
 
-23 He that hates me hates my Father also.
+23 The one who hates me hates my Father also.
 
 24 If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.
 
 25 But this comes to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.
 
-26 But when the Helper (Advocate) is come, who I will send to you from the Father, even the Holy Spirit of truth, which proceeds from the Father, he will testify of me:
+26 But when the Helper (Advocate) has come, who I will send to you from the Father, even the Holy Spirit of truth, which proceeds from the Father, he will testify of me:
 
 27 And you also will bear witness, because you have been with me from the beginning.
 
@@ -1398,19 +1398,19 @@
 
 1 These things have I spoken to you, that you should not be offended.
 
-2 They will put you out of the synagogues: yea, the time comes, that whosoever kills you will think that he does God service.
+2 They will put you out of the synagogues: yes, the time comes, that whosoever kills you will think that he does God service.
 
 3 And these things will they do to you, because they have not known the Father, nor me.
 
 4 But these things have I told you, that when the time will come, you may remember that I told you of them. And these things I said not to you at the beginning, because I was with you.
 
-5 But now I go my way to him that sent me; and none of you asks me, Where go you?
+5 But now I go my way to the one who sent me; and none of you asks me, Where go you?
 
 6 But because I have said these things to you, sorrow has filled your heart.
 
 7 Nevertheless I tell you the truth; It is beneficial for you that I go away: for if I go not away, the Helper (Advocate) will not come to you; but if I depart, I will send him to you.
 
-8 And when he is come, he will correct the world of sin, and of righteousness, and of judgment:
+8 And when he has come, he will correct the world of sin, and of righteousness, and of judgment:
 
 9 Of sin, because they believe not on me;
 
@@ -1420,7 +1420,7 @@
 
 12 I have yet many things to say to you, but you cannot bear them now.
 
-13 However when he, the Holy Spirit of truth, is come, he will guide you into all truth: for he will not speak of himself; but whatsoever he will hear, that will he speak: and he will show you things to come.
+13 However when he, the Holy Spirit of truth, has come, he will guide you into all truth: for he will not speak of himself; but whatsoever he will hear, that will he speak: and he will show you things to come.
 
 14 He will glorify me: for he will receive of mine, and will show it to you.
 
@@ -1436,7 +1436,7 @@
 
 20 Truly, truly, I say to you, That you will weep and mourn, but the world will rejoice: and you will be sorrowful, but your sorrow will be turned into joy.
 
-21 A woman when she is in labor has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
+21 A woman when she is in labor has sorrow, because her hour has come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
 
 22 And you now therefore have sorrow: but I will see you again, and your heart will rejoice, and your joy no man takes from you.
 
@@ -1458,13 +1458,13 @@
 
 31 Jesus answered them, Do you now believe?
 
-32 Look, the hour comes, yea, is now come, that you will be scattered, every man to his own, and will leave me alone: and yet I am not alone, because the Father is with me.
+32 Look, the hour comes, yes, is now come, that you will be scattered, every man to his own, and will leave me alone: and yet I am not alone, because the Father is with me.
 
 33 These things I have spoken to you, that in me you might have peace. In the world you will have suffering: but be of good cheer; I have overcome the world.
 
 ## John Chapter 17
 
-1 These words spoke Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify your Son, that your Son also may glorify you:
+1 These words spoke Jesus, and lifted up his eyes to heaven, and said, Father, the hour has come; glorify your Son, that your Son also may glorify you:
 
 2 As you have given him power over all flesh, that he should give eternal life to as many as you have given him.
 
@@ -1474,13 +1474,13 @@
 
 5 And now, O Father, glorify you me with your own self with the glory which I had with you before the world was.
 
-6 I have manifested your name to the men which you gav me out of the world: your they were, and you gav them me; and they have kept your word.
+6 I have manifested your name to the men who you gav me out of the world: your they were, and you gav them me; and they have kept your word.
 
 7 Now they have known that all things whatsoever you have given me are of you.
 
 8 For I have given to them the words which you gav me; and they have received them, and have known surely that I came out from you, and they have believed that you did send me.
 
-9 I pray for them: I pray not for the world, but for them which you have given me; for they are your.
+9 I pray for them: I pray not for the world, but for those who you have given me; for they are your.
 
 10 And all mine are your, and your are mine; and I am glorified in them.
 
@@ -1526,15 +1526,15 @@
 
 4 Jesus therefore, knowing all things that should come upon him, went forth, and said to them, who seek you?
 
-5 They answered him, Jesus of Nazars. Jesus says to them, I am he. And Judas also, which betrayed him, stood with them.
+5 They answered him, Jesus of Nazareth. Jesus says to them, I am he. And Judas also, which betrayed him, stood with them.
 
 6 As soon then as he had said to them, I am he, they went backward, and fell to the ground.
 
-7 Then asked he them again, who seek you? And they said, Jesus of Nazars.
+7 Then asked he them again, who seek you? And they said, Jesus of Nazareth.
 
 8 Jesus answered, I have told you that I am he: if therefore you seek me, let these go their way:
 
-9 That the saying might be fulfilled, which he spoke, Of them which you gav me have I lost none.
+9 That the saying might be fulfilled, which he spoke, Of those who you gav me have I lost none.
 
 10 Then Simon Peter having a sword drew it, and struck the high priest's servant, and cut off his right ear. The servant's name was Malchus.
 
@@ -1548,7 +1548,7 @@
 
 15 And Simon Peter followed Jesus, and so did another disciple: that disciple was known to the high priest, and went in with Jesus into the palace of the high priest.
 
-16 But Peter stood at the door without. Then went out that other disciple, which was known to the high priest, and spoke to her that kept the door, and brought in Peter.
+16 But Peter stood at the door without. Then went out that other disciple, which was known to the high priest, and spoke to her who kept the door, and brought in Peter.
 
 17 Then says the young woman that kept the door to Peter, are not you also one of this man's disciples? He says, I am not.
 
@@ -1558,7 +1558,7 @@
 
 20 Jesus answered him, I spoke openly to the world; I ever taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing.
 
-21 Why ask you me? ask them which heard me, what I have said to them: look, they know what I said.
+21 Why ask you me? ask those who heard me, what I have said to them: look, they know what I said.
 
 22 And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answer you the high priest so?
 
@@ -1576,7 +1576,7 @@
 
 29 Pilate then went out to them, and said, What accusation bring you against this man?
 
-30 They answered and said to him, If he were not a malefactor, we would not have delivered him up to you.
+30 They answered him, If he were not a malefactor, we would not have delivered him up to you.
 
 31 Then said Pilate to them, Take you him, and judge him according to your law. The Jews therefore said to him, It is not lawful for us to put any man to death:
 
@@ -1620,7 +1620,7 @@
 
 10 Then says Pilate to him, Speak you not to me? know you not that I have power to crucify you, and have power to release you?
 
-11 Jesus answered, you could have no power at all against me, except it were given you from above: therefore he that delivered me to you has the greater sin.
+11 Jesus answered, you could have no power at all against me, except it were given you from above: therefore the one who delivered me to you has the greater sin.
 
 12 And from then on Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you are not Caesar's friend: whosoever makes himself a king speaks against Caesar.
 
@@ -1636,7 +1636,7 @@
 
 18 Where they crucified him, and two other with him, on either side one, and Jesus in the midst.
 
-19 And Pilate wrote a title, and put it on the cross. And the writing was Jesus Of Nazars The King Of The Jews.
+19 And Pilate wrote a title, and put it on the cross. And the writing was Jesus Of Nazareth The King Of The Jews.
 
 20 This title then read many of the Jews: for the place where Jesus was crucified was near to the city: and it was written in Hebrew, and Greek, and Latin.
 
@@ -1644,7 +1644,7 @@
 
 22 Pilate answered, What I have written I have written.
 
-23 Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
+23 Then the soldiers, when they had crucified Jesus, took his clothing, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
 
 24 They said therefore among themselves, Let us not rend it, but cast lots for it, whose it will be: that the scripture might be fulfilled, which says, They parted my clothing among them, and for my robe they did cast lots. These things therefore the soldiers did.
 
@@ -1656,7 +1656,7 @@
 
 28 After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, says, I thirst.
 
-29 Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
+29 Now there sat down a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
 
 30 When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the Holy Spirit.
 
@@ -1668,7 +1668,7 @@
 
 34 But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.
 
-35 And he that saw it bare record, and his record is true: and he knows that he says true, that you might believe.
+35 And the one who saw it bare record, and his record is true: and he knows that he says true, that you might believe.
 
 36 For these things were done, that the scripture should be fulfilled, A bone of him will not be broken.
 
@@ -1740,9 +1740,9 @@
 
 27 Then says he to Thomas, Reach here your finger, and look at my hands; and reach here your hand, and thrust it into my side: and be not faithless, but believing.
 
-28 And Thomas answered and said to him, My Lord and my God.
+28 And Thomas answered him, My Lord and my God.
 
-29 Jesus says to him, Thomas, because you have seen me, you have believed: blessed are they that have not seen, and yet have believed.
+29 Jesus says to him, Thomas, because you have seen me, you have believed: blessed are those who have not seen, and yet have believed.
 
 30 And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
 
@@ -1758,7 +1758,7 @@
 
 4 But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.
 
-5 Then Jesus says to them, Children, have you any meat? They answered him, No.
+5 Then Jesus says to them, Children, have you any food? They answered him, No.
 
 6 And he said to them, Cast the net on the right side of the ship, and you will find. They cast therefore, and now they were not able to draw it for the multitude of fishes.
 
@@ -1766,7 +1766,7 @@
 
 8 And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes.
 
-9 As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread.
+9 As soon then as they had come to land, they saw a fire of coals there, and fish laid thereon, and bread.
 
 10 Jesus says to them, Bring of the fish which you have now caught.
 
@@ -1778,17 +1778,17 @@
 
 14 This is now the third time that Jesus showed himself to his disciples, after that he was risen from the dead.
 
-15 So when they had dined, Jesus says to Simon Peter, Simon, son of Jonas, lov you me more than these? He says to him, Yea, Lord; you know that I love you. He says to him, Feed my lambs.
+15 So when they had dined, Jesus says to Simon Peter, Simon, son of Jonah, lov you me more than these? He says to him, yes, Lord; you know that I love you. He says to him, Feed my lambs.
 
-16 He says to him again the second time, Simon, son of Jonas, lov you me? He says to him, Yea, Lord; you know that I love you. He says to him, Feed my sheep.
+16 He says to him again the second time, Simon, son of Jonah, lov you me? He says to him, yes, Lord; you know that I love you. He says to him, Feed my sheep.
 
-17 He says to him the third time, Simon, son of Jonas, lov you me? Peter was grieved because he said to him the third time, Lov you me? And he said to him, Lord, you know all things; you know that I love you. Jesus says to him, Feed my sheep.
+17 He says to him the third time, Simon, son of Jonah, lov you me? Peter was grieved because he said to him the third time, Lov you me? And he said to him, Lord, you know all things; you know that I love you. Jesus says to him, Feed my sheep.
 
 18 Truly, truly, I say to you, When you were young, you gird yourself, and walked where you would: but when you will be old, you will stretch forth your hands, and another will gird you, and carry you where you would not.
 
 19 This spoke he, signifying by what death he should glorify God. And when he had spoken this, he says to him, Follow me.
 
-20 Then Peter, turning about, sees the disciple who Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrays you?
+20 Then Peter, turning about, sees the disciple who Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is the one who betrays you?
 
 21 Peter seeing him says to Jesus, Lord, and what will this man do?
 
