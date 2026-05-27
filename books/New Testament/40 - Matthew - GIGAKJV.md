@@ -60,7 +60,7 @@
 
 3 When King Herod heard these things, he was deeply troubled, and all of Jerusalem with him.
 
-4 And when he had gathered all the chief priests and teachers of the law together, he inquired of them where the Christ was to be born.
+4 And when he had gathered all the chief priests and teachers of the law together, he demanded of them where the Christ was to be born.
 
 5 They answered him, In Bethlehem of Judea: for this is what was written by the prophet,
 
